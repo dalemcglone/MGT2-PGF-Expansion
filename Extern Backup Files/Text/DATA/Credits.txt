@@ -1,0 +1,54 @@
+﻿<b><size=20>MAD GAMES TYCOON 2</size></b>
+Eggcode Games
+
+<b>DEVELOPMENT</b>
+Stefan Pohl
+
+<b>SOUNDS & MUSIC</b>
+Audiohub
+Unity Assets
+
+<b>QUALITY ASSURANCE</b>
+Martin Barth & Patrick Lehmann
+
+<b>ENGINE</b>
+Unity
+www.unity.com
+
+<b>ADDITIONAL GRAPHICS</b>
+openclipart.org
+opengameart.org
+Unity Asset Store
+
+<b>TRANSLATION</b>
+Woytman Lavrinčík
+Péter Jancsik
+Maurício Laudissi
+Isacovici Alexandru
+Igor Lacerda Pires
+Victor Hugo Jiménez Torres
+Pun Redfield
+Jesustb Torres
+David "i'Mena" Menagro
+Vladyslav "Yavoroshko" Yavorskyi
+Milka Martinez & Cristian A. Duran
+Nihat Can Kabataş & Burak Ay
+Halil Kapağan & Mertcan Alsat
+Haggani Mohammed Wassim & Malo World
+Games Gal
+Blackovskyy
+PaTryk_Gracz0l
+pow4h
+Piolodiusz
+MrDzDm & Sillah
+Tanfus, fizzrocks, Astata, Cabare & Geekphenix
+Илья Курыгин "GS Games"
+
+<b>SPECIAL THANKS</b>
+Michaela Tischmacher & Armida Accossu
+Tanja Westermann & Martina Barth
+Rene Otto & Hermann Sukkau
+Amy, Loki, Ella & Mailo
+
+www.eggcodegames.com
+©2020 Eggcode Games

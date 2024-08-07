@@ -1,0 +1,80 @@
+﻿Optimize graphics engine<0>
+Program an audio system<0>
+Develop a level editor<0>
+Optimize game physics<0>
+Write scripts for quests<0>
+Optimize enemy AI<0>
+Optimize loading times<0>
+Program a memory system<0>
+Create user interface<0>
+Program a database system<0>
+Program a game prototype<0>
+Develop a localization tool<0>
+Develop diagnostic tool<0>
+Compress game assets<0>
+Program a dialog system<0>
+Develop a collision system<0>
+Program a File Browser<0>
+Program a level loader<0>
+Program an input manager<0>
+Program a sprite manager<0>
+Develop debug controller<0>
+Program an event manager<0>
+Develop an animation system<0>
+Develop a sprite editor<0>
+Develop drivers<0>
+Implement copy protection<0>
+Optimize a control system<1>
+Work on level design<1>
+General bug testing<1>
+Test out quests<1>
+Create a game concept<1>
+Test hardware compatibility<1>
+Test game stability<1>
+Analyze game performance<1>
+Test game updates<1>
+Optimize game balance<1>
+Test Plug-Ins<1>
+Analyze a prototype<1>
+Test a user interface<1>
+Create a storyboard<1>
+Write new dialogue<1>
+Create character sprites<2>
+Draw backgrounds<2>
+Draw items<2>
+Draw user interface<2>
+Create concept graphics<2>
+Draw environment objects<2>
+Create special effects<2>
+Draw cover image<2>
+Create Level Tileset<2>
+Design fonts<2>
+Animate characters<2>
+Creating a soundtrack<3>
+Create Character Sounds<3>
+Record sounds of weapons<3>
+Create user interface sounds<3>
+Create dynamic sounds<3>
+Create Ambience Sounds<3>
+Create Magic Sounds<3>
+Record animal noises<3>
+Create engine noises<3>
+Record classical music<3>
+Create robot sounds<3>
+Mixing explosion sounds<3>
+Record basic movements<4>
+Record martial arts animation<4>
+Create Cutscene animations<4>
+Create animal animations<4>
+Record swordplay animation<4>
+Create animations for monsters<4>
+Create dance animations<4>
+Record soccer players<4>
+Create emote animations<4>
+Record robot animations<4>
+Repair consoles<7>
+Design console prototype<7>
+Diagnose console prototype<7>
+Revise console mainboard<7>
+Performance test a prototype<7>
+Optimize cooling system<7>

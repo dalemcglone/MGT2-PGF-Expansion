@@ -1,0 +1,894 @@
+﻿////							 	NPC ENGINES 								  ////
+// Parameters:                                                                      //
+//                                                                         			//
+// [ID]int 					= The ID of the object.                                 //
+// [NAME (LANG)]string 		= The name of the engine in the respective language.   	//
+// [DATE](MONTH) (YEAR) 	= The date when the engine is available.     			//
+// [GENRE](ID)				= The specialized genre.         						//
+// [PLATFORM](ID)			= The specialized platform.      						//
+// [PRICE]int				= How much the engine costs.                 			//
+// [SHARE]int				= Profit sharing.       								//
+//                                                                                  //
+//////////////////////////////////////////////////////////////////////////////////////
+
+[ID]0
+[NAME EN]Without Engine
+[NAME GE]Ohne Engine
+[NAME CH]没有引擎
+[NAME TU]Motorsuz
+[NAME FR]Sans moteur
+[NAME HU]Játékmotor nélkül
+[NAME CT]沒有引擎
+[NAME CZ]Žádný Engine
+[NAME PB]Sem Engine
+[NAME IT]Senza motore
+[NAME JA]エンジン無し
+[NAME PL]Bez Silnika
+[NAME UA]Без рушія
+[NAME TH]ไม่ใช้เอนจิน
+[NAME RU]Базовый движок
+[DATE]JAN 1976
+[GENRE]-1
+[PLATFORM]-1
+[PRICE]0
+[SHARE]0
+
+[ID]1
+[NAME EN]Adventure Game Engine
+[NAME GE]Adventure Game Engine
+[NAME CH]冒险家引擎
+[NAME TU]Adventure Game Engine
+[NAME FR]Adventure Game Engine
+[NAME HU]Adventure Game Engine
+[NAME CT]冒險遊戲引擎
+[NAME CZ]Adventure Game Engine
+[NAME PB]Adventure Game Engine
+[NAME IT]Motore di gioco avventura
+[NAME PL]Adventure Game Engine
+[NAME JA]アドベンチャーゲームエンジン
+[NAME UA]Adventure Game Engine
+[NAME TH]Adventure Game Engine
+[NAME RU]Adventure Game Engine
+[DATE]MAR 1977
+[GENRE]2
+[PLATFORM]49
+[PRICE]5000
+[SHARE]5
+
+[ID]2
+[NAME EN]Adventure Game Engine II
+[NAME GE]Adventure Game Engine II
+[NAME CH]冒险家引擎 II            
+[NAME TU]Adventure Game Engine II
+[NAME FR]Adventure Game Engine II
+[NAME HU]Adventure Game Engine II
+[NAME CT]冒險遊戲引擎 II
+[NAME CZ]Adventure Game Engine II
+[NAME PB]Adventure Game Engine II
+[NAME IT]Motore di gioco avventura 2
+[NAME JA]アドベンチャーゲームエンジンII
+[NAME PL]Adventure Game Engine II
+[NAME UA]Adventure Game Engine II
+[NAME TH]Adventure Game Engine II
+[NAME RU]Adventure Game Engine II
+[DATE]NOV 1977
+[GENRE]2
+[PLATFORM]49
+[PRICE]10000
+[SHARE]6
+
+[ID]3
+[NAME EN]SYS-Creative Engine
+[NAME GE]SYS-Creative Engine
+[NAME CH]梦境引擎
+[NAME TU]SYS-Creative Engine
+[NAME FR]SYS-Creative Engine
+[NAME HU]SYS-Creative Engine
+[NAME CT]SYS-創造引擎
+[NAME CZ]SYS-Creative Engine
+[NAME PB]SYS-Creative Engine
+[NAME IT]SYS-Creative Engine
+[NAME JA]SYSクリエイティブエンジン
+[NAME PL]SYS-Creative Engine
+[NAME UA]SYS-Creative Engine
+[NAME TH]SYS-Creative Engine
+[NAME RU]SYS-Creative Engine
+[DATE]JAN 1979
+[GENRE]0
+[PLATFORM]80
+[PRICE]15000
+[SHARE]5
+
+[ID]4
+[NAME EN]SYS-Creative Engine 2.0
+[NAME GE]SYS-Creative Engine 2.0
+[NAME CH]梦境引擎 2.0
+[NAME TU]SYS-Creative Engine 2.0
+[NAME FR]SYS-Creative Engine 2.0
+[NAME HU]SYS-Creative Engine 2.0
+[NAME CT]SYS-創造引擎2.0
+[NAME CZ]SYS-Creative Engine 2.0
+[NAME PB]SYS-Creative Engine 2.0
+[NAME IT]SYS-Creative Engine 2.0
+[NAME JA]SYSクリエイティブエンジン2.0
+[NAME PL]SYS-Creative Engine 2.0
+[NAME UA]SYS-Creative Engine 2.0
+[NAME TH]SYS-Creative Engine 2.0
+[NAME RU]SYS-Creative Engine 2.0
+[DATE]JUL 1980
+[GENRE]0
+[PLATFORM]80
+[PRICE]20000
+[SHARE]6
+
+[ID]5
+[NAME EN]SYS-Creative Engine 3.0
+[NAME GE]SYS-Creative Engine 3.0
+[NAME CH]梦境引擎 3.0
+[NAME TU]SYS-Creative Engine 3.0
+[NAME FR]SYS-Creative Engine 3.0
+[NAME HU]SYS-Creative Engine 3.0
+[NAME CT]SYS-創造引擎3.0
+[NAME CZ]SYS-Creative Engine 3.0
+[NAME PB]SYS-Creative Engine 3.0
+[NAME IT]SYS-Creative Engine 3.0
+[NAME JA]SYSクリエイティブエンジン3.0
+[NAME PL]SYS-Creative Engine 3.0
+[NAME UA]SYS-Creative Engine 3.0
+[NAME TH]SYS-Creative Engine 3.0
+[NAME RU]SYS-Creative Engine 3.0
+[DATE]OCT 1981
+[GENRE]0
+[PLATFORM]80
+[PRICE]25000
+[SHARE]7
+
+[ID]6
+[NAME EN]X-Work Engine
+[NAME GE]X-Work Engine
+[NAME CH]绝迹引擎
+[NAME TU]X-Work Engine
+[NAME FR]X-Work Engine
+[NAME HU]X-Work Engine
+[NAME CT]X-Work引擎
+[NAME CZ]X-Work Engine
+[NAME PB]X-Work Engine
+[NAME IT]X-Work Engine
+[NAME JA]Xワークエンジン
+[NAME PL]X-Work Engine
+[NAME UA]X-Work Engine
+[NAME TH]X-Work Engine
+[NAME RU]X-Work Engine
+[DATE]AUG 1983
+[GENRE]3
+[PLATFORM]6
+[PRICE]30000
+[SHARE]3
+
+[ID]7
+[NAME EN]X-Work Engine 2
+[NAME GE]X-Work Engine 2
+[NAME CH]绝迹引擎 2
+[NAME TU]X-Work Engine 2
+[NAME FR]X-Work Engine 2
+[NAME HU]X-Work Engine 2
+[NAME CT]X-Work引擎 2
+[NAME CZ]X-Work Engine 2
+[NAME PB]X-Work Engine 2
+[NAME IT]X-Work Engine 2
+[NAME JA]Xワークエンジン2
+[NAME PL]X-Work Engine 2
+[NAME UA]X-Work Engine 2
+[NAME TH]X-Work Engine 2
+[NAME RU]X-Work Engine 2
+[DATE]SEP 1984
+[GENRE]3
+[PLATFORM]15
+[PRICE]35000
+[SHARE]4
+
+[ID]8
+[NAME EN]X-Work Engine 3
+[NAME GE]X-Work Engine 3
+[NAME CH]绝迹引擎 3
+[NAME TU]X-Work Engine 3
+[NAME FR]X-Work Engine 3
+[NAME HU]X-Work Engine 3
+[NAME CT]X-Work引擎 3
+[NAME CZ]X-Work Engine 3
+[NAME PB]X-Work Engine 3
+[NAME IT]X-Work Engine 3
+[NAME JA]Xワークエンジン3
+[NAME PL]X-Work Engine 3
+[NAME UA]X-Work Engine 3
+[NAME TH]X-Work Engine 3
+[NAME RU]X-Work Engine 3
+[DATE]JUN 1985
+[GENRE]3
+[PLATFORM]48
+[PRICE]40000
+[SHARE]5
+
+[ID]9
+[NAME EN]Strategy Builder
+[NAME GE]Strategy Builder
+[NAME CH]战略家引擎
+[NAME TU]Strategy Builder
+[NAME FR]Strategy Builder
+[NAME HU]Strategy Builder
+[NAME CT]策略引擎
+[NAME CZ]Strategy Builder
+[NAME PB]Strategy Builder
+[NAME IT]Costruzione Strategica
+[NAME JA]ストラテジービルダー
+[NAME PL]Strategy Builder
+[NAME UA]Strategy Builder
+[NAME TH]Strategy Builder
+[NAME RU]Strategy Builder
+[DATE]DEC 1987
+[GENRE]4
+[PLATFORM]1
+[PRICE]45000
+[SHARE]6
+
+[ID]10
+[NAME EN]Action Creator 1.0
+[NAME GE]Action Creator 1.0
+[NAME CH]战略家引擎 1.0
+[NAME TU]Action Creator 1.0
+[NAME FR]Action Creator 1.0
+[NAME HU]Action Creator 1.0
+[NAME CT]動作製造家 1.0
+[NAME CZ]Action Creator 1.0
+[NAME PB]Action Creator 1.0
+[NAME IT]Creatore di Azione 1.0
+[NAME JA]アクションクリエイター1.0
+[NAME PL]Action Creator 1.0
+[NAME UA]Action Creator 1.0
+[NAME TH]Action Creator 1.0
+[NAME RU]Action Creator 1.0
+[DATE]OCT 1988
+[GENRE]5
+[PLATFORM]1
+[PRICE]50000
+[SHARE]6
+
+[ID]11
+[NAME EN]Action Creator 2.0
+[NAME GE]Action Creator 2.0
+[NAME CH]战略家引擎 2.0
+[NAME TU]Action Creator 2.0
+[NAME FR]Action Creator 2.0
+[NAME HU]Action Creator 2.0
+[NAME CT]動作製造家 2.0
+[NAME CZ]Action Creator 2.0
+[NAME PB]Action Creator 2.0
+[NAME IT]Creatore di Azione 2.0
+[NAME JA]アクションクリエイター2.0
+[NAME PL]Action Creator 2.0
+[NAME UA]Action Creator 2.0
+[NAME TH]Action Creator 2.0
+[NAME RU]Action Creator 2.0
+[DATE]JUL 1990
+[GENRE]5
+[PLATFORM]13
+[PRICE]55000
+[SHARE]8
+
+[ID]12
+[NAME EN]Sim-Space Engine I
+[NAME GE]Sim-Space Engine I
+[NAME CH]极客引擎         I
+[NAME TU]Sim-Space Engine I
+[NAME FR]Sim-Space Engine I
+[NAME HU]Sim-Space Engine I
+[NAME CT]模擬空間引擎 I
+[NAME CZ]Sim-Space Engine I
+[NAME PB]Sim-Space Engine I
+[NAME IT]Motore Sim-Space 1
+[NAME JA]シムスペースエンジンI
+[NAME PL]Sim-Space Engine I
+[NAME UA]Sim-Space Engine I
+[NAME TH]Sim-Space Engine I
+[NAME RU]Sim-Space Engine I
+[DATE]APR 1991
+[GENRE]7
+[PLATFORM]25
+[PRICE]60000
+[SHARE]10
+
+[ID]13
+[NAME EN]Sim-Space Engine II
+[NAME GE]Sim-Space Engine II
+[NAME CH]极客引擎         II
+[NAME TU]Sim-Space Engine II
+[NAME FR]Sim-Space Engine II
+[NAME HU]Sim-Space Engine II
+[NAME CT]模擬空間引擎 II
+[NAME CZ]Sim-Space Engine II
+[NAME PB]Sim-Space Engine II
+[NAME IT]Motore Sim-Space 2
+[NAME JA]シムスペースエンジンII
+[NAME PL]Sim-Space Engine II
+[NAME UA]Sim-Space Engine II
+[NAME TH]Sim-Space Engine II
+[NAME RU]Sim-Space Engine II
+[DATE]DEC 1992
+[GENRE]7
+[PLATFORM]17
+[PRICE]65000
+[SHARE]7
+
+[ID]14
+[NAME EN]3D Build Studio 1.0
+[NAME GE]3D Build Studio 1.0
+[NAME CH]三维数码引擎    1.0
+[NAME TU]3D Build Studio 1.0
+[NAME FR]3D Build Studio 1.0
+[NAME HU]3D Build Studio 1.0
+[NAME CT]立體建築 1.0
+[NAME CZ]3D Build Studio 1.0
+[NAME PB]3D Build Studio 1.0
+[NAME IT]3D Build Studio 1.0
+[NAME JA]3Dビルドスタジオ1.0
+[NAME PL]3D Build Studio 1.0
+[NAME UA]3D Build Studio 1.0
+[NAME TH]3D Build Studio 1.0
+[NAME RU]3D Build Studio 1.0
+[DATE]DEC 1994
+[GENRE]14
+[PLATFORM]17
+[PRICE]70000
+[SHARE]5
+
+[ID]15
+[NAME EN]3D Build Studio 2.0
+[NAME GE]3D Build Studio 2.0
+[NAME CH]三维数码引擎    2.0
+[NAME TU]3D Build Studio 2.0
+[NAME FR]3D Build Studio 2.0
+[NAME HU]3D Build Studio 2.0
+[NAME CT]立體建築 2.0
+[NAME CZ]3D Build Studio 2.0
+[NAME PB]3D Build Studio 2.0
+[NAME IT]3D Build Studio 2.0
+[NAME JA]3Dビルドスタジオ2.0
+[NAME PL]3D Build Studio 2.0
+[NAME UA]3D Build Studio 2.0
+[NAME TH]3D Build Studio 2.0
+[NAME RU]3D Build Studio 2.0
+[DATE]JUL 1996
+[GENRE]14
+[PLATFORM]17
+[PRICE]75000
+[SHARE]6
+
+[ID]16
+[NAME EN]3D Build Studio 3.0
+[NAME GE]3D Build Studio 3.0
+[NAME CH]三维数码引擎    3.0
+[NAME TU]3D Build Studio 3.0
+[NAME FR]3D Build Studio 3.0
+[NAME HU]3D Build Studio 3.0
+[NAME CT]立體建築 3.0
+[NAME CZ]3D Build Studio 3.0
+[NAME PB]3D Build Studio 3.0
+[NAME IT]3D Build Studio 3.0
+[NAME JA]3Dビルドスタジオ3.0
+[NAME PL]3D Build Studio 3.0
+[NAME UA]3D Build Studio 3.0
+[NAME TH]3D Build Studio 3.0
+[NAME RU]3D Build Studio 3.0
+[DATE]SEP 1997
+[GENRE]14
+[PLATFORM]17
+[PRICE]80000
+[SHARE]7
+
+[ID]17
+[NAME EN]JnR-Engine 1.0
+[NAME GE]JnR-Engine 1.0
+[NAME CH]红炎引擎 1.0
+[NAME TU]JnR-Engine 1.0
+[NAME FR]JnR-Engine 1.0
+[NAME HU]JnR-Engine 1.0
+[NAME CT]JnR引擎 1.0
+[NAME CZ]JnR-Engine 1.0
+[NAME PB]JnR-Engine 1.0
+[NAME IT]JnR-Engine 1.0
+[NAME JA]JnRエンジン1.0
+[NAME PL]JnR-Engine 1.0
+[NAME UA]JnR-Engine 1.0
+[NAME TH]JnR-Engine 1.0
+[NAME RU]JnR-Engine 1.0
+[DATE]DEC 1998
+[GENRE]6
+[PLATFORM]18
+[PRICE]85000
+[SHARE]5
+
+[ID]18
+[NAME EN]JnR-Engine 2.0
+[NAME GE]JnR-Engine 2.0
+[NAME CH]红炎引擎 2.0
+[NAME TU]JnR-Engine 2.0
+[NAME FR]JnR-Engine 2.0
+[NAME HU]JnR-Engine 2.0
+[NAME CT]JnR引擎 2.0
+[NAME CZ]JnR-Engine 2.0
+[NAME PB]JnR-Engine 2.0
+[NAME IT]JnR-Engine 2.0
+[NAME JA]JnRエンジン2.0
+[NAME PL]JnR-Engine 2.0
+[NAME UA]JnR-Engine 2.0
+[NAME TH]JnR-Engine 2.0
+[NAME RU]JnR-Engine 2.0
+[DATE]DEC 2000
+[GENRE]6
+[PLATFORM]18
+[PRICE]90000
+[SHARE]7
+
+[ID]19
+[NAME EN]IT-Technology 1
+[NAME GE]IT-Technology 1
+[NAME CH]黑魄 1
+[NAME TU]IT-Technology 1
+[NAME FR]IT-Technology 1
+[NAME HU]IT-Technology 1
+[NAME CT]IT-技術 1
+[NAME CZ]IT-Technology 1
+[NAME PB]IT-Technology 1
+[NAME IT]IT-Technology 1
+[NAME JA]ITテクノロジー1
+[NAME PL]IT-Technology 1
+[NAME UA]IT-Technology 1
+[NAME TH]IT-Technology 1
+[NAME RU]IT-Technology 1
+[DATE]JUL 2001
+[GENRE]16
+[PLATFORM]19
+[PRICE]95000
+[SHARE]6
+
+[ID]20
+[NAME EN]IT-Technology 2
+[NAME GE]IT-Technology 2
+[NAME CH]黑魄 2
+[NAME TU]IT-Technology 2
+[NAME FR]IT-Technology 2
+[NAME HU]IT-Technology 2
+[NAME CT]IT-技術 2
+[NAME CZ]IT-Technology 2
+[NAME PB]IT-Technology 2
+[NAME IT]IT-Technology 2
+[NAME JA]ITテクノロジー2
+[NAME PL]IT-Technology 2
+[NAME UA]IT-Technology 2
+[NAME TH]IT-Technology 2
+[NAME RU]IT-Technology 2
+[DATE]DEC 2003
+[GENRE]16
+[PLATFORM]19
+[PRICE]100000
+[SHARE]8
+
+[ID]21
+[NAME EN]IT-Technology 3
+[NAME GE]IT-Technology 3
+[NAME CH]黑魄 3
+[NAME TU]IT-Technology 3
+[NAME FR]IT-Technology 3
+[NAME HU]IT-Technology 3
+[NAME CT]IT-技術 3
+[NAME CZ]IT-Technology 3
+[NAME PB]IT-Technology 3
+[NAME IT]IT-Technology 3
+[NAME JA]ITテクノロジー3
+[NAME PL]IT-Technology 3
+[NAME UA]IT-Technology 3
+[NAME TH]IT-Technology 3
+[NAME RU]IT-Technology 3
+[DATE]OCT 2004
+[GENRE]16
+[PLATFORM]17
+[PRICE]105000
+[SHARE]10
+
+[ID]22
+[NAME EN]Realtime Builder 3D
+[NAME GE]Realtime Builder 3D
+[NAME CH]构建者 引擎
+[NAME TU]Realtime Builder 3D
+[NAME FR]Realtime Builder 3D
+[NAME HU]Realtime Builder 3D
+[NAME CT]實時建築3D
+[NAME CZ]Realtime Builder 3D
+[NAME PB]Realtime Builder 3D
+[NAME IT]Realtime Builder 3D
+[NAME JA]リアルタイムビルダー3D
+[NAME PL]Realtime Builder 3D
+[NAME UA]Realtime Builder 3D
+[NAME TH]Realtime Builder 3D
+[NAME RU]Realtime Builder 3D
+[DATE]DEC 2006
+[GENRE]13
+[PLATFORM]30
+[PRICE]110000
+[SHARE]4
+
+[ID]23
+[NAME EN]Realtime Builder 3D Pro
+[NAME GE]Realtime Builder 3D Pro
+[NAME CH]构建者 引擎 Pro
+[NAME TU]Realtime Builder 3D Pro
+[NAME FR]Realtime Builder 3D Pro
+[NAME HU]Realtime Builder 3D Pro
+[NAME CT]實時建築3D Pro
+[NAME CZ]Realtime Builder 3D Pro
+[NAME PB]Realtime Builder 3D Pro
+[NAME IT]Realtime Builder 3D Pro
+[NAME JA]リアルタイムビルダー3D Pro
+[NAME PL]Realtime Builder 3D Pro
+[NAME UA]Realtime Builder 3D Pro
+[NAME TH]Realtime Builder 3D Pro
+[NAME RU]Realtime Builder 3D Pro
+[DATE]AUG 2007
+[GENRE]13
+[PLATFORM]30
+[PRICE]115000
+[SHARE]6
+
+[ID]24
+[NAME EN]Game Code Engine I
+[NAME GE]Game Code Engine I
+[NAME CH]源代码 引擎 I
+[NAME TU]Game Code Engine I
+[NAME FR]Game Code Engine I
+[NAME HU]Game Code Engine I
+[NAME CT]遊戲編碼引擎 I
+[NAME CZ]Game Code Engine I
+[NAME PB]Game Code Engine I
+[NAME IT]Game Code Engine 1
+[NAME JA]ゲームコードエンジンI
+[NAME PL]Game Code Engine I
+[NAME UA]Game Code Engine I
+[NAME TH]Game Code Engine I
+[NAME RU]Game Code Engine I
+[DATE]SEP 2008
+[GENRE]8
+[PLATFORM]20
+[PRICE]120000
+[SHARE]5
+
+[ID]25
+[NAME EN]Game Code Engine II
+[NAME GE]Game Code Engine II
+[NAME CH]源代码 引擎 II
+[NAME TU]Game Code Engine II
+[NAME FR]Game Code Engine II
+[NAME HU]Game Code Engine II
+[NAME CT]遊戲編碼引擎 II
+[NAME CZ]Game Code Engine II
+[NAME PB]Game Code Engine II
+[NAME IT]Game Code Engine 2
+[NAME JA]ゲームコードエンジンII
+[NAME PL]Game Code Engine II
+[NAME UA]Game Code Engine II
+[NAME TH]Game Code Engine II
+[NAME RU]Game Code Engine II
+[DATE]OCT 2010
+[GENRE]8
+[PLATFORM]20
+[PRICE]125000
+[SHARE]10
+
+[ID]26
+[NAME EN]Landscape Tech 1.0
+[NAME GE]Landscape Tech 1.0
+[NAME CH]环科 引擎 1.0
+[NAME TU]Landscape Tech 1.0
+[NAME FR]Landscape Tech 1.0
+[NAME HU]Landscape Tech 1.0
+[NAME CT]景觀科技 1.0
+[NAME CZ]Landscape Tech 1.0
+[NAME PB]Landscape Tech 1.0
+[NAME IT]Landscape Tech 1.0
+[NAME JA]ランドスケープテック1.0
+[NAME PL]Landscape Tech 1.0
+[NAME UA]Landscape Tech 1.0
+[NAME TH]Landscape Tech 1.0
+[NAME RU]Landscape Tech 1.0
+[DATE]NOV 2011
+[GENRE]11
+[PLATFORM]17
+[PRICE]130000
+[SHARE]4
+
+[ID]27
+[NAME EN]Landscape Tech 2.0
+[NAME GE]Landscape Tech 2.0
+[NAME CH]环科 引擎 2.0
+[NAME TU]Landscape Tech 2.0
+[NAME FR]Landscape Tech 2.0
+[NAME HU]Landscape Tech 2.0
+[NAME CT]景觀科技 2.0
+[NAME CZ]Landscape Tech 2.0
+[NAME PB]Landscape Tech 2.0
+[NAME IT]Landscape Tech 2.0
+[NAME JA]ランドスケープテック2.0
+[NAME PL]Landscape Tech 2.0
+[NAME UA]Landscape Tech 2.0
+[NAME TH]Landscape Tech 2.0
+[NAME RU]Landscape Tech 2.0
+[DATE]NOV 2012
+[GENRE]11
+[PLATFORM]17
+[PRICE]135000
+[SHARE]6
+
+[ID]28
+[NAME EN]Rumble Engine 1.0
+[NAME GE]Rumble Engine 1.0
+[NAME CH]爆裂者 引擎 1.0
+[NAME TU]Rumble Engine 1.0
+[NAME FR]Rumble Engine 1.0
+[NAME HU]Rumble Engine 1.0
+[NAME CT]隆隆引擎 1.0
+[NAME CZ]Rumble Engine 1.0
+[NAME PB]Rumble Engine 1.0
+[NAME IT]Rumble Engine 1.0
+[NAME JA]ランブルエンジン1.0
+[NAME PL]Rumble Engine 1.0
+[NAME UA]Rumble Engine 1.0
+[NAME TH]Rumble Engine 1.0
+[NAME RU]Rumble Engine 1.0
+[DATE]JUL 2014
+[GENRE]10
+[PLATFORM]21
+[PRICE]140000
+[SHARE]5
+
+[ID]29
+[NAME EN]Rumble Engine 2.0
+[NAME GE]Rumble Engine 2.0
+[NAME CH]爆裂者 引擎 2.0
+[NAME TU]Rumble Engine 2.0
+[NAME FR]Rumble Engine 2.0
+[NAME HU]Rumble Engine 2.0
+[NAME CT]隆隆引擎 2.0
+[NAME CZ]Rumble Engine 2.0
+[NAME PB]Rumble Engine 2.0
+[NAME IT]Rumble Engine 2.0
+[NAME JA]ランブルエンジン2.0
+[NAME PL]Rumble Engine 2.0
+[NAME UA]Rumble Engine 2.0
+[NAME TH]Rumble Engine 2.0
+[NAME RU]Rumble Engine 2.0
+[DATE]OCT 2015
+[GENRE]10
+[PLATFORM]21
+[PRICE]145000
+[SHARE]7
+
+[ID]30
+[NAME EN]Interactive Tech 1.0
+[NAME GE]Interactive Tech 1.0
+[NAME CH]沉寂者 1.0
+[NAME TU]Interactive Tech 1.0
+[NAME FR]Interactive Tech 1.0
+[NAME HU]Interactive Tech 1.0
+[NAME CT]互動科技 1.0
+[NAME CZ]Interactive Tech 1.0
+[NAME PB]Interactive Tech 1.0
+[NAME IT]Interactive Tech 1.0
+[NAME JA]インタラクティブテック1.0
+[NAME PL]Interactive Tech 1.0
+[NAME UA]Interactive Tech 1.0
+[NAME TH]Interactive Tech 1.0
+[NAME RU]Interactive Tech 1.0
+[DATE]NOV 2016
+[GENRE]12
+[PLATFORM]32
+[PRICE]150000
+[SHARE]4
+
+[ID]31
+[NAME EN]Interactive Tech 2.0
+[NAME GE]Interactive Tech 2.0
+[NAME CH]沉寂者 2.0
+[NAME TU]Interactive Tech 2.0
+[NAME FR]Interactive Tech 2.0
+[NAME HU]Interactive Tech 2.0
+[NAME CT]互動科技 2.0
+[NAME CZ]Interactive Tech 2.0
+[NAME PB]Interactive Tech 2.0
+[NAME IT]Interactive Tech 2.0
+[NAME JA]インタラクティブテック2.0
+[NAME PL]Interactive Tech 2.0
+[NAME UA]Interactive Tech 2.0
+[NAME TH]Interactive Tech 2.0
+[NAME RU]Interactive Tech 2.0
+[DATE]JUN 2018
+[GENRE]12
+[PLATFORM]32
+[PRICE]155000
+[SHARE]6
+
+[ID]32
+[NAME EN]LightTech Engine 1.0
+[NAME GE]LightTech Engine 1.0
+[NAME CH]轻客 引擎 1.0
+[NAME TU]LightTech Engine 1.0
+[NAME FR]LightTech Engine 1.0
+[NAME HU]LightTech Engine 1.0
+[NAME CT]光技引擎 1.0
+[NAME CZ]LightTech Engine 1.0
+[NAME PB]LightTech Engine 1.0
+[NAME IT]LightTech Engine 1.0
+[NAME JA]ライトテックエンジン1.0
+[NAME PL]LightTech Engine 1.0
+[NAME UA]LightTech Engine 1.0
+[NAME TH]LightTech Engine 1.0
+[NAME RU]LightTech Engine 1.0
+[DATE]JUL 2019
+[GENRE]14
+[PLATFORM]17
+[PRICE]160000
+[SHARE]6
+
+[ID]33
+[NAME EN]LightTech Engine 2.0
+[NAME GE]LightTech Engine 2.0
+[NAME CH]轻客 引擎 2.0
+[NAME TU]LightTech Engine 2.0
+[NAME FR]LightTech Engine 2.0
+[NAME HU]LightTech Engine 2.0
+[NAME CT]光技引擎 2.0
+[NAME CZ]LightTech Engine 2.0
+[NAME PB]LightTech Engine 2.0
+[NAME IT]LightTech Engine 2.0
+[NAME JA]ライトテックエンジン2.0
+[NAME PL]LightTech Engine 2.0
+[NAME UA]LightTech Engine 2.0
+[NAME TH]LightTech Engine 2.0
+[NAME RU]LightTech Engine 2.0
+[DATE]DEC 2020
+[GENRE]14
+[PLATFORM]17
+[PRICE]165000
+[SHARE]7
+
+[ID]34
+[NAME EN]LightTech Engine 3.0
+[NAME GE]LightTech Engine 3.0
+[NAME CH]轻客 引擎 3.0
+[NAME TU]LightTech Engine 3.0
+[NAME FR]LightTech Engine 3.0
+[NAME HU]LightTech Engine 3.0
+[NAME CT]光技引擎 3.0
+[NAME CZ]LightTech Engine 3.0
+[NAME PB]LightTech Engine 3.0
+[NAME IT]LightTech Engine 3.0
+[NAME JA]ライトテックエンジン3.0
+[NAME PL]LightTech Engine 3.0
+[NAME UA]LightTech Engine 3.0
+[NAME TH]LightTech Engine 3.0
+[NAME RU]LightTech Engine 3.0
+[DATE]FEB 2023
+[GENRE]14
+[PLATFORM]17
+[PRICE]170000
+[SHARE]8
+
+[ID]35
+[NAME EN]Polycount 3D
+[NAME GE]Polycount 3D
+[NAME CH]聚数者 3D
+[NAME TU]Polycount 3D
+[NAME FR]Polycount 3D
+[NAME HU]Polycount 3D
+[NAME CT]邊形數 3D
+[NAME CZ]Polycount 3D
+[NAME PB]Polycount 3D
+[NAME IT]Polycount 3D
+[NAME JA]ポリカウント3D
+[NAME PL]Polycount 3D
+[NAME UA]Polycount 3D
+[NAME TH]Polycount 3D
+[NAME RU]Polycount 3D
+[DATE]JUN 2024
+[GENRE]16
+[PLATFORM]69
+[PRICE]175000
+[SHARE]5
+
+[ID]36
+[NAME EN]Quest Factory
+[NAME GE]Quest Factory
+[NAME CH]探索者
+[NAME TU]Quest Factory
+[NAME FR]Quest Factory
+[NAME HU]Quest Factory
+[NAME CT]探索工場
+[NAME CZ]Quest Factory
+[NAME PB]Quest Factory
+[NAME IT]Quest Factory
+[NAME JA]クエストファクトリー
+[NAME PL]Quest Factory
+[NAME UA]Quest Factory
+[NAME TH]Quest Factory
+[NAME RU]Quest Factory
+[DATE]AUG 2025
+[GENRE]3
+[PLATFORM]17
+[PRICE]180000
+[SHARE]10
+
+[ID]37
+[NAME EN]RealTech Pro
+[NAME GE]RealTech Pro
+[NAME CH]盗梦者 Pro
+[NAME TU]RealTech Pro
+[NAME FR]RealTech Pro
+[NAME HU]RealTech Pro
+[NAME CT]實技Pro
+[NAME CZ]RealTech Pro
+[NAME PB]RealTech Pro
+[NAME IT]RealTech Pro
+[NAME JA]リアルテックPro
+[NAME PL]RealTech Pro
+[NAME UA]RealTech Pro
+[NAME TH]RealTech Pro
+[NAME RU]RealTech Pro
+[DATE]FEB 2026
+[GENRE]7
+[PLATFORM]17
+[PRICE]185000
+[SHARE]8
+
+[ID]38
+[NAME EN]TitanCode 3D
+[NAME GE]TitanCode 3D
+[NAME CH]泰坦 3D
+[NAME TU]TitanCode 3D
+[NAME FR]TitanCode 3D
+[NAME HU]TitanCode 3D
+[NAME CT]泰坦代碼 3D
+[NAME CZ]TitanCode 3D
+[NAME PB]TitanCode 3D
+[NAME IT]TitanCode 3D
+[NAME JA]タイタンコード3D
+[NAME PL]TitanCode 3D
+[NAME UA]TitanCode 3D
+[NAME TH]TitanCode 3D
+[NAME RU]TitanCode 3D
+[DATE]MAY 2027
+[GENRE]13
+[PLATFORM]48
+[PRICE]195000
+[SHARE]9
+
+[ID]39
+[NAME EN]Singularity 3D
+[NAME GE]Singularity 3D
+[NAME CH]Singularity 3D
+[NAME TU]Singularity 3D
+[NAME FR]Singularity 3D
+[NAME HU]Singularity 3D
+[NAME CT]科技奇異點 3D
+[NAME CZ]Singularity 3D
+[NAME PB]Singularity 3D
+[NAME IT]Singularity 3D
+[NAME JA]シンギュラリティ3D
+[NAME PL]Singularity 3D
+[NAME UA]Singularity 3D
+[NAME TH]Singularity 3D
+[NAME RU]Singularity 3D
+[DATE]DEC 2029
+[GENRE]7
+[PLATFORM]95
+[PRICE]200000
+[SHARE]10
+
+[EOF]

@@ -1,0 +1,264 @@
+﻿////					DEVELOPER LEGENDS 					////
+// Tags:                                              		  //
+//                                                    		  //
+// <D> 		= Game Designer                           		  //
+// <P> 		= Programmer   							  		  //
+// <S> 		= Sound Designer     					  		  //
+// <G>		= Graphic Designer                 		  		  //
+// <T>		= Technician       						  		  //
+// <R>		= Researcher									  //
+// <Q>		= Game Tester       					  		  //
+// <O>		= Office Worker       					  		  //
+// <f>		= Female       						  	  		  //
+// <(PERKID)> = Add perk							  		  //
+//				1 = Star Designer							  //
+//				2 = Inexhaustible							  //
+//				3 = Error-Free								  //
+//				4 = Loyal									  //
+//				5 = Talented								  //
+//				6 = Luck									  //
+//				7 = Sporty									  //
+//				8 = Orderly									  //
+//				9 = Nature lover							  //
+//				10 = Medical Miracle						  //
+//				11 = Inuit									  //
+//				12 = Modest									  //
+//				13 = Iron Bladder							  //
+//				14 = Leadership								  //
+//				15 = All-Rounder							  //
+//				16 = Messy									  //
+//				17 = Philanthropist							  //
+//				18 = Greedy									  //
+//				19 = Immunocompromised						  //
+//				20 = Stress-Averse							  //
+//				21 = Unfocused								  //
+//				22 = Untalented								  //
+//				23 = Pixel Artist							  //
+//				24 = Porting Specialist						  //
+//				25 = Imaginative							  //
+//				26 = Engine Expert							  //
+//				27 = Unlucky								  //
+//				28 = Workaholic								  //
+//				29 = Efficient								  //
+// <BODY(ID)> = Body										  //
+// <HAIR(ID)> = Hair (-1 = No hair)							  //
+// <EYES(ID)> = Eyes, Glasses								  //
+// <BEARD(ID)> = Beard (-1 = No beard)						  //
+// <SKINCOL(ID)> = Skin Color								  //
+// <HAIRCOL(ID)> = Hair Color								  //
+// <UPPERCOL(ID)> = Upper Color								  //
+// <BOTTOMCOL(ID)> = Bottom Color							  //	
+// <EXTRACOL(ID)> = Extra Color								  //
+//															  //
+// NOTE: Only one profession can be added per name.			  //
+//                                                    		  //
+////////////////////////////////////////////////////////////////
+//
+//Line 58 = ID 0
+Peter Mowlineux <D><1><BODY6><HAIR3><EYES0><BEARD-1><SKINCOL1><HAIRCOL3><UPPERCOL10><BOTTOMCOL2><EXTRACOL22>
+Sid Maiers <D><1><BODY2><HAIR4><EYES0><BEARD-1><SKINCOL1><HAIRCOL0><UPPERCOL21><BOTTOMCOL7><EXTRACOL7>
+Johnny Carmuck <P><1><26>
+Gabe Nevill <D><1>
+Bobby Gates <D><1>
+Tim Swaney <D><1>
+Menfred Trindz <P><1>
+Roberta Willis <D><f><1>
+William Wrights <D><1>
+Chris Sailor <D><1>
+Yun Zusuki <D><1>
+Amerald McGee <D><1>
+Markus Pierson <D><1>
+Johnny Romeros <P><1>
+Brenda Bathwyte <D><f><1>
+Chris Robertos <P><1>
+Erin Robertos <P><1>
+Kliff Blenzyinsky <D><1>
+Ron Galbiert <D><1>
+Allan Love <D><1>
+Donny Daglove <D><1>
+Michael Apprash <D><1>
+Dave Akerson <D><1>
+Eddy Boons  <D><1>
+Jens Bergstein <D><1>
+Daniela Berry <D><f><1>
+Johan Blow <D><1>
+David Brabbens <P><1>
+Billy Pudge <D><1>
+Freddy Fort <D><1>
+Richy Garriot <D><1>
+Nasir Cabelli <D><1>
+Markus Haley  <D><1>
+Rebecca Heinmann <D><f><1>
+Jordan Mechanik <D><1>
+Alan Millson <D><1>
+Jeff Mintos <D><1>
+Yuji Nakamoto <D><1>
+Steve Plogis <D><1>
+Fred Reynal <D><1>
+Warren Robanetto <D><1>
+Jim Zacks <D><1>
+Tim Schoffer <D><1>
+Kenny Silver <D><1>
+Anne Nordfall <D><f><1>
+Corinna Yun <D><f><1>
+David Taylor <D><1>
+Warren Spectrum <D><1>
+Rod Pherguson <D><1>
+Bruce Shall <D><1>
+Hironobu Sakiguchu <D><1>
+Jade Reymoon <D><f><1>
+Kenny Lavine <D><1>
+Hideo Kojani <D><1>
+Keyji Inufane <D><1>
+Todd Loward <D><1>
+Samuel House <D><1>
+Yuji Horiji <D><1>
+Eiji Anomura <D><1>
+Patrick Lehmann <P><1>
+Stefan Pohl <P><1>
+Chris Hollbeck <S><1>
+Yoki Shimomuri <S><f><1>
+Koyi Condo <S><1>
+Jesper Cyrd <S><1>
+Harry Greg-Willson <S><1>
+Jerry Soul <S><1>
+Darron Corb <S><1>
+Austin Winter <S><1>
+Inon Zurro <S><1>
+Akira Yamaiku <S><1>
+Chris Valentino <S><1>
+Martin Donnald <S><1>
+Yasunori Suda <S><1>
+Mick Groden <S><1>
+Kazumi Takata <S><1>
+Motoi Skaruba <S><1>
+Robin Beanworld <S><1>
+Tom Tallamico <S><1>
+Dave Wise <S><1>
+Mosashi Hamauzi<S><1>
+Ryen Nagamitsu <S><1>
+Horihiko Habani <S><1>
+Keikei Kobyashi <S><1>
+Robin Hubbeard <S><1>
+Michael Lander <S><1>
+Mick Giacchi <S><1>
+Garry Schinmann <S><1>
+Grent Kirk <S><1>
+Kai Blumenkranz <S><1>
+Christoph Kin <S><1>
+Mattis Buelmen <S><1>
+Sascha Tikicyan <S><1>
+Andreas Brick <S><1>
+Michael Kann <S><1>
+Rick Jaquess <S><1>
+Pete McDonnell <S><1>
+Nathan McKlee <S><1>
+Peter Konnely <S><1>
+Minako Kamaco <S><f><1>
+Shinobi Magata <S><f><1>
+Ivonne Hüsniye <P><f><1>
+Traci Milenko <P><f><1>
+Agnethe Nadya <P><f><1>
+Núria Augusta <P><f><1>
+Nadiye Wynne <P><f><1>
+Marinho Viktor <P><1>
+Nelson Dāvis <P><1>
+Uttar Hasan <P><1>
+Marlon Hardulf <P><1>
+Paolino Cletis <P><1>
+Carlito Pradeep <G><1>
+Arndt Crescens <G><1>
+Lambaer Hamish <G><1>
+Publius Coleman <G><1>
+Zoran Aslan <G><1>
+Svitlana Talli <G><f><1>
+Ingunn Victoria <G><f><1>
+Monika Anna <G><f><1>
+Lorenza Rachana <G><f><1>
+Stefaniya Moss <G><f><1>
+Tadeja Chikere <G><f><1>
+Melanija Mailys <G><f><1>
+Goldie Reyes <G><f><1>
+Martina Marine <G><f><1>
+Joelle Souad <G><f><1>
+Jin Williric <G><1>
+Narayan Radmilo <G><1>
+Augusto Zaboulon <G><1>
+Joschka Aeson <G><1>
+Hari Josué <G><1>
+Ayami Koyimu <G><f><1>
+Kazuki Chibuya <G><f><1>
+Noizu Itomo <G><f><1>
+Reyko Kodami <G><f><1>
+Akiko Joshida <G><1>
+Bobby Raffei <G><1>
+Christian Beatrize <G><1>
+Miroshi Hinagawa <G><1>
+Jeff McLee <G><1>
+Kunichiku Tanaka <G><1>
+Nasahiro Mito <G><1>
+Pete Zhan <G><1>
+Shigenory Zoejima <G><1>
+Takehito Haradima <G><1>
+Victor Antronov <G><1>
+Joji Zhinkava <G><1>
+Steve Vozniac <T><1>
+Robert Wayne <T><1>
+Nolan Pushnel <T><1>
+Fred Dabney  <T><1>
+John Dramiel <T><1>
+Jim Eckert <T><1>
+John Kilby <T><1>
+Robin Noyce <T><1>
+Jason Mauchly <T><1>
+Anton Wang <T><1>
+Conrad Olsen <T><1>
+Seymour Crayor <T><1>
+Douglas Engelberd <T><1>
+Giana Powell <T><f><1>
+Amiyah Neid <T><f><1>
+Ariella Staab <T><f><1>
+Carla Loisel <T><f><1>
+Sidney Diacre <T><f><1>
+Nathaly Sundhage <T><f><1>
+Isabel Carlson <T><f><1>
+Daniela Halep <T><f><1>
+Toby Vox <S><1>
+Shoji Negoru <S><1>
+Nobo Uomatsu <S><1>
+Shigero Mijamoto <D><1>
+Zatoru Iwasa <D><1>
+Masahiru Zakurai <D><1>
+Michel Anzel <D><1>
+Shinji Nikamu <D><1>
+Markus Laidlaw <D><1>
+Julien Gollob <D><1>
+Jacob Kaufman <S><1>
+Siuban Beeman <G><1>
+Roy J. Weldon <G><1>
+Carrie T. Callen <G><1>
+Chris T. Soliz <G><1>
+Ernest J. O'Donnell <G><1>
+Bruce V. Hull <G><1>
+Louis J. Jacobs <G><1>
+John H. Richardson <G><1>
+Darwin L. Welsh <G><1>
+Lloyd D. Scott <G><1>
+Clarence A. Matos <G><1>
+Noel N. Cosgrove <G><1>
+Aline A. McCormack <G><f><1>
+Chun J. Hudkins <G><f><1>
+Virginia G. Davis <G><f><1>
+Riko Kodima <G><f><1>
+Goichi Zugiyama <S><1>
+Allain Alkorn <T><1>
+Chucky Pebble <T><1>
+Kenyo Takida <T><1>
+Gunpey Tokoi <T><1>
+Jayson Minner <T><1>
+Kenny Kotaragi <T><1>
+Masajuki Umura <T><1>
+Zeamus Blackloy <T><1>
+Zhiraz Shivjin <T><1>
+Chris Claus <D><1>
+Ralph H. Beer <T><1>

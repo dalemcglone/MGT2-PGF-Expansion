@@ -1,0 +1,301 @@
+﻿////							 ANTI-CHEAT SOFTWARE 								////
+// Parameters:                                                                        //
+//                                                                         			  //
+// [ID]int 					= The ID of the object.                                   //
+// [NAME (LANG)]string 		= The name of the anti-cheat in the respective language.  //
+// [DATE](MONTH) (YEAR) 	= The date when the anti-cheat software is available.     //
+// [PRICE]int				= How much the anti-cheat software costs.                 //
+// [DEV COSTS]int			= The development costs of the anti-cheat software.       //
+//                                                                                    //
+////////////////////////////////////////////////////////////////////////////////////////
+
+[ID]1
+[NAME EN]Game Eye v1.0
+[NAME GE]Game Eye v1.0
+[NAME CH]游戏侦察 v1.0
+[NAME TU]Game Eye v1.0
+[NAME FR]Game Eye v1.0
+[NAME CT]遊戲眼 v1.0
+[NAME RU]Game Eye v1.0
+[NAME IT]Game Eye v1.0
+[NAME JA]ゲームアイ v1.0
+[NAME UA]Game Eye v1.0
+[NAME TH]Game Eye v1.0
+[DATE]FEB 1990
+[PRICE]30000
+[DEV COSTS]5000
+
+[ID]2
+[NAME EN]Game Eye v2.0
+[NAME GE]Game Eye v2.0
+[NAME CH]游戏侦察 v2.0
+[NAME TU]Game Eye v2.0
+[NAME FR]Game Eye v2.0
+[NAME CT]遊戲眼 v2.0
+[NAME RU]Game Eye v2.0
+[NAME IT]Game Eye v2.0
+[NAME JA]ゲームアイ v2.0
+[NAME UA]Game Eye v2.0
+[NAME TH]Game Eye v2.0
+[DATE]FEB 1992
+[PRICE]35000
+[DEV COSTS]7000
+
+[ID]3
+[NAME EN]Game Eye v3.0
+[NAME GE]Game Eye v3.0
+[NAME CH]游戏侦察 v3.0
+[NAME TU]Game Eye v3.0
+[NAME FR]Game Eye v3.0
+[NAME CT]遊戲眼 v3.0
+[NAME RU]Game Eye v3.0
+[NAME IT]Game Eye v3.0
+[NAME JA]ゲームアイ v3.0
+[NAME UA]Game Eye v3.0
+[NAME TH]Game Eye v3.0
+[DATE]FEB 1994
+[PRICE]40000
+[DEV COSTS]9000
+
+[ID]4
+[NAME EN]Renovu Anti Cheat v1.0
+[NAME GE]Renovu Anti Cheat v1.0
+[NAME CH]雷诺沃反作弊      v1.0
+[NAME TU]Renovu Anti Cheat v1.0
+[NAME FR]Renovu Anti Cheat v1.0
+[NAME CT]雷努胡反作弊 v1.0
+[NAME RU]Renovu Античит v1.0
+[NAME IT]Renovu Anti Cheat v1.0
+[NAME JA]Renovuアンチチート v1.0
+[NAME UA]Renovu Anti Cheat v1.0
+[NAME TH]Renovu Anti Cheat v1.0
+[DATE]FEB 1996
+[PRICE]45000
+[DEV COSTS]11000
+
+[ID]5
+[NAME EN]Renovu Anti Cheat v2.0
+[NAME GE]Renovu Anti Cheat v2.0
+[NAME CH]雷诺沃反作弊      v2.0
+[NAME TU]Renovu Anti Cheat v2.0
+[NAME FR]Renovu Anti Cheat v2.0
+[NAME CT]雷努胡反作弊 v2.0
+[NAME RU]Renovu Античит v2.0
+[NAME IT]Renovu Anti Cheat v2.0
+[NAME JA]Renovuアンチチート v2.0
+[NAME UA]Renovu Anti Cheat v2.0
+[NAME TH]Renovu Anti Cheat v2.0
+[DATE]FEB 1998
+[PRICE]50000
+[DEV COSTS]13000
+
+[ID]6
+[NAME EN]Renovu Anti Cheat v3.0
+[NAME GE]Renovu Anti Cheat v3.0
+[NAME CH]雷诺沃反作弊      v3.0
+[NAME TU]Renovu Anti Cheat v3.0
+[NAME FR]Renovu Anti Cheat v3.0
+[NAME CT]雷努胡反作弊 v3.0
+[NAME RU]Renovu Античит v3.0
+[NAME IT]Renovu Anti Cheat v3.0
+[NAME JA]Renovuアンチチート v3.0
+[NAME UA]Renovu Anti Cheat v3.0
+[NAME TH]Renovu Anti Cheat v3.0
+[DATE]FEB 2000
+[PRICE]55000
+[DEV COSTS]15000
+
+[ID]7
+[NAME EN]V-A-S Silver
+[NAME GE]V-A-S Silver
+[NAME CH]银牌杀手反作弊
+[NAME TU]V-A-S Silver
+[NAME FR]V-A-S Silver
+[NAME CT]V-A-S 銀版
+[NAME RU]V-A-S Silver
+[NAME IT]V-A-S Argento
+[NAME JA]V-A-Sシルバー
+[NAME UA]V-A-S Silver
+[NAME TH]V-A-S Silver
+[DATE]FEB 2002
+[PRICE]60000
+[DEV COSTS]17000
+
+[ID]8
+[NAME EN]V-A-S Gold
+[NAME GE]V-A-S Gold
+[NAME CH]黄金杀手反作弊
+[NAME TU]V-A-S Gold
+[NAME FR]V-A-S Gold
+[NAME CT]V-A-S 金版
+[NAME RU]V-A-S Gold
+[NAME IT]V-A-S Oro
+[NAME JA]V-A-Sゴールド
+[NAME UA]V-A-S Gold
+[NAME TH]V-A-S Gold
+[DATE]FEB 2004
+[PRICE]65000
+[DEV COSTS]19000
+
+[ID]9
+[NAME EN]V-A-S Platinium
+[NAME GE]V-A-S Platinium
+[NAME CH]珀金杀手反作弊
+[NAME TU]V-A-S Platinium
+[NAME FR]V-A-S Platinium
+[NAME CT]V-A-S 白金版
+[NAME RU]V-A-S Platinium
+[NAME IT]V-A-S Platino
+[NAME JA]V-A-Sプラチナ
+[NAME UA]V-A-S Platinium
+[NAME TH]V-A-S Platinium
+[DATE]FEB 2006
+[PRICE]70000
+[DEV COSTS]21000
+
+[ID]10
+[NAME EN]EACT Shield 1.0
+[NAME GE]EACT Shield 1.0
+[NAME CH]超盾反作弊  1.0
+[NAME TU]EACT Shield 1.0
+[NAME FR]EACT Shield 1.0
+[NAME CT]EACT盾 1.0
+[NAME RU]EACT Shield 1.0
+[NAME IT]EACT Shield 1.0
+[NAME JA]EACTシールド 1.0
+[NAME UA]EACT Shield 1.0
+[NAME TH]EACT Shield 1.0
+[DATE]FEB 2008
+[PRICE]75000
+[DEV COSTS]23000
+
+[ID]11
+[NAME EN]EACT Shield 2.0
+[NAME GE]EACT Shield 2.0
+[NAME CH]超盾反作弊  2.0
+[NAME TU]EACT Shield 2.0
+[NAME FR]EACT Shield 2.0
+[NAME CT]EACT盾 2.0
+[NAME RU]EACT Shield 2.0
+[NAME IT]EACT Shield 2.0
+[NAME JA]EACTシールド 2.0
+[NAME UA]EACT Shield 2.0
+[NAME TH]EACT Shield 2.0
+[DATE]FEB 2010
+[PRICE]80000
+[DEV COSTS]25000
+
+[ID]12
+[NAME EN]EACT Shield 3.0
+[NAME GE]EACT Shield 3.0
+[NAME CH]超盾反作弊  3.0
+[NAME TU]EACT Shield 3.0
+[NAME FR]EACT Shield 3.0
+[NAME CT]EACT盾 3.0
+[NAME RU]EACT Shield 3.0
+[NAME IT]EACT Shield 3.0
+[NAME JA]EACTシールド 3.0
+[NAME UA]EACT Shield 3.0
+[NAME TH]EACT Shield 3.0
+[DATE]FEB 2012
+[PRICE]95000
+[DEV COSTS]27000
+
+[ID]13
+[NAME EN]Kernel Anti Cheat I
+[NAME GE]Kernel Anti Cheat I
+[NAME CH]极核反作弊        I
+[NAME TU]Kernel Anti Cheat I
+[NAME FR]Kernel Anti Cheat I
+[NAME CT]核心反作弊 I
+[NAME RU]Kernel Античит I
+[NAME IT]Kernel Anti Cheat 1
+[NAME JA]KernelアンチチートI
+[NAME UA]Kernel Anti Cheat I
+[NAME TH]Kernel Anti Cheat I
+[DATE]FEB 2014
+[PRICE]100000
+[DEV COSTS]29000
+
+[ID]14
+[NAME EN]Kernel Anti Cheat II
+[NAME GE]Kernel Anti Cheat II
+[NAME CH]极核反作弊        II
+[NAME TU]Kernel Anti Cheat II
+[NAME FR]Kernel Anti Cheat II
+[NAME CT]核心反作弊 II
+[NAME RU]Kernel Античит II
+[NAME IT]Kernel Anti Cheat 2
+[NAME JA]KernelアンチチートII
+[NAME UA]Kernel Anti Cheat II
+[NAME TH]Kernel Anti Cheat II
+[DATE]FEB 2016
+[PRICE]105000
+[DEV COSTS]31000
+
+[ID]15
+[NAME EN]Kernel Anti Cheat III
+[NAME GE]Kernel Anti Cheat III
+[NAME CH]极核反作弊        III
+[NAME TU]Kernel Anti Cheat III
+[NAME FR]Kernel Anti Cheat III
+[NAME CT]核心反作弊 III
+[NAME RU]Kernel Античит III
+[NAME IT]Kernel Anti Cheat 3
+[NAME JA]KernelアンチチートIII
+[NAME UA]Kernel Anti Cheat III
+[NAME TH]Kernel Anti Cheat III
+[DATE]FEB 2018
+[PRICE]110000
+[DEV COSTS]33000
+
+[ID]16
+[NAME EN]PunkShield v1.0
+[NAME GE]PunkShield v1.0
+[NAME CH]赛博朋克盾 v1.0
+[NAME TU]PunkShield v1.0
+[NAME FR]PunkShield v1.0
+[NAME CT]龐克盾 v1.0
+[NAME RU]PunkShield v1.0
+[NAME IT]PunkShield v1.0
+[NAME JA]パンクシールド v1.0
+[NAME UA]PunkShield v1.0
+[NAME TH]PunkShield v1.0
+[DATE]FEB 2020
+[PRICE]115000
+[DEV COSTS]35000
+
+[ID]17
+[NAME EN]PunkShield v2.0
+[NAME GE]PunkShield v2.0
+[NAME CH]赛博朋克盾 v2.0
+[NAME TU]PunkShield v2.0
+[NAME FR]PunkShield v2.0
+[NAME CT]龐克盾 v2.0
+[NAME RU]PunkShield v2.0
+[NAME IT]PunkShield v2.0
+[NAME JA]パンクシールド v2.0
+[NAME UA]PunkShield v2.0
+[NAME TH]PunkShield v2.0
+[DATE]FEB 2022
+[PRICE]120000
+[DEV COSTS]37000
+
+[ID]18
+[NAME EN]PunkShield v3.0
+[NAME GE]PunkShield v3.0
+[NAME CH]赛博朋克盾 v3.0
+[NAME TU]PunkShield v3.0
+[NAME FR]PunkShield v3.0
+[NAME CT]龐克盾 v3.0
+[NAME RU]PunkShield v3.0
+[NAME IT]PunkShield v3.0
+[NAME JA]パンクシールド v3.0
+[NAME UA]PunkShield v3.0
+[NAME TH]PunkShield v3.0
+[DATE]FEB 2024
+[PRICE]125000
+[DEV COSTS]40000
+[ENDLESS]
+
+[EOF]
