@@ -1,53 +1,62 @@
-﻿<b><size=20>MAD GAMES TYCOON 2: PGF Expansion Pack</size></b>
+﻿<b><size=20>MAD GAMES TYCOON 2: PGF Expansion</size></b>
 Eggcode Games
+
+<b>DEVELOPMENT</b>
+Stefan Pohl
 
 <b><size=15>PGF EXPANSION CREATOR</size></b>
 <size=10>Dale McGlone
 www.pgf.one</size>
 
-<b>MGT2 DEVELOPMENT</b>
-Stefan Pohl
-
-<b>MGT2 SOUNDS & MUSIC</b>
-Audiohub
-Unity Assets
-
 <b>PGF EXPANSION QUALITY ASSURANCE</b>
 LMH01
 
-<b>MGT2 QUALITY ASSURANCE</b>
+<b>SOUNDS & MUSIC</b>
+Audiohub
+Unity Assets
+
+<b>QUALITY ASSURANCE</b>
 Martin Barth & Patrick Lehmann
 
-<b>MGT2 ENGINE</b>
+<b>ENGINE</b>
 Unity
 www.unity.com
 
-<b>MGT2 ADDITIONAL GRAPHICS</b>
+<b>ADDITIONAL GRAPHICS</b>
 openclipart.org
 opengameart.org
 Unity Asset Store
 
-<b>MGT2 TRANSLATION</b>
-Tanfus, fizzrocks & Astata
-Halil Kapağan & Mertcan Alsat
-Nihat Can Kabataş & Burak Ay
-Victor Hugo Jiménez Torres
-Jesustb Torres
+<b>TRANSLATION</b>
 Woytman Lavrinčík
-Haggani Mohammed Wassim & Malo World
 Péter Jancsik
 Maurício Laudissi
+Isacovici Alexandru
+Igor Lacerda Pires
+Victor Hugo Jiménez Torres
+Pun Redfield
+Jesustb Torres
+David "i'Mena" Menagro
+Vladyslav "Yavoroshko" Yavorskyi
+Milka Martinez & Cristian A. Duran
+Nihat Can Kabataş & Burak Ay
+Halil Kapağan & Mertcan Alsat
+Haggani Mohammed Wassim & Malo World
 Games Gal
 Blackovskyy
 PaTryk_Gracz0l
-David "i'Mena" Menagro
+pow4h
+Piolodiusz
 MrDzDm & Sillah
-Isacovici Alexandru
+Tanfus, fizzrocks, Astata, Cabare & Geekphenix
+Илья Курыгин "GS Games"
 
 <b>SPECIAL THANKS</b>
-LMH01
+Michaela Tischmacher & Armida Accossu
+Tanja Westermann & Martina Barth
+Rene Otto & Hermann Sukkau
+Amy, Loki, Ella & Mailo
 
-www.pgf.one
-www.xboxgamepass.co.uk
 www.eggcodegames.com
-©2022 PGF Entertainment x Eggcode Games
+©2020 Eggcode Games
+©2024 PGF Entertainment x Eggcode Games
