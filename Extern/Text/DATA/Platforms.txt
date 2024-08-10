@@ -1,22 +1,62 @@
-﻿[ID]1
-[NAME CH]阿米加 500
+﻿////							 						PLATFORMS 									  					////
+// Parameters:                                                                              							  //
+//                                                                         												  //
+// [ID]int 						= The ID of the object.                                   								  //
+// [NAME (LANG)]string 			= The name of the platform in the respective language.   								  //
+// [MANUFACTURER (LANG)]		= The manufacturer of the platform. If [PUB] has an ID,                                   //
+//								  the name of the [PUB] publisher must be entered as the manufacturer.                    //
+// [DATE](MONTH) (YEAR) 		= The date when the platform is available.     											  //
+// [DATE END](MONTH) (YEAR)		= The date when the platform will be removed from the market.                             //
+//								  If this parameter is omitted, the platform will never be removed from the market.       //
+// [PRICE]int					= How much the platform dev kit costs.                 									  //
+// [DEV COSTS]int				= The development costs of the platform.       											  //
+// [TECHLEVEL]int				= The tech level of the platform.                                                         //
+// [UNITS]int					= Number of units sold.                                                                   //
+// [PIC-1]string				= The filename of the image that will be used as the first picture.                       //
+// [PIC-2]string				= The filename of the image that will be used as the second picture.                      //
+// [PIC-2 YEAR](YEAR)			= The year when the image of [PIC-2] is used.                                             //
+// [NEED-(1-2)](ID)				= The gameplay features that are needed.                                                  //
+// [COMPLEX](0-2)				= The complexity of the platform.                                                         //
+// [INTERNET](0-1)				= Is this platform internet capable?                                                      //
+// [TYP]int						= The type of platform.                                                                   //
+//									0 = Computer                                                                          //
+//									1 = Stationary Console                                                                //
+//									2 = Handheld                                                                          //
+//									3 = Smartphone                                                                        //
+//									4 = Arcade                                                                            //
+// [STARTPLATFORM]				= Is available at the start of the game (1976).                                           //
+// [PUB](ID)					= The publisher who owns this platform.                                                   //
+// [GAMEPASS]int				= Minimum number of games required for Game Pass.                                         //
+// [BACKCOMP-(1-4)](ID)			= The platform is backwards compatible with the specified platforms.                      //
+// [PRE](ID)					= The specified platform is the predecessor of this platform.                             //
+// [SUC](ID)					= The specified platform is the successor of this platform.                               //
+// [END]						= Ends the entry.                                    									  //
+//                                                                                    									  //
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+[ID]1
 [NAME EN]Amiga 500
-[NAME FR]Amiga 500
 [NAME GE]Amiga 500
-[NAME HU]Amiga 500
-[NAME JA]アタリ 500
-[NAME PL]Amiga 500
 [NAME TU]Amiga 500
-[MANUFACTURER CH]Commodore
+[NAME FR]Amiga 500
+[NAME HU]Amiga 500
+[NAME JA]Amiga 500
+[NAME PL]Amiga 500
+[NAME CH]Amiga 500
+[NAME UA]Amiga 500
+[NAME TH]Amiga 500
 [MANUFACTURER EN]Commodore
-[MANUFACTURER FR]Commodore
 [MANUFACTURER GE]Commodore
-[MANUFACTURER HU]Commodore
-[MANUFACTURER JA]Commodore
-[MANUFACTURER PL]Commodore
 [MANUFACTURER TU]Commodore
+[MANUFACTURER FR]Commodore
+[MANUFACTURER HU]Commodore
+[MANUFACTURER JA]コンモドー
+[MANUFACTURER PL]Commodore
+[MANUFACTURER CH]Commodore
+[MANUFACTURER UA]Commodore
+[MANUFACTURER TH]Commodore
 [DATE]APR 1987
-[DATE END]APR 1991
+[DATE END]APR 1992
 [PRICE]30600
 [DEV COSTS]10500
 [TECHLEVEL]3
@@ -26,25 +66,33 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]0
+[GAMEPASS]10
+[BACKCOMP-1]2
+[PRE]2
+[SUC]-1
 [END]
 
 [ID]2
-[NAME CH]阿米加 1000
 [NAME EN]Amiga 1000
-[NAME FR]Amiga 1000
 [NAME GE]Amiga 1000
-[NAME HU]Amiga 1000
-[NAME JA]アタリ 1000
-[NAME PL]Amiga 1000
 [NAME TU]Amiga 1000
-[MANUFACTURER CH]Commodore
+[NAME FR]Amiga 1000
+[NAME HU]Amiga 1000
+[NAME JA]Amiga 1000
+[NAME PL]Amiga 1000
+[NAME CH]Amiga 1000
+[NAME UA]Amiga 1000
+[NAME TH]Amiga 1000
 [MANUFACTURER EN]Commodore
-[MANUFACTURER FR]Commodore
 [MANUFACTURER GE]Commodore
-[MANUFACTURER HU]Commodore
-[MANUFACTURER JA]Commodore
-[MANUFACTURER PL]Commodore
 [MANUFACTURER TU]Commodore
+[MANUFACTURER FR]Commodore
+[MANUFACTURER HU]Commodore
+[MANUFACTURER JA]コンモドー
+[MANUFACTURER PL]Commodore
+[MANUFACTURER CH]Commodore
+[MANUFACTURER UA]Commodore
+[MANUFACTURER TH]Commodore
 [DATE]JUL 1985
 [DATE END]JUL 1987
 [PRICE]25700
@@ -56,25 +104,32 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]0
+[GAMEPASS]10
+[PRE]-1
+[SUC]1
 [END]
 
 [ID]3
-[NAME CH]雅达利 2600
 [NAME EN]Atari 2600
-[NAME FR]Atari 2600
 [NAME GE]Atari 2600
-[NAME HU]Atari 2600
-[NAME JA]アタリ 2600
-[NAME PL]Atari 2600
 [NAME TU]Atari 2600
-[MANUFACTURER CH]Atari
+[NAME FR]Atari 2600
+[NAME HU]Atari 2600
+[NAME JA]Atari 2600
+[NAME PL]Atari 2600
+[NAME CH]Atari 2600
+[NAME UA]Atari 2600
+[NAME TH]Atari 2600
 [MANUFACTURER EN]Atari
-[MANUFACTURER FR]Atari
 [MANUFACTURER GE]Atari
-[MANUFACTURER HU]Atari
-[MANUFACTURER JA]アタリ
-[MANUFACTURER PL]Atari
 [MANUFACTURER TU]Atari
+[MANUFACTURER FR]Atari
+[MANUFACTURER HU]Atari
+[MANUFACTURER JA]カタリ
+[MANUFACTURER PL]Atari
+[MANUFACTURER CH]Atari
+[MANUFACTURER UA]Atari
+[MANUFACTURER TH]Atari
 [DATE]SEP 1977
 [DATE END]JAN 1992
 [PRICE]30800
@@ -86,25 +141,32 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[PUB]3
+[PRE]-1
+[SUC]4
 [END]
 
 [ID]4
-[NAME CH]雅达利 5200
-[NAME EN]Atari 5200 SuperSystem
-[NAME FR]Atari 5200
+[NAME EN]Atari 5200
 [NAME GE]Atari 5200
-[NAME HU]Atari 5200
-[NAME JA]アタリ 5200
-[NAME PL]Atari 5200
 [NAME TU]Atari 5200
-[MANUFACTURER CH]雅达利
+[NAME FR]Atari 5200
+[NAME HU]Atari 5200
+[NAME JA]Atari 5200
+[NAME PL]Atari 5200
+[NAME CH]Atari 5200
+[NAME UA]Atari 5200
+[NAME TH]Atari 5200
 [MANUFACTURER EN]Atari
-[MANUFACTURER FR]Atari
 [MANUFACTURER GE]Atari
-[MANUFACTURER HU]Atari
-[MANUFACTURER JA]アタリ
-[MANUFACTURER PL]Atari
 [MANUFACTURER TU]Atari
+[MANUFACTURER FR]Atari
+[MANUFACTURER HU]Atari
+[MANUFACTURER JA]カタリ
+[MANUFACTURER PL]Atari
+[MANUFACTURER CH]Atari
+[MANUFACTURER UA]Atari
+[MANUFACTURER TH]Atari
 [DATE]SEP 1982
 [DATE END]SEP 1984
 [PRICE]19000
@@ -116,25 +178,32 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[PUB]3
+[PRE]3
+[SUC]5
 [END]
 
 [ID]5
-[NAME CH]雅达利 7800
-[NAME EN]Atari 7800 ProSystem
-[NAME FR]Atari 7800
+[NAME EN]Atari 7800
 [NAME GE]Atari 7800
-[NAME HU]Atari 7800
-[NAME JA]アタリ 7800
-[NAME PL]Atari 7800
 [NAME TU]Atari 7800
-[MANUFACTURER CH]雅达利
+[NAME FR]Atari 7800
+[NAME HU]Atari 7800
+[NAME JA]Atari 7800
+[NAME PL]Atari 7800
+[NAME CH]Atari 7800
+[NAME UA]Atari 7800
+[NAME TH]Atari 7800
 [MANUFACTURER EN]Atari
-[MANUFACTURER FR]Atari
 [MANUFACTURER GE]Atari
-[MANUFACTURER HU]Atari
-[MANUFACTURER JA]アタリ
-[MANUFACTURER PL]Atari
 [MANUFACTURER TU]Atari
+[MANUFACTURER FR]Atari
+[MANUFACTURER HU]Atari
+[MANUFACTURER JA]カタリ
+[MANUFACTURER PL]Atari
+[MANUFACTURER CH]Atari
+[MANUFACTURER UA]Atari
+[MANUFACTURER TH]Atari
 [DATE]MAY 1986
 [DATE END]JAN 1992
 [PRICE]27100
@@ -146,25 +215,33 @@
 [COMPLEX]1
 [INTERNET]0
 [TYP]1
+[BACKCOMP-1]3
+[PUB]3
+[PRE]4
+[SUC]-1
 [END]
 
 [ID]6
-[NAME CH]Commodore 64
 [NAME EN]Commodore 64
-[NAME FR]Commodore 64
 [NAME GE]Commodore 64
-[NAME HU]Commodore 64
-[NAME JA]Commodore 64
-[NAME PL]Commodore 64
 [NAME TU]Commodore 64
-[MANUFACTURER CH]Commodore
+[NAME FR]Commodore 64
+[NAME HU]Commodore 64
+[NAME JA]コンモドー64
+[NAME PL]Commodore 64
+[NAME CH]Commodore 64
+[NAME UA]Commodore 64
+[NAME TH]Commodore 64
 [MANUFACTURER EN]Commodore
-[MANUFACTURER FR]Commodore
 [MANUFACTURER GE]Commodore
-[MANUFACTURER HU]Commodore
-[MANUFACTURER JA]Commodore
-[MANUFACTURER PL]Commodore
 [MANUFACTURER TU]Commodore
+[MANUFACTURER FR]Commodore
+[MANUFACTURER HU]Commodore
+[MANUFACTURER JA]コンモドー
+[MANUFACTURER PL]Commodore
+[MANUFACTURER CH]Commodore
+[MANUFACTURER UA]Commodore
+[MANUFACTURER TH]Commodore
 [DATE]AUG 1982
 [DATE END]APR 1994
 [PRICE]19200
@@ -176,25 +253,31 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]0
+[PRE]40
+[SUC]7
 [END]
 
 [ID]7
-[NAME CH]Commodore 128
 [NAME EN]Commodore 128
-[NAME FR]Commodore 128
 [NAME GE]Commodore 128
-[NAME HU]Commodore 128
-[NAME JA]Commodore 128
-[NAME PL]Commodore 128
 [NAME TU]Commodore 128
-[MANUFACTURER CH]Commodore
+[NAME FR]Commodore 128
+[NAME HU]Commodore 128
+[NAME JA]コンモドー128
+[NAME PL]Commodore 128
+[NAME CH]Commodore 128
+[NAME UA]Commodore 128
+[NAME TH]Commodore 128
 [MANUFACTURER EN]Commodore
-[MANUFACTURER FR]Commodore
 [MANUFACTURER GE]Commodore
-[MANUFACTURER HU]Commodore
-[MANUFACTURER JA]Commodore
-[MANUFACTURER PL]Commodore
 [MANUFACTURER TU]Commodore
+[MANUFACTURER FR]Commodore
+[MANUFACTURER HU]Commodore
+[MANUFACTURER JA]コンモドー
+[MANUFACTURER PL]Commodore
+[MANUFACTURER CH]Commodore
+[MANUFACTURER UA]Commodore
+[MANUFACTURER TH]Commodore
 [DATE]JAN 1985
 [DATE END]JAN 1989
 [PRICE]25600
@@ -206,25 +289,32 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]0
+[BACKCOMP-1]6
+[PRE]6
+[SUC]-1
 [END]
 
 [ID]8
-[NAME CH]Sega Dreamcast
-[NAME EN]Sega Dreamcast
-[NAME FR]Sega Dreamcast
-[NAME GE]Sega Dreamcast
-[NAME HU]Sega Dreamcast
-[NAME JA]セガドリームキャスト
-[NAME PL]Sega Dreamcast
-[NAME TU]Sega Dreamcast
-[MANUFACTURER CH]Sega
+[NAME EN]Dreamcast
+[NAME GE]Dreamcast
+[NAME TU]Dreamcast
+[NAME FR]Dreamcast
+[NAME HU]Dreamcast
+[NAME JA]リームキャスト
+[NAME PL]Dreamcast
+[NAME CH]Dreamcast
+[NAME UA]Dreamcast
+[NAME TH]Dreamcast
 [MANUFACTURER EN]Sega
-[MANUFACTURER FR]Sega
 [MANUFACTURER GE]Sega
-[MANUFACTURER HU]Sega
-[MANUFACTURER JA]セガ
-[MANUFACTURER PL]Sega
 [MANUFACTURER TU]Sega
+[MANUFACTURER FR]Sega
+[MANUFACTURER HU]Sega
+[MANUFACTURER JA]シガ
+[MANUFACTURER PL]Sega
+[MANUFACTURER CH]Sega
+[MANUFACTURER UA]Sega
+[MANUFACTURER TH]Sega
 [DATE]NOV 1998
 [DATE END]DEC 2001
 [PRICE]102000
@@ -236,25 +326,33 @@
 [COMPLEX]1
 [INTERNET]1
 [TYP]1
+[GAMEPASS]20
+[PUB]23
+[PRE]24
+[SUC]67
 [END]
 
 [ID]9
-[NAME CH]Nintendo Game Boy
-[NAME EN]Nintendo Game Boy
-[NAME FR]Nintendo Game Boy
-[NAME GE]Nintendo Game Boy
-[NAME HU]Nintendo Game Boy
+[NAME EN]Game Boy
+[NAME GE]Game Boy
+[NAME TU]Game Boy
+[NAME FR]Game Boy
+[NAME HU]Game Boy
 [NAME JA]ゲームポータブル
-[NAME PL]Nintendo Game Boy
-[NAME TU]Nintendo Game Boy
-[MANUFACTURER CH]Nintendo
+[NAME PL]Game Boy
+[NAME CH]Game Boy
+[NAME UA]Game Boy
+[NAME TH]Game Boy
 [MANUFACTURER EN]Nintendo
-[MANUFACTURER FR]Nintendo
 [MANUFACTURER GE]Nintendo
-[MANUFACTURER HU]Nintendo
-[MANUFACTURER JA]任天堂
-[MANUFACTURER PL]Nintendo
 [MANUFACTURER TU]Nintendo
+[MANUFACTURER FR]Nintendo
+[MANUFACTURER HU]Nintendo
+[MANUFACTURER JA]民天堂
+[MANUFACTURER PL]Nintendo
+[MANUFACTURER CH]Nintendo
+[MANUFACTURER UA]Nintendo
+[MANUFACTURER TH]Nintendo
 [DATE]APR 1989
 [DATE END]MAR 2003
 [PRICE]35000
@@ -266,25 +364,32 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]2
+[PUB]18
+[PRE]-1
+[SUC]55
 [END]
 
 [ID]10
-[NAME CH]Nintendo GameCube
-[NAME EN]Nintendo GameCube
-[NAME FR]Nintendo GameCube
-[NAME GE]Nintendo GameCube
-[NAME HU]Nintendo GameCube
-[NAME JA]任天堂 GameCube
-[NAME PL]Nintendo GameCube
-[NAME TU]Nintendo GameCube
-[MANUFACTURER CH]Nintendo
+[NAME EN]GameCube
+[NAME GE]GameCube
+[NAME TU]GameCube
+[NAME FR]GameCube
+[NAME HU]GameCube
+[NAME JA]ミンテンドゥプレイキューブ
+[NAME PL]GameCube
+[NAME CH]GameCube
+[NAME UA]GameCube
+[NAME TH]GameCube
 [MANUFACTURER EN]Nintendo
-[MANUFACTURER FR]Nintendo
 [MANUFACTURER GE]Nintendo
-[MANUFACTURER HU]Nintendo
-[MANUFACTURER JA]任天堂
-[MANUFACTURER PL]Nintendo
 [MANUFACTURER TU]Nintendo
+[MANUFACTURER FR]Nintendo
+[MANUFACTURER HU]Nintendo
+[MANUFACTURER JA]民天堂
+[MANUFACTURER PL]Nintendo
+[MANUFACTURER CH]Nintendo
+[MANUFACTURER UA]Nintendo
+[MANUFACTURER TH]Nintendo
 [DATE]SEP 2001
 [DATE END]MAR 2007
 [PRICE]132000
@@ -296,25 +401,33 @@
 [COMPLEX]1
 [INTERNET]1
 [TYP]1
+[GAMEPASS]30
+[PUB]18
+[PRE]14
+[SUC]26
 [END]
 
 [ID]11
-[NAME CH]Sega Game Gear
-[NAME EN]Sega Game Gear
-[NAME FR]Sega Game Gear
-[NAME GE]Sega Game Gear
-[NAME HU]Sega Game Gear
-[NAME JA]セガ Game Gear
-[NAME PL]Sega Game Gear
-[NAME TU]Sega Game Gear
-[MANUFACTURER CH]Sega
+[NAME EN]Game Gear
+[NAME GE]Game Gear
+[NAME TU]Game Gear
+[NAME FR]Game Gear
+[NAME HU]Game Gear
+[NAME JA]プレイギア
+[NAME PL]Game Gear
+[NAME CH]Game Gear
+[NAME UA]Game Gear
+[NAME TH]Game Gear
 [MANUFACTURER EN]Sega
-[MANUFACTURER FR]Sega
 [MANUFACTURER GE]Sega
-[MANUFACTURER HU]Sega
-[MANUFACTURER JA]セガ
-[MANUFACTURER PL]Sega
 [MANUFACTURER TU]Sega
+[MANUFACTURER FR]Sega
+[MANUFACTURER HU]Sega
+[MANUFACTURER JA]シガ
+[MANUFACTURER PL]Sega
+[MANUFACTURER CH]Sega
+[MANUFACTURER UA]Sega
+[MANUFACTURER TH]Sega
 [DATE]OCT 1990
 [DATE END]MAR 1997
 [PRICE]51500
@@ -326,25 +439,32 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]2
+[PUB]23
+[PRE]-1
+[SUC]94
 [END]
 
 [ID]12
-[NAME CH]Sega Master System
-[NAME EN]Sega Master System
-[NAME FR]Sega Master System
-[NAME GE]Sega Master System
-[NAME HU]Sega Master System
-[NAME JA]セガ Master System
-[NAME PL]Sega Master System
-[NAME TU]Sega Master System
-[MANUFACTURER CH]Sega
+[NAME EN]Master System
+[NAME GE]Master System
+[NAME TU]Master System
+[NAME FR]Master System
+[NAME HU]Master System
+[NAME JA]シガ マスターデッキ
+[NAME PL]Master System
+[NAME CH]Master System
+[NAME UA]Master System
+[NAME TH]Master System
 [MANUFACTURER EN]Sega
-[MANUFACTURER FR]Sega
 [MANUFACTURER GE]Sega
-[MANUFACTURER HU]Sega
-[MANUFACTURER JA]セガ
-[MANUFACTURER PL]Sega
 [MANUFACTURER TU]Sega
+[MANUFACTURER FR]Sega
+[MANUFACTURER HU]Sega
+[MANUFACTURER JA]シガ
+[MANUFACTURER PL]Sega
+[MANUFACTURER CH]Sega
+[MANUFACTURER UA]Sega
+[MANUFACTURER TH]Sega
 [DATE]OCT 1985
 [DATE END]OCT 1996
 [PRICE]25900
@@ -356,25 +476,33 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[BACKCOMP-1]39
+[PUB]23
+[PRE]39
+[SUC]13
 [END]
 
 [ID]13
-[NAME CH]Sega Mega Drive
-[NAME EN]Sega Mega Drive
-[NAME FR]Sega Mega Drive
-[NAME GE]Sega Mega Drive
-[NAME HU]Sega Mega Drive
-[NAME JA]セガ Mega Drive
-[NAME PL]Sega Mega Drive
-[NAME TU]Sega Mega Drive
-[MANUFACTURER CH]Sega
+[NAME EN]Mega Drive
+[NAME GE]Mega Drive
+[NAME TU]Mega Drive
+[NAME FR]Mega Drive
+[NAME HU]Mega Drive
+[NAME JA]メガデッキ
+[NAME PL]Mega Drive
+[NAME CH]Mega Drive
+[NAME UA]Mega Drive
+[NAME TH]Mega Drive
 [MANUFACTURER EN]Sega
-[MANUFACTURER FR]Sega
 [MANUFACTURER GE]Sega
-[MANUFACTURER HU]Sega
-[MANUFACTURER JA]セガ
-[MANUFACTURER PL]Sega
 [MANUFACTURER TU]Sega
+[MANUFACTURER FR]Sega
+[MANUFACTURER HU]Sega
+[MANUFACTURER JA]シガ
+[MANUFACTURER PL]Sega
+[MANUFACTURER CH]Sega
+[MANUFACTURER UA]Sega
+[MANUFACTURER TH]Sega
 [DATE]OCT 1988
 [DATE END]OCT 1997
 [PRICE]32900
@@ -386,25 +514,33 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[BACKCOMP-1]12
+[PUB]23
+[PRE]12
+[SUC]24
 [END]
 
 [ID]14
-[NAME CH]Nintendo 64
 [NAME EN]Nintendo 64
-[NAME FR]Nintendo 64
 [NAME GE]Nintendo 64
-[NAME HU]Nintendo 64
-[NAME JA]任天堂 64
-[NAME PL]Nintendo 64
 [NAME TU]Nintendo 64
-[MANUFACTURER CH]Nintendo
+[NAME FR]Nintendo 64
+[NAME HU]Nintendo 64
+[NAME JA]Nintendo64
+[NAME PL]Nintendo 64
+[NAME CH]Nintendo 64
+[NAME UA]Nintendo 64
+[NAME TH]Nintendo 64
 [MANUFACTURER EN]Nintendo
-[MANUFACTURER FR]Nintendo
 [MANUFACTURER GE]Nintendo
-[MANUFACTURER HU]Nintendo
-[MANUFACTURER JA]任天堂
-[MANUFACTURER PL]Nintendo
 [MANUFACTURER TU]Nintendo
+[MANUFACTURER FR]Nintendo
+[MANUFACTURER HU]Nintendo
+[MANUFACTURER JA]民天堂
+[MANUFACTURER PL]Nintendo
+[MANUFACTURER CH]Nintendo
+[MANUFACTURER UA]Nintendo
+[MANUFACTURER TH]Nintendo
 [DATE]JUN 1996
 [DATE END]APR 2002
 [PRICE]85700
@@ -416,25 +552,32 @@
 [COMPLEX]1
 [INTERNET]0
 [TYP]1
+[PUB]18
+[PRE]25
+[SUC]10
 [END]
 
 [ID]15
-[NAME CH]Nintendo Entertainment System
 [NAME EN]Nintendo Entertainment System
-[NAME FR]Nintendo Entertainment System
 [NAME GE]Nintendo Entertainment System
-[NAME HU]Nintendo Entertainment System
-[NAME JA]ムヮミコン
-[NAME PL]Nintendo Entertainment System
 [NAME TU]Nintendo Entertainment System
-[MANUFACTURER CH]Nintendo
+[NAME FR]Nintendo Entertainment System
+[NAME HU]Nintendo Entertainment System
+[NAME JA]ムヮミリーコンピュータ
+[NAME PL]Nintendo Entertainment System
+[NAME CH]Nintendo Entertainment System
+[NAME UA]Nintendo Entertainment System
+[NAME TH]Nintendo Entertainment System
 [MANUFACTURER EN]Nintendo
-[MANUFACTURER FR]Nintendo
 [MANUFACTURER GE]Nintendo
+[MANUFACTURER TU]Nintendo
+[MANUFACTURER FR]Nintendo
 [MANUFACTURER HU]Nintendo
 [MANUFACTURER JA]民天堂
 [MANUFACTURER PL]Nintendo
-[MANUFACTURER TU]Nintendo
+[MANUFACTURER CH]Nintendo
+[MANUFACTURER UA]Nintendo
+[MANUFACTURER TH]Nintendo
 [DATE]JUL 1983
 [DATE END]SEP 1995
 [PRICE]21000
@@ -446,25 +589,32 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[PUB]18
+[PRE]-1
+[SUC]25
 [END]
 
 [ID]16
-[NAME CH]Nintendo DS
-[NAME EN]Nintendo DS
-[NAME FR]Nintendo DS
+[NAME EN]DS
 [NAME GE]Nintendo DS
-[NAME HU]Nintendo DS
-[NAME JA]ミンテンドゥ DS
-[NAME PL]Nintendo DS
 [NAME TU]Nintendo DS
-[MANUFACTURER CH]Nintendo
+[NAME FR]Nintendo DS
+[NAME HU]Nintendo DS
+[NAME JA]ミンテンドゥDS
+[NAME PL]Nintendo DS
+[NAME CH]Nintendo DS
+[NAME UA]Nintendo DS
+[NAME TH]Nintendo DS
 [MANUFACTURER EN]Nintendo
-[MANUFACTURER FR]Nintendo
 [MANUFACTURER GE]Nintendo
+[MANUFACTURER TU]Nintendo
+[MANUFACTURER FR]Nintendo
 [MANUFACTURER HU]Nintendo
 [MANUFACTURER JA]民天堂
 [MANUFACTURER PL]Nintendo
-[MANUFACTURER TU]Nintendo
+[MANUFACTURER CH]Nintendo
+[MANUFACTURER UA]Nintendo
+[MANUFACTURER TH]Nintendo
 [DATE]NOV 2004
 [DATE END]AUG 2013
 [PRICE]183000
@@ -477,25 +627,72 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]2
+[GAMEPASS]30
+[BACKCOMP-1]55
+[PUB]18
+[PRE]55
+[SUC]56
+[END]
+
+[ID]17
+[NAME EN]Personal Computer
+[NAME GE]Personal Computer
+[NAME TU]Personal Computer
+[NAME FR]Personal Computer
+[NAME HU]Személyi számítógép
+[NAME JA]パーソナルコンピュータ
+[NAME PL]PC
+[NAME UA]Персональний комп'ютер
+[NAME CH]Personal Computer
+[NAME TH]คอมพิวเตอร์ส่วนบุคคล
+[MANUFACTURER EN]IBM
+[MANUFACTURER GE]IBM
+[MANUFACTURER TU]IBM
+[MANUFACTURER FR]IBM
+[MANUFACTURER HU]IBM
+[MANUFACTURER JA]IBM
+[MANUFACTURER PL]IBM
+[MANUFACTURER CH]IBM
+[MANUFACTURER UA]IBM
+[MANUFACTURER TH]IBM
+[DATE]AUG 1981
+[PRICE]17000
+[DEV COSTS]5500
+[TECHLEVEL]9
+[UNITS]150000000
+[PIC-1]PC.png
+[PIC-2]PC-Neu.png
+[PIC-2 YEAR]2001
+[NEED-1]44
+[COMPLEX]0
+[INTERNET]1
+[TYP]0
+[GAMEPASS]10
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]18
-[NAME CH]Sony Playstation
-[NAME EN]Sony PlayStation
-[NAME FR]Sony Playstation
-[NAME GE]Sony Playstation
-[NAME HU]Sony Playstation
-[NAME JA]ソニープレイステーション
-[NAME PL]Sony Playstation
-[NAME TU]Sony Playstation
-[MANUFACTURER CH]Sony
+[NAME EN]PlayStation
+[NAME GE]PlayStation
+[NAME TU]PlayStation
+[NAME FR]PlayStation
+[NAME HU]PlayStation
+[NAME JA]ゲームステーション
+[NAME PL]PlayStation
+[NAME CH]PlayStation
+[NAME UA]PlayStation
+[NAME TH]PlayStation
 [MANUFACTURER EN]Sony
-[MANUFACTURER FR]Sony
 [MANUFACTURER GE]Sony
-[MANUFACTURER HU]Sony
-[MANUFACTURER JA]ソニー
-[MANUFACTURER PL]Sony
 [MANUFACTURER TU]Sony
+[MANUFACTURER FR]Sony
+[MANUFACTURER HU]Sony
+[MANUFACTURER JA]ポニー
+[MANUFACTURER PL]Sony
+[MANUFACTURER CH]Sony
+[MANUFACTURER UA]Sony
+[MANUFACTURER TH]Sony
 [DATE]DEC 1994
 [DATE END]AUG 2006
 [PRICE]73000
@@ -503,31 +700,36 @@
 [TECHLEVEL]4
 [UNITS]104250000
 [PIC-1]PlayStation.png
-[PIC-2]PSOne.png
-[PIC-2 YEAR]2000
 [NEED-1]51
 [COMPLEX]1
 [INTERNET]0
 [TYP]1
+[PUB]25
+[PRE]-1
+[SUC]19
 [END]
 
 [ID]19
-[NAME CH]Sony Playstation 2
-[NAME EN]Sony PlayStation 2
-[NAME FR]Sony Playstation 2
-[NAME GE]Sony Playstation 2
-[NAME HU]Sony Playstation 2
-[NAME JA]ソニープレイステーション 2
-[NAME PL]Sony Playstation 2
-[NAME TU]Sony Playstation 2
-[MANUFACTURER CH]Sony
+[NAME EN]PlayStation 2
+[NAME GE]PlayStation 2
+[NAME TU]PlayStation 2
+[NAME FR]PlayStation 2
+[NAME HU]PlayStation 2
+[NAME JA]ゲームステーション2
+[NAME PL]PlayStation 2
+[NAME CH]PlayStation 2
+[NAME UA]PlayStation 2
+[NAME TH]PlayStation 2
 [MANUFACTURER EN]Sony
-[MANUFACTURER FR]Sony
 [MANUFACTURER GE]Sony
-[MANUFACTURER HU]Sony
-[MANUFACTURER JA]ソニー
-[MANUFACTURER PL]Sony
 [MANUFACTURER TU]Sony
+[MANUFACTURER FR]Sony
+[MANUFACTURER HU]Sony
+[MANUFACTURER JA]ポニー
+[MANUFACTURER PL]Sony
+[MANUFACTURER CH]Sony
+[MANUFACTURER UA]Sony
+[MANUFACTURER TH]Sony
 [DATE]MAR 2000
 [DATE END]JAN 2013
 [PRICE]126000
@@ -535,31 +737,38 @@
 [TECHLEVEL]5
 [UNITS]157680000
 [PIC-1]PlayStation2.png
-[PIC-2]PSslim.png
-[PIC-2 YEAR]2004
 [NEED-1]51
 [COMPLEX]1
 [INTERNET]1
 [TYP]1
+[GAMEPASS]25
+[BACKCOMP-1]18
+[PUB]25
+[PRE]18
+[SUC]20
 [END]
 
 [ID]20
-[NAME CH]Sony Playstation 3
-[NAME EN]Sony PlayStation 3
-[NAME FR]Sony Playstation 3
-[NAME GE]Sony Playstation 3
-[NAME HU]Sony Playstation 3
-[NAME JA]ソニープレイステーション 3
-[NAME PL]Sony Playstation 3
-[NAME TU]Sony Playstation 3
-[MANUFACTURER CH]Sony
+[NAME EN]PlayStation 3
+[NAME GE]PlayStation 3
+[NAME TU]PlayStation 3
+[NAME FR]PlayStation 3
+[NAME HU]PlayStation 3
+[NAME JA]ゲームステーション3
+[NAME PL]PlayStation 3
+[NAME CH]PlayStation 3
+[NAME UA]PlayStation 3
+[NAME TH]PlayStation 3
 [MANUFACTURER EN]Sony
-[MANUFACTURER FR]Sony
 [MANUFACTURER GE]Sony
-[MANUFACTURER HU]Sony
-[MANUFACTURER JA]ソニー
-[MANUFACTURER PL]Sony
 [MANUFACTURER TU]Sony
+[MANUFACTURER FR]Sony
+[MANUFACTURER HU]Sony
+[MANUFACTURER JA]ポニー
+[MANUFACTURER PL]Sony
+[MANUFACTURER CH]Sony
+[MANUFACTURER UA]Sony
+[MANUFACTURER TH]Sony
 [DATE]NOV 2006
 [DATE END]MAY 2017
 [PRICE]231000
@@ -567,33 +776,39 @@
 [TECHLEVEL]6
 [UNITS]87430000
 [PIC-1]PlayStation3.png
-[PIC-2]PS3slim.png
-[PIC-3]PS3super.png
-[PIC-2 YEAR]2009
-[PIC-3 YEAR]2012
 [NEED-1]51
 [COMPLEX]2
 [INTERNET]1
 [TYP]1
+[GAMEPASS]25
+[BACKCOMP-1]18
+[BACKCOMP-2]19
+[PUB]25
+[PRE]19
+[SUC]21
 [END]
 
 [ID]21
-[NAME CH]Sony Playstation 4
-[NAME EN]Sony PlayStation 4
-[NAME FR]Sony Playstation 4
-[NAME GE]Sony Playstation 4
-[NAME HU]Sony Playstation 4
-[NAME JA]ソニープレイステーション 4
-[NAME PL]Sony Playstation 4
-[NAME TU]Sony Playstation 4
-[MANUFACTURER CH]Sony
+[NAME EN]PlayStation 4
+[NAME GE]PlayStation 4
+[NAME TU]PlayStation 4
+[NAME FR]PlayStation 4
+[NAME HU]PlayStation 4
+[NAME JA]ゲームステーション4
+[NAME PL]PlayStation 4
+[NAME CH]PlayStation 4
+[NAME UA]PlayStation 4
+[NAME TH]PlayStation 4
 [MANUFACTURER EN]Sony
-[MANUFACTURER FR]Sony
 [MANUFACTURER GE]Sony
-[MANUFACTURER HU]Sony
-[MANUFACTURER JA]ソニー
-[MANUFACTURER PL]Sony
 [MANUFACTURER TU]Sony
+[MANUFACTURER FR]Sony
+[MANUFACTURER HU]Sony
+[MANUFACTURER JA]ポニー
+[MANUFACTURER PL]Sony
+[MANUFACTURER CH]Sony
+[MANUFACTURER UA]Sony
+[MANUFACTURER TH]Sony
 [DATE]NOV 2013
 [DATE END]JUN 2022
 [PRICE]365000
@@ -601,31 +816,37 @@
 [TECHLEVEL]7
 [UNITS]120000000
 [PIC-1]PlayStation4.png
-[PIC-2]PS4slim.png
-[PIC-2 YEAR]2016
 [NEED-1]51
 [COMPLEX]1
 [INTERNET]1
 [TYP]1
+[GAMEPASS]25
+[PUB]25
+[PRE]20
+[SUC]22
 [END]
 
 [ID]22
-[NAME CH]Sony Playstation 5
-[NAME EN]Sony PlayStation 5
-[NAME FR]Sony Playstation 5
-[NAME GE]Sony Playstation 5
-[NAME HU]Sony Playstation 5
-[NAME JA]Sony PlayStation 5
-[NAME PL]Sony Playstation 5
-[NAME TU]Sony Playstation 5
-[MANUFACTURER CH]Sony
+[NAME EN]PlayStation 5
+[NAME GE]PlayStation 5
+[NAME TU]PlayStation 5
+[NAME FR]PlayStation 5
+[NAME HU]PlayStation 5
+[NAME JA]ゲームステーション5
+[NAME PL]PlayStation 5
+[NAME CH]PlayStation 5
+[NAME UA]PlayStation 5
+[NAME TH]PlayStation 5
 [MANUFACTURER EN]Sony
-[MANUFACTURER FR]Sony
 [MANUFACTURER GE]Sony
-[MANUFACTURER HU]Sony
-[MANUFACTURER JA]ソニー
-[MANUFACTURER PL]Sony
 [MANUFACTURER TU]Sony
+[MANUFACTURER FR]Sony
+[MANUFACTURER HU]Sony
+[MANUFACTURER JA]ポニー
+[MANUFACTURER PL]Sony
+[MANUFACTURER CH]Sony
+[MANUFACTURER UA]Sony
+[MANUFACTURER TH]Sony
 [DATE]NOV 2020
 [DATE END]JUN 2030
 [PRICE]506000
@@ -637,24 +858,34 @@
 [COMPLEX]1
 [INTERNET]1
 [TYP]1
+[GAMEPASS]25
+[BACKCOMP-1]21
+[PUB]25
+[PRE]21
+[SUC]95
 [END]
 
 [ID]23
-[NAME CH]Sony PSP
-[NAME EN]Sony PSP
-[NAME FR]Sony PSP
-[NAME GE]Sony PSP
-[NAME HU]Sony PSP
-[NAME JA]ソニー PSP
-[NAME PL]Sony PSP
-[NAME TU]Sony PSP
-[MANUFACTURER CH]Sony
+[NAME EN]PSP
+[NAME GE]PSP
+[NAME TU]PSP
+[NAME FR]PSP
+[NAME HU]PSP
+[NAME JA]ゲームステーションポータブル
+[NAME PL]PSP
+[NAME CH]PSP
+[NAME UA]PSP
+[NAME TH]PSP
 [MANUFACTURER EN]Sony
-[MANUFACTURER FR]Sony
 [MANUFACTURER GE]Sony
-[MANUFACTURER HU]Sony
-[MANUFACTURER JA]ソニー
 [MANUFACTURER TU]Sony
+[MANUFACTURER FR]Sony
+[MANUFACTURER HU]Sony
+[MANUFACTURER JA]ポニー
+[MANUFACTURER PL]Sony
+[MANUFACTURER CH]Sony
+[MANUFACTURER UA]Sony
+[MANUFACTURER TH]Sony
 [DATE]DEC 2004
 [DATE END]DEC 2014
 [PRICE]180000
@@ -666,25 +897,33 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]2
+[GAMEPASS]25
+[PUB]25
+[PRE]-1
+[SUC]46
 [END]
 
 [ID]24
-[NAME CH]Sega Saturn
-[NAME EN]Sega Saturn
-[NAME FR]Sega Saturn
-[NAME GE]Sega Saturn
-[NAME HU]Sega Saturn
-[NAME JA]Sega Saturn
+[NAME EN]Saturn
+[NAME GE]Saturn
+[NAME TU]Saturn
+[NAME FR]Saturn
+[NAME HU]Saturn
+[NAME JA]シガウラヌス
 [NAME PL]Sega Saturn
-[NAME TU]Sega Saturn
-[MANUFACTURER CH]Sega
+[NAME CH]Sega Saturn
+[NAME UA]Sega Saturn
+[NAME TH]Sega Saturn
 [MANUFACTURER EN]Sega
-[MANUFACTURER FR]Sega
 [MANUFACTURER GE]Sega
-[MANUFACTURER HU]Sega
-[MANUFACTURER JA]セガ
-[MANUFACTURER PL]Sega
 [MANUFACTURER TU]Sega
+[MANUFACTURER FR]Sega
+[MANUFACTURER HU]Sega
+[MANUFACTURER JA]シガ
+[MANUFACTURER PL]Sega
+[MANUFACTURER CH]Sega
+[MANUFACTURER UA]Sega
+[MANUFACTURER TH]Sega
 [DATE]NOV 1994
 [DATE END]NOV 2000
 [PRICE]74500
@@ -696,25 +935,33 @@
 [COMPLEX]2
 [INTERNET]1
 [TYP]1
+[GAMEPASS]20
+[PUB]23
+[PRE]13
+[SUC]8
 [END]
 
 [ID]25
-[NAME CH]SNES
-[NAME EN]SNES
-[NAME FR]SNES
-[NAME GE]SNES
-[NAME HU]SNES
-[NAME JA]スーパー任天堂
-[NAME PL]SNES
-[NAME TU]SNES
-[MANUFACTURER CH]Nintendo
+[NAME EN]Super Nintendo Entertainment System
+[NAME GE]Super Nintendo Entertainment System
+[NAME TU]Super Nintendo Entertainment System
+[NAME FR]Super Nintendo Entertainment System
+[NAME HU]Super Nintendo Entertainment System
+[NAME JA]スーパームヮミコン
+[NAME PL]Super Nintendo Entertainment System
+[NAME CH]Super Nintendo Entertainment System
+[NAME UA]Super Nintendo Entertainment System
+[NAME TH]Super Nintendo Entertainment System
 [MANUFACTURER EN]Nintendo
-[MANUFACTURER FR]Nintendo
 [MANUFACTURER GE]Nintendo
+[MANUFACTURER TU]Nintendo
+[MANUFACTURER FR]Nintendo
 [MANUFACTURER HU]Nintendo
 [MANUFACTURER JA]民天堂
 [MANUFACTURER PL]Nintendo
-[MANUFACTURER TU]Nintendo
+[MANUFACTURER CH]Nintendo
+[MANUFACTURER UA]Nintendo
+[MANUFACTURER TH]Nintendo
 [DATE]NOV 1990
 [DATE END]SEP 1999
 [PRICE]52500
@@ -726,25 +973,32 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[PUB]18
+[PRE]15
+[SUC]14
 [END]
 
 [ID]26
-[NAME CH]Nintendo Wii
-[NAME EN]Nintendo Wii
-[NAME FR]Nintendo Wii
+[NAME EN]Wii
 [NAME GE]Nintendo Wii
+[NAME TU]Nintendo Wii
+[NAME FR]Nintendo Wii
 [NAME HU]Nintendo Wii
 [NAME JA]Wii
 [NAME PL]Nintendo Wii
-[NAME TU]Nintendo Wii
-[MANUFACTURER CH]Nintendo
+[NAME CH]Nintendo Wii
+[NAME UA]Nintendo Wii
+[NAME TH]Nintendo Wii
 [MANUFACTURER EN]Nintendo
-[MANUFACTURER FR]Nintendo
 [MANUFACTURER GE]Nintendo
+[MANUFACTURER TU]Nintendo
+[MANUFACTURER FR]Nintendo
 [MANUFACTURER HU]Nintendo
 [MANUFACTURER JA]民天堂
 [MANUFACTURER PL]Nintendo
-[MANUFACTURER TU]Nintendo
+[MANUFACTURER CH]Nintendo
+[MANUFACTURER UA]Nintendo
+[MANUFACTURER TH]Nintendo
 [DATE]NOV 2006
 [DATE END]OCT 2013
 [PRICE]227000
@@ -757,27 +1011,36 @@
 [COMPLEX]1
 [INTERNET]1
 [TYP]1
+[GAMEPASS]30
+[BACKCOMP-1]10
+[PUB]18
+[PRE]10
+[SUC]27
 [END]
 
 [ID]27
-[NAME CH]Nintendo Wii U
-[NAME EN]Nintendo Wii U
-[NAME FR]Nintendo Wii U
+[NAME EN]Wii U
 [NAME GE]Nintendo Wii U
-[NAME HU]Nintendo Wii U
-[NAME JA]WiiU
-[NAME PL]Nintendo Wii U
 [NAME TU]Nintendo Wii U
-[MANUFACTURER CH]Nintendo
+[NAME FR]Nintendo Wii U
+[NAME HU]Nintendo Wii U
+[NAME JA]Wii U
+[NAME PL]Nintendo Wii U
+[NAME CH]Nintendo Wii U
+[NAME UA]Nintendo Wii U
+[NAME TH]Nintendo Wii U
 [MANUFACTURER EN]Nintendo
-[MANUFACTURER FR]Nintendo
 [MANUFACTURER GE]Nintendo
+[MANUFACTURER TU]Nintendo
+[MANUFACTURER FR]Nintendo
 [MANUFACTURER HU]Nintendo
 [MANUFACTURER JA]民天堂
 [MANUFACTURER PL]Nintendo
-[MANUFACTURER TU]Nintendo
+[MANUFACTURER CH]Nintendo
+[MANUFACTURER UA]Nintendo
+[MANUFACTURER TH]Nintendo
 [DATE]DEC 2012
-[DATE END]JAN 2017
+[DATE END]JUN 2017
 [PRICE]345000
 [DEV COSTS]115000
 [TECHLEVEL]6
@@ -788,25 +1051,34 @@
 [COMPLEX]1
 [INTERNET]1
 [TYP]1
+[GAMEPASS]30
+[BACKCOMP-1]26
+[PUB]18
+[PRE]26
+[SUC]82
 [END]
 
 [ID]28
-[NAME CH]Nintendo Switch Pro
-[NAME EN]Nintendo Switch Pro
-[NAME FR]Nintendo Switch Pro
+[NAME EN]Switch Pro
 [NAME GE]Nintendo Switch Pro
-[NAME HU]Nintendo Switch Pro
-[NAME JA]任天堂 Switch Pro
-[NAME PL]Nintendo Switch Pro
 [NAME TU]Nintendo Switch Pro
-[MANUFACTURER CH]Nintendo
+[NAME FR]Nintendo Switch Pro
+[NAME HU]Nintendo Switch Pro
+[NAME JA]Nintendo Switch Pro
+[NAME PL]Nintendo Switch Pro
+[NAME CH]Nintendo Switch Pro
+[NAME UA]Nintendo Switch Pro
+[NAME TH]Nintendo Switch Pro
 [MANUFACTURER EN]Nintendo
-[MANUFACTURER FR]Nintendo
 [MANUFACTURER GE]Nintendo
-[MANUFACTURER HU]Nintendo
-[MANUFACTURER JA]任天堂
-[MANUFACTURER PL]Nintendo
 [MANUFACTURER TU]Nintendo
+[MANUFACTURER FR]Nintendo
+[MANUFACTURER HU]Nintendo
+[MANUFACTURER JA]民天堂
+[MANUFACTURER PL]Nintendo
+[MANUFACTURER CH]Nintendo
+[MANUFACTURER UA]Nintendo
+[MANUFACTURER TH]Nintendo
 [DATE]DEC 2024
 [DATE END]JAN 2031
 [PRICE]526000
@@ -819,25 +1091,34 @@
 [COMPLEX]1
 [INTERNET]1
 [TYP]1
+[GAMEPASS]30
+[BACKCOMP-1]82
+[PUB]18
+[PRE]82
+[SUC]70
 [END]
 
 [ID]29
-[NAME CH]Microsoft Xbox
-[NAME EN]Microsoft Xbox
-[NAME FR]Microsoft Xbox
+[NAME EN]Xbox
 [NAME GE]Microsoft Xbox
+[NAME TU]Microsoft Xbox
+[NAME FR]Microsoft Xbox
 [NAME HU]Microsoft Xbox
 [NAME JA]Xbox
 [NAME PL]Microsoft Xbox
-[NAME TU]Microsoft Xbox
-[MANUFACTURER CH]Microsoft
+[NAME CH]Microsoft Xbox
+[NAME UA]Microsoft Xbox
+[NAME TH]Microsoft Xbox
 [MANUFACTURER EN]Microsoft
-[MANUFACTURER FR]Microsoft
 [MANUFACTURER GE]Microsoft
+[MANUFACTURER TU]Microsoft
+[MANUFACTURER FR]Microsoft
 [MANUFACTURER HU]Microsoft
 [MANUFACTURER JA]ミニソフト
 [MANUFACTURER PL]Microsoft
-[MANUFACTURER TU]Microsoft
+[MANUFACTURER CH]Microsoft
+[MANUFACTURER UA]Microsoft
+[MANUFACTURER TH]Microsoft
 [DATE]NOV 2001
 [DATE END]MAR 2009
 [PRICE]134000
@@ -849,25 +1130,33 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]1
+[GAMEPASS]20
+[PUB]16
+[PRE]-1
+[SUC]30
 [END]
 
 [ID]30
-[NAME CH]Microsoft Xbox 360
-[NAME EN]Microsoft Xbox 360
-[NAME FR]Microsoft Xbox 360
+[NAME EN]Xbox 360
 [NAME GE]Microsoft Xbox 360
-[NAME HU]Microsoft Xbox 360
-[NAME JA]Xbox 360
-[NAME PL]Microsoft Xbox 360
 [NAME TU]Microsoft Xbox 360
-[MANUFACTURER CH]Microsoft
+[NAME FR]Microsoft Xbox 360
+[NAME HU]Microsoft Xbox 360
+[NAME JA]Xbox360
+[NAME PL]Microsoft Xbox 360
+[NAME CH]Microsoft Xbox 360
+[NAME UA]Microsoft Xbox 360
+[NAME TH]Microsoft Xbox 360
 [MANUFACTURER EN]Microsoft
-[MANUFACTURER FR]Microsoft
 [MANUFACTURER GE]Microsoft
+[MANUFACTURER TU]Microsoft
+[MANUFACTURER FR]Microsoft
 [MANUFACTURER HU]Microsoft
 [MANUFACTURER JA]ミニソフト
 [MANUFACTURER PL]Microsoft
-[MANUFACTURER TU]Microsoft
+[MANUFACTURER CH]Microsoft
+[MANUFACTURER UA]Microsoft
+[MANUFACTURER TH]Microsoft
 [DATE]NOV 2005
 [DATE END]APR 2016
 [PRICE]207000
@@ -879,25 +1168,33 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]1
+[GAMEPASS]20
+[PUB]16
+[PRE]29
+[SUC]32
 [END]
 
 [ID]31
-[NAME CH]Microsoft Xbox Series X
-[NAME EN]Microsoft Xbox Series X
-[NAME FR]Microsoft Xbox Series X
+[NAME EN]Xbox Series X
 [NAME GE]Microsoft Xbox Series X
-[NAME HU]Microsoft Xbox SeriesX
+[NAME TU]Microsoft Xbox Series X
+[NAME FR]Microsoft Xbox Series X
+[NAME HU]Microsoft Xbox Series X
 [NAME JA]Xbox Series X
 [NAME PL]Microsoft Xbox Series X
-[NAME TU]Microsoft Xbox Series X
-[MANUFACTURER CH]Microsoft
+[NAME CH]Microsoft Xbox Series X
+[NAME UA]Microsoft Xbox Series X
+[NAME TH]Microsoft Xbox Series X
 [MANUFACTURER EN]Microsoft
-[MANUFACTURER FR]Microsoft
 [MANUFACTURER GE]Microsoft
+[MANUFACTURER TU]Microsoft
+[MANUFACTURER FR]Microsoft
 [MANUFACTURER HU]Microsoft
 [MANUFACTURER JA]ミニソフト
 [MANUFACTURER PL]Microsoft
-[MANUFACTURER TU]Microsoft
+[MANUFACTURER CH]Microsoft
+[MANUFACTURER UA]Microsoft
+[MANUFACTURER TH]Microsoft
 [DATE]NOV 2020
 [DATE END]MAY 2030
 [PRICE]500000
@@ -909,25 +1206,36 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]1
+[GAMEPASS]20
+[BACKCOMP-1]29
+[BACKCOMP-2]30
+[BACKCOMP-3]32
+[PUB]16
+[PRE]32
+[SUC]96
 [END]
 
 [ID]32
-[NAME CH]Microsoft Xbox One
-[NAME EN]Microsoft Xbox One
-[NAME FR]Microsoft Xbox One
+[NAME EN]Xbox One
 [NAME GE]Microsoft Xbox One
-[NAME HU]Microsoft Xbox One
-[NAME JA]Xbox One
-[NAME PL]Microsoft Xbox One
 [NAME TU]Microsoft Xbox One
-[MANUFACTURER CH]Microsoft
+[NAME FR]Microsoft Xbox One
+[NAME HU]Microsoft Xbox One
+[NAME JA]Xbox720
+[NAME PL]Microsoft Xbox One
+[NAME CH]Microsoft Xbox One
+[NAME UA]Microsoft Xbox One
+[NAME TH]Microsoft Xbox One
 [MANUFACTURER EN]Microsoft
-[MANUFACTURER FR]Microsoft
 [MANUFACTURER GE]Microsoft
+[MANUFACTURER TU]Microsoft
+[MANUFACTURER FR]Microsoft
 [MANUFACTURER HU]Microsoft
 [MANUFACTURER JA]ミニソフト
 [MANUFACTURER PL]Microsoft
-[MANUFACTURER TU]Microsoft
+[MANUFACTURER CH]Microsoft
+[MANUFACTURER UA]Microsoft
+[MANUFACTURER TH]Microsoft
 [DATE]NOV 2013
 [DATE END]MAY 2023
 [PRICE]360000
@@ -935,32 +1243,39 @@
 [TECHLEVEL]7
 [UNITS]65000000
 [PIC-1]XboxOne.png
-[PIC-2]XboxS.png
-[PIC-3]XboxOneX.png
-[PIC-2 YEAR]2018
 [NEED-1]51
 [COMPLEX]0
 [INTERNET]1
 [TYP]1
+[GAMEPASS]20
+[BACKCOMP-1]29
+[BACKCOMP-2]30
+[PUB]16
+[PRE]30
+[SUC]31
 [END]
 
 [ID]33
-[NAME CH]雅达利 Jaguar
 [NAME EN]Atari Jaguar
-[NAME FR]Atari Jaguar
 [NAME GE]Atari Jaguar
-[NAME HU]Atari Jaguar
-[NAME JA]アタリ Jaguar
-[NAME PL]Atari Jaguar
 [NAME TU]Atari Jaguar
-[MANUFACTURER CH]雅达利
+[NAME FR]Atari Jaguar
+[NAME HU]Atari Jaguar
+[NAME JA]Atari Jaguar
+[NAME PL]Atari Jaguar
+[NAME CH]Atari Jaguar
+[NAME UA]Atari Jaguar
+[NAME TH]Atari Jaguar
 [MANUFACTURER EN]Atari
-[MANUFACTURER FR]Atari
 [MANUFACTURER GE]Atari
-[MANUFACTURER HU]Atari
-[MANUFACTURER JA]アタリ
-[MANUFACTURER PL]Atari
 [MANUFACTURER TU]Atari
+[MANUFACTURER FR]Atari
+[MANUFACTURER HU]Atari
+[MANUFACTURER JA]カタリ
+[MANUFACTURER PL]Atari
+[MANUFACTURER CH]Atari
+[MANUFACTURER UA]Atari
+[MANUFACTURER TH]Atari
 [DATE]NOV 1993
 [DATE END]JUL 1996
 [PRICE]65000
@@ -972,25 +1287,32 @@
 [COMPLEX]2
 [INTERNET]0
 [TYP]1
+[PUB]3
+[PRE]5
+[SUC]34
 [END]
 
 [ID]34
-[NAME CH]雅达利 Jaguar 2
 [NAME EN]Atari Jaguar 2
-[NAME FR]Atari Jaguar 2
 [NAME GE]Atari Jaguar 2
-[NAME HU]Atari Jaguar 2
-[NAME JA]アタリ Jaguar 2
-[NAME PL]Atari Jaguar 2
 [NAME TU]Atari Jaguar 2
-[MANUFACTURER CH]雅达利
+[NAME FR]Atari Jaguar 2
+[NAME HU]Atari Jaguar 2
+[NAME JA]Atari Jaguar 2
+[NAME PL]Atari Jaguar 2
+[NAME CH]Atari Jaguar 2
+[NAME UA]Atari Jaguar 2
+[NAME TH]Atari Jaguar 2
 [MANUFACTURER EN]Atari
-[MANUFACTURER FR]Atari
 [MANUFACTURER GE]Atari
-[MANUFACTURER HU]Atari
-[MANUFACTURER JA]アタリ
-[MANUFACTURER PL]Atari
 [MANUFACTURER TU]Atari
+[MANUFACTURER FR]Atari
+[MANUFACTURER HU]Atari
+[MANUFACTURER JA]カタリ
+[MANUFACTURER PL]Atari
+[MANUFACTURER CH]Atari
+[MANUFACTURER UA]Atari
+[MANUFACTURER TH]Atari
 [DATE]JUL 2026
 [PRICE]625000
 [DEV COSTS]206000
@@ -1001,25 +1323,34 @@
 [COMPLEX]2
 [INTERNET]1
 [TYP]1
+[GAMEPASS]15
+[BACKCOMP-1]33
+[PUB]3
+[PRE]33
+[SUC]-1
 [END]
 
 [ID]35
-[NAME CH]3DO
 [NAME EN]3DO
-[NAME FR]3DO
 [NAME GE]3DO
+[NAME TU]3DO
+[NAME FR]3DO
 [NAME HU]3DO
 [NAME JA]3DO
 [NAME PL]3DO
-[NAME TU]3DO
-[MANUFACTURER CH]The 3DO Company
+[NAME CH]3DO
+[NAME UA]3DO
+[NAME TH]3DO
 [MANUFACTURER EN]The 3DO Company
-[MANUFACTURER FR]The 3DO Company
 [MANUFACTURER GE]The 3DO Company
-[MANUFACTURER HU]The 3DO Company
-[MANUFACTURER JA]3DO
-[MANUFACTURER PL]The 3DO Company
 [MANUFACTURER TU]The 3DO Company
+[MANUFACTURER FR]The 3DO Company
+[MANUFACTURER HU]The 3DO Company
+[MANUFACTURER JA]3DO社
+[MANUFACTURER PL]The 3DO Company
+[MANUFACTURER CH]The 3DO Company
+[MANUFACTURER UA]The 3DO Company
+[MANUFACTURER TH]The 3DO Company
 [DATE]OCT 1993
 [DATE END]JAN 1996
 [PRICE]65800
@@ -1031,25 +1362,32 @@
 [COMPLEX]1
 [INTERNET]1
 [TYP]1
+[GAMEPASS]15
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]36
-[NAME CH]Vectrex
 [NAME EN]Vectrex
-[NAME FR]Vectrex
 [NAME GE]Vectrex
-[NAME HU]Vectrex
-[NAME JA]Vectrex
-[NAME PL]Vectrex
 [NAME TU]Vectrex
-[MANUFACTURER CH]General Electric
-[MANUFACTURER EN]General Electric
-[MANUFACTURER FR]General Electric
-[MANUFACTURER GE]General Electric
-[MANUFACTURER HU]General Electric
-[MANUFACTURER JA]General Electric
-[MANUFACTURER PL]General Electric
-[MANUFACTURER TU]General Electric
+[NAME FR]Vectrex
+[NAME HU]Vectrex
+[NAME JA]兆速船
+[NAME PL]Vectrex
+[NAME CH]Vectrex
+[NAME UA]Vectrex
+[NAME TH]Vectrex
+[MANUFACTURER EN]General Consumer Electronics
+[MANUFACTURER GE]General Consumer Electronics
+[MANUFACTURER TU]General Consumer Electronics
+[MANUFACTURER FR]General Consumer Electronics
+[MANUFACTURER HU]General Consumer Electronics
+[MANUFACTURER JA]ジェネラル セレクトリック
+[MANUFACTURER PL]General Consumer Electronics
+[MANUFACTURER CH]General Consumer Electronics
+[MANUFACTURER UA]General Consumer Electronics
+[MANUFACTURER TH]General Consumer Electronics
 [DATE]NOV 1982
 [DATE END]DEC 1984
 [PRICE]19900
@@ -1061,25 +1399,31 @@
 [COMPLEX]2
 [INTERNET]0
 [TYP]1
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]37
-[NAME CH]Colecovision
-[NAME EN]Colecovision
-[NAME FR]Colecovision
-[NAME GE]Colecovision
-[NAME HU]Colecovision
-[NAME JA]Colecovision
-[NAME PL]Colecovision
-[NAME TU]Colecovision
-[MANUFACTURER CH]Coleco
+[NAME EN]ColecoVision
+[NAME GE]ColecoVision
+[NAME TU]ColecoVision
+[NAME FR]ColecoVision
+[NAME HU]ColecoVision
+[NAME JA]コレッコビジョン
+[NAME PL]ColecoVision
+[NAME CH]ColecoVision
+[NAME UA]ColecoVision
+[NAME TH]ColecoVision
 [MANUFACTURER EN]Coleco
-[MANUFACTURER FR]Coleco
 [MANUFACTURER GE]Coleco
-[MANUFACTURER HU]Coleco
-[MANUFACTURER JA]Coleco
-[MANUFACTURER PL]Coleco
 [MANUFACTURER TU]Coleco
+[MANUFACTURER FR]Coleco
+[MANUFACTURER HU]Coleco
+[MANUFACTURER JA]コレッコ
+[MANUFACTURER PL]Coleco
+[MANUFACTURER CH]Coleco
+[MANUFACTURER UA]Coleco
+[MANUFACTURER TH]Coleco
 [DATE]AUG 1982
 [DATE END]OCT 1985
 [PRICE]19000
@@ -1091,25 +1435,31 @@
 [COMPLEX]1
 [INTERNET]0
 [TYP]1
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]38
-[NAME CH]Intellivision
 [NAME EN]Intellivision
-[NAME FR]Intellivision
 [NAME GE]Intellivision
-[NAME HU]Intellivision
-[NAME JA]Intellivision
-[NAME PL]Intellivision
 [NAME TU]Intellivision
-[MANUFACTURER CH]Mattel
-[MANUFACTURER EN]Mattel
-[MANUFACTURER FR]Mattel
-[MANUFACTURER GE]Mattel
-[MANUFACTURER HU]Mattel
-[MANUFACTURER JA]Mattel
-[MANUFACTURER PL]Mattel
-[MANUFACTURER TU]Mattel
+[NAME FR]Intellivision
+[NAME HU]Intellivision
+[NAME JA]インテルビジュアル
+[NAME PL]Intellivision
+[NAME CH]Intellivision
+[NAME UA]Intellivision
+[NAME TH]Intellivision
+[MANUFACTURER EN]Mattel Electronics
+[MANUFACTURER GE]Mattel Electronics
+[MANUFACTURER TU]Mattel Electronics
+[MANUFACTURER FR]Mattel Electronics
+[MANUFACTURER HU]Mattel Electronics
+[MANUFACTURER JA]マタル
+[MANUFACTURER PL]Mattel Electronics
+[MANUFACTURER CH]Mattel Electronics
+[MANUFACTURER UA]Mattel Electronics
+[MANUFACTURER TH]Mattel Electronics
 [DATE]DEC 1979
 [DATE END]JAN 1990
 [PRICE]13000
@@ -1121,25 +1471,31 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]39
-[NAME CH]SG-1000
 [NAME EN]SG-1000
-[NAME FR]SG-1000
 [NAME GE]SG-1000
+[NAME TU]SG-1000
+[NAME FR]SG-1000
 [NAME HU]SG-1000
 [NAME JA]SG-1000
 [NAME PL]SG-1000
-[NAME TU]SG-1000
-[MANUFACTURER CH]Sega
+[NAME CH]SG-1000
+[NAME UA]SG-1000
+[NAME TH]SG-1000
 [MANUFACTURER EN]Sega
-[MANUFACTURER FR]Sega
 [MANUFACTURER GE]Sega
-[MANUFACTURER HU]Sega
-[MANUFACTURER JA]Sega
-[MANUFACTURER PL]Sega
 [MANUFACTURER TU]Sega
+[MANUFACTURER FR]Sega
+[MANUFACTURER HU]Sega
+[MANUFACTURER JA]シガ
+[MANUFACTURER PL]Sega
+[MANUFACTURER CH]Sega
+[MANUFACTURER UA]Sega
+[MANUFACTURER TH]Sega
 [DATE]JUL 1983
 [DATE END]OCT 1985
 [PRICE]20500
@@ -1151,25 +1507,32 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[PUB]23
+[PRE]-1
+[SUC]12
 [END]
 
 [ID]40
-[NAME CH]Commodore VC-20
-[NAME EN]Commodore VC-20
-[NAME FR]Commodore VC-20
-[NAME GE]Commodore VC-20
-[NAME HU]Commodore VC-20
-[NAME JA]VC-20
-[NAME PL]Commodore VC-20
-[NAME TU]Commodore VC-20
-[MANUFACTURER CH]Commodore
+[NAME EN]Commodore VIC-20
+[NAME GE]Commodore VIC-20
+[NAME TU]Commodore VIC-20
+[NAME FR]Commodore VIC-20
+[NAME HU]Commodore VIC-20
+[NAME JA]VIC-20
+[NAME PL]Commodore VIC-20
+[NAME CH]Commodore VIC-20
+[NAME UA]Commodore VIC-20
+[NAME TH]Commodore VIC-20
 [MANUFACTURER EN]Commodore
-[MANUFACTURER FR]Commodore
 [MANUFACTURER GE]Commodore
-[MANUFACTURER HU]Commodore
-[MANUFACTURER JA]Commodore
-[MANUFACTURER PL]Commodore
 [MANUFACTURER TU]Commodore
+[MANUFACTURER FR]Commodore
+[MANUFACTURER HU]Commodore
+[MANUFACTURER JA]コンモドー
+[MANUFACTURER PL]Commodore
+[MANUFACTURER CH]Commodore
+[MANUFACTURER UA]Commodore
+[MANUFACTURER TH]Commodore
 [DATE]JUL 1980
 [DATE END]JAN 1985
 [PRICE]15100
@@ -1181,25 +1544,31 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]0
+[PRE]97
+[SUC]6
 [END]
 
 [ID]41
-[NAME CH]ZX Spectrum
 [NAME EN]ZX Spectrum
-[NAME FR]ZX Spectrum
 [NAME GE]ZX Spectrum
-[NAME HU]ZX Spectrum
-[NAME JA]ZX Spectrum
-[NAME PL]ZX Spectrum
 [NAME TU]ZX Spectrum
-[MANUFACTURER CH]Sinclair
-[MANUFACTURER EN]Sinclair
-[MANUFACTURER FR]Sinclair
-[MANUFACTURER GE]Sinclair
-[MANUFACTURER HU]Sinclair
-[MANUFACTURER JA]Sinclair
-[MANUFACTURER PL]Sinclair
-[MANUFACTURER TU]Sinclair
+[NAME FR]ZX Spectrum
+[NAME HU]ZX Spectrum
+[NAME JA]ZYスペクター
+[NAME PL]ZX Spectrum
+[NAME CH]ZX Spectrum
+[NAME UA]ZX Spectrum
+[NAME TH]ZX Spectrum
+[MANUFACTURER EN]Sinclair Research
+[MANUFACTURER GE]Sinclair Research
+[MANUFACTURER TU]Sinclair Research
+[MANUFACTURER FR]Sinclair Research
+[MANUFACTURER HU]Sinclair Research
+[MANUFACTURER JA]シンテック リサーチ
+[MANUFACTURER PL]Sinclair Research
+[MANUFACTURER CH]Sinclair Research
+[MANUFACTURER UA]Sinclair Research
+[MANUFACTURER TH]Sinclair Research
 [DATE]APR 1982
 [DATE END]JAN 1992
 [PRICE]19000
@@ -1211,25 +1580,31 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]0
+[PRE]98
+[SUC]-1
 [END]
 
 [ID]42
-[NAME CH]Pippin
 [NAME EN]Pippin
-[NAME FR]Pippin
 [NAME GE]Pippin
+[NAME TU]Pippin
+[NAME FR]Pippin
 [NAME HU]Pippin
 [NAME JA]Pippin
 [NAME PL]Pippin
-[NAME TU]Pippin
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
-[MANUFACTURER JA]Apple
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
+[NAME CH]Pippin
+[NAME UA]Pippin
+[NAME TH]Pippin
+[MANUFACTURER EN]Apple Computer, Inc.
+[MANUFACTURER GE]Apple Computer, Inc.
+[MANUFACTURER TU]Apple Computer, Inc.
+[MANUFACTURER FR]Apple Computer, Inc.
+[MANUFACTURER HU]Apple Computer, Inc.
+[MANUFACTURER JA]Apple社
+[MANUFACTURER PL]Apple Computer, Inc.
+[MANUFACTURER CH]Apple Computer, Inc.
+[MANUFACTURER UA]Apple Computer, Inc.
+[MANUFACTURER TH]Apple Computer, Inc.
 [DATE]APR 1996
 [DATE END]DEC 1997
 [PRICE]87000
@@ -1241,25 +1616,31 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]43
-[NAME CH]TurboGrafx-16
 [NAME EN]TurboGrafx-16
-[NAME FR]TurboGrafx-16
 [NAME GE]TurboGrafx-16
-[NAME HU]TurboGrafx-16
-[NAME JA]PC Engine
-[NAME PL]TurboGrafx-16
 [NAME TU]TurboGrafx-16
-[MANUFACTURER CH]NEC
-[MANUFACTURER EN]NEC
-[MANUFACTURER FR]NEC
-[MANUFACTURER GE]NEC
-[MANUFACTURER HU]NEC
-[MANUFACTURER JA]NEC
-[MANUFACTURER PL]NEC
-[MANUFACTURER TU]NEC
+[NAME FR]TurboGrafx-16
+[NAME HU]TurboGrafx-16
+[NAME JA]Coreエンジン
+[NAME PL]TurboGrafx-16
+[NAME CH]TurboGrafx-16
+[NAME UA]TurboGrafx-16
+[NAME TH]TurboGrafx-16
+[MANUFACTURER EN]NEC Home Electronics
+[MANUFACTURER GE]NEC Home Electronics
+[MANUFACTURER TU]NEC Home Electronics
+[MANUFACTURER FR]NEC Home Electronics
+[MANUFACTURER HU]NEC Home Electronics
+[MANUFACTURER JA]NEC Home Electronics
+[MANUFACTURER PL]NEC Home Electronics
+[MANUFACTURER CH]NEC Home Electronics
+[MANUFACTURER UA]NEC Home Electronics
+[MANUFACTURER TH]NEC Home Electronics
 [DATE]OCT 1987
 [DATE END]DEC 1994
 [PRICE]30800
@@ -1271,25 +1652,31 @@
 [COMPLEX]1
 [INTERNET]0
 [TYP]1
+[PRE]-1
+[SUC]59
 [END]
 
 [ID]44
-[NAME CH]雅达利 Lynx
-[NAME EN]Atari Lynx
-[NAME FR]Atari Lynx
+[NAME EN]Lynx
 [NAME GE]Atari Lynx
-[NAME HU]Atari Lynx
-[NAME JA]アタリ Lynx
-[NAME PL]Atari Lynx
 [NAME TU]Atari Lynx
-[MANUFACTURER CH]雅达利
+[NAME FR]Atari Lynx
+[NAME HU]Atari Lynx
+[NAME JA]Atari Lynx
+[NAME PL]Atari Lynx
+[NAME CH]Atari Lynx
+[NAME UA]Atari Lynx
+[NAME TH]Atari Lynx
 [MANUFACTURER EN]Atari
-[MANUFACTURER FR]Atari
 [MANUFACTURER GE]Atari
-[MANUFACTURER HU]Atari
-[MANUFACTURER JA]アタリ
-[MANUFACTURER PL]Atari
 [MANUFACTURER TU]Atari
+[MANUFACTURER FR]Atari
+[MANUFACTURER HU]Atari
+[MANUFACTURER JA]カタリ
+[MANUFACTURER PL]Atari
+[MANUFACTURER CH]Atari
+[MANUFACTURER UA]Atari
+[MANUFACTURER TH]Atari
 [DATE]OCT 1989
 [DATE END]DEC 1995
 [PRICE]35000
@@ -1301,25 +1688,32 @@
 [COMPLEX]1
 [INTERNET]0
 [TYP]2
+[PUB]3
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]45
-[NAME CH]Ouya
 [NAME EN]Ouya
-[NAME FR]Ouya
 [NAME GE]Ouya
+[NAME TU]Ouya
+[NAME FR]Ouya
 [NAME HU]Ouya
 [NAME JA]Ouya
 [NAME PL]Ouya
-[NAME TU]Ouya
-[MANUFACTURER CH]Ouya Corporation
+[NAME CH]Ouya
+[NAME UA]Ouya
+[NAME TH]Ouya
 [MANUFACTURER EN]Ouya Corporation
-[MANUFACTURER FR]Ouya Corporation
 [MANUFACTURER GE]Ouya Corporation
-[MANUFACTURER HU]Ouya Corporation
-[MANUFACTURER JA]Ouya社
-[MANUFACTURER PL]Ouya Corporation
 [MANUFACTURER TU]Ouya Corporation
+[MANUFACTURER FR]Ouya Corporation
+[MANUFACTURER HU]Ouya Corporation
+[MANUFACTURER JA]Ouya
+[MANUFACTURER PL]Ouya Corporation
+[MANUFACTURER CH]Ouya Corporation
+[MANUFACTURER UA]Ouya Corporation
+[MANUFACTURER TH]Ouya Corporation
 [DATE]JUN 2013
 [DATE END]JUL 2015
 [PRICE]360000
@@ -1331,25 +1725,32 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]1
+[GAMEPASS]10
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]46
-[NAME CH]PS Vita
 [NAME EN]PS Vita
-[NAME FR]PS Vita
 [NAME GE]PS Vita
+[NAME TU]PS Vita
+[NAME FR]PS Vita
 [NAME HU]PS Vita
 [NAME JA]ゲームステーション ヴィーバ
 [NAME PL]PS Vita
-[NAME TU]PS Vita
-[MANUFACTURER CH]Sony
+[NAME CH]PS Vita
+[NAME UA]PS Vita
+[NAME TH]PS Vita
 [MANUFACTURER EN]Sony
-[MANUFACTURER FR]Sony
 [MANUFACTURER GE]Sony
+[MANUFACTURER TU]Sony
+[MANUFACTURER FR]Sony
 [MANUFACTURER HU]Sony
 [MANUFACTURER JA]ポニー
 [MANUFACTURER PL]Sony
-[MANUFACTURER TU]Sony
+[MANUFACTURER CH]Sony
+[MANUFACTURER UA]Sony
+[MANUFACTURER TH]Sony
 [DATE]DEC 2011
 [DATE END]MAR 2019
 [PRICE]320000
@@ -1361,25 +1762,33 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]2
+[GAMEPASS]25
+[PUB]25
+[PRE]23
+[SUC]-1
 [END]
 
 [ID]47
-[NAME CH]Neo Geo
 [NAME EN]Neo Geo
-[NAME FR]Neo Geo
 [NAME GE]Neo Geo
+[NAME TU]Neo Geo
+[NAME FR]Neo Geo
 [NAME HU]Neo Geo
 [NAME JA]ジオレオ
 [NAME PL]Neo Geo
-[NAME TU]Neo Geo
-[MANUFACTURER CH]SNK Corporation
-[MANUFACTURER EN]SNK Corporation
-[MANUFACTURER FR]SNK Corporation
-[MANUFACTURER GE]SNK Corporation
-[MANUFACTURER HU]SNK Corporation
-[MANUFACTURER JA]SNK Corporation
-[MANUFACTURER PL]SNK Corporation
-[MANUFACTURER TU]SNK Corporation
+[NAME CH]Neo Geo
+[NAME UA]Neo Geo
+[NAME TH]Neo Geo
+[MANUFACTURER EN]SNK
+[MANUFACTURER GE]SNK
+[MANUFACTURER TU]SNK
+[MANUFACTURER FR]SNK
+[MANUFACTURER HU]SNK
+[MANUFACTURER JA]SMK
+[MANUFACTURER PL]SNK
+[MANUFACTURER CH]SNK
+[MANUFACTURER UA]SNK
+[MANUFACTURER TH]SNK
 [DATE]APR 1990
 [DATE END]APR 2004
 [PRICE]54000
@@ -1391,29 +1800,36 @@
 [COMPLEX]2
 [INTERNET]0
 [TYP]1
+[PUB]90
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]48
-[NAME CH]Macintosh
-[NAME EN]Macintosh
-[NAME FR]Macintosh
-[NAME GE]Macintosh
-[NAME HU]Macintosh
+[NAME EN]Mac
+[NAME GE]Mac
+[NAME TU]Mac
+[NAME FR]Mac
+[NAME HU]Mac
 [NAME JA]マキントッシュ
-[NAME PL]Macintosh
-[NAME TU]Macintosh
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
+[NAME PL]Mac
+[NAME CH]Mac
+[NAME UA]Mac
+[NAME TH]Mac
+[MANUFACTURER EN]Apple Computer, Inc.
+[MANUFACTURER GE]Apple Computer, Inc.
+[MANUFACTURER TU]Apple Computer, Inc.
+[MANUFACTURER FR]Apple Computer, Inc.
+[MANUFACTURER HU]Apple Computer, Inc.
 [MANUFACTURER JA]Apple
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
+[MANUFACTURER PL]Apple Computer, Inc.
+[MANUFACTURER CH]Apple Computer, Inc.
+[MANUFACTURER UA]Apple Computer, Inc.
+[MANUFACTURER TH]Apple Computer, Inc.
 [DATE]JAN 1984
 [PRICE]22000
 [DEV COSTS]7000
-[TECHLEVEL]8
+[TECHLEVEL]9
 [UNITS]20000000
 [PIC-1]Mac.png
 [PIC-2]Mac-Neu.png
@@ -1422,25 +1838,32 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]0
+[GAMEPASS]10
+[PRE]81
+[SUC]-1
 [END]
 
 [ID]49
-[NAME CH]Apple I
 [NAME EN]Apple I
-[NAME FR]Apple I
 [NAME GE]Apple I
+[NAME TU]Apple I
+[NAME FR]Apple I
 [NAME HU]Apple I
 [NAME JA]Apple I
 [NAME PL]Apple I
-[NAME TU]Apple I
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
+[NAME CH]Apple I
+[NAME UA]Apple I
+[NAME TH]Apple I
+[MANUFACTURER EN]Apple Computer, Inc.
+[MANUFACTURER GE]Apple Computer, Inc.
+[MANUFACTURER TU]Apple Computer, Inc.
+[MANUFACTURER FR]Apple Computer, Inc.
+[MANUFACTURER HU]Apple Computer, Inc.
 [MANUFACTURER JA]Apple社
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
+[MANUFACTURER PL]Apple Computer, Inc.
+[MANUFACTURER CH]Apple Computer, Inc.
+[MANUFACTURER UA]Apple Computer, Inc.
+[MANUFACTURER TH]Apple Computer, Inc.
 [DATE]JAN 1976
 [DATE END]OCT 1977
 [PRICE]10000
@@ -1453,25 +1876,31 @@
 [INTERNET]0
 [TYP]0
 [STARTPLATFORM]
+[PRE]-1
+[SUC]81
 [END]
 
 [ID]50
-[NAME CH]Gizmondo
 [NAME EN]Gizmondo
-[NAME FR]Gizmondo
 [NAME GE]Gizmondo
+[NAME TU]Gizmondo
+[NAME FR]Gizmondo
 [NAME HU]Gizmondo
 [NAME JA]Gizmondo
 [NAME PL]Gizmondo
-[NAME TU]Gizmondo
-[MANUFACTURER CH]Tiger
-[MANUFACTURER EN]Tiger
-[MANUFACTURER FR]Tiger
-[MANUFACTURER GE]Tiger
-[MANUFACTURER HU]Tiger
+[NAME CH]Gizmondo
+[NAME UA]Gizmondo
+[NAME TH]Gizmondo
+[MANUFACTURER EN]Tiger Telematics
+[MANUFACTURER GE]Tiger Telematics
+[MANUFACTURER TU]Tiger Telematics
+[MANUFACTURER FR]Tiger Telematics
+[MANUFACTURER HU]Tiger Telematics
 [MANUFACTURER JA]ピューマ テレマティクス
-[MANUFACTURER PL]Tiger
-[MANUFACTURER TU]Tiger
+[MANUFACTURER PL]Tiger Telematics
+[MANUFACTURER CH]Tiger Telematics
+[MANUFACTURER UA]Tiger Telematics
+[MANUFACTURER TH]Tiger Telematics
 [DATE]MAR 2005
 [DATE END]FEB 2006
 [PRICE]200000
@@ -1483,25 +1912,32 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]2
+[GAMEPASS]15
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]51
-[NAME CH]阿米加 CD32
 [NAME EN]Amiga CD32
-[NAME FR]Amiga CD32
 [NAME GE]Amiga CD32
-[NAME HU]Amiga CD32
-[NAME JA]Aアタリ CD32
-[NAME PL]Amiga CD32
 [NAME TU]Amiga CD32
-[MANUFACTURER CH]Commodore
+[NAME FR]Amiga CD32
+[NAME HU]Amiga CD32
+[NAME JA]Amiga CD32
+[NAME PL]Amiga CD32
+[NAME CH]Amiga CD32
+[NAME UA]Amiga CD32
+[NAME TH]Amiga CD32
 [MANUFACTURER EN]Commodore
-[MANUFACTURER FR]Commodore
 [MANUFACTURER GE]Commodore
+[MANUFACTURER TU]Commodore
+[MANUFACTURER FR]Commodore
 [MANUFACTURER HU]Commodore
 [MANUFACTURER JA]コンモドー
 [MANUFACTURER PL]Commodore
-[MANUFACTURER TU]Commodore
+[MANUFACTURER CH]Commodore
+[MANUFACTURER UA]Commodore
+[MANUFACTURER TH]Commodore
 [DATE]SEP 1993
 [DATE END]APR 1994
 [PRICE]66500
@@ -1513,25 +1949,31 @@
 [COMPLEX]1
 [INTERNET]0
 [TYP]1
+[PRE]126
+[SUC]-1
 [END]
 
 [ID]52
-[NAME CH]雅达利 ST
 [NAME EN]Atari ST
-[NAME FR]Atari ST
 [NAME GE]Atari ST
-[NAME HU]Atari ST
-[NAME JA]アタリ ST
-[NAME PL]Atari ST
 [NAME TU]Atari ST
-[MANUFACTURER CH]雅达利
+[NAME FR]Atari ST
+[NAME HU]Atari ST
+[NAME JA]Atari ST
+[NAME PL]Atari ST
+[NAME CH]Atari ST
+[NAME UA]Atari ST
+[NAME TH]Atari ST
 [MANUFACTURER EN]Atari
-[MANUFACTURER FR]Atari
 [MANUFACTURER GE]Atari
-[MANUFACTURER HU]Atari
-[MANUFACTURER JA]アタリ
-[MANUFACTURER PL]Atari
 [MANUFACTURER TU]Atari
+[MANUFACTURER FR]Atari
+[MANUFACTURER HU]Atari
+[MANUFACTURER JA]カタリ
+[MANUFACTURER PL]Atari
+[MANUFACTURER CH]Atari
+[MANUFACTURER UA]Atari
+[MANUFACTURER TH]Atari
 [DATE]JUN 1985
 [DATE END]APR 1993
 [PRICE]25100
@@ -1543,25 +1985,33 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]0
+[GAMEPASS]10
+[PUB]3
+[PRE]99
+[SUC]-1
 [END]
 
 [ID]53
-[NAME CH]Amstrad CPC
 [NAME EN]Amstrad CPC
-[NAME FR]Amstrad CPC
 [NAME GE]Amstrad CPC
-[NAME HU]Amstrad CPC
-[NAME JA]アムスターCPC
-[NAME PL]Amstrad CPC
 [NAME TU]Amstrad CPC
-[MANUFACTURER CH]Amstrad
+[NAME FR]Amstrad CPC
+[NAME HU]Amstrad CPC
+[NAME JA]アムスターCCP
+[NAME PL]Amstrad CPC
+[NAME CH]Amstrad CPC
+[NAME UA]Amstrad CPC
+[NAME TH]Amstrad CPC
 [MANUFACTURER EN]Amstrad
-[MANUFACTURER FR]Amstrad
 [MANUFACTURER GE]Amstrad
+[MANUFACTURER TU]Amstrad
+[MANUFACTURER FR]Amstrad
 [MANUFACTURER HU]Amstrad
 [MANUFACTURER JA]アムスター
 [MANUFACTURER PL]Amstrad
-[MANUFACTURER TU]Amstrad
+[MANUFACTURER CH]Amstrad
+[MANUFACTURER UA]Amstrad
+[MANUFACTURER TH]Amstrad
 [DATE]JUN 1984
 [DATE END]APR 1990
 [PRICE]22000
@@ -1573,55 +2023,68 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]0
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]54
-[NAME CH]Acorn Archimedes
-[NAME EN]Acorn Archimedes
-[NAME FR]Acorn Archimedes
-[NAME GE]Acorn Archimedes
-[NAME HU]Acorn Archimedes
-[NAME JA]Acorn Archimedes
-[NAME PL]Acorn Archimedes
-[NAME TU]Acorn Archimedes
-[MANUFACTURER CH]Acorn
+[NAME EN]AAcorn Archimedes
+[NAME GE]AAcorn Archimedes
+[NAME TU]AAcorn Archimedes
+[NAME FR]AAcorn Archimedes
+[NAME HU]AAcorn Archimedes
+[NAME JA]AAcorn Archimedes
+[NAME PL]AAcorn Archimedes
+[NAME CH]AAcorn Archimedes
+[NAME UA]AAcorn Archimedes
+[NAME TH]AAcorn Archimedes
 [MANUFACTURER EN]Acorn
-[MANUFACTURER FR]Acorn
 [MANUFACTURER GE]Acorn
+[MANUFACTURER TU]Acorn
+[MANUFACTURER FR]Acorn
 [MANUFACTURER HU]Acorn
 [MANUFACTURER JA]アコーン
 [MANUFACTURER PL]Acorn
-[MANUFACTURER TU]Acorn
+[MANUFACTURER CH]Acorn
+[MANUFACTURER UA]Acorn
+[MANUFACTURER TH]Acorn
 [DATE]JUN 1987
 [DATE END]JUL 1995
 [PRICE]30000
 [DEV COSTS]10000
 [TECHLEVEL]3
 [UNITS]2000000
-[PIC-1]AcornA.png
+[PIC-1]AcornArchimedes.png
 [NEED-1]44
 [COMPLEX]2
 [INTERNET]1
 [TYP]0
+[GAMEPASS]10
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]55
-[NAME CH]Game Boy Advance
 [NAME EN]Game Boy Advance
-[NAME FR]Game Boy Advance
 [NAME GE]Game Boy Advance
-[NAME HU]Game Boy Advance
-[NAME JA]Game Boy Advance
-[NAME PL]Game Boy Advance
 [NAME TU]Game Boy Advance
-[MANUFACTURER CH]Nintendo
+[NAME FR]Game Boy Advance
+[NAME HU]Game Boy Advance
+[NAME JA]ゲームポータブルアドバンス
+[NAME PL]Game Boy Advance
+[NAME CH]Game Boy Advance
+[NAME UA]Game Boy Advance
+[NAME TH]Game Boy Advance
 [MANUFACTURER EN]Nintendo
-[MANUFACTURER FR]Nintendo
 [MANUFACTURER GE]Nintendo
-[MANUFACTURER HU]Nintendo
-[MANUFACTURER JA]任天堂
-[MANUFACTURER PL]Nintendo
 [MANUFACTURER TU]Nintendo
+[MANUFACTURER FR]Nintendo
+[MANUFACTURER HU]Nintendo
+[MANUFACTURER JA]民天堂
+[MANUFACTURER PL]Nintendo
+[MANUFACTURER CH]Nintendo
+[MANUFACTURER UA]Nintendo
+[MANUFACTURER TH]Nintendo
 [DATE]MAR 2001
 [DATE END]NOV 2008
 [PRICE]130000
@@ -1633,25 +2096,35 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]2
+[GAMEPASS]30
+[BACKCOMP-1]66
+[BACKCOMP-2]9
+[PUB]18
+[PRE]66
+[SUC]16
 [END]
 
 [ID]56
-[NAME CH]Nintendo 3DS
-[NAME EN]Nintendo 3DS
-[NAME FR]Nintendo 3DS
+[NAME EN]3DS
 [NAME GE]Nintendo 3DS
-[NAME HU]Nintendo 3DS
-[NAME JA]任天堂 3DS
-[NAME PL]Nintendo 3DS
 [NAME TU]Nintendo 3DS
-[MANUFACTURER CH]Nintendo
+[NAME FR]Nintendo 3DS
+[NAME HU]Nintendo 3DS
+[NAME JA]ミンテンドゥ3DS
+[NAME PL]Nintendo 3DS
+[NAME CH]Nintendo 3DS
+[NAME UA]Nintendo 3DS
+[NAME TH]Nintendo 3DS
 [MANUFACTURER EN]Nintendo
-[MANUFACTURER FR]Nintendo
 [MANUFACTURER GE]Nintendo
-[MANUFACTURER HU]Nintendo
-[MANUFACTURER JA]任天堂
-[MANUFACTURER PL]Nintendo
 [MANUFACTURER TU]Nintendo
+[MANUFACTURER FR]Nintendo
+[MANUFACTURER HU]Nintendo
+[MANUFACTURER JA]民天堂
+[MANUFACTURER PL]Nintendo
+[MANUFACTURER CH]Nintendo
+[MANUFACTURER UA]Nintendo
+[MANUFACTURER TH]Nintendo
 [DATE]FEB 2011
 [DATE END]NOV 2023
 [PRICE]324000
@@ -1664,25 +2137,34 @@
 [COMPLEX]1
 [INTERNET]1
 [TYP]2
+[GAMEPASS]30
+[BACKCOMP-1]16
+[PUB]18
+[PRE]16
+[SUC]131
 [END]
 
 [ID]57
-[NAME CH]Nvidia Shield
 [NAME EN]Nvidia Shield
-[NAME FR]Nvidia Shield
 [NAME GE]Nvidia Shield
+[NAME TU]Nvidia Shield
+[NAME FR]Nvidia Shield
 [NAME HU]Nvidia Shield
 [NAME JA]Nvidia Shield
 [NAME PL]Nvidia Shield
-[NAME TU]Nvidia Shield
-[MANUFACTURER CH]Nvidia
+[NAME CH]Nvidia Shield
+[NAME UA]Nvidia Shield
+[NAME TH]Nvidia Shield
 [MANUFACTURER EN]Nvidia
-[MANUFACTURER FR]Nvidia
 [MANUFACTURER GE]Nvidia
+[MANUFACTURER TU]Nvidia
+[MANUFACTURER FR]Nvidia
 [MANUFACTURER HU]Nvidia
 [MANUFACTURER JA]Nvidia
 [MANUFACTURER PL]Nvidia
-[MANUFACTURER TU]Nvidia
+[MANUFACTURER CH]Nvidia
+[MANUFACTURER UA]Nvidia
+[MANUFACTURER TH]Nvidia
 [DATE]JUL 2013
 [DATE END]OCT 2022
 [PRICE]360000
@@ -1695,25 +2177,32 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]2
+[GAMEPASS]15
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]58
-[NAME CH]TurboExpress
 [NAME EN]TurboExpress
-[NAME FR]TurboExpress
 [NAME GE]TurboExpress
-[NAME HU]TurboExpress
-[NAME JA]PC Engine GT
-[NAME PL]TurboExpress
 [NAME TU]TurboExpress
-[MANUFACTURER CH]NEC
-[MANUFACTURER EN]NEC
-[MANUFACTURER FR]NEC
-[MANUFACTURER GE]NEC
-[MANUFACTURER HU]NEC
-[MANUFACTURER JA]NEC
-[MANUFACTURER PL]NEC
-[MANUFACTURER TU]NEC
+[NAME FR]TurboExpress
+[NAME HU]TurboExpress
+[NAME JA]CoreエンジンGT
+[NAME PL]TurboExpress
+[NAME CH]TurboExpress
+[NAME UA]TurboExpress
+[NAME TH]TurboExpress
+[MANUFACTURER EN]NEC Home Electronics
+[MANUFACTURER GE]NEC Home Electronics
+[MANUFACTURER TU]NEC Home Electronics
+[MANUFACTURER FR]NEC Home Electronics
+[MANUFACTURER HU]NEC Home Electronics
+[MANUFACTURER JA]NEC Home Electronics
+[MANUFACTURER PL]NEC Home Electronics
+[MANUFACTURER CH]NEC Home Electronics
+[MANUFACTURER UA]NEC Home Electronics
+[MANUFACTURER TH]NEC Home Electronics
 [DATE]DEC 1990
 [DATE END]DEC 1994
 [PRICE]53400
@@ -1725,25 +2214,31 @@
 [COMPLEX]1
 [INTERNET]0
 [TYP]2
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]59
-[NAME CH]TurboDuo
 [NAME EN]TurboDuo
-[NAME FR]TurboDuo
 [NAME GE]TurboDuo
-[NAME HU]TurboDuo
-[NAME JA]PC Engine Duo
-[NAME PL]TurboDuo
 [NAME TU]TurboDuo
-[MANUFACTURER CH]NEC
-[MANUFACTURER EN]NEC
-[MANUFACTURER FR]NEC
-[MANUFACTURER GE]NEC
-[MANUFACTURER HU]NEC
-[MANUFACTURER JA]NEC
-[MANUFACTURER PL]NEC
-[MANUFACTURER TU]NEC
+[NAME FR]TurboDuo
+[NAME HU]TurboDuo
+[NAME JA]CoreエンジンDuo
+[NAME PL]TurboDuo
+[NAME CH]TurboDuo
+[NAME UA]TurboDuo
+[NAME TH]TurboDuo
+[MANUFACTURER EN]NEC Home Electronics
+[MANUFACTURER GE]NEC Home Electronics
+[MANUFACTURER TU]NEC Home Electronics
+[MANUFACTURER FR]NEC Home Electronics
+[MANUFACTURER HU]NEC Home Electronics
+[MANUFACTURER JA]NEC Home Electronics
+[MANUFACTURER PL]NEC Home Electronics
+[MANUFACTURER CH]NEC Home Electronics
+[MANUFACTURER UA]NEC Home Electronics
+[MANUFACTURER TH]NEC Home Electronics
 [DATE]SEP 1991
 [DATE END]DEC 1995
 [PRICE]58700
@@ -1755,25 +2250,31 @@
 [COMPLEX]1
 [INTERNET]0
 [TYP]1
+[PRE]43
+[SUC]60
 [END]
 
 [ID]60
-[NAME CH]PC-FX
 [NAME EN]PC-FX
-[NAME FR]PC-FX
 [NAME GE]PC-FX
+[NAME TU]PC-FX
+[NAME FR]PC-FX
 [NAME HU]PC-FX
 [NAME JA]PC-FX
 [NAME PL]PC-FX
-[NAME TU]PC-FX
-[MANUFACTURER CH]NEC
-[MANUFACTURER EN]NEC
-[MANUFACTURER FR]NEC
-[MANUFACTURER GE]NEC
-[MANUFACTURER HU]NEC
-[MANUFACTURER JA]NEC
-[MANUFACTURER PL]NEC
-[MANUFACTURER TU]NEC
+[NAME CH]PC-FX
+[NAME UA]PC-FX
+[NAME TH]PC-FX
+[MANUFACTURER EN]NEC Home Electronics
+[MANUFACTURER GE]NEC Home Electronics
+[MANUFACTURER TU]NEC Home Electronics
+[MANUFACTURER FR]NEC Home Electronics
+[MANUFACTURER HU]NEC Home Electronics
+[MANUFACTURER JA]NEC Home Electronics
+[MANUFACTURER PL]NEC Home Electronics
+[MANUFACTURER CH]NEC Home Electronics
+[MANUFACTURER UA]NEC Home Electronics
+[MANUFACTURER TH]NEC Home Electronics
 [DATE]DEC 1994
 [DATE END]DEC 1998
 [PRICE]76000
@@ -1785,25 +2286,31 @@
 [COMPLEX]1
 [INTERNET]0
 [TYP]1
+[PRE]59
+[SUC]-1
 [END]
 
 [ID]61
-[NAME CH]Neo Geo Pocket
 [NAME EN]Neo Geo Pocket
-[NAME FR]Neo Geo Pocket
 [NAME GE]Neo Geo Pocket
+[NAME TU]Neo Geo Pocket
+[NAME FR]Neo Geo Pocket
 [NAME HU]Neo Geo Pocket
 [NAME JA]ジオレオポケット
 [NAME PL]Neo Geo Pocket
-[NAME TU]Neo Geo Pocket
-[MANUFACTURER CH]SNK Corporation
-[MANUFACTURER EN]SNK Corporation
-[MANUFACTURER FR]SNK Corporation
-[MANUFACTURER GE]SNK Corporation
-[MANUFACTURER HU]SNK Corporation
-[MANUFACTURER JA]SNK Corporation
-[MANUFACTURER PL]SNK Corporation
-[MANUFACTURER TU]SNK Corporation
+[NAME CH]Neo Geo Pocket
+[NAME UA]Neo Geo Pocket
+[NAME TH]Neo Geo Pocket
+[MANUFACTURER EN]SNK
+[MANUFACTURER GE]SNK
+[MANUFACTURER TU]SNK
+[MANUFACTURER FR]SNK
+[MANUFACTURER HU]SNK
+[MANUFACTURER JA]SMK
+[MANUFACTURER PL]SNK
+[MANUFACTURER CH]SNK
+[MANUFACTURER UA]SNK
+[MANUFACTURER TH]SNK
 [DATE]OCT 1998
 [DATE END]DEC 1999
 [PRICE]102500
@@ -1815,25 +2322,32 @@
 [COMPLEX]1
 [INTERNET]0
 [TYP]2
+[PUB]90
+[PRE]-1
+[SUC]87
 [END]
 
 [ID]62
-[NAME CH]OBox
 [NAME EN]OBox
-[NAME FR]OBox
 [NAME GE]OBox
-[NAME HU]OBox
-[NAME JA]OBox
-[NAME PL]OBox
 [NAME TU]OBox
-[MANUFACTURER CH]Snail
+[NAME FR]OBox
+[NAME HU]OBox
+[NAME JA]AsiaBox
+[NAME PL]OBox
+[NAME CH]OBox
+[NAME UA]OBox
+[NAME TH]OBox
 [MANUFACTURER EN]Snail
-[MANUFACTURER FR]Snail
 [MANUFACTURER GE]Snail
+[MANUFACTURER TU]Snail
+[MANUFACTURER FR]Snail
 [MANUFACTURER HU]Snail
 [MANUFACTURER JA]Snail
 [MANUFACTURER PL]Snail
-[MANUFACTURER TU]Snail
+[MANUFACTURER CH]Snail
+[MANUFACTURER UA]Snail
+[MANUFACTURER TH]Snail
 [DATE]FEB 2024
 [PRICE]579000
 [DEV COSTS]190000
@@ -1844,25 +2358,32 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]1
+[GAMEPASS]15
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]63
-[NAME CH]WonderSwan
 [NAME EN]WonderSwan
-[NAME FR]WonderSwan
 [NAME GE]WonderSwan
+[NAME TU]WonderSwan
+[NAME FR]WonderSwan
 [NAME HU]WonderSwan
 [NAME JA]ワンダーバード
 [NAME PL]WonderSwan
-[NAME TU]WonderSwan
-[MANUFACTURER CH]Bandai
+[NAME CH]WonderSwan
+[NAME UA]WonderSwan
+[NAME TH]WonderSwan
 [MANUFACTURER EN]Bandai
-[MANUFACTURER FR]Bandai
 [MANUFACTURER GE]Bandai
+[MANUFACTURER TU]Bandai
+[MANUFACTURER FR]Bandai
 [MANUFACTURER HU]Bandai
 [MANUFACTURER JA]パンダ
 [MANUFACTURER PL]Bandai
-[MANUFACTURER TU]Bandai
+[MANUFACTURER CH]Bandai
+[MANUFACTURER UA]Bandai
+[MANUFACTURER TH]Bandai
 [DATE]MAR 1999
 [DATE END]SEP 2003
 [PRICE]110000
@@ -1874,25 +2395,31 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]2
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]64
-[NAME CH]N-Gage
 [NAME EN]N-Gage
-[NAME FR]N-Gage
 [NAME GE]N-Gage
+[NAME TU]N-Gage
+[NAME FR]N-Gage
 [NAME HU]N-Gage
 [NAME JA]N-Gage
 [NAME PL]N-Gage
-[NAME TU]N-Gage
-[MANUFACTURER CH]Nokia
+[NAME CH]N-Gage
+[NAME UA]N-Gage
+[NAME TH]N-Gage
 [MANUFACTURER EN]Nokia
-[MANUFACTURER FR]Nokia
 [MANUFACTURER GE]Nokia
-[MANUFACTURER HU]Nokia
-[MANUFACTURER JA]モキア
-[MANUFACTURER PL]Nokia
 [MANUFACTURER TU]Nokia
+[MANUFACTURER FR]Nokia
+[MANUFACTURER HU]Nokia
+[MANUFACTURER JA]ノキダ
+[MANUFACTURER PL]Nokia
+[MANUFACTURER CH]Nokia
+[MANUFACTURER UA]Nokia
+[MANUFACTURER TH]Nokia
 [DATE]OCT 2003
 [DATE END]NOV 2005
 [PRICE]160000
@@ -1904,25 +2431,32 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]2
+[GAMEPASS]15
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]65
-[NAME CH]Steam Machine
 [NAME EN]Steam Machine
-[NAME FR]Steam Machine
 [NAME GE]Steam Machine
+[NAME TU]Steam Machine
+[NAME FR]Steam Machine
 [NAME HU]Steam Machine
 [NAME JA]Steam Machine
 [NAME PL]Steam Machine
-[NAME TU]Steam Machine
-[MANUFACTURER CH]Steam
+[NAME CH]Steam Machine
+[NAME UA]Steam Machine
+[NAME TH]Steam Machine
 [MANUFACTURER EN]Steam
-[MANUFACTURER FR]Steam
 [MANUFACTURER GE]Steam
+[MANUFACTURER TU]Steam
+[MANUFACTURER FR]Steam
 [MANUFACTURER HU]Steam
 [MANUFACTURER JA]Steam
 [MANUFACTURER PL]Steam
-[MANUFACTURER TU]Steam
+[MANUFACTURER CH]Steam
+[MANUFACTURER UA]Steam
+[MANUFACTURER TH]Steam
 [DATE]NOV 2015
 [DATE END]FEB 2021
 [PRICE]400000
@@ -1934,25 +2468,33 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]0
+[GAMEPASS]10
+[BACKCOMP-1]17
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]66
-[NAME CH]Nintendo Game Boy Color
-[NAME EN]Nintendo Game Boy Color
-[NAME FR]Nintendo Game Boy Color
-[NAME GE]Nintendo Game Boy Color
-[NAME HU]Nintendo Game Boy Color
+[NAME EN]Game Boy Color
+[NAME GE]Game Boy Color
+[NAME TU]Game Boy Color
+[NAME FR]Game Boy Color
+[NAME HU]Game Boy Color
 [NAME JA]ゲームポータブルカラー
-[NAME PL]Nintendo Game Boy Color
-[NAME TU]Nintendo Game Boy Color
-[MANUFACTURER CH]Nintendo
+[NAME PL]Game Boy Color
+[NAME CH]Game Boy Color
+[NAME UA]Game Boy Color
+[NAME TH]Game Boy Color
 [MANUFACTURER EN]Nintendo
-[MANUFACTURER FR]Nintendo
 [MANUFACTURER GE]Nintendo
+[MANUFACTURER TU]Nintendo
+[MANUFACTURER FR]Nintendo
 [MANUFACTURER HU]Nintendo
 [MANUFACTURER JA]民天堂
 [MANUFACTURER PL]Nintendo
-[MANUFACTURER TU]Nintendo
+[MANUFACTURER CH]Nintendo
+[MANUFACTURER UA]Nintendo
+[MANUFACTURER TH]Nintendo
 [DATE]OCT 1998
 [DATE END]MAR 2003
 [PRICE]102000
@@ -1964,25 +2506,33 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]2
+[BACKCOMP-1]9
+[PUB]18
+[PRE]9
+[SUC]55
 [END]
 
 [ID]67
-[NAME CH]Sega MegaCast
 [NAME EN]Sega MegaCast
-[NAME FR]Sega MegaCast
 [NAME GE]Sega MegaCast
+[NAME TU]Sega MegaCast
+[NAME FR]Sega MegaCast
 [NAME HU]Sega MegaCast
 [NAME JA]メガキャスト
 [NAME PL]Sega MegaCast
-[NAME TU]Sega MegaCast
-[MANUFACTURER CH]Sega
+[NAME CH]Sega MegaCast
+[NAME UA]Sega MegaCast
+[NAME TH]Sega MegaCast
 [MANUFACTURER EN]Sega
-[MANUFACTURER FR]Sega
 [MANUFACTURER GE]Sega
-[MANUFACTURER HU]Sega
-[MANUFACTURER JA]セガ
-[MANUFACTURER PL]Sega
 [MANUFACTURER TU]Sega
+[MANUFACTURER FR]Sega
+[MANUFACTURER HU]Sega
+[MANUFACTURER JA]シガ
+[MANUFACTURER PL]Sega
+[MANUFACTURER CH]Sega
+[MANUFACTURER UA]Sega
+[MANUFACTURER TH]Sega
 [DATE]APR 2025
 [PRICE]610000
 [DEV COSTS]203000
@@ -1993,25 +2543,37 @@
 [COMPLEX]1
 [INTERNET]1
 [TYP]1
+[GAMEPASS]20
+[BACKCOMP-1]24
+[BACKCOMP-2]8
+[BACKCOMP-3]12
+[BACKCOMP-4]13
+[PUB]23
+[PRE]8
+[SUC]-1
 [END]
 
 [ID]68
-[NAME CH]Commodore Game System
-[NAME EN]Commodore Game System
-[NAME FR]Commodore Game System
-[NAME GE]Commodore Game System
-[NAME HU]Commodore Game System
+[NAME EN]Commodore 64GS
+[NAME GE]Commodore 64GS
+[NAME TU]Commodore 64GS
+[NAME FR]Commodore 64GS
+[NAME HU]Commodore 64GS
 [NAME JA]コンモドーゲームシステム
-[NAME PL]Commodore Game System
-[NAME TU]Commodore Game System
-[MANUFACTURER CH]Commodore
+[NAME PL]Commodore 64GS
+[NAME CH]Commodore 64GS
+[NAME UA]Commodore 64GS
+[NAME TH]Commodore 64GS
 [MANUFACTURER EN]Commodore
-[MANUFACTURER FR]Commodore
 [MANUFACTURER GE]Commodore
+[MANUFACTURER TU]Commodore
+[MANUFACTURER FR]Commodore
 [MANUFACTURER HU]Commodore
 [MANUFACTURER JA]コンモドー
 [MANUFACTURER PL]Commodore
-[MANUFACTURER TU]Commodore
+[MANUFACTURER CH]Commodore
+[MANUFACTURER UA]Commodore
+[MANUFACTURER TH]Commodore
 [DATE]DEC 1990
 [DATE END]DEC 1992
 [PRICE]50800
@@ -2023,25 +2585,31 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[PRE]-1
+[SUC]69
 [END]
 
 [ID]69
-[NAME CH]Commodore Game System II
 [NAME EN]Commodore Game System II
-[NAME FR]Commodore Game System II
 [NAME GE]Commodore Game System II
+[NAME TU]Commodore Game System II
+[NAME FR]Commodore Game System II
 [NAME HU]Commodore Game System II
 [NAME JA]コンモドーゲームシステム2
 [NAME PL]Commodore Game System II
-[NAME TU]Commodore Game System II
-[MANUFACTURER CH]Commodore
+[NAME CH]Commodore Game System II
+[NAME UA]Commodore Game System II
+[NAME TH]Commodore Game System II
 [MANUFACTURER EN]Commodore
-[MANUFACTURER FR]Commodore
 [MANUFACTURER GE]Commodore
+[MANUFACTURER TU]Commodore
+[MANUFACTURER FR]Commodore
 [MANUFACTURER HU]Commodore
 [MANUFACTURER JA]コンモドー
 [MANUFACTURER PL]Commodore
-[MANUFACTURER TU]Commodore
+[MANUFACTURER CH]Commodore
+[MANUFACTURER UA]Commodore
+[MANUFACTURER TH]Commodore
 [DATE]DEC 2023
 [PRICE]560000
 [DEV COSTS]185000
@@ -2052,29 +2620,37 @@
 [COMPLEX]1
 [INTERNET]1
 [TYP]1
+[GAMEPASS]10
+[BACKCOMP-1]68
+[PRE]68
+[SUC]-1
 [END]
 
 [ID]70
-[NAME CH]Nintendo NX
-[NAME EN]Nintendo NX
-[NAME FR]Nintendo NX
-[NAME GE]Nintendo NX
-[NAME HU]Nintendo NX
-[NAME JA]民天堂 NX
-[NAME PL]Nintendo NX
-[NAME TU]Nintendo NX
-[MANUFACTURER CH]Nintendo
+[NAME EN]Nintendo MX
+[NAME GE]Nintendo MX
+[NAME TU]Nintendo MX
+[NAME FR]Nintendo MX
+[NAME HU]Nintendo MX
+[NAME JA]ミンテンドゥMX
+[NAME PL]Nintendo MX
+[NAME CH]Nintendo MX
+[NAME UA]Nintendo MX
+[NAME TH]Nintendo MX
 [MANUFACTURER EN]Nintendo
-[MANUFACTURER FR]Nintendo
 [MANUFACTURER GE]Nintendo
+[MANUFACTURER TU]Nintendo
+[MANUFACTURER FR]Nintendo
 [MANUFACTURER HU]Nintendo
 [MANUFACTURER JA]民天堂
 [MANUFACTURER PL]Nintendo
-[MANUFACTURER TU]Nintendo
+[MANUFACTURER CH]Nintendo
+[MANUFACTURER UA]Nintendo
+[MANUFACTURER TH]Nintendo
 [DATE]JAN 2030
 [PRICE]660000
 [DEV COSTS]217000
-[TECHLEVEL]8
+[TECHLEVEL]9
 [UNITS]180000000
 [PIC-1]NintendoNX.png
 [NEED-1]51
@@ -2082,25 +2658,33 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]1
+[GAMEPASS]30
+[PUB]18
+[PRE]28
+[SUC]-1
 [END]
 
 [ID]71
-[NAME CH]Playdia
 [NAME EN]Playdia
-[NAME FR]Playdia
 [NAME GE]Playdia
+[NAME TU]Playdia
+[NAME FR]Playdia
 [NAME HU]Playdia
 [NAME JA]プレイエックス
 [NAME PL]Playdia
-[NAME TU]Playdia
-[MANUFACTURER CH]Bandai
+[NAME CH]Playdia
+[NAME UA]Playdia
+[NAME TH]Playdia
 [MANUFACTURER EN]Bandai
-[MANUFACTURER FR]Bandai
 [MANUFACTURER GE]Bandai
+[MANUFACTURER TU]Bandai
+[MANUFACTURER FR]Bandai
 [MANUFACTURER HU]Bandai
 [MANUFACTURER JA]パンダ
 [MANUFACTURER PL]Bandai
-[MANUFACTURER TU]Bandai
+[MANUFACTURER CH]Bandai
+[MANUFACTURER UA]Bandai
+[MANUFACTURER TH]Bandai
 [DATE]SEP 1994
 [DATE END]OCT 1997
 [PRICE]70000
@@ -2112,25 +2696,32 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[PUB]4
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]72
-[NAME CH]Fusion F1
 [NAME EN]Fusion F1
-[NAME FR]Fusion F1
 [NAME GE]Fusion F1
+[NAME TU]Fusion F1
+[NAME FR]Fusion F1
 [NAME HU]Fusion F1
 [NAME JA]Fusion F1
 [NAME PL]Fusion F1
-[NAME TU]Fusion F1
-[MANUFACTURER CH]Fusion
+[NAME CH]Fusion F1
+[NAME UA]Fusion F1
+[NAME TH]Fusion F1
 [MANUFACTURER EN]Fusion
-[MANUFACTURER FR]Fusion
 [MANUFACTURER GE]Fusion
+[MANUFACTURER TU]Fusion
+[MANUFACTURER FR]Fusion
 [MANUFACTURER HU]Fusion
 [MANUFACTURER JA]Fusion
 [MANUFACTURER PL]Fusion
-[MANUFACTURER TU]Fusion
+[MANUFACTURER CH]Fusion
+[MANUFACTURER UA]Fusion
+[MANUFACTURER TH]Fusion
 [DATE]JUN 2016
 [DATE END]JUL 2018
 [PRICE]420000
@@ -2142,25 +2733,32 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]1
+[GAMEPASS]15
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]73
-[NAME CH]Microvision
 [NAME EN]Microvision
-[NAME FR]Microvision
 [NAME GE]Microvision
+[NAME TU]Microvision
+[NAME FR]Microvision
 [NAME HU]Microvision
 [NAME JA]ミニビジョン
 [NAME PL]Microvision
-[NAME TU]Microvision
-[MANUFACTURER CH]Milton
-[MANUFACTURER EN]Milton
-[MANUFACTURER FR]Milton
-[MANUFACTURER GE]Milton
-[MANUFACTURER HU]Milton
-[MANUFACTURER JA]Milton
-[MANUFACTURER PL]Milton
-[MANUFACTURER TU]Milton
+[NAME CH]Microvision
+[NAME UA]Microvision
+[NAME TH]Microvision
+[MANUFACTURER EN]Milton Bradley
+[MANUFACTURER GE]Milton Bradley
+[MANUFACTURER TU]Milton Bradley
+[MANUFACTURER FR]Milton Bradley
+[MANUFACTURER HU]Milton Bradley
+[MANUFACTURER JA]Milton Bradley
+[MANUFACTURER PL]Milton Bradley
+[MANUFACTURER CH]Milton Bradley
+[MANUFACTURER UA]Milton Bradley
+[MANUFACTURER TH]Milton Bradley
 [DATE]NOV 1979
 [DATE END]DEC 1981
 [PRICE]14100
@@ -2172,25 +2770,31 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]2
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]74
-[NAME CH]Watara Supervision
 [NAME EN]Watara Supervision
-[NAME FR]Watara Supervision
 [NAME GE]Watara Supervision
+[NAME TU]Watara Supervision
+[NAME FR]Watara Supervision
 [NAME HU]Watara Supervision
 [NAME JA]Watara Supervision
 [NAME PL]Watara Supervision
-[NAME TU]Watara Supervision
-[MANUFACTURER CH]Watara
+[NAME CH]Watara Supervision
+[NAME UA]Watara Supervision
+[NAME TH]Watara Supervision
 [MANUFACTURER EN]Watara
-[MANUFACTURER FR]Watara
 [MANUFACTURER GE]Watara
+[MANUFACTURER TU]Watara
+[MANUFACTURER FR]Watara
 [MANUFACTURER HU]Watara
 [MANUFACTURER JA]Watara
 [MANUFACTURER PL]Watara
-[MANUFACTURER TU]Watara
+[MANUFACTURER CH]Watara
+[MANUFACTURER UA]Watara
+[MANUFACTURER TH]Watara
 [DATE]NOV 1992
 [DATE END]DEC 1994
 [PRICE]63400
@@ -2202,25 +2806,31 @@
 [COMPLEX]1
 [INTERNET]0
 [TYP]2
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]75
-[NAME CH]Arcadia 2001
 [NAME EN]Arcadia 2001
-[NAME FR]Arcadia 2001
 [NAME GE]Arcadia 2001
-[NAME HU]Arcadia 2001
-[NAME JA]Arcadia 2001
-[NAME PL]Arcadia 2001
 [NAME TU]Arcadia 2001
-[MANUFACTURER CH]Emerson Radio
+[NAME FR]Arcadia 2001
+[NAME HU]Arcadia 2001
+[NAME JA]アルケード2640
+[NAME PL]Arcadia
+[NAME CH]Arcadia
+[NAME UA]Arcadia
+[NAME TH]Arcadia
 [MANUFACTURER EN]Emerson Radio
-[MANUFACTURER FR]Emerson Radio
 [MANUFACTURER GE]Emerson Radio
-[MANUFACTURER HU]Emerson Radio
-[MANUFACTURER JA]Emerson Radio
-[MANUFACTURER PL]Emerson Radio
 [MANUFACTURER TU]Emerson Radio
+[MANUFACTURER FR]Emerson Radio
+[MANUFACTURER HU]Emerson Radio
+[MANUFACTURER JA]エマソン
+[MANUFACTURER PL]Emerson Radio
+[MANUFACTURER CH]Emerson Radio
+[MANUFACTURER UA]Emerson Radio
+[MANUFACTURER TH]Emerson Radio
 [DATE]MAY 1982
 [DATE END]NOV 1984
 [PRICE]19500
@@ -2232,25 +2842,31 @@
 [COMPLEX]1
 [INTERNET]0
 [TYP]1
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]76
-[NAME CH]Astrocade
 [NAME EN]Astrocade
-[NAME FR]Astrocade
 [NAME GE]Astrocade
-[NAME HU]Astrocade
-[NAME JA]アストローケード
-[NAME PL]Astrocade
 [NAME TU]Astrocade
-[MANUFACTURER CH]Bally
+[NAME FR]Astrocade
+[NAME HU]Astrocade
+[NAME JA]アストロアーケード
+[NAME PL]Bally Astrocade
+[NAME CH]Bally Astrocade
+[NAME UA]Bally Astrocade
+[NAME TH]Bally Astrocade
 [MANUFACTURER EN]Bally
-[MANUFACTURER FR]Bally
 [MANUFACTURER GE]Bally
+[MANUFACTURER TU]Bally
+[MANUFACTURER FR]Bally
 [MANUFACTURER HU]Bally
 [MANUFACTURER JA]ワリー
 [MANUFACTURER PL]Bally
-[MANUFACTURER TU]Bally
+[MANUFACTURER CH]Bally
+[MANUFACTURER UA]Bally
+[MANUFACTURER TH]Bally
 [DATE]JAN 1977
 [DATE END]JUL 1985
 [PRICE]11900
@@ -2262,25 +2878,31 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]77
-[NAME CH]Fairchild Channel F
-[NAME EN]Fairchild Channel F
-[NAME FR]Fairchild Channel F
-[NAME GE]Fairchild Channel F
-[NAME HU]Fairchild Channel F
+[NAME EN]Channel F
+[NAME GE]Channel F
+[NAME TU]Channel F
+[NAME FR]Channel F
+[NAME HU]Channel F
 [NAME JA]フェアテックCF
-[NAME PL]Fairchild Channel F
-[NAME TU]Fairchild Channel F
-[MANUFACTURER CH]Fairtech
-[MANUFACTURER EN]Fairtech
-[MANUFACTURER FR]Fairtech
-[MANUFACTURER GE]Fairtech
-[MANUFACTURER HU]Fairtech
+[NAME PL]Channel F
+[NAME CH]Channel F
+[NAME UA]Channel F
+[NAME TH]Channel F
+[MANUFACTURER EN]Fairchild
+[MANUFACTURER GE]Fairchild
+[MANUFACTURER TU]Fairchild
+[MANUFACTURER FR]Fairchild
+[MANUFACTURER HU]Fairchild
 [MANUFACTURER JA]フェアテック
-[MANUFACTURER PL]Fairtech
-[MANUFACTURER TU]Fairtech
+[MANUFACTURER PL]Fairchild
+[MANUFACTURER CH]Fairchild
+[MANUFACTURER UA]Fairchild
+[MANUFACTURER TH]Fairchild
 [DATE]JAN 1976
 [DATE END]MAR 1983
 [PRICE]10000
@@ -2293,25 +2915,31 @@
 [INTERNET]0
 [TYP]1
 [STARTPLATFORM]
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]78
-[NAME CH]PV-1000
 [NAME EN]PV-1000
-[NAME FR]PV-1000
 [NAME GE]PV-1000
+[NAME TU]PV-1000
+[NAME FR]PV-1000
 [NAME HU]PV-1000
 [NAME JA]PV-1000
 [NAME PL]PV-1000
-[NAME TU]PV-1000
-[MANUFACTURER CH]Casio
+[NAME CH]PV-1000
+[NAME UA]PV-1000
+[NAME TH]PV-1000
 [MANUFACTURER EN]Casio
-[MANUFACTURER FR]Casio
 [MANUFACTURER GE]Casio
+[MANUFACTURER TU]Casio
+[MANUFACTURER FR]Casio
 [MANUFACTURER HU]Casio
 [MANUFACTURER JA]カイソ計算機
 [MANUFACTURER PL]Casio
-[MANUFACTURER TU]Casio
+[MANUFACTURER CH]Casio
+[MANUFACTURER UA]Casio
+[MANUFACTURER TH]Casio
 [DATE]OCT 1983
 [DATE END]MAR 1984
 [PRICE]20000
@@ -2323,25 +2951,31 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]79
-[NAME CH]Gamate
 [NAME EN]Gamate
-[NAME FR]Gamate
 [NAME GE]Gamate
+[NAME TU]Gamate
+[NAME FR]Gamate
 [NAME HU]Gamate
 [NAME JA]Gamate
 [NAME PL]Gamate
-[NAME TU]Gamate
-[MANUFACTURER CH]Bit Corp
-[MANUFACTURER EN]Bit Corp
-[MANUFACTURER FR]Bit Corp
-[MANUFACTURER GE]Bit Corp
-[MANUFACTURER HU]Bit Corp
-[MANUFACTURER JA]Bitテック
-[MANUFACTURER PL]Bit Corp
-[MANUFACTURER TU]Bit Corp
+[NAME CH]Gamate
+[NAME UA]Gamate
+[NAME TH]Gamate
+[MANUFACTURER EN]Bit Corporation
+[MANUFACTURER GE]Bit Corporation
+[MANUFACTURER TU]Bit Corporation
+[MANUFACTURER FR]Bit Corporation
+[MANUFACTURER HU]BBit Corporation
+[MANUFACTURER JA]Bit Corporation
+[MANUFACTURER PL]Bit Corporation
+[MANUFACTURER CH]Bit Corporation
+[MANUFACTURER UA]Bit Corporation
+[MANUFACTURER TH]Bit Corporation
 [DATE]OCT 1990
 [DATE END]MAR 1994
 [PRICE]50000
@@ -2353,25 +2987,31 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]2
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]80
-[NAME CH]Magnavox Odyssey 2
 [NAME EN]Magnavox Odyssey 2
-[NAME FR]Magnavox Odyssey 2
 [NAME GE]Magnavox Odyssey 2
+[NAME TU]Magnavox Odyssey 2
+[NAME FR]Magnavox Odyssey 2
 [NAME HU]Magnavox Odyssey 2
 [NAME JA]マグマ オリンパス2
 [NAME PL]Magnavox Odyssey 2
-[NAME TU]Magnavox Odyssey 2
-[MANUFACTURER CH]Philips
-[MANUFACTURER EN]Philips
-[MANUFACTURER FR]Philips
-[MANUFACTURER GE]Philips
-[MANUFACTURER HU]Philips
+[NAME CH]Magnavox Odyssey 2
+[NAME UA]Magnavox Odyssey 2
+[NAME TH]Magnavox Odyssey 2
+[MANUFACTURER EN]Phiips
+[MANUFACTURER GE]Phiips
+[MANUFACTURER TU]Phiips
+[MANUFACTURER FR]Phiips
+[MANUFACTURER HU]Phiips
 [MANUFACTURER JA]フィロップス
-[MANUFACTURER PL]Philips
-[MANUFACTURER TU]Philips
+[MANUFACTURER PL]Phiips
+[MANUFACTURER CH]Phiips
+[MANUFACTURER UA]Phiips
+[MANUFACTURER TH]Phiips
 [DATE]DEC 1978
 [DATE END]MAR 1984
 [PRICE]12000
@@ -2383,25 +3023,31 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]81
-[NAME CH]Apple II
 [NAME EN]Apple II
-[NAME FR]Apple II
 [NAME GE]Apple II
+[NAME TU]Apple II
+[NAME FR]Apple II
 [NAME HU]Apple II
 [NAME JA]Apple II
 [NAME PL]Apple II
-[NAME TU]Apple II
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
-[MANUFACTURER JA]Apple
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
+[NAME CH]Apple II
+[NAME UA]Apple II
+[NAME TH]Apple II
+[MANUFACTURER EN]Apple Computer, Inc.
+[MANUFACTURER GE]Apple Computer, Inc.
+[MANUFACTURER TU]Apple Computer, Inc.
+[MANUFACTURER FR]Apple Computer, Inc.
+[MANUFACTURER HU]Apple Computer, Inc.
+[MANUFACTURER JA]Apple社
+[MANUFACTURER PL]Apple Computer, Inc.
+[MANUFACTURER CH]Apple Computer, Inc.
+[MANUFACTURER UA]Apple Computer, Inc.
+[MANUFACTURER TH]Apple Computer, Inc.
 [DATE]JUN 1977
 [DATE END]NOV 1993
 [PRICE]11000
@@ -2413,25 +3059,32 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]0
+[GAMEPASS]10
+[PRE]49
+[SUC]48
 [END]
 
 [ID]82
-[NAME CH]Nintendo Switch
-[NAME EN]Nintendo Switch
-[NAME FR]Nintendo Switch
+[NAME EN]Switch
 [NAME GE]Nintendo Switch
-[NAME HU]Nintendo Switch
-[NAME JA]任天堂 Switch
-[NAME PL]Nintendo Switch
 [NAME TU]Nintendo Switch
-[MANUFACTURER CH]Nintendo
+[NAME FR]Nintendo Switch
+[NAME HU]Nintendo Switch
+[NAME JA]NintendoSwitch
+[NAME PL]Nintendo Switch
+[NAME CH]Nintendo Switch
+[NAME UA]Nintendo Switch
+[NAME TH]Nintendo Switch
 [MANUFACTURER EN]Nintendo
-[MANUFACTURER FR]Nintendo
 [MANUFACTURER GE]Nintendo
-[MANUFACTURER HU]Nintendo
-[MANUFACTURER JA]任天堂
-[MANUFACTURER PL]Nintendo
 [MANUFACTURER TU]Nintendo
+[MANUFACTURER FR]Nintendo
+[MANUFACTURER HU]Nintendo
+[MANUFACTURER JA]民天堂
+[MANUFACTURER PL]Nintendo
+[MANUFACTURER CH]Nintendo
+[MANUFACTURER UA]Nintendo
+[MANUFACTURER TH]Nintendo
 [DATE]MAR 2017
 [DATE END]DEC 2025
 [PRICE]450000
@@ -2444,25 +3097,33 @@
 [COMPLEX]1
 [INTERNET]1
 [TYP]1
+[GAMEPASS]30
+[PUB]18
+[PRE]27
+[SUC]28
 [END]
 
 [ID]83
-[NAME CH]Amstrad GX4000
-[NAME EN]Amstrad GX4000
-[NAME FR]Amstrad GX4000
-[NAME GE]Amstrad GX4000
-[NAME HU]Amstrad GX4000
-[NAME JA]アムストラッド GX4000
-[NAME PL]Amstrad GX4000
-[NAME TU]Amstrad GX4000
-[MANUFACTURER CH]Amstrad
+[NAME EN]GX4000
+[NAME GE]GX4000
+[NAME TU]GX4000
+[NAME FR]GX4000
+[NAME HU]GX4000
+[NAME JA]アムスターGX3000
+[NAME PL]GX4000
+[NAME CH]GX4000
+[NAME UA]GX4000
+[NAME TH]GX4000
 [MANUFACTURER EN]Amstrad
-[MANUFACTURER FR]Amstrad
 [MANUFACTURER GE]Amstrad
-[MANUFACTURER HU]Amstrad
-[MANUFACTURER JA]アムストラッド
-[MANUFACTURER PL]Amstrad
 [MANUFACTURER TU]Amstrad
+[MANUFACTURER FR]Amstrad
+[MANUFACTURER HU]Amstrad
+[MANUFACTURER JA]アムスター
+[MANUFACTURER PL]Amstrad
+[MANUFACTURER CH]Amstrad
+[MANUFACTURER UA]Amstrad
+[MANUFACTURER TH]Amstrad
 [DATE]SEP 1990
 [DATE END]DEC 1991
 [PRICE]50600
@@ -2474,25 +3135,31 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]84
-[NAME CH]CassetteVision
 [NAME EN]CassetteVision
-[NAME FR]CassetteVision
 [NAME GE]CassetteVision
-[NAME HU]CassetteVision
-[NAME JA]カセットビジョン
-[NAME PL]CassetteVision
 [NAME TU]CassetteVision
-[MANUFACTURER CH]Epoch
+[NAME FR]CassetteVision
+[NAME HU]CassetteVision
+[NAME JA]カセットビュー
+[NAME PL]CassetteVision
+[NAME CH]CassetteVision
+[NAME UA]CassetteVision
+[NAME TH]CassetteVision
 [MANUFACTURER EN]Epoch
-[MANUFACTURER FR]Epoch
 [MANUFACTURER GE]Epoch
-[MANUFACTURER HU]Epoch
-[MANUFACTURER JA]Epoch
-[MANUFACTURER PL]Epoch
 [MANUFACTURER TU]Epoch
+[MANUFACTURER FR]Epoch
+[MANUFACTURER HU]Epoch
+[MANUFACTURER JA]エピック社
+[MANUFACTURER PL]Epoch
+[MANUFACTURER CH]Epoch
+[MANUFACTURER UA]Epoch
+[MANUFACTURER TH]Epoch
 [DATE]JUL 1981
 [DATE END]NOV 1985
 [PRICE]17000
@@ -2504,25 +3171,31 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[PRE]-1
+[SUC]85
 [END]
 
 [ID]85
-[NAME CH]Super CassetteVision
 [NAME EN]Super CassetteVision
-[NAME FR]Super CassetteVision
 [NAME GE]Super CassetteVision
-[NAME HU]Super CassetteVision
-[NAME JA]スーパーカセットビジョン
-[NAME PL]Super CassetteVision
 [NAME TU]Super CassetteVision
-[MANUFACTURER CH]Epoch
+[NAME FR]Super CassetteVision
+[NAME HU]Super CassetteVision
+[NAME JA]スーパーカセットビュー
+[NAME PL]Super CassetteVision
+[NAME CH]Super CassetteVision
+[NAME UA]Super CassetteVision
+[NAME TH]Super CassetteVision
 [MANUFACTURER EN]Epoch
-[MANUFACTURER FR]Epoch
 [MANUFACTURER GE]Epoch
-[MANUFACTURER HU]Epoch
-[MANUFACTURER JA]Epoch
-[MANUFACTURER PL]Epoch
 [MANUFACTURER TU]Epoch
+[MANUFACTURER FR]Epoch
+[MANUFACTURER HU]Epoch
+[MANUFACTURER JA]エピック社
+[MANUFACTURER PL]Epoch
+[MANUFACTURER CH]Epoch
+[MANUFACTURER UA]Epoch
+[MANUFACTURER TH]Epoch
 [DATE]JUL 1984
 [DATE END]NOV 1987
 [PRICE]23100
@@ -2534,25 +3207,31 @@
 [COMPLEX]1
 [INTERNET]0
 [TYP]1
+[PRE]84
+[SUC]-1
 [END]
 
 [ID]86
-[NAME CH]Entex AdventureVision
-[NAME EN]Entex AdventureVision
-[NAME FR]Entex AdventureVision
-[NAME GE]Entex AdventureVision
-[NAME HU]Entex AdventureVision
-[NAME JA]アドベンチャービジョン
-[NAME PL]Entex AdventureVision
-[NAME TU]Entex AdventureVision
-[MANUFACTURER CH]Entex
+[NAME EN]Adventure Vision
+[NAME GE]Adventure Vision
+[NAME TU]Adventure Vision
+[NAME FR]Adventure Vision
+[NAME HU]Adventure Vision
+[NAME JA]ADビジョン
+[NAME PL]Adventure Vision
+[NAME CH]Adventure Vision
+[NAME UA]Adventure Vision
+[NAME TH]Adventure Vision
 [MANUFACTURER EN]Entex
-[MANUFACTURER FR]Entex
 [MANUFACTURER GE]Entex
+[MANUFACTURER TU]Entex
+[MANUFACTURER FR]Entex
 [MANUFACTURER HU]Entex
 [MANUFACTURER JA]Entex
 [MANUFACTURER PL]Entex
-[MANUFACTURER TU]Entex
+[MANUFACTURER CH]Entex
+[MANUFACTURER UA]Entex
+[MANUFACTURER TH]Entex
 [DATE]JAN 1982
 [DATE END]OCT 1983
 [PRICE]19500
@@ -2564,25 +3243,31 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]87
-[NAME CH]Neo Geo X
 [NAME EN]Neo Geo X
-[NAME FR]Neo Geo X
 [NAME GE]Neo Geo X
-[NAME HU]Neo Geo X
-[NAME JA]Neo Geo X
-[NAME PL]Neo Geo X
 [NAME TU]Neo Geo X
-[MANUFACTURER CH]SNK Corporation
-[MANUFACTURER EN]SNK Corporation
-[MANUFACTURER FR]SNK Corporation
-[MANUFACTURER GE]SNK Corporation
-[MANUFACTURER HU]SNK Corporation
-[MANUFACTURER JA]SNK Corporation
-[MANUFACTURER PL]SNK Corporation
-[MANUFACTURER TU]SNK Corporation
+[NAME FR]Neo Geo X
+[NAME HU]Neo Geo X
+[NAME JA]ジオレオX
+[NAME PL]Neo X
+[NAME CH]Neo X
+[NAME UA]Neo X
+[NAME TH]Neo X
+[MANUFACTURER EN]SNK
+[MANUFACTURER GE]SNK
+[MANUFACTURER TU]SNK
+[MANUFACTURER FR]SNK
+[MANUFACTURER HU]SNK
+[MANUFACTURER JA]SMK
+[MANUFACTURER PL]SNK
+[MANUFACTURER CH]SNK
+[MANUFACTURER UA]SNK
+[MANUFACTURER TH]SNK
 [DATE]DEC 2012
 [DATE END]JAN 2020
 [PRICE]348500
@@ -2594,25 +3279,33 @@
 [COMPLEX]1
 [INTERNET]1
 [TYP]2
+[GAMEPASS]15
+[PUB]90
+[PRE]61
+[SUC]-1
 [END]
 
 [ID]88
-[NAME CH]Rodofin 1292
-[NAME EN]Rodofin 1292
-[NAME FR]Rodofin 1292
-[NAME GE]Rodofin 1292
-[NAME HU]Rodofin 1292
-[NAME JA]Rodofin 1292
-[NAME PL]Rodofin 1292
-[NAME TU]Rodofin 1292
-[MANUFACTURER CH]Rodofin
-[MANUFACTURER EN]Rodofin
-[MANUFACTURER FR]Rodofin
-[MANUFACTURER GE]Rodofin
-[MANUFACTURER HU]Rodofin
-[MANUFACTURER JA]Rodofin
-[MANUFACTURER PL]Rodofin
-[MANUFACTURER TU]Rodofin
+[NAME EN]Radofin 1292
+[NAME GE]Radofin 1292
+[NAME TU]Radofin 1292
+[NAME FR]Radofin 1292
+[NAME HU]Radofin 1292
+[NAME JA]Radofin 1292
+[NAME PL]Radofin 1292
+[NAME CH]Radofin 1292
+[NAME UA]Radofin 1292
+[NAME TH]Radofin 1292
+[MANUFACTURER EN]Radofin
+[MANUFACTURER GE]Radofin
+[MANUFACTURER TU]Radofin
+[MANUFACTURER FR]Radofin
+[MANUFACTURER HU]Radofin
+[MANUFACTURER JA]Radofin
+[MANUFACTURER PL]Radofin
+[MANUFACTURER CH]Radofin
+[MANUFACTURER UA]Radofin
+[MANUFACTURER TH]Radofin
 [DATE]FEB 1978
 [DATE END]OCT 1983
 [PRICE]12680
@@ -2624,25 +3317,31 @@
 [COMPLEX]1
 [INTERNET]0
 [TYP]1
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]89
-[NAME CH]Super'A'Can
 [NAME EN]Super'A'Can
-[NAME FR]Super'A'Can
-[NAME GE]Super'A'Can
-[NAME HU]Super'A'Can
-[NAME JA]Super'A'Can
-[NAME PL]Super'A'Can
-[NAME TU]Super'A'Can
-[MANUFACTURER CH]Funtech
+[NAME GE]Mega-A-Can
+[NAME TU]Mega-A-Can
+[NAME FR]Mega-A-Can
+[NAME HU]Mega-A-Can
+[NAME JA]Mega-A-Can
+[NAME PL]Mega-A-Can
+[NAME CH]Mega-A-Can
+[NAME UA]Mega-A-Can
+[NAME TH]Mega-A-Can
 [MANUFACTURER EN]Funtech
-[MANUFACTURER FR]Funtech
-[MANUFACTURER GE]Funtech
-[MANUFACTURER HU]Funtech
-[MANUFACTURER JA]Funtech
-[MANUFACTURER PL]Funtech
-[MANUFACTURER TU]Funtech
+[MANUFACTURER GE]Funny-Tech
+[MANUFACTURER TU]Funny-Tech
+[MANUFACTURER FR]Funny-Tech
+[MANUFACTURER HU]Funny-Tech
+[MANUFACTURER JA]Funny-Tech
+[MANUFACTURER PL]Funny-Tech
+[MANUFACTURER CH]Funny-Tech
+[MANUFACTURER UA]Funny-Tech
+[MANUFACTURER TH]Funny-Tech
 [DATE]OCT 1995
 [DATE END]OCT 1997
 [PRICE]80000
@@ -2654,25 +3353,31 @@
 [COMPLEX]1
 [INTERNET]0
 [TYP]1
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]90
-[NAME CH]VTech CreatiVision
 [NAME EN]VTech CreatiVision
-[NAME FR]VTech CreatiVision
-[NAME GE]VTech CreatiVision
-[NAME HU]VTech CreatiVision
-[NAME JA]VTech CreatiVision
-[NAME PL]VTech CreatiVision
-[NAME TU]VTech CreatiVision
-[MANUFACTURER CH]V-Tech
-[MANUFACTURER EN]V-Tech
-[MANUFACTURER FR]V-Tech
-[MANUFACTURER GE]V-Tech
-[MANUFACTURER HU]V-Tech
-[MANUFACTURER JA]V-Tech
-[MANUFACTURER PL]V-Tech
-[MANUFACTURER TU]V-Tech
+[NAME GE]VTech Vision
+[NAME TU]VTech Vision
+[NAME FR]VTech Vision
+[NAME HU]VTech Vision
+[NAME JA]VTech Vision
+[NAME PL]VTech Vision
+[NAME CH]VTech Vision
+[NAME UA]VTech Vision
+[NAME TH]VTech Vision
+[MANUFACTURER EN]VTech
+[MANUFACTURER GE]VTech
+[MANUFACTURER TU]VTech
+[MANUFACTURER FR]VTech
+[MANUFACTURER HU]VTech
+[MANUFACTURER JA]VTech
+[MANUFACTURER PL]VTech
+[MANUFACTURER CH]VTech
+[MANUFACTURER UA]VTech
+[MANUFACTURER TH]VTech
 [DATE]FEB 1982
 [DATE END]JAN 1986
 [PRICE]19350
@@ -2684,25 +3389,31 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]91
-[NAME CH]V-Tech Laser 2001
-[NAME EN]V-Tech Laser 2001
-[NAME FR]V-Tech Laser 2001
-[NAME GE]V-Tech Laser 2001
-[NAME HU]V-Tech Laser 2001
-[NAME JA]V-Tech Laser 2001
-[NAME PL]V-Tech Laser 2001
-[NAME TU]V-Tech Laser 2001
-[MANUFACTURER CH]V-Tech
-[MANUFACTURER EN]V-Tech
-[MANUFACTURER FR]V-Tech
-[MANUFACTURER GE]V-Tech
-[MANUFACTURER HU]V-Tech
-[MANUFACTURER JA]V-Tech
-[MANUFACTURER PL]V-Tech
-[MANUFACTURER TU]V-Tech
+[NAME EN]VTech Laser 2001
+[NAME GE]VTech Laser 2000
+[NAME TU]VTech Laser 2000
+[NAME FR]VTech Laser 2000
+[NAME HU]VTech Laser 2000
+[NAME JA]VTech Laser 2000
+[NAME PL]VTech Laser 2000
+[NAME CH]VTech Laser 2000
+[NAME UA]VTech Laser 2000
+[NAME TH]VTech Laser 2000
+[MANUFACTURER EN]VTech
+[MANUFACTURER GE]VTech
+[MANUFACTURER TU]VTech
+[MANUFACTURER FR]VTech
+[MANUFACTURER HU]VTech
+[MANUFACTURER JA]VTech
+[MANUFACTURER PL]VTech
+[MANUFACTURER CH]VTech
+[MANUFACTURER UA]VTech
+[MANUFACTURER TH]VTech
 [DATE]NOV 1983
 [DATE END]JUL 1985
 [PRICE]20800
@@ -2714,25 +3425,31 @@
 [COMPLEX]1
 [INTERNET]0
 [TYP]0
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]92
-[NAME CH]Zeebo
 [NAME EN]Zeebo
-[NAME FR]Zeebo
-[NAME GE]Zeebo
-[NAME HU]Zeebo
-[NAME JA]Zeebo
-[NAME PL]Zeebo
-[NAME TU]Zeebo
-[MANUFACTURER CH]Zeebo Inc.
-[MANUFACTURER EN]Zeebo Inc.
-[MANUFACTURER FR]Zeebo Inc.
-[MANUFACTURER GE]Zeebo Inc.
-[MANUFACTURER HU]Zeebo Inc.
-[MANUFACTURER JA]Zeebo
-[MANUFACTURER PL]Zeebo Inc.
-[MANUFACTURER TU]Zeebo Inc.
+[NAME GE]Cyboo
+[NAME TU]Cyboo
+[NAME FR]Cyboo
+[NAME HU]Cyboo
+[NAME JA]サイーボ
+[NAME PL]Cyboo
+[NAME CH]Cyboo
+[NAME UA]Cyboo
+[NAME TH]Cyboo
+[MANUFACTURER EN]Cyboo Inc.
+[MANUFACTURER GE]Cyboo Inc.
+[MANUFACTURER TU]Cyboo Inc.
+[MANUFACTURER FR]Cyboo Inc.
+[MANUFACTURER HU]Cyboo Inc.
+[MANUFACTURER JA]サイーボ社
+[MANUFACTURER PL]Cyboo Inc.
+[MANUFACTURER CH]Cyboo Inc.
+[MANUFACTURER UA]Cyboo Inc.
+[MANUFACTURER TH]Cyboo Inc.
 [DATE]MAY 2009
 [DATE END]SEP 2011
 [PRICE]283000
@@ -2744,25 +3461,32 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]1
+[GAMEPASS]15
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]93
-[NAME CH]Virtual Boy
 [NAME EN]Virtual Boy
-[NAME FR]Virtual Boy
 [NAME GE]Virtual Boy
-[NAME HU]Virtual Boy
-[NAME JA]Virtual Boy
-[NAME PL]Virtual Boy
 [NAME TU]Virtual Boy
-[MANUFACTURER CH]Nintendo
+[NAME FR]Virtual Boy
+[NAME HU]Virtual Boy
+[NAME JA]バーチャルポータブル
+[NAME PL]Virtual Boy
+[NAME CH]Virtual Boy
+[NAME UA]Virtual Boy
+[NAME TH]Virtual Boy
 [MANUFACTURER EN]Nintendo
-[MANUFACTURER FR]Nintendo
 [MANUFACTURER GE]Nintendo
+[MANUFACTURER TU]Nintendo
+[MANUFACTURER FR]Nintendo
 [MANUFACTURER HU]Nintendo
 [MANUFACTURER JA]民天堂
 [MANUFACTURER PL]Nintendo
-[MANUFACTURER TU]Nintendo
+[MANUFACTURER CH]Nintendo
+[MANUFACTURER UA]Nintendo
+[MANUFACTURER TH]Nintendo
 [DATE]JUL 1995
 [DATE END]MAR 1996
 [PRICE]83400
@@ -2774,25 +3498,32 @@
 [COMPLEX]2
 [INTERNET]0
 [TYP]1
+[PUB]18
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]94
-[NAME CH]Sega Nomad
 [NAME EN]Sega Nomad
-[NAME FR]Sega Nomad
 [NAME GE]Sega Nomad
-[NAME HU]Sega Nomad
-[NAME JA]Sega Nomad
-[NAME PL]Sega Nomad
 [NAME TU]Sega Nomad
-[MANUFACTURER CH]Sega
+[NAME FR]Sega Nomad
+[NAME HU]Sega Nomad
+[NAME JA]シガ ノーマン
+[NAME PL]Sega Nomad
+[NAME CH]Sega Nomad
+[NAME UA]Sega Nomad
+[NAME TH]Sega Nomad
 [MANUFACTURER EN]Sega
-[MANUFACTURER FR]Sega
 [MANUFACTURER GE]Sega
-[MANUFACTURER HU]Sega
-[MANUFACTURER JA]セガ
-[MANUFACTURER PL]Sega
 [MANUFACTURER TU]Sega
+[MANUFACTURER FR]Sega
+[MANUFACTURER HU]Sega
+[MANUFACTURER JA]シガ
+[MANUFACTURER PL]Sega
+[MANUFACTURER CH]Sega
+[MANUFACTURER UA]Sega
+[MANUFACTURER TH]Sega
 [DATE]OCT 1995
 [DATE END]FEB 1999
 [PRICE]82600
@@ -2804,83 +3535,115 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]2
+[BACKCOMP-1]13
+[PUB]23
+[PRE]11
+[SUC]132
 [END]
 
 [ID]95
-[NAME CH]Sony Playstation 6
-[NAME EN]Sony Playstation 6
-[NAME FR]Sony Playstation 6
-[NAME GE]Sony Playstation 6
-[NAME HU]Sony Playstation 6
-[NAME JA]ソニープレイステーション 6
-[NAME PL]Sony Playstation 6
-[NAME TU]Sony Playstation 6
-[MANUFACTURER CH]Sony
+[NAME EN]PlayStation 6
+[NAME GE]PlayStation 6
+[NAME TU]PlayStation 6
+[NAME FR]PlayStation 6
+[NAME HU]PlayStation 6
+[NAME JA]ゲームステーション6
+[NAME PL]PlayStation 6
+[NAME CH]PlayStation 6
+[NAME UA]PlayStation 6
+[NAME TH]PlayStation 6
 [MANUFACTURER EN]Sony
-[MANUFACTURER FR]Sony
 [MANUFACTURER GE]Sony
-[MANUFACTURER HU]Sony
-[MANUFACTURER JA]ソニー
-[MANUFACTURER PL]Sony
 [MANUFACTURER TU]Sony
+[MANUFACTURER FR]Sony
+[MANUFACTURER HU]Sony
+[MANUFACTURER JA]ポニー
+[MANUFACTURER PL]Sony
+[MANUFACTURER CH]Sony
+[MANUFACTURER UA]Sony
+[MANUFACTURER TH]Sony
 [DATE]DEC 2028
 [PRICE]682000
 [DEV COSTS]228000
-[TECHLEVEL]8
+[TECHLEVEL]9
 [UNITS]200000000
 [PIC-1]Playstation6.png
 [NEED-1]51
 [COMPLEX]1
 [INTERNET]1
 [TYP]1
+[GAMEPASS]25
+[BACKCOMP-1]19
+[BACKCOMP-2]20
+[BACKCOMP-3]21
+[BACKCOMP-4]22
+[PUB]25
+[PRE]22
+[SUC]-1
 [END]
 
 [ID]96
-[NAME CH]Microsoft Xbox Series X II
-[NAME EN]Microsoft Xbox Series X II
-[NAME FR]Microsoft Xbox Series X II
-[NAME GE]Microsoft Xbox Series X II
-[NAME HU]Microsoft Xbox Series X II
-[NAME JA]Xbox Series X-II
-[NAME PL]Microsoft Xbox Series X II
-[NAME TU]Microsoft Xbox Series X II
-[MANUFACTURER CH]Microsoft
+[NAME EN]Microsoft Xbox Series Y
+[NAME GE]Microsoft Xbox SX-II
+[NAME TU]Microsoft Xbox SX-II
+[NAME FR]Microsoft Xbox SX-II
+[NAME HU]Microsoft Xbox SX-II
+[NAME JA]Xbox SX-II
+[NAME PL]Microsoft Xbox SX-II
+[NAME CH]Microsoft Xbox SX-II
+[NAME UA]Microsoft Xbox SX-II
+[NAME TH]Microsoft Xbox SX-II
 [MANUFACTURER EN]Microsoft
-[MANUFACTURER FR]Microsoft
 [MANUFACTURER GE]Microsoft
+[MANUFACTURER TU]Microsoft
+[MANUFACTURER FR]Microsoft
 [MANUFACTURER HU]Microsoft
 [MANUFACTURER JA]ミニソフト
 [MANUFACTURER PL]Microsoft
-[MANUFACTURER TU]Microsoft
+[MANUFACTURER CH]Microsoft
+[MANUFACTURER UA]Microsoft
+[MANUFACTURER TH]Microsoft
 [DATE]NOV 2028
 [PRICE]680000
 [DEV COSTS]224000
-[TECHLEVEL]8
+[TECHLEVEL]9
 [UNITS]200000000
 [PIC-1]XboxX2.png
 [NEED-1]51
 [COMPLEX]1
 [INTERNET]1
 [TYP]1
+[GAMEPASS]20
+[BACKCOMP-1]29
+[BACKCOMP-2]30
+[BACKCOMP-3]31
+[BACKCOMP-4]32
+[PUB]16
+[PRE]31
+[SUC]-1
 [END]
 
 [ID]97
-[NAME CH]Commodore PET
 [NAME EN]Commodore PET
-[NAME FR]Commodore PET
-[NAME GE]Commodore PET
-[NAME HU]Commodore PET
-[NAME JA]コンモドーPET
-[NAME PL]Commodore PET
-[NAME TU]Commodore PET
-[MANUFACTURER CH]Commodore
+[NAME GE]Commodore PETE
+[NAME TU]Commodore PETE
+[NAME FR]Commodore PETE
+[NAME HU]Commodore PETE
+[NAME JA]コンモドーPETE
+[NAME PL]Commodore PETE
+[NAME CH]Commodore PETE
+[NAME UA]Commodore PETE
+[NAME TH]Commodore PETE
 [MANUFACTURER EN]Commodore
-[MANUFACTURER FR]Commodore
 [MANUFACTURER GE]Commodore
+[MANUFACTURER TU]Commodore
+[MANUFACTURER FR]Commodore
 [MANUFACTURER HU]Commodore
 [MANUFACTURER JA]コンモドー
 [MANUFACTURER PL]Commodore
-[MANUFACTURER TU]Commodore
+[MANUFACTURER CH]Commodore
+[MANUFACTURER UA]Commodore
+[MANUFACTURER TH]Commodore
 [DATE]JAN 1977
 [DATE END]DEC 1982
 [PRICE]11000
@@ -2892,25 +3655,31 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]0
+[PRE]-1
+[SUC]40
 [END]
 
 [ID]98
-[NAME CH]ZX80
 [NAME EN]ZX80
-[NAME FR]ZX80
-[NAME GE]ZX80
-[NAME HU]ZX80
-[NAME JA]ZX80
-[NAME PL]ZX80
-[NAME TU]ZX80
-[MANUFACTURER CH]Sinclair
-[MANUFACTURER EN]Sinclair
-[MANUFACTURER FR]Sinclair
-[MANUFACTURER GE]Sinclair
-[MANUFACTURER HU]Sinclair
+[NAME GE]ZY80
+[NAME TU]ZY80
+[NAME FR]ZY80
+[NAME HU]ZY80
+[NAME JA]ZY80
+[NAME PL]ZY80
+[NAME CH]ZY80
+[NAME UA]ZY80
+[NAME TH]ZY80
+[MANUFACTURER EN]Sinclair Research
+[MANUFACTURER GE]Sinclair Research
+[MANUFACTURER TU]Sinclair Research
+[MANUFACTURER FR]Sinclair Research
+[MANUFACTURER HU]Sinclair Research
 [MANUFACTURER JA]シンテック リサーチ
-[MANUFACTURER PL]Sinclair
-[MANUFACTURER TU]Sinclair
+[MANUFACTURER PL]Sinclair Research
+[MANUFACTURER CH]Sinclair Research
+[MANUFACTURER UA]Sinclair Research
+[MANUFACTURER TH]Sinclair Research
 [DATE]JAN 1980
 [DATE END]DEC 1981
 [PRICE]15000
@@ -2922,25 +3691,31 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]0
+[PRE]-1
+[SUC]41
 [END]
 
 [ID]99
-[NAME CH]雅达利 800
 [NAME EN]Atari 800
-[NAME FR]Atari 800
-[NAME GE]Atari 800
-[NAME HU]Atari 800
-[NAME JA]アタリ 800
-[NAME PL]Atari 800
-[NAME TU]Atari 800
-[MANUFACTURER CH]雅达利
+[NAME GE]Atari 850
+[NAME TU]Atari 850
+[NAME FR]Atari 850
+[NAME HU]Atari 850
+[NAME JA]Atari850
+[NAME PL]Atari 850
+[NAME CH]Atari 850
+[NAME UA]Atari 850
+[NAME TH]Atari 850
 [MANUFACTURER EN]Atari
-[MANUFACTURER FR]Atari
 [MANUFACTURER GE]Atari
-[MANUFACTURER HU]Atari
-[MANUFACTURER JA]アタリ
-[MANUFACTURER PL]Atari
 [MANUFACTURER TU]Atari
+[MANUFACTURER FR]Atari
+[MANUFACTURER HU]Atari
+[MANUFACTURER JA]カタリ
+[MANUFACTURER PL]Atari
+[MANUFACTURER CH]Atari
+[MANUFACTURER UA]Atari
+[MANUFACTURER TH]Atari
 [DATE]NOV 1979
 [DATE END]JAN 1992
 [PRICE]13000
@@ -2952,25 +3727,32 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]0
+[PUB]3
+[PRE]-1
+[SUC]52
 [END]
 
 [ID]100
-[NAME CH]TRS-80
 [NAME EN]TRS-80
-[NAME FR]TRS-80
-[NAME GE]TRS-80
-[NAME HU]TRS-80
-[NAME JA]TRS-80
-[NAME PL]TRS-80
-[NAME TU]TRS-80
-[MANUFACTURER CH]Tandy Corporation
+[NAME GE]RRS-80
+[NAME TU]RRS-80
+[NAME FR]RRS-80
+[NAME HU]RRS-80
+[NAME JA]RRS-80
+[NAME PL]RRS-80
+[NAME CH]RRS-80
+[NAME UA]RRS-80
+[NAME TH]RRS-80
 [MANUFACTURER EN]Tandy Corporation
-[MANUFACTURER FR]Tandy Corporation
-[MANUFACTURER GE]Tandy Corporation
-[MANUFACTURER HU]Tandy Corporation
+[MANUFACTURER GE]Randy Corporation
+[MANUFACTURER TU]Randy Corporation
+[MANUFACTURER FR]Randy Corporation
+[MANUFACTURER HU]Randy Corporation
 [MANUFACTURER JA]ランディ コーポレーション
-[MANUFACTURER PL]Tandy Corporation
-[MANUFACTURER TU]Tandy Corporation
+[MANUFACTURER PL]Randy Corporation
+[MANUFACTURER CH]Randy Corporation
+[MANUFACTURER UA]Randy Corporation
+[MANUFACTURER TH]Randy Corporation
 [DATE]AUG 1977
 [DATE END]JAN 1981
 [PRICE]11000
@@ -2982,25 +3764,31 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]0
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]101
-[NAME CH]Philips CDi
-[NAME EN]Philips CDi
-[NAME FR]Philips CDi
-[NAME GE]Philips CDi
-[NAME HU]Philips CDi
-[NAME JA]Philips CDi
-[NAME PL]Philips CDi
-[NAME TU]Philips CDi
-[MANUFACTURER CH]Philips
+[NAME EN]Philips CD-I
+[NAME GE]Philips CD-X
+[NAME TU]Philips CD-X
+[NAME FR]Philips CD-X
+[NAME HU]Philips CD-X
+[NAME JA]Philips CD-X
+[NAME PL]Philips CD-X
+[NAME CH]Philips CD-X
+[NAME UA]Philips CD-X
+[NAME TH]Philips CD-X
 [MANUFACTURER EN]Philips
-[MANUFACTURER FR]Philips
 [MANUFACTURER GE]Philips
+[MANUFACTURER TU]Philips
+[MANUFACTURER FR]Philips
 [MANUFACTURER HU]Philips
 [MANUFACTURER JA]フィロップス
 [MANUFACTURER PL]Philips
-[MANUFACTURER TU]Philips
+[MANUFACTURER CH]Philips
+[MANUFACTURER UA]Philips
+[MANUFACTURER TH]Philips
 [DATE]OCT 1990
 [DATE END]SEP 1998
 [PRICE]53000
@@ -3012,1295 +3800,609 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[PRE]-1
+[SUC]-1
 [END]
 
 [ID]102
-[NAME CH]iPhone OS
-[NAME EN]iPhone OS
-[NAME FR]iPhone OS
-[NAME GE]iPhone OS
-[NAME HU]iPhone OS
-[NAME JA]iPhone OS
-[NAME PL]iPhone OS
-[NAME TU]iPhone OS
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
+[NAME EN]iOS
+[NAME GE]iApple
+[NAME TU]iApple
+[NAME FR]iApple
+[NAME HU]iApple
+[NAME JA]iApple
+[NAME PL]iApple
+[NAME CH]iApple
+[NAME UA]iApple
+[NAME TH]iApple
+[MANUFACTURER EN]Apple Computer, Inc.
+[MANUFACTURER GE]Apple Computer, Inc.
+[MANUFACTURER TU]Apple Computer, Inc.
+[MANUFACTURER FR]Apple Computer, Inc.
+[MANUFACTURER HU]Apple Computer, Inc.
 [MANUFACTURER JA]Apple社
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
+[MANUFACTURER PL]Apple Computer, Inc.
+[MANUFACTURER CH]Apple Computer, Inc.
+[MANUFACTURER UA]Apple Computer, Inc.
+[MANUFACTURER TH]Apple Computer, Inc.
 [DATE]NOV 2007
-[DATE END]NOV 2009
+[DATE END]NOV 2012
 [PRICE]3500
 [DEV COSTS]5000
 [TECHLEVEL]3
 [UNITS]50000000
-[PIC-1]iOS1.png
+[PIC-1]iPhone1.png
 [NEED-1]56
 [COMPLEX]0
 [INTERNET]1
 [TYP]3
+[PRE]-1
+[SUC]103
 [END]
 
 [ID]103
-[NAME CH]iPhone OS 2
-[NAME EN]iPhone OS 2
-[NAME FR]iPhone OS 2
-[NAME GE]iPhone OS 2
-[NAME HU]iPhone OS 2
-[NAME JA]iPhone OS 2
-[NAME PL]iPhone OS 2
-[NAME TU]iPhone OS 2
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
+[NAME EN]iOS 2
+[NAME GE]iApple 2
+[NAME TU]iApple 2
+[NAME FR]iApple 2
+[NAME HU]iApple 2
+[NAME JA]iApple 2
+[NAME PL]iApple 2
+[NAME CH]iApple 2
+[NAME UA]iApple 2
+[NAME TH]iApple 2
+[MANUFACTURER EN]Apple Computer, Inc.
+[MANUFACTURER GE]Apple Computer, Inc.
+[MANUFACTURER TU]Apple Computer, Inc.
+[MANUFACTURER FR]Apple Computer, Inc.
+[MANUFACTURER HU]Apple Computer, Inc.
 [MANUFACTURER JA]Apple社
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
-[DATE]NOV 2008
-[DATE END]NOV 2010
+[MANUFACTURER PL]Apple Computer, Inc.
+[MANUFACTURER CH]Apple Computer, Inc.
+[MANUFACTURER UA]Apple Computer, Inc.
+[MANUFACTURER TH]Apple Computer, Inc.
+[DATE]NOV 2011
+[DATE END]NOV 2016
 [PRICE]4000
 [DEV COSTS]5800
 [TECHLEVEL]4
 [UNITS]75000000
-[PIC-1]iOS2.png
+[PIC-1]iPhone2.png
 [NEED-1]56
 [COMPLEX]0
 [INTERNET]1
 [TYP]3
+[PRE]102
+[SUC]104
 [END]
 
 [ID]104
-[NAME CH]iPhone OS 3
-[NAME EN]iPhone OS 3
-[NAME FR]iPhone OS 3
-[NAME GE]iPhone OS 3
-[NAME HU]iPhone OS 3
-[NAME JA]iPhone OS 3
-[NAME PL]iPhone OS 3
-[NAME TU]iPhone OS 3
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
+[NAME EN]iOS 3
+[NAME GE]iApple 3
+[NAME TU]iApple 3
+[NAME FR]iApple 3
+[NAME HU]iApple 3
+[NAME JA]iApple 3
+[NAME PL]iApple 3
+[NAME CH]iApple 3
+[NAME UA]iApple 3
+[NAME TH]iApple 3
+[MANUFACTURER EN]Apple Computer, Inc.
+[MANUFACTURER GE]Apple Computer, Inc.
+[MANUFACTURER TU]Apple Computer, Inc.
+[MANUFACTURER FR]Apple Computer, Inc.
+[MANUFACTURER HU]Apple Computer, Inc.
 [MANUFACTURER JA]Apple社
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
-[DATE]JUN 2009
-[DATE END]NOV 2011
+[MANUFACTURER PL]Apple Computer, Inc.
+[MANUFACTURER CH]Apple Computer, Inc.
+[MANUFACTURER UA]Apple Computer, Inc.
+[MANUFACTURER TH]Apple Computer, Inc.
+[DATE]NOV 2015
+[DATE END]NOV 2020
 [PRICE]4600
 [DEV COSTS]6900
 [TECHLEVEL]5
 [UNITS]100000000
-[PIC-1]iOS3.png
+[PIC-1]iPhone3.png
 [NEED-1]56
 [COMPLEX]0
 [INTERNET]1
 [TYP]3
+[PRE]103
+[SUC]105
 [END]
 
 [ID]105
-[NAME CH]iOS 4
 [NAME EN]iOS 4
-[NAME FR]iOS 4
-[NAME GE]iOS 4
-[NAME HU]iOS 4
-[NAME JA]iOS 4
-[NAME PL]iOS 4
-[NAME TU]iOS 4
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
+[NAME GE]iApple 4
+[NAME TU]iApple 4
+[NAME FR]iApple 4
+[NAME HU]iApple 4
+[NAME JA]iApple 4
+[NAME PL]iApple 4
+[NAME CH]iApple 4
+[NAME UA]iApple 4
+[NAME TH]iApple 4
+[MANUFACTURER EN]Apple Computer, Inc.
+[MANUFACTURER GE]Apple Computer, Inc.
+[MANUFACTURER TU]Apple Computer, Inc.
+[MANUFACTURER FR]Apple Computer, Inc.
+[MANUFACTURER HU]Apple Computer, Inc.
 [MANUFACTURER JA]Apple社
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
-[DATE]JUN 2010
-[DATE END]NOV 2012
+[MANUFACTURER PL]Apple Computer, Inc.
+[MANUFACTURER CH]Apple Computer, Inc.
+[MANUFACTURER UA]Apple Computer, Inc.
+[MANUFACTURER TH]Apple Computer, Inc.
+[DATE]NOV 2019
+[DATE END]NOV 2024
 [PRICE]5100
 [DEV COSTS]8000
 [TECHLEVEL]6
 [UNITS]150000000
-[PIC-1]iOS4.png
+[PIC-1]iPhone4.png
 [NEED-1]56
 [COMPLEX]0
 [INTERNET]1
 [TYP]3
+[PRE]104
+[SUC]106
 [END]
 
 [ID]106
-[NAME CH]iOS 5
 [NAME EN]iOS 5
-[NAME FR]iOS 5
-[NAME GE]iOS 5
-[NAME HU]iOS 5
-[NAME JA]iOS 5
-[NAME PL]iOS 5
-[NAME TU]iOS 5
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
+[NAME GE]iApple 5
+[NAME TU]iApple 5
+[NAME FR]iApple 5
+[NAME HU]iApple 5
+[NAME JA]iApple 5
+[NAME PL]iApple 5
+[NAME CH]iApple 5
+[NAME UA]iApple 5
+[NAME TH]iApple 5
+[MANUFACTURER EN]Apple Computer, Inc.
+[MANUFACTURER GE]Apple Computer, Inc.
+[MANUFACTURER TU]Apple Computer, Inc.
+[MANUFACTURER FR]Apple Computer, Inc.
+[MANUFACTURER HU]Apple Computer, Inc.
 [MANUFACTURER JA]Apple社
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
-[DATE]OCT 2011
-[DATE END]NOV 2012
+[MANUFACTURER PL]Apple Computer, Inc.
+[MANUFACTURER CH]Apple Computer, Inc.
+[MANUFACTURER UA]Apple Computer, Inc.
+[MANUFACTURER TH]Apple Computer, Inc.
+[DATE]NOV 2023
 [PRICE]5500
 [DEV COSTS]8400
 [TECHLEVEL]7
 [UNITS]200000000
-[PIC-1]iOS5.png
+[PIC-1]iPhone5.png
 [NEED-1]56
 [COMPLEX]0
 [INTERNET]1
 [TYP]3
+[PRE]105
+[SUC]-1
 [END]
 
 [ID]107
-[NAME CH]iOS 6
-[NAME EN]iOS 6
-[NAME FR]iOS 6
-[NAME GE]iOS 6
-[NAME HU]iOS 6
-[NAME JA]iOS 6
-[NAME PL]iOS 6
-[NAME TU]iOS 6
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
-[MANUFACTURER JA]Apple社
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
-[DATE]SEP 2012
-[DATE END]NOV 2014
-[PRICE]5500
-[DEV COSTS]8400
-[TECHLEVEL]7
-[UNITS]200000000
-[PIC-1]iOS6.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]108
-[NAME CH]iOS 7
-[NAME EN]iOS 7
-[NAME FR]iOS 7
-[NAME GE]iOS 7
-[NAME HU]iOS 7
-[NAME JA]iOS 7
-[NAME PL]iOS 7
-[NAME TU]iOS 7
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
-[MANUFACTURER JA]Apple社
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
-[DATE]OCT 2013
-[DATE END]NOV 2015
-[PRICE]5500
-[DEV COSTS]8400
-[TECHLEVEL]7
-[UNITS]200000000
-[PIC-1]iOS7.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]109
-[NAME CH]iOS 8
-[NAME EN]iOS 8
-[NAME FR]iOS 8
-[NAME GE]iOS 8
-[NAME HU]iOS 8
-[NAME JA]iOS 8
-[NAME PL]iOS 8
-[NAME TU]iOS 8
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
-[MANUFACTURER JA]Apple社
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
-[DATE]OCT 2014
-[DATE END]NOV 2016
-[PRICE]5500
-[DEV COSTS]8400
-[TECHLEVEL]7
-[UNITS]200000000
-[PIC-1]iOS8.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]110
-[NAME CH]iOS 9
-[NAME EN]iOS 9
-[NAME FR]iOS 9
-[NAME GE]iOS 9
-[NAME HU]iOS 9
-[NAME JA]iOS 9
-[NAME PL]iOS 9
-[NAME TU]iOS 9
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
-[MANUFACTURER JA]Apple社
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
-[DATE]OCT 2015
-[DATE END]NOV 2017
-[PRICE]5500
-[DEV COSTS]8400
-[TECHLEVEL]7
-[UNITS]200000000
-[PIC-1]iOS9.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]111
-[NAME CH]iOS 10
-[NAME EN]iOS 10
-[NAME FR]iOS 10
-[NAME GE]iOS 10
-[NAME HU]iOS 10
-[NAME JA]iOS 10
-[NAME PL]iOS 10
-[NAME TU]iOS 10
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
-[MANUFACTURER JA]Apple社
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
-[DATE]OCT 2016
-[DATE END]NOV 2018
-[PRICE]5500
-[DEV COSTS]8400
-[TECHLEVEL]7
-[UNITS]200000000
-[PIC-1]iOS10.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]112
-[NAME CH]iOS 11
-[NAME EN]iOS 11
-[NAME FR]iOS 11
-[NAME GE]iOS 11
-[NAME HU]iOS 11
-[NAME JA]iOS 11
-[NAME PL]iOS 11
-[NAME TU]iOS 11
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
-[MANUFACTURER JA]Apple社
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
-[DATE]OCT 2017
-[DATE END]NOV 2019
-[PRICE]5500
-[DEV COSTS]8400
-[TECHLEVEL]7
-[UNITS]200000000
-[PIC-1]iOS11.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]113
-[NAME CH]iOS 12
-[NAME EN]iOS 12
-[NAME FR]iOS 12
-[NAME GE]iOS 12
-[NAME HU]iOS 12
-[NAME JA]iOS 12
-[NAME PL]iOS 12
-[NAME TU]iOS 12
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
-[MANUFACTURER JA]Apple社
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
-[DATE]OCT 2018
-[DATE END]NOV 2020
-[PRICE]5500
-[DEV COSTS]8400
-[TECHLEVEL]7
-[UNITS]200000000
-[PIC-1]iOS12.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]114
-[NAME CH]iOS 13
-[NAME EN]iOS 13
-[NAME FR]iOS 13
-[NAME GE]iOS 13
-[NAME HU]iOS 13
-[NAME JA]iOS 13
-[NAME PL]iOS 13
-[NAME TU]iOS 13
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
-[MANUFACTURER JA]Apple社
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
-[DATE]OCT 2019
-[DATE END]NOV 2021
-[PRICE]5500
-[DEV COSTS]8400
-[TECHLEVEL]7
-[UNITS]200000000
-[PIC-1]iOS13.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]115
-[NAME CH]iOS 14
-[NAME EN]iOS 14
-[NAME FR]iOS 14
-[NAME GE]iOS 14
-[NAME HU]iOS 14
-[NAME JA]iOS 14
-[NAME PL]iOS 14
-[NAME TU]iOS 14
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
-[MANUFACTURER JA]Apple社
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
-[DATE]OCT 2020
-[DATE END]NOV 2022
-[PRICE]5500
-[DEV COSTS]8400
-[TECHLEVEL]7
-[UNITS]200000000
-[PIC-1]iOS14.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]116
-[NAME CH]iOS 15
-[NAME EN]iOS 15
-[NAME FR]iOS 15
-[NAME GE]iOS 15
-[NAME HU]iOS 15
-[NAME JA]iOS 15
-[NAME PL]iOS 15
-[NAME TU]iOS 15
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
-[MANUFACTURER JA]Apple社
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
-[DATE]OCT 2021
-[DATE END]NOV 2023
-[PRICE]5500
-[DEV COSTS]8400
-[TECHLEVEL]7
-[UNITS]200000000
-[PIC-1]iOS15.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]117
-[NAME CH]iOS 16
-[NAME EN]iOS 16
-[NAME FR]iOS 16
-[NAME GE]iOS 16
-[NAME HU]iOS 16
-[NAME JA]iOS 16
-[NAME PL]iOS 16
-[NAME TU]iOS 16
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
-[MANUFACTURER JA]Apple社
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
-[DATE]OCT 2022
-[DATE END]NOV 2024
-[PRICE]5500
-[DEV COSTS]8400
-[TECHLEVEL]7
-[UNITS]200000000
-[PIC-1]iOS16.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]118
-[NAME CH]iOS 17
-[NAME EN]iOS 17
-[NAME FR]iOS 17
-[NAME GE]iOS 17
-[NAME HU]iOS 17
-[NAME JA]iOS 17
-[NAME PL]iOS 17
-[NAME TU]iOS 17
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
-[MANUFACTURER JA]Apple社
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
-[DATE]OCT 2024
-[DATE END]NOV 2026
-[PRICE]5500
-[DEV COSTS]8400
-[TECHLEVEL]7
-[UNITS]200000000
-[PIC-1]iOS17.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]119
-[NAME CH]iOS 18
-[NAME EN]iOS 18
-[NAME FR]iOS 18
-[NAME GE]iOS 18
-[NAME HU]iOS 18
-[NAME JA]iOS 18
-[NAME PL]iOS 18
-[NAME TU]iOS 18
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
-[MANUFACTURER JA]Apple社
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
-[DATE]OCT 2026
-[DATE END]NOV 2028
-[PRICE]5500
-[DEV COSTS]8400
-[TECHLEVEL]7
-[UNITS]200000000
-[PIC-1]iOS18.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]120
-[NAME CH]iOS 19
-[NAME EN]iOS 19
-[NAME FR]iOS 19
-[NAME GE]iOS 19
-[NAME HU]iOS 19
-[NAME JA]iOS 19
-[NAME PL]iOS 19
-[NAME TU]iOS 19
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
-[MANUFACTURER JA]Apple社
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
-[DATE]OCT 2028
-[DATE END]NOV 2030
-[PRICE]5500
-[DEV COSTS]8400
-[TECHLEVEL]7
-[UNITS]200000000
-[PIC-1]iOS19.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]121
-[NAME CH]iOS 20
-[NAME EN]iOS 20
-[NAME FR]iOS 20
-[NAME GE]iOS 20
-[NAME HU]iOS 20
-[NAME JA]iOS 20
-[NAME PL]iOS 20
-[NAME TU]iOS 20
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
-[MANUFACTURER JA]Apple社
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
-[DATE]OCT 2030
-[DATE END]NOV 2032
-[PRICE]5500
-[DEV COSTS]8400
-[TECHLEVEL]7
-[UNITS]200000000
-[PIC-1]iOS20.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]122
-[NAME CH]Android 1
-[NAME EN]Android 1
-[NAME FR]Android 1
-[NAME GE]Android 1
-[NAME HU]Android 1
-[NAME JA]Android 1
-[NAME PL]Android 1
-[NAME TU]Android 1
-[MANUFACTURER CH]Google
-[MANUFACTURER EN]Google
-[MANUFACTURER FR]Google
-[MANUFACTURER GE]Google
-[MANUFACTURER HU]Google
+[NAME EN]Android
+[NAME GE]Droidan I
+[NAME TU]Droidan I
+[NAME FR]Droidan I
+[NAME HU]Droidan I
+[NAME JA]Droidan I
+[NAME PL]Droidan I
+[NAME CH]Droidan I
+[NAME UA]Droidan I
+[NAME TH]Droidan I
+[MANUFACTURER EN]Google Inc.
+[MANUFACTURER GE]Google Inc.
+[MANUFACTURER TU]Google Inc.
+[MANUFACTURER FR]Google Inc.
+[MANUFACTURER HU]Google Inc.
 [MANUFACTURER JA]Google
-[MANUFACTURER PL]Google
-[MANUFACTURER TU]Google
-[DATE]SEP 2008
-[DATE END]JUN 2010
+[MANUFACTURER PL]Google Inc.
+[MANUFACTURER CH]Google Inc.
+[MANUFACTURER UA]Google Inc.
+[MANUFACTURER TH]Google Inc.
+[DATE]JUN 2009
+[DATE END]JUN 2013
 [PRICE]3100
 [DEV COSTS]4600
 [TECHLEVEL]3
 [UNITS]40000000
-[PIC-1]Android1.png
+[PIC-1]samsung1.png
 [NEED-1]56
 [COMPLEX]0
 [INTERNET]1
 [TYP]3
+[PRE]-1
+[SUC]108
 [END]
 
-[ID]123
-[NAME CH]Android 2 Eclair
-[NAME EN]Android 2 Eclair
-[NAME FR]Android 2 Eclair
-[NAME GE]Android 2 Eclair
-[NAME HU]Android 2 Eclair
-[NAME JA]Android 2 Eclair
-[NAME PL]Android 2 Eclair
-[NAME TU]Android 2 Eclair
-[MANUFACTURER CH]Google
-[MANUFACTURER EN]Google
-[MANUFACTURER FR]Google
-[MANUFACTURER GE]Google
-[MANUFACTURER HU]Google
+[ID]108
+[NAME EN]Android 2
+[NAME GE]Droidan II
+[NAME TU]Droidan II
+[NAME FR]Droidan II
+[NAME HU]Droidan II
+[NAME JA]Droidan II
+[NAME PL]Droidan II
+[NAME CH]Droidan II
+[NAME UA]Droidan II
+[NAME TH]Droidan II
+[MANUFACTURER EN]Google Inc.
+[MANUFACTURER GE]Google Inc.
+[MANUFACTURER TU]Google Inc.
+[MANUFACTURER FR]Google Inc.
+[MANUFACTURER HU]Google Inc.
 [MANUFACTURER JA]Google
-[MANUFACTURER PL]Google
-[MANUFACTURER TU]Google
-[DATE]JUN 2009
-[DATE END]DEC 2011
+[MANUFACTURER PL]Google Inc.
+[MANUFACTURER CH]Google Inc.
+[MANUFACTURER UA]Google Inc.
+[MANUFACTURER TH]Google Inc.
+[DATE]JUN 2013
+[DATE END]JUN 2017
 [PRICE]3800
 [DEV COSTS]5500
 [TECHLEVEL]4
 [UNITS]72000000
-[PIC-1]Android2.png
+[PIC-1]samsung2.png
 [NEED-1]56
 [COMPLEX]0
 [INTERNET]1
 [TYP]3
+[PRE]107
+[SUC]109
 [END]
 
-[ID]124
-[NAME CH]Android 3 Honeycomb
-[NAME EN]Android 3 Honeycomb
-[NAME FR]Android 3 Honeycomb
-[NAME GE]Android 3 Honeycomb
-[NAME HU]Android 3 Honeycomb
-[NAME JA]Android 3 Honeycomb
-[NAME PL]Android 3 Honeycomb
-[NAME TU]Android 3 Honeycomb
-[MANUFACTURER CH]Google
-[MANUFACTURER EN]Google
-[MANUFACTURER FR]Google
-[MANUFACTURER GE]Google
-[MANUFACTURER HU]Google
+[ID]109
+[NAME EN]Android 3
+[NAME GE]Droidan III
+[NAME TU]Droidan III
+[NAME FR]Droidan III
+[NAME HU]Droidan III
+[NAME JA]Droidan III
+[NAME PL]Droidan III
+[NAME CH]Droidan III
+[NAME UA]Droidan III
+[NAME TH]Droidan III
+[MANUFACTURER EN]Google Inc.
+[MANUFACTURER GE]Google Inc.
+[MANUFACTURER TU]Google Inc.
+[MANUFACTURER FR]Google Inc.
+[MANUFACTURER HU]Google Inc.
 [MANUFACTURER JA]Google
-[MANUFACTURER PL]Google
-[MANUFACTURER TU]Google
-[DATE]FEB 2011
-[DATE END]JUN 2012
+[MANUFACTURER PL]Google Inc.
+[MANUFACTURER CH]Google Inc.
+[MANUFACTURER UA]Google Inc.
+[MANUFACTURER TH]Google Inc.
+[DATE]JUN 2017
+[DATE END]JUN 2021
 [PRICE]4100
 [DEV COSTS]6200
 [TECHLEVEL]5
 [UNITS]110000000
-[PIC-1]Android3.png
+[PIC-1]samsung3.png
 [NEED-1]56
 [COMPLEX]0
 [INTERNET]1
 [TYP]3
+[PRE]108
+[SUC]110
 [END]
 
-[ID]125
-[NAME CH]Android 4 Ice Cream Sandwich
-[NAME EN]Android 4 Ice Cream Sandwich
-[NAME FR]Android 4 Ice Cream Sandwich
-[NAME GE]Android 4 Ice Cream Sandwich
-[NAME HU]Android 4 Ice Cream Sandwich
-[NAME JA]Android 4 Ice Cream Sandwich
-[NAME PL]Android 4 Ice Cream Sandwich
-[NAME TU]Android 4 Ice Cream Sandwich
-[MANUFACTURER CH]Google
-[MANUFACTURER EN]Google
-[MANUFACTURER FR]Google
-[MANUFACTURER GE]Google
-[MANUFACTURER HU]Google
+[ID]110
+[NAME EN]Android 4
+[NAME GE]Droidan IV
+[NAME TU]Droidan IV
+[NAME FR]Droidan IV
+[NAME HU]Droidan IV
+[NAME JA]Droidan IV
+[NAME PL]Droidan IV
+[NAME CH]Droidan IV
+[NAME UA]Droidan IV
+[NAME TH]Droidan IV
+[MANUFACTURER EN]Google Inc.
+[MANUFACTURER GE]Google Inc.
+[MANUFACTURER TU]Google Inc.
+[MANUFACTURER FR]Google Inc.
+[MANUFACTURER HU]Google Inc.
 [MANUFACTURER JA]Google
-[MANUFACTURER PL]Google
-[MANUFACTURER TU]Google
-[DATE]OCT 2011
-[DATE END]JUN 2015
+[MANUFACTURER PL]Google Inc.
+[MANUFACTURER CH]Google Inc.
+[MANUFACTURER UA]Google Inc.
+[MANUFACTURER TH]Google Inc.
+[DATE]JUN 2021
+[DATE END]JUN 2025
 [PRICE]5000
 [DEV COSTS]7700
 [TECHLEVEL]6
 [UNITS]170000000
-[PIC-1]Android4.png
+[PIC-1]samsung4.png
 [NEED-1]56
 [COMPLEX]0
 [INTERNET]1
 [TYP]3
+[PRE]109
+[SUC]111
 [END]
 
-[ID]126
-[NAME CH]Android 5 Lollipop
-[NAME EN]Android 5 Lollipop
-[NAME FR]Android 5 Lollipop
-[NAME GE]Android 5 Lollipop
-[NAME HU]Android 5 Lollipop
-[NAME JA]Android 5 Lollipop
-[NAME PL]Android 5 Lollipop
-[NAME TU]Android 5 Lollipop
-[MANUFACTURER CH]Google
-[MANUFACTURER EN]Google
-[MANUFACTURER FR]Google
-[MANUFACTURER GE]Google
-[MANUFACTURER HU]Google
+[ID]111
+[NAME EN]Android 5
+[NAME GE]Droidan V
+[NAME TU]Droidan V
+[NAME FR]Droidan V
+[NAME HU]Droidan V
+[NAME JA]Droidan V
+[NAME PL]Droidan V
+[NAME CH]Droidan V
+[NAME UA]Droidan V
+[NAME TH]Droidan V
+[MANUFACTURER EN]Google Inc.
+[MANUFACTURER GE]Google Inc.
+[MANUFACTURER TU]Google Inc.
+[MANUFACTURER FR]Google Inc.
+[MANUFACTURER HU]Google Inc.
 [MANUFACTURER JA]Google
-[MANUFACTURER PL]Google
-[MANUFACTURER TU]Google
-[DATE]NOV 2014
-[DATE END]JUN 2017
+[MANUFACTURER PL]Google Inc.
+[MANUFACTURER CH]Google Inc.
+[MANUFACTURER UA]Google Inc.
+[MANUFACTURER TH]Google Inc.
+[DATE]JUN 2025
 [PRICE]5300
 [DEV COSTS]8000
 [TECHLEVEL]7
 [UNITS]230000000
-[PIC-1]Android5.png
+[PIC-1]samsung5.png
 [NEED-1]56
 [COMPLEX]0
 [INTERNET]1
 [TYP]3
+[PRE]110
+[SUC]-1
 [END]
 
-[ID]127
-[NAME CH]Android 6 Marshmallow
-[NAME EN]Android 6 Marshmallow
-[NAME FR]Android 6 Marshmallow
-[NAME GE]Android 6 Marshmallow
-[NAME HU]Android 6 Marshmallow
-[NAME JA]Android 6 Marshmallow
-[NAME PL]Android 6 Marshmallow
-[NAME TU]Android 6 Marshmallow
-[MANUFACTURER CH]Google
-[MANUFACTURER EN]Google
-[MANUFACTURER FR]Google
-[MANUFACTURER GE]Google
-[MANUFACTURER HU]Google
-[MANUFACTURER JA]Google
-[MANUFACTURER PL]Google
-[MANUFACTURER TU]Google
-[DATE]NOV 2014
-[DATE END]JUN 2017
-[PRICE]5300
-[DEV COSTS]8000
-[TECHLEVEL]7
-[UNITS]230000000
-[PIC-1]Android6.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]128
-[NAME CH]Android 7 Nougat
-[NAME EN]Android 7 Nougat
-[NAME FR]Android 7 Nougat
-[NAME GE]Android 7 Nougat
-[NAME HU]Android 7 Nougat
-[NAME JA]Android 7 Nougat
-[NAME PL]Android 7 Nougat
-[NAME TU]Android 7 Nougat
-[MANUFACTURER CH]Google
-[MANUFACTURER EN]Google
-[MANUFACTURER FR]Google
-[MANUFACTURER GE]Google
-[MANUFACTURER HU]Google
-[MANUFACTURER JA]Google
-[MANUFACTURER PL]Google
-[MANUFACTURER TU]Google
-[DATE]AUG 2016
-[DATE END]JUN 2018
-[PRICE]5300
-[DEV COSTS]8000
-[TECHLEVEL]7
-[UNITS]230000000
-[PIC-1]Android7.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]129
-[NAME EN]Android 8 Oreo
-[MANUFACTURER EN]Google
-[DATE]AUG 2017
-[DATE END]JAN 2019
-[PRICE]5300
-[DEV COSTS]8000
-[TECHLEVEL]7
-[UNITS]230000000
-[PIC-1]Android8.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]130
-[NAME EN]Android 9 Pie
-[MANUFACTURER EN]Google
-[DATE]SEP 2018
-[DATE END]JAN 2020
-[PRICE]5300
-[DEV COSTS]8000
-[TECHLEVEL]7
-[UNITS]230000000
-[PIC-1]Android9.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]131
-[NAME EN]Android 10
-[MANUFACTURER EN]Google
-[DATE]SEP 2019
-[DATE END]JAN 2021
-[PRICE]5300
-[DEV COSTS]8000
-[TECHLEVEL]8
-[UNITS]230000000
-[PIC-1]Android10.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]132
-[NAME EN]Android 11
-[MANUFACTURER EN]Google
-[DATE]JAN 2020
-[DATE END]JAN 2022
-[PRICE]5300
-[DEV COSTS]8000
-[TECHLEVEL]8
-[UNITS]230000000
-[PIC-1]Android11.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]133
-[NAME EN]Android 12
-[MANUFACTURER EN]Google
-[DATE]JAN 2021
-[DATE END]JAN 2023
-[PRICE]5300
-[DEV COSTS]8000
-[TECHLEVEL]8
-[UNITS]230000000
-[PIC-1]Android12.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]134
-[NAME EN]Android 13
-[MANUFACTURER EN]Google
-[DATE]SEP 2022
-[DATE END]JAN 2024
-[PRICE]5300
-[DEV COSTS]8000
-[TECHLEVEL]8
-[UNITS]230000000
-[PIC-1]Android13.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]135
-[NAME EN]Android 14
-[MANUFACTURER EN]Google
-[DATE]JAN 2024
-[DATE END]JAN 2027
-[PRICE]5300
-[DEV COSTS]8000
-[TECHLEVEL]8
-[UNITS]230000000
-[PIC-1]Android14.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]136
-[NAME EN]Android 15
-[MANUFACTURER EN]Google
-[DATE]JAN 2027
-[DATE END]JAN 2030
-[PRICE]5300
-[DEV COSTS]8000
-[TECHLEVEL]8
-[UNITS]230000000
-[PIC-1]Android15.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]137
-[NAME CH]Windows Phone OS 7
-[NAME EN]Windows Phone OS 7
-[NAME FR]Windows Phone OS 7
-[NAME GE]Windows Phone OS 7
-[NAME HU]Windows Phone OS 7
-[NAME JA]Windows Phone OS 7
-[NAME PL]Windows Phone OS 7
-[NAME TU]Windows Phone OS 7
-[MANUFACTURER CH]Microsoft
+[ID]112
+[NAME EN]Windows Phone
+[NAME GE]Microsoft Phone I
+[NAME TU]Microsoft Phone I
+[NAME FR]Microsoft Phone I
+[NAME HU]Microsoft Phone I
+[NAME JA]Microsoft Phone I
+[NAME PL]Microsoft Phone I
+[NAME CH]Microsoft Phone I
+[NAME UA]Microsoft Phone I
+[NAME TH]Microsoft Phone I
 [MANUFACTURER EN]Microsoft
-[MANUFACTURER FR]Microsoft
 [MANUFACTURER GE]Microsoft
+[MANUFACTURER TU]Microsoft
+[MANUFACTURER FR]Microsoft
 [MANUFACTURER HU]Microsoft
 [MANUFACTURER JA]ミニソフト
 [MANUFACTURER PL]Microsoft
-[MANUFACTURER TU]Microsoft
-[DATE]SEP 2010
-[DATE END]SEP 2020
+[MANUFACTURER CH]Microsoft
+[MANUFACTURER UA]Microsoft
+[MANUFACTURER TH]Microsoft
+[DATE]SEP 2012
+[DATE END]SEP 2016
 [PRICE]3500
 [DEV COSTS]5000
 [TECHLEVEL]4
 [UNITS]20000000
-[PIC-1]WindowsPhone1.png
+[PIC-1]windowsPhone1.png
 [NEED-1]56
 [COMPLEX]0
 [INTERNET]1
 [TYP]3
+[PUB]16
+[PRE]-1
+[SUC]113
 [END]
 
-[ID]138
-[NAME CH]Windows Phone OS 10
-[NAME EN]Windows Phone OS 10
-[NAME FR]Windows Phone OS 10
-[NAME GE]Windows Phone OS 10
-[NAME HU]Windows Phone OS 10
-[NAME JA]Windows Phone OS 10
-[NAME PL]Windows Phone OS 10
-[NAME TU]Windows Phone OS 10
-[MANUFACTURER CH]Microsoft
+[ID]113
+[NAME EN]Windows Phone 2
+[NAME GE]Microsoft Phone II
+[NAME TU]Microsoft Phone II
+[NAME FR]Microsoft Phone II
+[NAME HU]Microsoft Phone II
+[NAME JA]Microsoft Phone II
+[NAME PL]Microsoft Phone II
+[NAME CH]Microsoft Phone II
+[NAME UA]Microsoft Phone II
+[NAME TH]Microsoft Phone II
 [MANUFACTURER EN]Microsoft
-[MANUFACTURER FR]Microsoft
 [MANUFACTURER GE]Microsoft
+[MANUFACTURER TU]Microsoft
+[MANUFACTURER FR]Microsoft
 [MANUFACTURER HU]Microsoft
 [MANUFACTURER JA]ミニソフト
 [MANUFACTURER PL]Microsoft
-[MANUFACTURER TU]Microsoft
-[DATE]SEP 2015
-[DATE END]SEP 2020
+[MANUFACTURER CH]Microsoft
+[MANUFACTURER UA]Microsoft
+[MANUFACTURER TH]Microsoft
+[DATE]SEP 2016
+[DATE END]SEP 2021
 [PRICE]4000
 [DEV COSTS]5900
 [TECHLEVEL]5
 [UNITS]20000000
-[PIC-1]WindowsPhone2.png
+[PIC-1]windowsPhone2.png
 [NEED-1]56
 [COMPLEX]0
 [INTERNET]1
 [TYP]3
+[PUB]16
+[PRE]112
+[SUC]-1
 [END]
 
-[ID]139
-[NAME CH]Blackberry OS 4
-[NAME EN]Blackberry OS 4
-[NAME FR]Blackberry OS 4
-[NAME GE]Blackberry OS 4
-[NAME HU]Blackberry OS 4
-[NAME JA]Blackberry OS 4
-[NAME PL]Blackberry OS 4
-[NAME TU]Blackberry OS 4
-[MANUFACTURER CH]Blackberry Ltd.
-[MANUFACTURER EN]Blackberry Ltd.
-[MANUFACTURER FR]Blackberry Ltd.
-[MANUFACTURER GE]Blackberry Ltd.
-[MANUFACTURER HU]Blackberry Ltd.
+[ID]114
+[NAME EN]Blackberry OS
+[NAME GE]Redberry Z5
+[NAME TU]Redberry Z5
+[NAME FR]Redberry Z5
+[NAME HU]Redberry Z5
+[NAME JA]Redberry Z5
+[NAME PL]Redberry Z5
+[NAME CH]Redberry Z5
+[NAME UA]Redberry Z5
+[NAME TH]Redberry Z5
+[MANUFACTURER EN]Research In Motion
+[MANUFACTURER GE]Redberry Ltd.
+[MANUFACTURER TU]Redberry Ltd.
+[MANUFACTURER FR]Redberry Ltd.
+[MANUFACTURER HU]Redberry Ltd.
 [MANUFACTURER JA]レッドベリー
-[MANUFACTURER PL]Blackberry Ltd.
-[MANUFACTURER TU]Blackberry Ltd.
-[DATE]MAR 2002
-[DATE END]FEB 2010
+[MANUFACTURER PL]Redberry Ltd.
+[MANUFACTURER CH]Redberry Ltd.
+[MANUFACTURER UA]Redberry Ltd.
+[MANUFACTURER TH]Redberry Ltd.
+[DATE]FEB 2008
+[DATE END]FEB 2013
 [PRICE]3300
 [DEV COSTS]4800
 [TECHLEVEL]3
 [UNITS]15000000
-[PIC-1]BBOS4.png
+[PIC-1]Blackberry1.png
 [NEED-1]56
 [COMPLEX]0
 [INTERNET]1
 [TYP]3
+[PRE]-1
+[SUC]115
 [END]
 
-[ID]140
-[NAME CH]Blackberry OS 5
-[NAME EN]Blackberry OS 5
-[NAME FR]Blackberry OS 5
-[NAME GE]Blackberry OS 5
-[NAME HU]Blackberry OS 5
-[NAME JA]Blackberry OS 5
-[NAME PL]Blackberry OS 5
-[NAME TU]Blackberry OS 5
-[MANUFACTURER CH]Blackberry Ltd.
+[ID]115
+[NAME EN]Blackberry OS
+[NAME GE]Redberry Z10
+[NAME TU]Redberry Z10
+[NAME FR]Redberry Z10
+[NAME HU]Redberry Z10
+[NAME JA]Redberry Z10
+[NAME PL]Redberry Z10
+[NAME CH]Redberry Z10
+[NAME UA]Redberry Z10
+[NAME TH]Redberry Z10
 [MANUFACTURER EN]Blackberry Ltd.
-[MANUFACTURER FR]Blackberry Ltd.
-[MANUFACTURER GE]Blackberry Ltd.
-[MANUFACTURER HU]Blackberry Ltd.
+[MANUFACTURER GE]Redberry Ltd.
+[MANUFACTURER TU]Redberry Ltd.
+[MANUFACTURER FR]Redberry Ltd.
+[MANUFACTURER HU]Redberry Ltd.
 [MANUFACTURER JA]レッドベリー
-[MANUFACTURER PL]Blackberry Ltd.
-[MANUFACTURER TU]Blackberry Ltd.
-[DATE]AUG 2009
-[DATE END]FEB 2012
+[MANUFACTURER PL]Redberry Ltd.
+[MANUFACTURER CH]Redberry Ltd.
+[MANUFACTURER UA]Redberry Ltd.
+[MANUFACTURER TH]Redberry Ltd.
+[DATE]FEB 2013
+[DATE END]FEB 2017
 [PRICE]3600
 [DEV COSTS]5200
 [TECHLEVEL]4
 [UNITS]13000000
-[PIC-1]BBOS5.png
+[PIC-1]Blackberry2.png
 [NEED-1]56
 [COMPLEX]0
 [INTERNET]1
 [TYP]3
+[PRE]114
+[SUC]116
 [END]
 
-[ID]141
-[NAME CH]Blackberry OS 6
-[NAME EN]Blackberry OS 6
-[NAME FR]Blackberry OS 6
-[NAME GE]Blackberry OS 6
-[NAME HU]Blackberry OS 6
-[NAME JA]Blackberry OS 6
-[NAME PL]Blackberry OS 6
-[NAME TU]Blackberry OS 6
-[MANUFACTURER CH]Blackberry Ltd.
+[ID]116
+[NAME EN]Blackberry OS
+[NAME GE]Redberry Z20
+[NAME TU]Redberry Z20
+[NAME FR]Redberry Z20
+[NAME HU]Redberry Z20
+[NAME JA]Redberry Z20
+[NAME PL]Redberry Z20
+[NAME CH]Redberry Z20
+[NAME UA]Redberry Z20
+[NAME TH]Redberry Z20
 [MANUFACTURER EN]Blackberry Ltd.
-[MANUFACTURER FR]Blackberry Ltd.
-[MANUFACTURER GE]Blackberry Ltd.
-[MANUFACTURER HU]Blackberry Ltd.
+[MANUFACTURER GE]Redberry Ltd.
+[MANUFACTURER TU]Redberry Ltd.
+[MANUFACTURER FR]Redberry Ltd.
+[MANUFACTURER HU]Redberry Ltd.
 [MANUFACTURER JA]レッドベリー
-[MANUFACTURER PL]Blackberry Ltd.
-[MANUFACTURER TU]Blackberry Ltd.
-[DATE]FEB 2010
-[DATE END]FEB 2012
+[MANUFACTURER PL]Redberry Ltd.
+[MANUFACTURER CH]Redberry Ltd.
+[MANUFACTURER UA]Redberry Ltd.
+[MANUFACTURER TH]Redberry Ltd.
+[DATE]FEB 2017
+[DATE END]FEB 2021
 [PRICE]4000
 [DEV COSTS]5900
 [TECHLEVEL]5
 [UNITS]10000000
-[PIC-1]BBOS6.png
+[PIC-1]Blackberry3.png
 [NEED-1]56
 [COMPLEX]0
 [INTERNET]1
 [TYP]3
+[PRE]115
+[SUC]-1
 [END]
 
-[ID]142
-[NAME CH]Blackberry OS 7
-[NAME EN]Blackberry OS 7
-[NAME FR]Blackberry OS 7
-[NAME GE]Blackberry OS 7
-[NAME HU]Blackberry OS 7
-[NAME JA]Blackberry OS 7
-[NAME PL]Blackberry OS 7
-[NAME TU]Blackberry OS 7
-[MANUFACTURER CH]Blackberry Ltd.
-[MANUFACTURER EN]Blackberry Ltd.
-[MANUFACTURER FR]Blackberry Ltd.
-[MANUFACTURER GE]Blackberry Ltd.
-[MANUFACTURER HU]Blackberry Ltd.
-[MANUFACTURER JA]レッドベリー
-[MANUFACTURER PL]Blackberry Ltd.
-[MANUFACTURER TU]Blackberry Ltd.
-[DATE]FEB 2011
-[DATE END]FEB 2013
-[PRICE]4000
-[DEV COSTS]5900
-[TECHLEVEL]5
-[UNITS]10000000
-[PIC-1]BBOS7.png
+[ID]117
+[NAME EN]Symbian
+[NAME GE]Sybios 500
+[NAME TU]Sybios 500
+[NAME FR]Sybios 500
+[NAME HU]Sybios 500
+[NAME JA]Sybios 500
+[NAME PL]Sybios 500
+[NAME CH]Sybios 500
+[NAME UA]Sybios 500
+[NAME TH]Sybios 500
+[MANUFACTURER EN]Nokia
+[MANUFACTURER GE]Nokida
+[MANUFACTURER TU]Nokida
+[MANUFACTURER FR]Nokida
+[MANUFACTURER HU]Nokida
+[MANUFACTURER JA]ノキダ
+[MANUFACTURER PL]Nokida
+[MANUFACTURER CH]Nokida
+[MANUFACTURER UA]Nokida
+[MANUFACTURER TH]Nokida
+[DATE]FEB 2009
+[DATE END]FEB 2014
+[PRICE]2700
+[DEV COSTS]4100
+[TECHLEVEL]3
+[UNITS]17000000
+[PIC-1]symbian1.png
 [NEED-1]56
 [COMPLEX]0
 [INTERNET]1
 [TYP]3
+[PRE]-1
+[SUC]118
 [END]
 
-[ID]143
-[NAME CH]Blackberry OS 10
-[NAME EN]Blackberry OS 10
-[NAME FR]Blackberry OS 10
-[NAME GE]Blackberry OS 10
-[NAME HU]Blackberry OS 10
-[NAME JA]Blackberry OS 10
-[NAME PL]Blackberry OS 10
-[NAME TU]Blackberry OS 10
-[MANUFACTURER CH]Blackberry Ltd.
-[MANUFACTURER EN]Blackberry Ltd.
-[MANUFACTURER FR]Blackberry Ltd.
-[MANUFACTURER GE]Blackberry Ltd.
-[MANUFACTURER HU]Blackberry Ltd.
-[MANUFACTURER JA]レッドベリー
-[MANUFACTURER PL]Blackberry Ltd.
-[MANUFACTURER TU]Blackberry Ltd.
+[ID]118
+[NAME EN]Symbian ^3
+[NAME GE]Sybios 800
+[NAME TU]Sybios 800
+[NAME FR]Sybios 800
+[NAME HU]Sybios 800
+[NAME JA]Sybios 800
+[NAME PL]Sybios 800
+[NAME CH]Sybios 800
+[NAME UA]Sybios 800
+[NAME TH]Sybios 800
+[MANUFACTURER EN]Nokia
+[MANUFACTURER GE]Nokida
+[MANUFACTURER TU]Nokida
+[MANUFACTURER FR]Nokida
+[MANUFACTURER HU]Nokida
+[MANUFACTURER JA]ノキダ
+[MANUFACTURER PL]Nokida
+[MANUFACTURER CH]Nokida
+[MANUFACTURER UA]Nokida
+[MANUFACTURER TH]Nokida
 [DATE]FEB 2013
 [DATE END]FEB 2018
-[PRICE]4000
-[DEV COSTS]5900
-[TECHLEVEL]5
-[UNITS]10000000
-[PIC-1]BBOS10.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]144
-[NAME CH]Symbian 6
-[NAME EN]Symbian 6
-[NAME FR]Symbian 6
-[NAME GE]Symbian 6
-[NAME HU]Symbian 6
-[NAME JA]Symbian 6
-[NAME PL]Symbian 6
-[NAME TU]Symbian 6
-[MANUFACTURER CH]Nokia
-[MANUFACTURER EN]Nokia
-[MANUFACTURER FR]Nokia
-[MANUFACTURER GE]Nokia
-[MANUFACTURER HU]Nokia
-[MANUFACTURER JA]ノキダ
-[MANUFACTURER PL]Nokia
-[MANUFACTURER TU]Nokia
-[DATE]FEB 2001
-[DATE END]FEB 2004
-[PRICE]2700
-[DEV COSTS]4100
-[TECHLEVEL]3
-[UNITS]17000000
-[PIC-1]symbian6.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]145
-[NAME CH]Symbian 7
-[NAME EN]Symbian 7
-[NAME FR]Symbian 7
-[NAME GE]Symbian 7
-[NAME HU]Symbian 7
-[NAME JA]Symbian 7
-[NAME PL]Symbian 7
-[NAME TU]Symbian 7
-[MANUFACTURER CH]Nokia
-[MANUFACTURER EN]Nokia
-[MANUFACTURER FR]Nokia
-[MANUFACTURER GE]Nokia
-[MANUFACTURER HU]Nokia
-[MANUFACTURER JA]ノキダ
-[MANUFACTURER PL]Nokia
-[MANUFACTURER TU]Nokia
-[DATE]FEB 2003
-[DATE END]FEB 2006
-[PRICE]2700
-[DEV COSTS]4100
-[TECHLEVEL]3
-[UNITS]17000000
-[PIC-1]symbian7.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]146
-[NAME CH]Symbian 8
-[NAME EN]Symbian 8
-[NAME FR]Symbian 8
-[NAME GE]Symbian 8
-[NAME HU]Symbian 8
-[NAME JA]Symbian 8
-[NAME PL]Symbian 8
-[NAME TU]Symbian 8
-[MANUFACTURER CH]Nokia
-[MANUFACTURER EN]Nokia
-[MANUFACTURER FR]Nokia
-[MANUFACTURER GE]Nokia
-[MANUFACTURER HU]Nokia
-[MANUFACTURER JA]ノキダ
-[MANUFACTURER PL]Nokia
-[MANUFACTURER TU]Nokia
-[DATE]FEB 2004
-[DATE END]FEB 2006
-[PRICE]2700
-[DEV COSTS]4100
-[TECHLEVEL]3
-[UNITS]17000000
-[PIC-1]symbian8.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]147
-[NAME CH]Symbian 9.1
-[NAME EN]Symbian 9.1
-[NAME FR]Symbian 9.1
-[NAME GE]Symbian 9.1
-[NAME HU]Symbian 9.1
-[NAME JA]Symbian 9.1
-[NAME PL]Symbian 9.1
-[NAME TU]Symbian 9.1
-[MANUFACTURER CH]Nokia
-[MANUFACTURER EN]Nokia
-[MANUFACTURER FR]Nokia
-[MANUFACTURER GE]Nokia
-[MANUFACTURER HU]Nokia
-[MANUFACTURER JA]ノキダ
-[MANUFACTURER PL]Nokia
-[MANUFACTURER TU]Nokia
-[DATE]FEB 2005
-[DATE END]FEB 2010
-[PRICE]3300
-[DEV COSTS]4600
-[TECHLEVEL]4
-[UNITS]14000000
-[PIC-1]symbian9.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]148
-[NAME CH]Symbian ^2
-[NAME EN]Symbian ^2
-[NAME FR]Symbian ^2
-[NAME GE]Symbian ^2
-[NAME HU]Symbian ^2
-[NAME JA]Symbian ^2
-[NAME PL]Symbian ^2
-[NAME TU]Symbian ^2
-[MANUFACTURER CH]Nokia
-[MANUFACTURER EN]Nokia
-[MANUFACTURER FR]Nokia
-[MANUFACTURER GE]Nokia
-[MANUFACTURER HU]Nokia
-[MANUFACTURER JA]ノキダ
-[MANUFACTURER PL]Nokia
-[MANUFACTURER TU]Nokia
-[DATE]FEB 2010
-[DATE END]FEB 2013
 [PRICE]3300
 [DEV COSTS]4600
 [TECHLEVEL]4
@@ -4310,56 +4412,32 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]3
+[PRE]117
+[SUC]-1
 [END]
 
-[ID]149
-[NAME CH]Symbian ^3
-[NAME EN]Symbian ^3
-[NAME FR]Symbian ^3
-[NAME GE]Symbian ^3
-[NAME HU]Symbian ^3
-[NAME JA]Symbian ^3
-[NAME PL]Symbian ^3
-[NAME TU]Symbian ^3
-[MANUFACTURER CH]Nokia
-[MANUFACTURER EN]Nokia
-[MANUFACTURER FR]Nokia
-[MANUFACTURER GE]Nokia
-[MANUFACTURER HU]Nokia
-[MANUFACTURER JA]ノキダ
-[MANUFACTURER PL]Nokia
-[MANUFACTURER TU]Nokia
-[DATE]FEB 2011
-[DATE END]FEB 2014
-[PRICE]3300
-[DEV COSTS]4600
-[TECHLEVEL]4
-[UNITS]14000000
-[PIC-1]symbian3.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]150
-[NAME CH]街机系统 500
+[ID]119
 [NAME EN]Arcade System 500
-[NAME FR]Arcade System 500
 [NAME GE]Arcade System 500
-[NAME HU]Arcade System 500
-[NAME JA]アーケードシステム 500
-[NAME PL]Arcade System 500
 [NAME TU]Arcade System 500
-[MANUFACTURER CH]街机电器
+[NAME FR]Arcade System 500
+[NAME HU]Arcade System 500
+[NAME JA]アーケード システム500
+[NAME PL]Arcade System 500
+[NAME CH]Arcade System 500
+[NAME UA]Arcade System 500
+[NAME TH]Arcade System 500
 [MANUFACTURER EN]Arcade Electrics
-[MANUFACTURER FR]Arcade Electrics
 [MANUFACTURER GE]Arcade Electrics
+[MANUFACTURER TU]Arcade Electrics
+[MANUFACTURER FR]Arcade Electrics
 [MANUFACTURER HU]Arcade Electrics
 [MANUFACTURER JA]アーケード電機
 [MANUFACTURER PL]Arcade Electrics
-[MANUFACTURER TU]Arcade Electrics
-[DATE]FEB 1976
+[MANUFACTURER CH]Arcade Electrics
+[MANUFACTURER UA]Arcade Electrics
+[MANUFACTURER TH]Arcade Electrics
+[DATE]JAN 1976
 [DATE END]FEB 1981
 [PRICE]35000
 [DEV COSTS]17000
@@ -4370,25 +4448,32 @@
 [COMPLEX]2
 [INTERNET]0
 [TYP]4
+[STARTPLATFORM]
+[PRE]-1
+[SUC]120
 [END]
 
-[ID]151
-[NAME CH]街机系统 800
+[ID]120
 [NAME EN]Arcade System 800
-[NAME FR]Arcade System 800
 [NAME GE]Arcade System 800
-[NAME HU]Arcade System 800
-[NAME JA]アーケードシステム 800
-[NAME PL]Arcade System 800
 [NAME TU]Arcade System 800
-[MANUFACTURER CH]街机电器
+[NAME FR]Arcade System 800
+[NAME HU]Arcade System 800
+[NAME JA]アーケード システム800
+[NAME PL]Arcade System 800
+[NAME CH]Arcade System 800
+[NAME UA]Arcade System 800
+[NAME TH]Arcade System 800
 [MANUFACTURER EN]Arcade Electrics
-[MANUFACTURER FR]Arcade Electrics
 [MANUFACTURER GE]Arcade Electrics
+[MANUFACTURER TU]Arcade Electrics
+[MANUFACTURER FR]Arcade Electrics
 [MANUFACTURER HU]Arcade Electrics
 [MANUFACTURER JA]アーケード電機
 [MANUFACTURER PL]Arcade Electrics
-[MANUFACTURER TU]Arcade Electrics
+[MANUFACTURER CH]Arcade Electrics
+[MANUFACTURER UA]Arcade Electrics
+[MANUFACTURER TH]Arcade Electrics
 [DATE]FEB 1981
 [DATE END]FEB 1986
 [PRICE]56000
@@ -4400,25 +4485,31 @@
 [COMPLEX]2
 [INTERNET]0
 [TYP]4
+[PRE]119
+[SUC]121
 [END]
 
-[ID]152
-[NAME CH]街机系统 1000
+[ID]121
 [NAME EN]Arcade System 1000
-[NAME FR]Arcade System 1000
 [NAME GE]Arcade System 1000
-[NAME HU]Arcade System 1000
-[NAME JA]アーケードシステム 1000
-[NAME PL]Arcade System 1000
 [NAME TU]Arcade System 1000
-[MANUFACTURER CH]街机电器
+[NAME FR]Arcade System 1000
+[NAME HU]Arcade System 1000
+[NAME JA]アーケード システム1000
+[NAME PL]Arcade System 1000
+[NAME CH]Arcade System 1000
+[NAME UA]Arcade System 1000
+[NAME TH]Arcade System 1000
 [MANUFACTURER EN]Arcade Electrics
-[MANUFACTURER FR]Arcade Electrics
 [MANUFACTURER GE]Arcade Electrics
+[MANUFACTURER TU]Arcade Electrics
+[MANUFACTURER FR]Arcade Electrics
 [MANUFACTURER HU]Arcade Electrics
 [MANUFACTURER JA]アーケード電機
 [MANUFACTURER PL]Arcade Electrics
-[MANUFACTURER TU]Arcade Electrics
+[MANUFACTURER CH]Arcade Electrics
+[MANUFACTURER UA]Arcade Electrics
+[MANUFACTURER TH]Arcade Electrics
 [DATE]FEB 1986
 [DATE END]FEB 1991
 [PRICE]127000
@@ -4430,25 +4521,31 @@
 [COMPLEX]2
 [INTERNET]0
 [TYP]4
+[PRE]120
+[SUC]122
 [END]
 
-[ID]153
-[NAME CH]街机系统 1500
+[ID]122
 [NAME EN]Arcade System 1500
-[NAME FR]Arcade System 1500
 [NAME GE]Arcade System 1500
-[NAME HU]Arcade System 1500
-[NAME JA]アーケードシステム 1500
-[NAME PL]Arcade System 1500
 [NAME TU]Arcade System 1500
-[MANUFACTURER CH]街机电器
+[NAME FR]Arcade System 1500
+[NAME HU]Arcade System 1500
+[NAME JA]アーケード システム1500
+[NAME PL]Arcade System 1500
+[NAME CH]Arcade System 1500
+[NAME UA]Arcade System 1500
+[NAME TH]Arcade System 1500
 [MANUFACTURER EN]Arcade Electrics
-[MANUFACTURER FR]Arcade Electrics
 [MANUFACTURER GE]Arcade Electrics
+[MANUFACTURER TU]Arcade Electrics
+[MANUFACTURER FR]Arcade Electrics
 [MANUFACTURER HU]Arcade Electrics
 [MANUFACTURER JA]アーケード電機
 [MANUFACTURER PL]Arcade Electrics
-[MANUFACTURER TU]Arcade Electrics
+[MANUFACTURER CH]Arcade Electrics
+[MANUFACTURER UA]Arcade Electrics
+[MANUFACTURER TH]Arcade Electrics
 [DATE]FEB 1991
 [DATE END]FEB 1995
 [PRICE]150000
@@ -4460,25 +4557,31 @@
 [COMPLEX]2
 [INTERNET]1
 [TYP]4
+[PRE]121
+[SUC]123
 [END]
 
-[ID]154
-[NAME CH]街机系统 1800
+[ID]123
 [NAME EN]Arcade System 1800
-[NAME FR]Arcade System 1800
 [NAME GE]Arcade System 1800
-[NAME HU]Arcade System 1800
-[NAME JA]アーケードシステム 1800
-[NAME PL]Arcade System 1800
 [NAME TU]Arcade System 1800
-[MANUFACTURER CH]街机电器
+[NAME FR]Arcade System 1800
+[NAME HU]Arcade System 1800
+[NAME JA]アーケード システム1800
+[NAME PL]Arcade System 1800
+[NAME CH]Arcade System 1800
+[NAME UA]Arcade System 1800
+[NAME TH]Arcade System 1800
 [MANUFACTURER EN]Arcade Electrics
-[MANUFACTURER FR]Arcade Electrics
 [MANUFACTURER GE]Arcade Electrics
+[MANUFACTURER TU]Arcade Electrics
+[MANUFACTURER FR]Arcade Electrics
 [MANUFACTURER HU]Arcade Electrics
 [MANUFACTURER JA]アーケード電機
 [MANUFACTURER PL]Arcade Electrics
-[MANUFACTURER TU]Arcade Electrics
+[MANUFACTURER CH]Arcade Electrics
+[MANUFACTURER UA]Arcade Electrics
+[MANUFACTURER TH]Arcade Electrics
 [DATE]FEB 1995
 [DATE END]FEB 2000
 [PRICE]280000
@@ -4490,25 +4593,31 @@
 [COMPLEX]2
 [INTERNET]1
 [TYP]4
+[PRE]122
+[SUC]124
 [END]
 
-[ID]155
-[NAME CH]街机系统 2000
+[ID]124
 [NAME EN]Arcade System 2000
-[NAME FR]Arcade System 2000
 [NAME GE]Arcade System 2000
-[NAME HU]Arcade System 2000
-[NAME JA]アーケードシステム 2000
-[NAME PL]Arcade System 2000
 [NAME TU]Arcade System 2000
-[MANUFACTURER CH]街机电器
+[NAME FR]Arcade System 2000
+[NAME HU]Arcade System 2000
+[NAME JA]アーケード システム2000
+[NAME PL]Arcade System 2000
+[NAME CH]Arcade System 2000
+[NAME UA]Arcade System 2000
+[NAME TH]Arcade System 2000
 [MANUFACTURER EN]Arcade Electrics
-[MANUFACTURER FR]Arcade Electrics
 [MANUFACTURER GE]Arcade Electrics
+[MANUFACTURER TU]Arcade Electrics
+[MANUFACTURER FR]Arcade Electrics
 [MANUFACTURER HU]Arcade Electrics
 [MANUFACTURER JA]アーケード電機
 [MANUFACTURER PL]Arcade Electrics
-[MANUFACTURER TU]Arcade Electrics
+[MANUFACTURER CH]Arcade Electrics
+[MANUFACTURER UA]Arcade Electrics
+[MANUFACTURER TH]Arcade Electrics
 [DATE]FEB 2000
 [DATE END]FEB 2005
 [PRICE]470000
@@ -4520,26 +4629,33 @@
 [COMPLEX]2
 [INTERNET]1
 [TYP]4
+[PRE]123
+[SUC]125
 [END]
 
-[ID]156
-[NAME CH]街机系统 2500
+[ID]125
 [NAME EN]Arcade System 2500
-[NAME FR]Arcade System 2500
 [NAME GE]Arcade System 2500
-[NAME HU]Arcade System 2500
-[NAME JA]アーケードシステム 2500
-[NAME PL]Arcade System 2500
 [NAME TU]Arcade System 2500
-[MANUFACTURER CH]街机电器
+[NAME FR]Arcade System 2500
+[NAME HU]Arcade System 2500
+[NAME JA]アーケード システム2500
+[NAME PL]Arcade System 2500
+[NAME CH]Arcade System 2500
+[NAME UA]Arcade System 2500
+[NAME TH]Arcade System 2500
 [MANUFACTURER EN]Arcade Electrics
-[MANUFACTURER FR]Arcade Electrics
 [MANUFACTURER GE]Arcade Electrics
+[MANUFACTURER TU]Arcade Electrics
+[MANUFACTURER FR]Arcade Electrics
 [MANUFACTURER HU]Arcade Electrics
 [MANUFACTURER JA]アーケード電機
 [MANUFACTURER PL]Arcade Electrics
-[MANUFACTURER TU]Arcade Electrics
+[MANUFACTURER CH]Arcade Electrics
+[MANUFACTURER UA]Arcade Electrics
+[MANUFACTURER TH]Arcade Electrics
 [DATE]FEB 2005
+[DATE END]FEB 2022
 [PRICE]720000
 [DEV COSTS]215000
 [TECHLEVEL]8
@@ -4549,25 +4665,31 @@
 [COMPLEX]2
 [INTERNET]1
 [TYP]4
+[PRE]124
+[SUC]133
 [END]
 
-[ID]157
-[NAME CH]阿米加 CDTV
+[ID]126
 [NAME EN]Amiga CDTV
-[NAME FR]Amiga CDTV
-[NAME GE]Amiga CDTV
-[NAME HU]Amiga CDTV
-[NAME JA]アタリ CDTV
-[NAME PL]Amiga CDTV
-[NAME TU]Amiga CDTV
-[MANUFACTURER CH]Commodore
+[NAME GE]Amiga CTV
+[NAME TU]Amiga CTV
+[NAME FR]Amiga CTV
+[NAME HU]Amiga CTV
+[NAME JA]Amiga CTV
+[NAME PL]Amiga CTV
+[NAME CH]Amiga CTV
+[NAME UA]Amiga CTV
+[NAME TH]Amiga CTV
 [MANUFACTURER EN]Commodore
-[MANUFACTURER FR]Commodore
 [MANUFACTURER GE]Commodore
+[MANUFACTURER TU]Commodore
+[MANUFACTURER FR]Commodore
 [MANUFACTURER HU]Commodore
 [MANUFACTURER JA]コンモドー
 [MANUFACTURER PL]Commodore
-[MANUFACTURER TU]Commodore
+[MANUFACTURER CH]Commodore
+[MANUFACTURER UA]Commodore
+[MANUFACTURER TH]Commodore
 [DATE]MAR 1991
 [DATE END]OCT 1993
 [PRICE]49700
@@ -4579,25 +4701,31 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[PRE]-1
+[SUC]51
 [END]
 
-[ID]158
-[NAME CH]LaserActive
+[ID]127
 [NAME EN]LaserActive
-[NAME FR]LaserActive
-[NAME GE]LaserActive
-[NAME HU]LaserActive
-[NAME JA]レーザーアクティブ
-[NAME PL]LaserActive
-[NAME TU]LaserActive
-[MANUFACTURER CH]Pioneer
-[MANUFACTURER EN]Pioneer
-[MANUFACTURER FR]Pioneer
-[MANUFACTURER GE]Pioneer
-[MANUFACTURER HU]Pioneer
+[NAME GE]PhaserActive
+[NAME TU]PhaserActive
+[NAME FR]PhaserActive
+[NAME HU]PhaserActive
+[NAME JA]フェーザーアクティブ
+[NAME PL]PhaserActive
+[NAME CH]PhaserActive
+[NAME UA]PhaserActive
+[NAME TH]PhaserActive
+[MANUFACTURER EN]Lioneer
+[MANUFACTURER GE]Lioneer
+[MANUFACTURER TU]Lioneer
+[MANUFACTURER FR]Lioneer
+[MANUFACTURER HU]Lioneer
 [MANUFACTURER JA]ライオニア
-[MANUFACTURER PL]Pioneer
-[MANUFACTURER TU]Pioneer
+[MANUFACTURER PL]Lioneer
+[MANUFACTURER CH]Lioneer
+[MANUFACTURER UA]Lioneer
+[MANUFACTURER TH]Lioneer
 [DATE]APR 1993
 [DATE END]NOV 1996
 [PRICE]64500
@@ -4609,25 +4737,31 @@
 [COMPLEX]1
 [INTERNET]0
 [TYP]1
+[PRE]-1
+[SUC]-1
 [END]
 
-[ID]159
-[NAME CH]雅达利 VCS
-[NAME EN]Atari VCS
-[NAME FR]Atari VCS
-[NAME GE]Atari VCS
-[NAME HU]Atari VCS
-[NAME JA]アタリ VCS
-[NAME PL]Atari VCS
-[NAME TU]Atari VCS
-[MANUFACTURER CH]雅达利
+[ID]128
+[NAME EN]Atari IVCS
+[NAME GE]Atari VCC
+[NAME TU]Atari VCC
+[NAME FR]Atari VCC
+[NAME HU]Atari VCC
+[NAME JA]Atari VCC
+[NAME PL]Atari VCC
+[NAME CH]Atari VCC
+[NAME UA]Atari VCC
+[NAME TH]Atari VCC
 [MANUFACTURER EN]Atari
-[MANUFACTURER FR]Atari
 [MANUFACTURER GE]Atari
-[MANUFACTURER HU]Atari
-[MANUFACTURER JA]アタリ
-[MANUFACTURER PL]Atari
 [MANUFACTURER TU]Atari
+[MANUFACTURER FR]Atari
+[MANUFACTURER HU]Atari
+[MANUFACTURER JA]カタリ
+[MANUFACTURER PL]Atari
+[MANUFACTURER CH]Atari
+[MANUFACTURER UA]Atari
+[MANUFACTURER TH]Atari
 [DATE]NOV 2020
 [DATE END]NOV 2025
 [PRICE]285400
@@ -4639,25 +4773,33 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]1
+[GAMEPASS]15
+[PUB]3
+[PRE]-1
+[SUC]-1
 [END]
 
-[ID]160
-[NAME CH]Steam Deck
+[ID]129
 [NAME EN]Steam Deck
-[NAME FR]Steam Deck
 [NAME GE]Steam Deck
+[NAME TU]Steam Deck
+[NAME FR]Steam Deck
 [NAME HU]Steam Deck
 [NAME JA]Steam Deck
 [NAME PL]Steam Deck
-[NAME TU]Steam Deck
-[MANUFACTURER CH]Steam
-[MANUFACTURER EN]Steam
-[MANUFACTURER FR]Steam
-[MANUFACTURER GE]Steam
-[MANUFACTURER HU]Steam
-[MANUFACTURER JA]Steam
-[MANUFACTURER PL]Steam
-[MANUFACTURER TU]Steam
+[NAME CH]Steam Deck
+[NAME UA]Steam Deck
+[NAME TH]Steam Deck
+[MANUFACTURER EN]Walve
+[MANUFACTURER GE]Walve
+[MANUFACTURER TU]Walve
+[MANUFACTURER FR]Walve
+[MANUFACTURER HU]Walve
+[MANUFACTURER JA]Walve
+[MANUFACTURER PL]Walve
+[MANUFACTURER CH]Walve
+[MANUFACTURER UA]Walve
+[MANUFACTURER TH]Walve
 [DATE]FEB 2022
 [DATE END]NOV 2028
 [PRICE]440000
@@ -4670,25 +4812,33 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]2
+[GAMEPASS]10
+[PUB]85
+[PRE]-1
+[SUC]-1
 [END]
 
-[ID]161
-[NAME CH]Intellivision Amicos
-[NAME EN]Intellivision Amicos
-[NAME FR]Intellivision Amicos
-[NAME GE]Intellivision Amicos
-[NAME HU]Intellivision Amicos
-[NAME JA]Intellivision Amicos
-[NAME PL]Intellivision Amicos
-[NAME TU]Intellivision Amicos
-[MANUFACTURER CH]Intellivision
+[ID]130
+[NAME EN]Intellivision Amico
+[NAME GE]Intellivision Amikos
+[NAME TU]Intellivision Amikos
+[NAME FR]Intellivision Amikos
+[NAME HU]Intellivision Amikos
+[NAME JA]Intellivision Amikos
+[NAME PL]Intellivision Amikos
+[NAME CH]Intellivision Amikos
+[NAME UA]Intellivision Amikos
+[NAME TH]Intellivision Amikos
 [MANUFACTURER EN]Intellivision
-[MANUFACTURER FR]Intellivision
 [MANUFACTURER GE]Intellivision
+[MANUFACTURER TU]Intellivision
+[MANUFACTURER FR]Intellivision
 [MANUFACTURER HU]Intellivision
 [MANUFACTURER JA]Intellivision
 [MANUFACTURER PL]Intellivision
-[MANUFACTURER TU]Intellivision
+[MANUFACTURER CH]Intellivision
+[MANUFACTURER UA]Intellivision
+[MANUFACTURER TH]Intellivision
 [DATE]OCT 2021
 [DATE END]FEB 2026
 [PRICE]325000
@@ -4700,25 +4850,32 @@
 [COMPLEX]0
 [INTERNET]1
 [TYP]1
+[GAMEPASS]15
+[PRE]-1
+[SUC]-1
 [END]
 
-[ID]162
-[NAME CH]Nintendo 3DEX
+[ID]131
 [NAME EN]Nintendo 3DEX
-[NAME FR]Nintendo 3DEX
 [NAME GE]Nintendo 3DEX
+[NAME TU]Nintendo 3DEX
+[NAME FR]Nintendo 3DEX
 [NAME HU]Nintendo 3DEX
 [NAME JA]ミンテンドゥ3DEX
 [NAME PL]Nintendo 3DEX
-[NAME TU]Nintendo 3DEX
-[MANUFACTURER CH]Nintendo
+[NAME CH]Nintendo 3DEX
+[NAME UA]Nintendo 3DEX
+[NAME TH]Nintendo 3DEX
 [MANUFACTURER EN]Nintendo
-[MANUFACTURER FR]Nintendo
 [MANUFACTURER GE]Nintendo
+[MANUFACTURER TU]Nintendo
+[MANUFACTURER FR]Nintendo
 [MANUFACTURER HU]Nintendo
 [MANUFACTURER JA]民天堂
 [MANUFACTURER PL]Nintendo
-[MANUFACTURER TU]Nintendo
+[MANUFACTURER CH]Nintendo
+[MANUFACTURER UA]Nintendo
+[MANUFACTURER TH]Nintendo
 [DATE]FEB 2025
 [PRICE]529000
 [DEV COSTS]178000
@@ -4730,25 +4887,33 @@
 [COMPLEX]1
 [INTERNET]1
 [TYP]2
+[GAMEPASS]30
+[PUB]18
+[PRE]56
+[SUC]-1
 [END]
 
-[ID]163
-[NAME CH]Sega Game Gear II
-[NAME EN]Sega Game Gear II
-[NAME FR]Sega Game Gear II
-[NAME GE]Sega Game Gear II
-[NAME HU]Sega Game Gear II
+[ID]132
+[NAME EN]Game Gear II
+[NAME GE]Game Gear II
+[NAME TU]Game Gear II
+[NAME FR]Game Gear II
+[NAME HU]Game Gear II
 [NAME JA]プレイギアII
-[NAME PL]Sega Game Gear II
-[NAME TU]Sega Game Gear II
-[MANUFACTURER CH]Sega
+[NAME PL]Game Gear II
+[NAME CH]Game Gear II
+[NAME UA]Game Gear II
+[NAME TH]Game Gear II
 [MANUFACTURER EN]Sega
-[MANUFACTURER FR]Sega
 [MANUFACTURER GE]Sega
-[MANUFACTURER HU]Sega
-[MANUFACTURER JA]セガ
-[MANUFACTURER PL]Sega
 [MANUFACTURER TU]Sega
+[MANUFACTURER FR]Sega
+[MANUFACTURER HU]Sega
+[MANUFACTURER JA]シガ
+[MANUFACTURER PL]Sega
+[MANUFACTURER CH]Sega
+[MANUFACTURER UA]Sega
+[MANUFACTURER TH]Sega
 [DATE]NOV 2025
 [PRICE]535000
 [DEV COSTS]182000
@@ -4760,204 +4925,51 @@
 [COMPLEX]2
 [INTERNET]1
 [TYP]2
+[GAMEPASS]20
+[BACKCOMP-1]11
+[BACKCOMP-2]12
+[BACKCOMP-3]13
+[PUB]23
+[PRE]94
+[SUC]-1
 [END]
 
-[ID]164
-[NAME EN]Sony PlayStation 4 Pro
-[MANUFACTURER EN]Sony
-[DATE]NOV 2016
-[DATE END]JAN 2021
-[PRICE]365000
-[DEV COSTS]124000
-[TECHLEVEL]7
-[UNITS]120000000
-[PIC-1]PS4Pro.png
-[NEED-1]51
-[COMPLEX]1
+[ID]133
+[NAME EN]Arcade System 3000
+[NAME GE]Arcade System 3000
+[NAME TU]Arcade System 3000
+[NAME FR]Arcade System 3000
+[NAME HU]Arcade System 3000
+[NAME JA]アーケード システム3000
+[NAME PL]Arcade System 3000
+[NAME CH]Arcade System 3000
+[NAME UA]Arcade System 3000
+[NAME TH]Arcade System 3000
+[MANUFACTURER EN]Arcade Electrics
+[MANUFACTURER GE]Arcade Electrics
+[MANUFACTURER TU]Arcade Electrics
+[MANUFACTURER FR]Arcade Electrics
+[MANUFACTURER HU]Arcade Electrics
+[MANUFACTURER JA]アーケード電機
+[MANUFACTURER PL]Arcade Electrics
+[MANUFACTURER CH]Arcade Electrics
+[MANUFACTURER UA]Arcade Electrics
+[MANUFACTURER TH]Arcade Electrics
+[DATE]FEB 2022
+[PRICE]850000
+[DEV COSTS]250000
+[TECHLEVEL]9
+[UNITS]3000000
+[PIC-1]ASB8.png
+[NEED-1]59
+[COMPLEX]2
 [INTERNET]1
-[TYP]1
+[TYP]4
+[PRE]125
+[SUC]-1
+[END]
 
-[ID]165
-[NAME EN]Atari XEGS
-[MANUFACTURER EN]Atari
-[DATE]NOV 1987
-[DATE END]JAN 1992
-[PRICE]50000
-[DEV COSTS]35000
-[TECHLEVEL]3
-[UNITS]1000000
-[PIC-1]XEGS.png
-[NEED-1]45
-[COMPLEX]0
-[INTERNET]0
-[TYP]1
-
-[ID]166
-[NAME EN]Atari 1200XL
-[MANUFACTURER EN]Atari
-[DATE]OCT 1982
-[DATE END]DEC 1983
-[PRICE]50000
-[DEV COSTS]35000
-[TECHLEVEL]2
-[UNITS]100000
-[PIC-1]1200.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]0
-[TYP]0
-
-[ID]167
-[NAME EN]PC Engine SuperGrafx
-[MANUFACTURER EN]NEC
-[DATE]JAN 1989
-[DATE END]JAN 1991
-[PRICE]50000
-[DEV COSTS]35000
-[TECHLEVEL]4
-[UNITS]75000
-[PIC-1]SuperG.png
-[NEED-1]45
-[COMPLEX]0
-[INTERNET]0
-[TYP]1
-
-[ID]168
-[NAME EN]RCA Studio II
-[MANUFACTURER EN]RCA
-[DATE]JAN 1977
-[DATE END]JAN 1978
-[PRICE]50000
-[DEV COSTS]35000
-[TECHLEVEL]1
-[UNITS]100000
-[PIC-1]Studio2.png
-[NEED-1]45
-[COMPLEX]0
-[INTERNET]0
-[TYP]1
-
-[ID]169
-[NAME EN]RCA Studio III
-[MANUFACTURER EN]RCA
-[DATE]SEP 1977
-[DATE END]NOV 1978
-[PRICE]50000
-[DEV COSTS]35000
-[TECHLEVEL]1
-[UNITS]200000
-[PIC-1]Studio3.png
-[NEED-1]45
-[COMPLEX]0
-[INTERNET]0
-[TYP]1
-
-[ID]170
-[NAME EN]APF MP1000
-[MANUFACTURER EN]APF
-[DATE]OCT 1978
-[DATE END]JAN 1979
-[PRICE]50000
-[DEV COSTS]35000
-[TECHLEVEL]1
-[UNITS]100000
-[PIC-1]MP1000.png
-[NEED-1]45
-[COMPLEX]0
-[INTERNET]0
-[TYP]1
-
-[ID]171
-[NAME EN]APF TV Fun
-[MANUFACTURER EN]APF
-[DATE]APR 1976
-[DATE END]JAN 1980
-[PRICE]50000
-[DEV COSTS]35000
-[TECHLEVEL]1
-[UNITS]100000
-[PIC-1]APFTV.png
-[NEED-1]45
-[COMPLEX]0
-[INTERNET]0
-[TYP]1
-
-[ID]172
-[NAME EN]Interton VC 4000
-[MANUFACTURER EN]Interton
-[DATE]JAN 1978
-[DATE END]JAN 1983
-[PRICE]50000
-[DEV COSTS]35000
-[TECHLEVEL]1
-[UNITS]900000
-[PIC-1]VC4.png
-[NEED-1]45
-[COMPLEX]0
-[INTERNET]0
-[TYP]1
-
-[ID]173
-[NAME EN]Tele-Cassetten Game
-[MANUFACTURER EN]Palladium
-[DATE]JAN 1978
-[DATE END]JAN 1979
-[PRICE]50000
-[DEV COSTS]35000
-[TECHLEVEL]1
-[UNITS]1000000
-[PIC-1]Palladium.png
-[NEED-1]45
-[COMPLEX]0
-[INTERNET]0
-[TYP]1
-
-[ID]174
-[NAME EN]Bandai Super Vision 8000
-[MANUFACTURER EN]Bandai
-[DATE]DEC 1979
-[DATE END]DEC 1982
-[PRICE]50000
-[DEV COSTS]35000
-[TECHLEVEL]1
-[UNITS]1000000
-[PIC-1]Bandai.png
-[NEED-1]45
-[COMPLEX]0
-[INTERNET]0
-[TYP]1
-
-[ID]175
-[NAME EN]SHG Black Point
-[MANUFACTURER EN]SHG
-[DATE]JAN 1982
-[DATE END]JAN 1983
-[PRICE]50000
-[DEV COSTS]35000
-[TECHLEVEL]2
-[UNITS]1000000
-[PIC-1]BlackPoint.png
-[NEED-1]45
-[COMPLEX]0
-[INTERNET]0
-[TYP]1
-
-[ID]176
-[NAME EN]Philips Videopac+ G7400
-[MANUFACTURER EN]Philip
-[DATE]JAN 1983
-[DATE END]JAN 1985
-[PRICE]50000
-[DEV COSTS]35000
-[TECHLEVEL]2
-[UNITS]1000000
-[PIC-1]Video.png
-[NEED-1]45
-[COMPLEX]0
-[INTERNET]0
-[TYP]1
-
-[ID]177
+[ID]134
 [NAME EN]Atari 400
 [MANUFACTURER EN]Atari
 [DATE]JAN 1979
@@ -4971,173 +4983,64 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]0
+[PUB]3
+[SUC]135
+[END]
 
-[ID]178
-[NAME EN]MSX
-[MANUFACTURER EN]Sony
-[DATE]OCT 1983
-[DATE END]JAN 1987
-[PRICE]50000
-[DEV COSTS]35000
-[TECHLEVEL]1
-[UNITS]1000000
-[PIC-1]MSX.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]0
-[TYP]0
-
-[ID]179
-[NAME EN]MSX 2
-[MANUFACTURER EN]Panasonic
-[DATE]JAN 1986
-[DATE END]JAN 1993
+[ID]135
+[NAME EN]Atari 1200XL
+[MANUFACTURER EN]Atari
+[DATE]OCT 1982
+[DATE END]DEC 1983
 [PRICE]50000
 [DEV COSTS]35000
 [TECHLEVEL]2
-[UNITS]1000000
-[PIC-1]MSX2.png
+[UNITS]100000
+[PIC-1]1200.png
 [NEED-1]44
 [COMPLEX]0
 [INTERNET]0
 [TYP]0
+[PRE]177
+[PUB]3
+[PRE]134
+[END]
 
-[ID]180
-[NAME EN]Halcyon
-[MANUFACTURER EN]RDI
-[DATE]JAN 1985
-[DATE END]JAN 1986
+[ID]136
+[NAME EN]RCA Studio II
+[MANUFACTURER EN]RCA
+[DATE]JAN 1977
+[DATE END]JAN 1978
 [PRICE]50000
 [DEV COSTS]35000
 [TECHLEVEL]1
 [UNITS]100000
-[PIC-1]Halcyon.png
+[PIC-1]Studio2.png
 [NEED-1]45
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[SUC]137
+[END]
 
-[ID]181
-[NAME EN]Atari Game Brain
-[MANUFACTURER EN]Atari
-[DATE]JUN 1978
-[DATE END]JAN 1979
+[ID]137
+[NAME EN]RCA Studio III
+[MANUFACTURER EN]RCA
+[DATE]SEP 1977
+[DATE END]NOV 1978
 [PRICE]50000
 [DEV COSTS]35000
 [TECHLEVEL]1
-[UNITS]500000
-[PIC-1]GameBrain.png
+[UNITS]200000
+[PIC-1]Studio3.png
 [NEED-1]45
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[PRE]136
+[END]
 
-[ID]182
-[NAME EN]Evercade VS
-[MANUFACTURER EN]Blaze Entertainment
-[DATE]DEC 2021
-[DATE END]JAN 2026
-[PRICE]50000
-[DEV COSTS]35000
-[TECHLEVEL]5
-[UNITS]1000000
-[PIC-1]Evercade.png
-[NEED-1]45
-[COMPLEX]0
-[INTERNET]1
-[TYP]1
-
-[ID]183
-[NAME EN]Polymega
-[MANUFACTURER EN]Playmaji
-[DATE]SEP 2021
-[DATE END]JAN 2025
-[PRICE]50000
-[DEV COSTS]35000
-[TECHLEVEL]6
-[UNITS]1000000
-[PIC-1]Polymega.png
-[NEED-1]45
-[COMPLEX]0
-[INTERNET]1
-[TYP]1
-
-[ID]184
-[NAME EN]HyperScan
-[MANUFACTURER EN]Mattel
-[DATE]OCT 2006
-[DATE END]JAN 2007
-[PRICE]50000
-[DEV COSTS]35000
-[TECHLEVEL]5
-[UNITS]1000000
-[PIC-1]HyperScan.png
-[NEED-1]45
-[COMPLEX]0
-[INTERNET]1
-[TYP]1
-
-[ID]185
-[NAME EN]Game Wave
-[MANUFACTURER EN]ZAPiT
-[DATE]OCT 2005
-[DATE END]JAN 2009
-[PRICE]50000
-[DEV COSTS]35000
-[TECHLEVEL]5
-[UNITS]1000000
-[PIC-1]GameWave.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]0
-[TYP]0
-
-[ID]186
-[NAME EN]Domyos
-[MANUFACTURER EN]SSD Company
-[DATE]JAN 2004
-[DATE END]JAN 2017
-[PRICE]50000
-[DEV COSTS]35000
-[TECHLEVEL]5
-[UNITS]1000000
-[PIC-1]Domyos.png
-[NEED-1]45
-[COMPLEX]0
-[INTERNET]0
-[TYP]1
-
-[ID]187
-[NAME EN]NUON
-[MANUFACTURER EN]VM Labs
-[DATE]JUL 2000
-[DATE END]JAN 2004
-[PRICE]50000
-[DEV COSTS]35000
-[TECHLEVEL]3
-[UNITS]1000000
-[PIC-1]Nuon.png
-[NEED-1]45
-[COMPLEX]0
-[INTERNET]0
-[TYP]1
-
-[ID]188
-[NAME EN]Nintendo 64DD
-[MANUFACTURER EN]Nintendo
-[DATE]DEC 1999
-[DATE END]FEB 2001
-[PRICE]50000
-[DEV COSTS]35000
-[TECHLEVEL]5
-[UNITS]1000000
-[PIC-1]64DD.png
-[NEED-1]45
-[COMPLEX]0
-[INTERNET]1
-[TYP]1
-
-[ID]189
+[ID]138
 [NAME EN]Casio Loopy
 [MANUFACTURER EN]Casio
 [DATE]OCT 1995
@@ -5151,12 +5054,99 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]1
+[END]
 
-[ID]190
+[ID]139
+[NAME EN]HyperScan
+[MANUFACTURER EN]Mattel
+[DATE]OCT 2006
+[DATE END]JAN 2007
+[PRICE]50000
+[DEV COSTS]35000
+[TECHLEVEL]3
+[UNITS]1000000
+[PIC-1]HyperScan.png
+[NEED-1]45
+[COMPLEX]0
+[INTERNET]1
+[TYP]1
+[END]
+
+[ID]140
+[NAME EN]Fire OS
+[MANUFACTURER EN]Amazon
+[DATE]JUN 2010
+[DATE END]JUN 2020
+[PRICE]17000
+[DEV COSTS]5500
+[TECHLEVEL]8
+[UNITS]150000000
+[PIC-1]PC.png
+[NEED-1]44
+[COMPLEX]0
+[INTERNET]1
+[TYP]3
+[SUC]141
+[END]
+
+[ID]141
+[NAME EN]Fire OS X
+[MANUFACTURER EN]Amazon
+[DATE]JUN 2020
+[PRICE]17000
+[DEV COSTS]5500
+[TECHLEVEL]8
+[UNITS]150000000
+[PIC-1]PC.png
+[NEED-1]44
+[COMPLEX]0
+[INTERNET]1
+[TYP]3
+[PRE]140
+[END]
+
+[ID]142
 [NAME EN]CP System
 [MANUFACTURER EN]Capcom
 [DATE]MAY 1988
 [DATE END]MAY 1995
+[PRICE]50000
+[DEV COSTS]35000
+[TECHLEVEL]2
+[UNITS]1000000
+[PIC-1]Capcom.png
+[NEED-1]59
+[COMPLEX]0
+[INTERNET]0
+[TYP]4
+[PUB]5
+[SUC]143
+[END]
+
+[ID]143
+[NAME EN]CP System II
+[MANUFACTURER EN]Capcom
+[DATE]MAY 1993
+[DATE END]MAY 1996
+[PRICE]50000
+[DEV COSTS]35000
+[TECHLEVEL]3
+[UNITS]1000000
+[PIC-1]Capcom.png
+[NEED-1]59
+[COMPLEX]0
+[INTERNET]0
+[TYP]4
+[PUB]5
+[PRE]142
+[SUC]144
+[END]
+
+[ID]144
+[NAME EN]CP System III
+[MANUFACTURER EN]Capcom
+[DATE]MAY 1997
+[DATE END]MAY 1998
 [PRICE]50000
 [DEV COSTS]35000
 [TECHLEVEL]4
@@ -5166,68 +5156,174 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]4
+[PUB]5
+[PRE]143
+[END]
 
-[ID]191
+[ID]145
 [NAME EN]CP System Dash
 [MANUFACTURER EN]Capcom
 [DATE]FEB 1992
 [DATE END]DEC 1993
 [PRICE]50000
 [DEV COSTS]35000
-[TECHLEVEL]6
+[TECHLEVEL]5
 [UNITS]1000000
 [PIC-1]CapcomDash.png
 [NEED-1]59
 [COMPLEX]0
 [INTERNET]0
 [TYP]4
+[PUB]5
+[END]
 
-[ID]192
-[NAME EN]Dual
-[MANUFACTURER EN]Sega
-[DATE]JAN 1979
-[DATE END]JAN 1981
+[ID]146
+[NAME EN]NUON
+[MANUFACTURER EN]VM Labs
+[DATE]JUL 2000
+[DATE END]JAN 2004
+[PRICE]50000
+[DEV COSTS]35000
+[TECHLEVEL]3
+[UNITS]1000000
+[PIC-1]Nuon.png
+[NEED-1]45
+[COMPLEX]0
+[INTERNET]0
+[TYP]1
+[END]
+
+[ID]147
+[NAME EN]Domyos
+[MANUFACTURER EN]SSD Company
+[DATE]JAN 2004
+[DATE END]JAN 2017
+[PRICE]50000
+[DEV COSTS]35000
+[TECHLEVEL]5
+[UNITS]1000000
+[PIC-1]Domyos.png
+[NEED-1]45
+[COMPLEX]0
+[INTERNET]0
+[TYP]1
+[END]
+
+[ID]148
+[NAME EN]Halcyon
+[MANUFACTURER EN]RDI
+[DATE]JAN 1985
+[DATE END]JAN 1986
+[PRICE]50000
+[DEV COSTS]35000
+[TECHLEVEL]1
+[UNITS]100000
+[PIC-1]Halcyon.png
+[NEED-1]45
+[COMPLEX]0
+[INTERNET]0
+[TYP]1
+[END]
+
+[ID]149
+[NAME EN]Evercade VS
+[MANUFACTURER EN]Blaze Entertainment
+[DATE]DEC 2021
+[DATE END]JAN 2026
+[PRICE]50000
+[DEV COSTS]35000
+[TECHLEVEL]5
+[UNITS]1000000
+[PIC-1]Evercade.png
+[NEED-1]45
+[COMPLEX]0
+[INTERNET]1
+[TYP]1
+[END]
+
+[ID]150
+[NAME EN]MSX 2
+[MANUFACTURER EN]Panasonic
+[DATE]JAN 1986
+[DATE END]JAN 1993
 [PRICE]50000
 [DEV COSTS]35000
 [TECHLEVEL]2
 [UNITS]1000000
-[PIC-1]Dual.png
-[NEED-1]59
+[PIC-1]MSX2.png
+[NEED-1]44
 [COMPLEX]0
 [INTERNET]0
-[TYP]4
+[TYP]0
+[END]
 
-[ID]193
-[NAME EN]G80
-[MANUFACTURER EN]Sega
-[DATE]JAN 1981
-[DATE END]JAN 1983
+[ID]151
+[NAME EN]APF TV Fun
+[MANUFACTURER EN]APF
+[DATE]APR 1976
+[DATE END]JAN 1980
 [PRICE]50000
 [DEV COSTS]35000
-[TECHLEVEL]3
-[UNITS]1000000
-[PIC-1]G80.png
-[NEED-1]59
+[TECHLEVEL]1
+[UNITS]100000
+[PIC-1]APFTV.png
+[NEED-1]45
 [COMPLEX]0
 [INTERNET]0
-[TYP]4
+[TYP]1
+[SUC]152
+[END]
 
-[ID]194
-[NAME EN]Sega Laserdisc
-[MANUFACTURER EN]Sega
-[DATE]JAN 1983
-[DATE END]JAN 1984
+[ID]152
+[NAME EN]APF MP1000
+[MANUFACTURER EN]APF
+[DATE]OCT 1978
+[DATE END]JAN 1979
 [PRICE]50000
 [DEV COSTS]35000
-[TECHLEVEL]3
-[UNITS]1000000
-[PIC-1]SegaL.png
-[NEED-1]59
+[TECHLEVEL]1
+[UNITS]100000
+[PIC-1]MP1000.png
+[NEED-1]45
 [COMPLEX]0
 [INTERNET]0
-[TYP]4
+[TYP]1
+[PRE]151
+[END]
 
-[ID]195
+[ID]153
+[NAME EN]RCA Studio II
+[MANUFACTURER EN]RCA
+[DATE]JAN 1977
+[DATE END]JAN 1978
+[PRICE]50000
+[DEV COSTS]35000
+[TECHLEVEL]1
+[UNITS]64000
+[PIC-1]Studio2.png
+[NEED-1]45
+[COMPLEX]0
+[INTERNET]0
+[TYP]1
+[END]
+
+[ID]154
+[NAME EN]RCA Studio III
+[MANUFACTURER EN]RCA
+[DATE]DEC 1978
+[DATE END]MAY 1979
+[PRICE]50000
+[DEV COSTS]35000
+[TECHLEVEL]1
+[UNITS]200000
+[PIC-1]Studio2.png
+[NEED-1]45
+[COMPLEX]0
+[INTERNET]0
+[TYP]1
+[END]
+
+[ID]155
 [NAME EN]System 1
 [MANUFACTURER EN]Sega
 [DATE]JAN 1984
@@ -5241,8 +5337,11 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]4
+[PUB]23
+[SUC]156
+[END]
 
-[ID]196
+[ID]156
 [NAME EN]System E
 [MANUFACTURER EN]Sega
 [DATE]JAN 1986
@@ -5256,8 +5355,12 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]4
+[PUB]23
+[PRE]155
+[SUC]157
+[END]
 
-[ID]197
+[ID]157
 [NAME EN]X Board
 [MANUFACTURER EN]Sega
 [DATE]JAN 1987
@@ -5271,8 +5374,12 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]4
+[PUB]23
+[PRE]156
+[SUC]158
+[END]
 
-[ID]198
+[ID]158
 [NAME EN]Y Board
 [MANUFACTURER EN]Sega
 [DATE]JAN 1988
@@ -5286,8 +5393,11 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]4
+[PUB]23
+[PRE]157
+[END]
 
-[ID]199
+[ID]159
 [NAME EN]Model 1
 [MANUFACTURER EN]Sega
 [DATE]JAN 1992
@@ -5301,8 +5411,11 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]4
+[PUB]23
+[SUC]160
+[END]
 
-[ID]200
+[ID]160
 [NAME EN]Model 2
 [MANUFACTURER EN]Sega
 [DATE]JAN 1994
@@ -5316,8 +5429,12 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]4
+[PUB]23
+[PRE]159
+[SUC]161
+[END]
 
-[ID]201
+[ID]161
 [NAME EN]Model 3
 [MANUFACTURER EN]Sega
 [DATE]JAN 1997
@@ -5331,8 +5448,12 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]4
+[PUB]23
+[PRE]160
+[SUC]162
+[END]
 
-[ID]202
+[ID]162
 [NAME EN]NAOMI
 [MANUFACTURER EN]Sega
 [DATE]JAN 1999
@@ -5346,8 +5467,12 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]4
+[PUB]23
+[PRE]161
+[SUC]163
+[END]
 
-[ID]203
+[ID]163
 [NAME EN]NAOMI 2
 [MANUFACTURER EN]Sega
 [DATE]JAN 2001
@@ -5361,8 +5486,12 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]4
+[PUB]23
+[PRE]162
+[SUC]164
+[END]
 
-[ID]204
+[ID]164
 [NAME EN]SystemSP
 [MANUFACTURER EN]Sega
 [DATE]JAN 2005
@@ -5376,8 +5505,12 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]4
+[PUB]23
+[PRE]163
+[SUC]165
+[END]
 
-[ID]205
+[ID]165
 [NAME EN]ALLS
 [MANUFACTURER EN]Sega
 [DATE]JAN 2018
@@ -5390,438 +5523,8 @@
 [COMPLEX]0
 [INTERNET]0
 [TYP]4
-
-[ID]206
-[NAME CH]iOS
-[NAME EN]iOS
-[NAME FR]iOS
-[NAME GE]iOS
-[NAME HU]iOS
-[NAME JA]iOS
-[NAME PL]iOS
-[NAME TU]iOS
-[MANUFACTURER CH]Apple
-[MANUFACTURER EN]Apple
-[MANUFACTURER FR]Apple
-[MANUFACTURER GE]Apple
-[MANUFACTURER HU]Apple
-[MANUFACTURER JA]Apple
-[MANUFACTURER PL]Apple
-[MANUFACTURER TU]Apple
-[DATE]OCT 2032
-[PRICE]5500
-[DEV COSTS]8400
-[TECHLEVEL]7
-[UNITS]200000000
-[PIC-1]iOS21.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]207
-[NAME EN]Android
-[MANUFACTURER EN]Google
-[DATE]JAN 2030
-[PRICE]5300
-[DEV COSTS]8000
-[TECHLEVEL]8
-[UNITS]230000000
-[PIC-1]Android16.png
-[NEED-1]56
-[COMPLEX]0
-[INTERNET]1
-[TYP]3
-[END]
-
-[ID]208
-[NAME EN]Windows 1.0
-[MANUFACTURER EN]Microsoft
-[DATE]NOV 1985
-[DATE END]JAN 1988
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]2
-[UNITS]150000000
-[PIC-1]Windows1.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]0
-[TYP]0
-[END]
-
-[ID]209
-[NAME EN]Windows 2.0
-[MANUFACTURER EN]Microsoft
-[DATE]DEC 1987
-[DATE END]JAN 1989
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]3
-[UNITS]150000000
-[PIC-1]Windows2.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]0
-[TYP]0
-[END]
-
-[ID]210
-[NAME EN]Windows 3.0
-[MANUFACTURER EN]Microsoft
-[DATE]MAY 1990
-[DATE END]JAN 1992
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]4
-[UNITS]150000000
-[PIC-1]Windows3.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]0
-[TYP]0
-[END]
-
-[ID]211
-[NAME EN]Windows 95
-[MANUFACTURER EN]Microsoft
-[DATE]AUG 1995
-[DATE END]JAN 2000
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]5
-[UNITS]150000000
-[PIC-1]Windows95.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
-[END]
-
-[ID]212
-[NAME EN]Windows 98
-[MANUFACTURER EN]Microsoft
-[DATE]JUN 1998
-[DATE END]JAN 2000
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]6
-[UNITS]150000000
-[PIC-1]Windows98.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
-[END]
-
-[ID]213
-[NAME EN]Windows 2000
-[MANUFACTURER EN]Microsoft
-[DATE]FEB 1999
-[DATE END]JAN 2003
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]7
-[UNITS]150000000
-[PIC-1]Windows2000.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
-[END]
-
-[ID]214
-[NAME EN]Windows ME
-[MANUFACTURER EN]Microsoft
-[DATE]SEP 2000
-[DATE END]JAN 2003
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]7
-[UNITS]150000000
-[PIC-1]WindowsME.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
-[END]
-
-[ID]215
-[NAME EN]Windows XP
-[MANUFACTURER EN]Microsoft
-[DATE]OCT 2001
-[DATE END]JAN 2010
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]8
-[UNITS]150000000
-[PIC-1]WindowsXP.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
-[END]
-
-[ID]216
-[NAME EN]Windows Vista
-[MANUFACTURER EN]Microsoft
-[DATE]JAN 2006
-[DATE END]JAN 2012
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]7
-[UNITS]150000000
-[PIC-1]WindowsVista.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
-[END]
-
-[ID]217
-[NAME EN]Windows 7
-[MANUFACTURER EN]Microsoft
-[DATE]OCT 2009
-[DATE END]JAN 2016
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]8
-[UNITS]150000000
-[PIC-1]Windows7.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
-[END]
-
-[ID]218
-[NAME EN]Windows 8
-[MANUFACTURER EN]Microsoft
-[DATE]OCT 2012
-[DATE END]JAN 2019
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]8
-[UNITS]150000000
-[PIC-1]Windows8.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
-[END]
-
-[ID]219
-[NAME EN]Windows 10
-[MANUFACTURER EN]Microsoft
-[DATE]JUL 2015
-[DATE END]JAN 2024
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]8
-[UNITS]150000000
-[PIC-1]Windows10.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
-[END]
-
-[ID]219
-[NAME EN]Windows 11
-[MANUFACTURER EN]Microsoft
-[DATE]OCT 2021
-[DATE END]JAN 2028
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]8
-[UNITS]150000000
-[PIC-1]Windows11.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
-[END]
-
-[ID]220
-[NAME EN]Windows 12
-[MANUFACTURER EN]Microsoft
-[DATE]OCT 2024
-[DATE END]JAN 2030
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]8
-[UNITS]150000000
-[PIC-1]Windows12.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
-[END]
-
-[ID]221
-[NAME EN]Windows
-[MANUFACTURER EN]Microsoft
-[DATE]OCT 2030
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]8
-[UNITS]150000000
-[PIC-1]Windows13.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
-[END]
-
-[ID]222
-[NAME EN]Fire OS
-[MANUFACTURER EN]Amazon
-[DATE]JUN 2010
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]8
-[UNITS]150000000
-[PIC-1]PC.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
-[END]
-
-[ID]223
-[NAME EN]Fire OS 2
-[MANUFACTURER EN]Amazon
-[DATE]JUN 2010
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]8
-[UNITS]150000000
-[PIC-1]PC.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
-[END]
-
-[ID]224
-[NAME EN]Fire OS 3
-[MANUFACTURER EN]Amazon
-[DATE]JUN 2010
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]8
-[UNITS]150000000
-[PIC-1]PC.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
-[END]
-
-[ID]225
-[NAME EN]Fire OS 4
-[MANUFACTURER EN]Amazon
-[DATE]JUN 2010
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]8
-[UNITS]150000000
-[PIC-1]PC.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
-[END]
-
-[ID]226
-[NAME EN]Fire OS 5
-[MANUFACTURER EN]Amazon
-[DATE]JUN 2010
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]8
-[UNITS]150000000
-[PIC-1]PC.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
-[END]
-
-[ID]227
-[NAME EN]Fire OS 6
-[MANUFACTURER EN]Amazon
-[DATE]JUN 2010
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]8
-[UNITS]150000000
-[PIC-1]PC.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
-[END]
-
-[ID]228
-[NAME EN]Fire OS 7
-[MANUFACTURER EN]Amazon
-[DATE]JUN 2010
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]8
-[UNITS]150000000
-[PIC-1]PC.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
-[END]
-
-[ID]229
-[NAME EN]Fire OS 8
-[MANUFACTURER EN]Amazon
-[DATE]JUN 2010
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]8
-[UNITS]150000000
-[PIC-1]PC.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
-[END]
-
-[ID]230
-[NAME EN]Fire OS 9
-[MANUFACTURER EN]Amazon
-[DATE]JUN 2010
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]8
-[UNITS]150000000
-[PIC-1]PC.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
-[END]
-
-[ID]231
-[NAME EN]Fire OS X
-[MANUFACTURER EN]Amazon
-[DATE]JUN 2010
-[PRICE]17000
-[DEV COSTS]5500
-[TECHLEVEL]8
-[UNITS]150000000
-[PIC-1]PC.png
-[NEED-1]44
-[COMPLEX]0
-[INTERNET]1
-[TYP]0
+[PUB]23
+[PRE]164
 [END]
 
 [EOF]
