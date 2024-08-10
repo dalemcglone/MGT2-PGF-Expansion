@@ -1,4 +1,24 @@
-﻿Royal War <BOOK>
+﻿////						LICENSES 						////
+// Tags:                                              		  //
+//                                                            //
+// --Categories--                                             //
+// <MOVIE> 		= Movie                           		  	  //
+// <BOOK> 		= Book   							  		  //
+// <SPORT> 		= Sport     					  		  	  //
+// <TOY>		= Toy                 		  		  		  //
+// <BOARD>		= Board Game       						  	  //
+// <COMIC>		= Comic									  	  //
+// ----                                                       //
+//                                                            //
+// <Q(0-5)>		= License Quality.       					  //
+// <Y(YEAR)>	= Available from year YEAR.       		      //
+// <G+(ID)>		= Suitable Genre.       					  //
+// <G-(ID)>		= Unsuitable Genre.                           //
+//                                                    		  //
+////////////////////////////////////////////////////////////////
+//
+//Line 21 = ID 0
+Royal War <BOOK>
 Sad Medicine <BOOK>
 Sadness in the Time of Cholera <BOOK>
 Slaughtershack-Six <BOOK>
@@ -210,7 +230,7 @@ The Game of Life <BOARD>
 The Hotels <BOARD>
 Trivial Pursuit <BOARD>
 WarTech - Robot Warrios <BOARD>
-Warhammer 30K <BOARD>
+Warhammer 40K <BOARD>
 Ninteen Eighty-Four <MOVIE><Y1984>
 1984 <BOOK>
 A Bug's Life <MOVIE><Y1998>
@@ -285,7 +305,7 @@ Star Wars Episode VI: Return of the Jedi <MOVIE><Y1983>
 Star Wars Episode VII: A Force Awakens <MOVIE><Y2015>
 Star Wars Episode VIII: The Last Jedi <MOVIE><Y2017>
 Star Wars Episode IX: Rise of Skywalker <MOVIE><Y2019>
-Star Wars Rogue Squadron <MOVIE><Y2023>
+Star Wars Rogue Squadron <MOVIE><Y2026>
 Rogue One: A Star Wars Story <MOVIE><Y2016>
 Solo: A Star Wars Story <MOVIE><Y2018>
 Droids <MOVIE><Y1985>
@@ -315,9 +335,9 @@ Star Wars: Forces of Destiny [Season 1] <MOVIE><Y2017>
 Star Wars: Forces of Destiny [Season 2] <MOVIE><Y2018>
 The Mandalorian [Season 1] <MOVIE><Y2019>
 The Mandalorian [Season 2] <MOVIE><Y2020>
-The Mandalorian [Season 2] <MOVIE><Y2023>
+The Mandalorian [Season 3] <MOVIE><Y2023>
 The Book of Boba Fett <MOVIE><Y2021>
-Obi-Wan Kenobi <MOVIE><Y2022>
+Obi-Wan Kenobi [Season 1] <MOVIE><Y2022>
 One Hundred and One Dalmations <MOVIE><Y1976>
 101 Dalmations <MOVIE><Y1996>
 101 Dalmations II: Patch's London Adventure <MOVIE><Y2003>
@@ -596,6 +616,7 @@ Aliens vs Predator: Requiem <MOVIE><Y2007>
 Prometheus <MOVIE><Y2012>
 Alien Covenant <MOVIE><Y2017>
 Alien Awakening <MOVIE><Y2017>
+Alien: Romulus <MOVIE><Y2024>
 Ashen Victor <COMIC><Y1995>
 Battle Angel Alita - Vol. 1 <COMIC><Y1991>
 Battle Angel Alita - Vol. 2 <COMIC><Y1992>
@@ -634,8 +655,6 @@ Battle Angel Alita: Mars Chronicle - Vol. 6 <COMIC><Y2019>
 Battle Angel Alita: Mars Chronicle - Vol. 7 <COMIC><Y2021>
 Battle Angel Alita: Mars Chronicle - Vol. 8 <COMIC><Y2022>
 Alita: Battle Angel <MOVIE><Y2019>
-Alita: Battle Angel 2 <MOVIE><Y2024>
-Alita: Battle Angel 3 <MOVIE><Y2027>
 All Dogs Go to Heaven <MOVIE><Y1989>
 All Dogs Go to Heaven 2 <MOVIE><Y1996>
 All Dogs Go to Heaven: The Series [Season 1] <MOVIE><Y1996>
@@ -702,13 +721,15 @@ Spider-Man 3 <MOVIE><Y2007>
 Spider-Man 4 <MOVIE><Y2009>
 Spider-Man: Homecoming <MOVIE><Y2017>
 Spider-Man: Far From Home <MOVIE><Y2019>
+Spider Man: Far From Home Extended Cut <MOVIE><Y2019>
 Spider-Man: No Way Home <MOVIE><Y2021>
+Spider-Man: No Way Home — The More Fun Stuff Version <MOVIE><Y2022>
 Spider-Man: Into the Spider-Verse <MOVIE><Y2018>
+Spider-Man: Into the Spider-Verse <MOVIE><Y2023>
 Spider-Man: Across the Spider-Verse <MOVIE><Y2023>
 Spider-Man: Beyond on the Spider-Verse <MOVIE><Y2024>
 Spider-Ham: Caught in a Ham <MOVIE><Y2019>
-Spider-Man: Freshman Year [Season 1] <MOVIE><Y2024>
-Spider-Man: Sophomore Year [Season 1] <MOVIE><Y2025>
+Your Friendly Neighborhood Spider-Man [Season 1] <MOVIE><Y2025>
 Spidey and His Amazing Friends [Season 1] <MOVIE><Y2021>
 Spidey and His Amazing Friends [Season 2] <MOVIE><Y2022>
 Spidey and His Amazing Friends [Season 3] <MOVIE><Y2023>
@@ -719,6 +740,14 @@ Spectacular Spider-Man Vol. 2 <COMIC><Y2003>
 Spectacular Spider-Man Vol. 3 <COMIC><Y2017>
 Peter Parker: Spider-Man Vol. 1 <COMIC><Y1990>
 Peter Parker: Spider-Man Vol. 2 <COMIC><Y1999>
+Spider-Man: Far From Home Extended Cut <MOVIE><Y2019>
+Spider-Man: Into The Spider-Verse 3D <MOVIE><Y2018>
+Madame Web <MOVIE><Y2024>
+Venom <MOVIE><Y2018>
+Venom: Let there be Carnage <MOVIE><Y2021>
+Venom: The Last Dance <MOVIE><Y2024>
+Morbius <MOVIE><Y2022>
+Kraven the Hunter <MOVIE><Y2024>
 Marvel Team-Up Vol. 1 <COMIC><Y1977>
 Marvel Team-Up Vol. 2 <COMIC><Y1997>
 Marvel Team-Up Vol. 3 <COMIC><Y2005>
@@ -726,9 +755,6 @@ Marvel Team-Up Vol. 4 <COMIC><Y2019>
 Amazing Fantasy Vol. 1 <COMIC><Y1995>
 Amazing Fantasy Vol. 2 <COMIC><Y2004>
 Amazing Fantasy Vol. 3 <COMIC><Y2021>
-Venom <MOVIE><Y2018>
-Venom: Let there be Carnage <MOVIE><Y2021>
-Morbius <MOVIE><Y2022>
 The New Fantastic Four <MOVIE><Y1978>
 Fantastic Four [Season 1] <MOVIE><Y1994>
 Fantastic Four [Season 2] <MOVIE><Y1995>
@@ -749,9 +775,8 @@ Fantastic Four <MOVIE><Y2005>
 Fantastic Four: Rise of the Silver Surfer <MOVIE><Y2007>
 Fantastic Four: The Negative Zone <MOVIE><Y2011>
 The Fantastic Four <MOVIE><Y2015>
-Fantastic Four <MOVIE><Y2024>
+Fantastic Four: First Steps <MOVIE><Y2025>
 Doctor Doom <COMIC>
-Doctor Doom <MOVIE><Y2017>
 Silver Surfer <COMIC>
 Silver Surfer <MOVIE><Y2018>
 American Dad [Season 1] <MOVIE><Y2005>
@@ -797,7 +822,7 @@ Bartok the Magnificent <MOVIE><Y1999>
 Anchorman: The Legend of Ron Burgundy <MOVIE><Y2004>
 Wake Up, Ron Burgundy: The Lost Movie <MOVIE><Y2004>
 Anchorman 2: The Legend Continues <MOVIE><Y2013>
-Anchorman 3 <MOVIE><Y2024>
+Anchorman 3 <MOVIE><Y2025>
 Olympus Has Fallen <MOVIE><Y2013>
 London Has Fallen <MOVIE><Y2016>
 Angel Has Fallen <MOVIE><Y2019>
@@ -940,13 +965,13 @@ Austin Powers [Season 1] <MOVIE><Y1999>
 Austin Powers [Season 2] <MOVIE><Y2000>
 Avatar <MOVIE><Y2009>
 Avatar: The Way of Water <MOVIE><Y2022>
-Avatar 3 <MOVIE><Y2024>
-Avatar 4 <MOVIE><Y2026>
-Avatar 5 <MOVIE><Y2028>
+Avatar 3 <MOVIE><Y2026>
+Avatar 4 <MOVIE><Y2028>
+Avatar 5 <MOVIE><Y2030>
 Aviator <MOVIE><Y1985>
 Aviator <MOVIE><Y2004>
 Baby Driver <MOVIE><Y2017>
-Baby Driver <MOVIE><Y2024>
+Baby Driver <MOVIE><Y2025>
 Babylon 5: Gathering <MOVIE><Y1993>
 Babylon 5: In the Beginning <MOVIE><Y1998>
 Babylon 5: Thirdspace <MOVIE><Y1998>
@@ -961,11 +986,12 @@ Back to the Future [Season 2] <MOVIE><Y1992>
 Bad Boys <MOVIE><Y1995>
 Bad Boys II <MOVIE><Y2003>
 Bad Boys For Life <MOVIE><Y2020>
+Bad Boys: Ride of Die <MOVIE><Y2024>
 LA's Finest [Season 1] <MOVIE><Y2019>
 LA's Finest [Season 2] <MOVIE><Y2020>
 Bad Neighbours <MOVIE><Y2014>
 Bad Neighbours 2: Sorority Rising <MOVIE><Y2016>
-Bad Neighbours 3: Zombie Rising <MOVIE><Y2024>
+Bad Neighbours 3: Zombie Rising <MOVIE><Y2025>
 Barbershop <MOVIE><Y2002>
 Barbershop 2: Back in Business <MOVIE><Y2004>
 Barbershop: The Next Cut <MOVIE><Y2016>
@@ -1173,6 +1199,7 @@ Black Canary <MOVIE><Y2024>
 Deadpool <MOVIE><Y2016>
 Deadpool 2 <MOVIE><Y2018>
 Task Force X <MOVIE><Y2023>
+Deadpool & Wolverine <MOVIE><Y2024>
 Deadpool <TOY>
 Once Upon a Deadpool <MOVIE><Y2018>
 Deadpool <COMIC>
@@ -1214,7 +1241,7 @@ Krypton <MOVIE><Y2030>
 New Gods <MOVIE><Y2030>
 Black Manta <MOVIE><Y2031>
 Joker <MOVIE><Y2019>
-Joker 2 <MOVIE><Y2024>
+Joker: Folie à Deux <MOVIE><Y2024>
 Battle: Los Angeles <MOVIE><Y2011>
 Battle: New York <MOVIE><Y2024>
 Battle: London <MOVIE><Y2026>
@@ -1240,10 +1267,12 @@ Bambi II <MOVIE><Y2006>
 Bambi III <MOVIE><Y2018>
 Beetlejuice <MOVIE><Y1988>
 Beetlejuice Goes Hawaiian <MOVIE><Y1990>
+Beetlejuice Beetlejuice <MOVIE><Y2024>
 Beverly Hills Cop <MOVIE><Y1984>
 Beverly Hills Cop II <MOVIE><Y1987>
 Beverly Hills Cop III <MOVIE><Y1994>
 Beverly Hills Cop IV <MOVIE><Y1997>
+Beverly Hills Cop: Axel F <MOVIE><Y2024>
 Beverly Hills Cop [Season 1] <MOVIE><Y2013>
 Big Hero 6 <MOVIE><Y2014>
 Baymax! <MOVIE><Y2022>
@@ -1288,17 +1317,19 @@ Blues Brothers 2000 <MOVIE><Y1998>
 Bob's Burgers Movie <MOVIE><Y2022>
 Bob's Burgers [Season 1] <MOVIE><Y2011>
 Bob's Burgers [Season 2] <MOVIE><Y2012>
-Bob's Burgers [Season 3] <MOVIE><Y2013>
-Bob's Burgers [Season 4] <MOVIE><Y2014>
-Bob's Burgers [Season 5] <MOVIE><Y2015>
-Bob's Burgers [Season 6] <MOVIE><Y2016>
-Bob's Burgers [Season 7] <MOVIE><Y2017>
-Bob's Burgers [Season 8] <MOVIE><Y2018>
-Bob's Burgers [Season 9] <MOVIE><Y2019>
-Bob's Burgers [Season 10] <MOVIE><Y2020>
-Bob's Burgers [Season 11] <MOVIE><Y2021>
-Bob's Burgers [Season 12] <MOVIE><Y2022>
-Bob's Burgers [Season 13] <MOVIE><Y2023>
+Bob's Burgers [Season 3] <MOVIE><Y2012>
+Bob's Burgers [Season 4] <MOVIE><Y2013>
+Bob's Burgers [Season 5] <MOVIE><Y2014>
+Bob's Burgers [Season 6] <MOVIE><Y2014>
+Bob's Burgers [Season 7] <MOVIE><Y2016>
+Bob's Burgers [Season 8] <MOVIE><Y2017>
+Bob's Burgers [Season 9] <MOVIE><Y2018>
+Bob's Burgers [Season 10] <MOVIE><Y2019>
+Bob's Burgers [Season 11] <MOVIE><Y2020>
+Bob's Burgers [Season 12] <MOVIE><Y2021>
+Bob's Burgers [Season 13] <MOVIE><Y2022>
+Bob's Burgers [Season 14] <MOVIE><Y2023>
+Bob's Burgers [Season 15] <MOVIE><Y2024>
 Bolt <MOVIE><Y1984>
 Bolt <MOVIE><Y2008>
 The Bourne Identity <BOOK><Y1980>
@@ -1415,6 +1446,7 @@ Transformers: Dark of the Moon <MOVIE><Y2011>
 Transformers: Age of Extinction <MOVIE><Y2014>
 Transformers: The Last Knight <MOVIE><Y2017>
 Transformers: Rise of the Beasts <MOVIE><Y2023>
+Transformers One <MOVIE><Y2024>
 Bumblebee <MOVIE><Y2018>
 Caddyshack <MOVIE><Y1980>
 Caddyshack II <MOVIE><Y1988>
@@ -1468,21 +1500,21 @@ Agents of S.H.I.E.L.D [Season 1] <MOVIE><Y2013>
 Agents of S.H.I.E.L.D [Season 2] <MOVIE><Y2014>
 Agents of S.H.I.E.L.D [Season 3] <MOVIE><Y2015>
 Agents of S.H.I.E.L.D [Season 4] <MOVIE><Y2016>
-Agents of S.H.I.E.L.D [Season 5] <MOVIE><Y2017>
-Agents of S.H.I.E.L.D [Season 6] <MOVIE><Y2018>
-Agents of S.H.I.E.L.D [Season 7] <MOVIE><Y2019>
+Agents of S.H.I.E.L.D [Season 5] <MOVIE><Y2018>
+Agents of S.H.I.E.L.D [Season 6] <MOVIE><Y2019>
+Agents of S.H.I.E.L.D [Season 7] <MOVIE><Y2020>
 Ant-Man <COMIC>
 Ant-Man <MOVIE><Y2015>
 Ant-Man and the Wasp <MOVIE><Y2018>
 Ant-Man and the Wasp: Quantumania <MOVIE><Y2023>
 Armor Wars <COMIC>
-Armor Wars [Season 1] <MOVIE><Y2023>
+Armor Wars <MOVIE><Y2026>
 Avengers <MOVIE><Y2012>
 Avengers: Age of Ultron <MOVIE><Y2015>
 Avengers: Infinity War <MOVIE><Y2018>
 Avengers: Endgame <MOVIE><Y2019>
-Avengers: Secret Wars <MOVIE><Y2025>
-Avengers: The Kang Dynasty <MOVIE><Y2025>
+Avengers: Doomsday <MOVIE><Y2026>
+Avengers: Secret Wars <MOVIE><Y2027>
 Black Panther <TOY>
 Black Panther <COMIC>
 Black Panther <MOVIE><Y2018>
@@ -1492,7 +1524,7 @@ Captain America <TOY>
 Captain America: The First Avenger <MOVIE><Y2011>
 Captain America: The Winter Soldier <MOVIE><Y2014>
 Captain America: Civil War <MOVIE><Y2016>
-Captain America: New World Order <MOVIE><Y2024>
+Captain America: Brave New World <MOVIE><Y2024>
 Cloak & Daggar <COMIC>
 Cloak & Daggar [Season 1] <MOVIE><Y2018>
 Cloak & Daggar [Season 2] <MOVIE><Y2019>
@@ -1502,16 +1534,16 @@ Daredevil [Season 1] <MOVIE><Y2015>
 Daredevil [Season 2] <MOVIE><Y2016>
 Daredevil [Season 3] <MOVIE><Y2018>
 Daredevil: Born Again <COMIC>
-Daredevil: Born Again [Season 1] <MOVIE><Y2024>
-Daredevil: Born Again [Season 2] <MOVIE><Y2025>
-Daredevil: Born Again [Season 3] <MOVIE><Y2026>
-Echo [Season 1] <MOVIE><Y2023>
-Echo [Season 2] <MOVIE><Y2024>
-Echo [Season 3] <MOVIE><Y2025>
+Daredevil: Born Again [Season 1] <MOVIE><Y2025>
+Daredevil: Born Again [Season 2] <MOVIE><Y2026>
+Daredevil: Born Again [Season 3] <MOVIE><Y2027>
+Echo [Season 1] <MOVIE><Y2024>
+Echo [Season 2] <MOVIE><Y2025>
+Echo [Season 3] <MOVIE><Y2026>
 Guardians of the Galaxy <COMIC>
 Guardians of the Galaxy <MOVIE><Y2014>
 Guardians of the Galaxy Vol. 2 <MOVIE><Y2017>
-Guardians of the Galaxy Vol. 3 <MOVIE><Y2022>
+Guardians of the Galaxy Vol. 3 <MOVIE><Y2023>
 Guardians of the Galaxy: Holiday Special <MOVIE><Y2022>
 Iron Fist <COMIC>
 Iron Fist [Season 1] <MOVIE><Y2017>
@@ -1526,14 +1558,14 @@ Thor The Dark World <MOVIE><Y2013>
 Thor: Ragnarok <MOVIE><Y2017>
 Thor: Love and Thunder <MOVIE><Y2022>
 Thunderbolts <COMIC>
-Thunderbolts <MOVIE><Y2024>
+Thunderbolts* <MOVIE><Y2025>
 Incredible Hulk <MOVIE><Y2008>
 Hulk <COMIC>
 Incredible Hulk <COMIC>
 Ironheart <COMIC>
-Ironheart [Season 1] <MOVIE><Y2023>
-Ironheart [Season 2] <MOVIE><Y2023>
-Ironheart [Season 3] <MOVIE><Y2023>
+Ironheart [Season 1] <MOVIE><Y2026>
+Ironheart [Season 2] <MOVIE><Y2027>
+Ironheart [Season 3] <MOVIE><Y2028>
 Eternals <MOVIE><Y2021>
 What If..? [Season 1] <MOVIE><Y2021>
 What If..? [Season 2] <MOVIE><Y2023>
@@ -1549,9 +1581,9 @@ Luke Cage <TOY>
 Luke Cage <COMIC>
 Luke Cage [Season 1] <MOVIE><Y2016>
 Luke Cage [Season 2] <MOVIE><Y2016>
-Marvel Zombies [Season 1] <MOVIE><Y2024>
-Marvel Zombies [Season 2] <MOVIE><Y2025>
-Marvel Zombies [Season 3] <MOVIE><Y2026>
+Marvel Zombies [Season 1] <MOVIE><Y2025>
+Marvel Zombies [Season 2] <MOVIE><Y2026>
+Marvel Zombies [Season 3] <MOVIE><Y2027>
 Hawkeye <TOY>
 Hawkeye <COMIC>
 Hawkeye [Season 1] <MOVIE><Y2021>
@@ -1563,8 +1595,8 @@ Falcon and The Winter Soldier [Season 1] <MOVIE><Y2021>
 Moon Knight <TOY>
 Moon Knight <COMIC>
 Moon Knight [Season 1] <MOVIE><Y2022>
-Moon Knight [Season 2] <MOVIE><Y2023>
-Moon Knight [Season 3] <MOVIE><Y2024>
+Moon Knight [Season 2] <MOVIE><Y2025>
+Moon Knight [Season 3] <MOVIE><Y2027>
 Shang-Chi and the Legend of the Ten Rings <MOVIE><Y2021>
 Nova <MOVIE><Y2025>
 WandaVision [Season 1] <MOVIE><Y2021>
@@ -1591,6 +1623,7 @@ Blade <MOVIE><Y1998>
 Blade II <MOVIE><Y2002>
 Blade Trinity <MOVIE><Y2004>
 Blade: The Series <MOVIE><Y2006>
+Blade <MOVIE><Y2026>
 Black Widow <MOVIE><Y2021>
 Ghost Rider <COMIC>
 Ghost Rider <MOVIE><Y2007>
@@ -1684,8 +1717,7 @@ Don't Breathe <MOVIE><Y2016>
 Don't Breathe 2 <MOVIE><Y2021>
 A Quiet Place <MOVIE><Y2018>
 A Quiet Place Part II <MOVIE><Y2020>
-A Quiet Place Part III <MOVIE><Y2023>
-A Quiet Place: Day One <MOVIE><Y2025>
+A Quiet Place: Day One <MOVIE><Y2024>
 Dolittle <MOVIE><Y2020>
 Dr Dolittle <MOVIE><Y1998>
 Dr Dolittle 2 <MOVIE><Y2001>
@@ -2038,8 +2070,8 @@ The Kid & I <MOVIE><Y2005>
 Expendables <MOVIE><Y2010>
 Expendables 2 <MOVIE><Y2012>
 Expendables 3 <MOVIE><Y2014>
-Expendables 4 <MOVIE><Y2022>
-Expendabelles <MOVIE><Y2015>
+Expend4bles <MOVIE><Y2023>
+Expendabelles <MOVIE><Y2025>
 Escape Plan <MOVIE><Y2013>
 Escape Plan 2: Hades <MOVIE><Y2018>
 Escape Plan 3: The Extractors <MOVIE><Y2019>
@@ -2092,7 +2124,7 @@ The Specialist <MOVIE><Y1994>
 Judge Dredd <COMIC><Y1977>
 Judge Dredd <MOVIE><Y1995>
 Dredd <MOVIE><Y2012>
-Judge Dredd: Mega-City One [Season 1] <MOVIE><Y2023>
+Judge Dredd: Mega-City One [Season 1] <MOVIE><Y2025>
 Assassins <MOVIE><Y1995>
 Daylight <MOVIE><Y1996>
 Cop Land <MOVIE><Y1997>
@@ -2148,7 +2180,7 @@ Savage Land <MOVIE><Y2016>
 Savage Times <MOVIE><Y2017>
 Croods <MOVIE><Y2013>
 Croods: A New Age <MOVIE><Y2020>
-Croods 3 <MOVIE><Y2023>
+Croods 3 <MOVIE><Y2025>
 Dawn of the Croods [Season 1] <MOVIE><Y2015>
 Dawn of the Croods [Season 2] <MOVIE><Y2016>
 Dawn of the Croods [Season 3] <MOVIE><Y2017>
@@ -2202,10 +2234,10 @@ Stephen King's Firestarter <BOOK><Y1980>
 Stephen King's Firestarter: Rekindled <MOVIE><Y2002>
 Stephen King's Firestarter <MOVIE><Y2022>
 Stephen King's Roadwork <BOOK><Y1981>
-Stephen King's Roadwork <MOVIE><Y2023>
+Stephen King's Roadwork <MOVIE><Y2025>
 Stephen King's The Running Man <BOOK><Y1982>
 Stephen King's The Running Man <MOVIE><Y1987>
-Stephen King's The Running Man <MOVIE><Y2023>
+Stephen King's The Running Man <MOVIE><Y2025>
 Stephen King's The Dark Tower: The Gunslinger <BOOK><Y1982>
 Stephen King's Dark Tower II: The Drawing of the Three <BOOK><Y1987>
 Stephen King's Dark Tower III: The Waste Lands <BOOK><Y1991>
@@ -2241,8 +2273,8 @@ Stephen King's IT [Mini-Series] <MOVIE><Y1990>
 Stephen King's IT <MOVIE><Y2017>
 Stephen King's IT: Chapter Two <MOVIE><Y2019>
 Stephen King's IT: Chapter Three <MOVIE><Y2024>
-Stephen King's Welcome to Derry [Season 1] <MOVIE><Y2023>
-Stephen King's Welcome to Derry [Season 2] <MOVIE><Y2024>
+Stephen King's Welcome to Derry [Season 1] <MOVIE><Y2025>
+Stephen King's Welcome to Derry [Season 2] <MOVIE><Y2026>
 Stephen King's Maximum Overdrive <MOVIE><Y1986>
 Stephen King's Misery <BOOK><Y1987>
 Stephen King's Misery <MOVIE><Y1990>
@@ -2269,7 +2301,7 @@ Stephen King's The Regulators <MOVIE><Y2022>
 Stephen King's Bag of Bones <BOOK><Y1998>
 Stephen King's Bag of Bones <MOVIE><Y2011>
 Stephen King's The Girl Who Loved Tom Gordon <BOOK><Y1999>
-Stephen King's The Girl Who Loved Tom Gordon <MOVIE><Y2023>
+Stephen King's The Girl Who Loved Tom Gordon <MOVIE><Y2026>
 Stephen King's Dreamcatcher <BOOK><Y2001>
 Stephen King's Dreamcatcher <MOVIE><Y2003>
 Stephen King's Black House <BOOK><Y2001>
@@ -2286,7 +2318,7 @@ Stephen King's Lisey's Story <BOOK><Y2006>
 Stephen King's Lisey's Story [Mini-Series] <MOVIE><Y2021>
 Stephen King's Blaze <BOOK><Y2007>
 Stephen King's Duma Key <BOOK><Y2008>
-Stephen King's Duma Key <MOVIE><Y2023>
+Stephen King's Duma Key <MOVIE><Y2026>
 Stephen King's Under the Dome <BOOK><Y2009>
 Stephen King's Under the Dome [Season 1] <MOVIE><Y2013>
 Stephen King's Under the Dome [Season 2] <MOVIE><Y2014>
@@ -2305,7 +2337,7 @@ Stephen King's Gwendy's Button Box <BOOK><Y2017>
 Stephen King's Gwendy's Magic Feather <BOOK><Y2019>
 Stephen King's Gwendy's Final Task <BOOK><Y2022>
 Stephen King's The Outsider <BOOK><Y2018>
-Stephen King's The Outsider [Mini-Series <MOVIE><Y2023>
+Stephen King's The Outsider [Mini-Series] <MOVIE><Y2025>
 Stephen King's If it Bleeds <BOOK><Y2020>
 Stephen King's Mr Harrigan's Phone <MOVIE><Y2022>
 Stephen King's Sleeping Beauties <BOOK><Y2017>
@@ -2338,6 +2370,7 @@ Darkwing Duck [Season 3] <MOVIE><Y1992>
 Rise of the Planet of the Apes <MOVIE><Y2011>
 Dawn of the Planet of the Apes <MOVIE><Y2014>
 War for the Planet of the Apes <MOVIE><Y2017>
+Kingdom of the Planet of the Apes <MOVIE><Y2024>
 Planet of the Apes <MOVIE><Y2001>
 Death Note <MOVIE><Y2006>
 Death Note <MOVIE><Y2017>
@@ -2371,7 +2404,7 @@ Depression of Harumi Suzuka <MOVIE><Y2000>
 Despicable Me <MOVIE><Y2010>
 Despicable Me 2 <MOVIE><Y2013>
 Despicable Me 3 <MOVIE><Y2017>
-Despicable Me 4 <MOVIE><Y2025>
+Despicable Me 4 <MOVIE><Y2024>
 Minions <MOVIE><Y2015>
 Minions: The Rise of Gru <MOVIE><Y2022>
 Pokemon: The First Movie <MOVIE><Y1998>
@@ -2449,7 +2482,7 @@ Mission Impossible Ghost Protocol <MOVIE><Y2011>
 Mission Impossible Rogue Nation <MOVIE><Y2015>
 Mission Impossible Fallout <MOVIE><Y2018>
 Mission Impossible Dead Reckoning - Part 1 <MOVIE><Y2023>
-Mission Impossible Dead Reckoning - Part 2 <MOVIE><Y2024>
+Mission Impossible Dead Reckoning - Part 2 <MOVIE><Y2025>
 Disney's Artemis Fowl <MOVIE><Y2020>
 Artemis Fowl <BOOK><Y2001>
 Disney's Call of the Wild <MOVIE><Y2020>
@@ -2467,7 +2500,7 @@ Disney's Turning Red <MOVIE><Y2022>
 Django <COMIC>
 Django Unchained <MOVIE><Y2012>
 Django In White Hell <MOVIE><Y2015>
-Django/Zorro <MOVIE><Y2023>
+Django/Zorro <MOVIE><Y2025>
 Hateful Eight <MOVIE><Y2015>
 Dr. Jekyll and Mr. Hyde <MOVIE><Y2002>
 Dr. Mabuse: The Gambler <MOVIE><Y1977>
@@ -2521,7 +2554,7 @@ The Twilight Saga: Breaking Dawn - Part 1 <MOVIE><Y2011>
 The Twilight Saga: Breaking Dawn - Part 2 <MOVIE><Y2012>
 Dune <MOVIE><Y1984>
 Dune <MOVIE><Y2021>
-Dune: Part Two <MOVIE><Y2023>
+Dune: Part Two <MOVIE><Y2024>
 Frank Herbert's Dune [Mini-Series] <MOVIE><Y2000>
 Frank Herbert's Children of Dune [Mini-Series] <MOVIE><Y2003>
 Dune <BOOK>
@@ -2558,7 +2591,7 @@ The Magic Finger <BOOK>
 The Magic Finger <MOVIE><Y2022>
 James and the Giant Peach <BOOK>
 James and the Giant Peach <MOVIE><Y1996>
-The Enormous Crocodile <BOOK>Y1978>
+The Enormous Crocodile <BOOK><Y1978>
 My Uncle Oswald <BOOK><Y1979>
 The Twits <BOOK><Y1980>
 George's Marvellous Medicine <BOOK><Y1981>
@@ -2807,9 +2840,6 @@ Ice Age Adventures of Buck Wild <MOVIE><Y2022>
 Wheel of Time <BOOK><Y1990>
 Wheel of Time [Season 1] <MOVIE><Y2021>
 The Great Gatsby <BOOK>
-The Lord of the Rings - Vol. 1: Fellowship of the Ring <BOOK>
-The Lord of the Rings - Vol. 2: The Two Towers <BOOK>
-The Lord of the Rings - Vol. 3: The Return of the King <BOOK>
 The Adventures of Tom Bombadil <BOOK>
 The Road Goes Ever On <BOOK>
 Bilbo's Last Song <BOOK>
@@ -2823,12 +2853,13 @@ The Hobbit: There and Back Again <BOOK>
 The Lord of the Rings: The Fellowship of the Ring <MOVIE><Y2001>
 The Lord of the Rings: The Two Towers <MOVIE><Y2002>
 The Lord of the Rings: The Return of the King <MOVIE><Y2003>
+The Lord of the Rings: The War of the Rohirrim <MOVIE><Y2024>
 Hobbit: Unexpected Journey <MOVIE><Y2012>
 Hobbit: Desolation of Smaug <MOVIE><Y2013>
 Hobbit: Battle of the Five Armies <MOVIE><Y2014>
 The Lord of the Rings: Power of the Rings [Season 1] <MOVIE><Y2022>
-The Lord of the Rings: Power of the Rings [Season 2] <MOVIE><Y2023>
-The Lord of the Rings: Power of the Rings [Season 3] <MOVIE><Y2024>
+The Lord of the Rings: Power of the Rings [Season 2] <MOVIE><Y2024>
+The Lord of the Rings: Power of the Rings [Season 3] <MOVIE><Y2026>
 Cat in the Hat <BOOK>
 Cat in the Hat <MOVIE><Y2003>
 The Cat in the Hat Comes Back <MOVIE><Y2006>
@@ -3006,7 +3037,7 @@ Gone the Sun <BOOK><Y1988>
 Such a Pretty, Pretty Girl <BOOK><Y1998>
 El Paso <BOOK><Y2016>
 The Mummy <MOVIE><Y1999>
-The Mummy <MOVIE<Y2017>
+The Mummy <MOVIE><Y2017>
 The Mummy: The Animated Series [Season 1] <MOVIE><Y2001>
 The Mummy: The Animated Series [Season 2] <MOVIE><Y2003>
 The Mummy's Hand <MOVIE>
@@ -3113,27 +3144,13 @@ Final Destination 2 <MOVIE><Y2006>
 The Final Destination <MOVIE><Y2009>
 Final Destination 5 <MOVIE><Y2011>
 Kevin & Perry Go Large <MOVIE><Y2000>
-Godzilla Vs. Biollante <MOVIE><Y1989>
-Godzilla 2000: Millennium <MOVIE><Y1999>
-Godzilla, Mothra and King Ghidorah <MOVIE><Y2001>
-Godzilla: Final Wars <MOVIE><Y2004>
-Shin Godzilla <MOVIE><Y2016>
-Godzilla: Planet of the Monsters <MOVIE><Y2017>
-Godzilla: City on the Edge of Battle <MOVIE><Y2018>
-Godzilla: The Planet Eater <MOVIE><Y2018>
-Godzilla <MOVIE><Y1998>
-Godzilla <MOVIE><Y2014>
-Godzilla vs. Kong <MOVIE><Y2021>
-Godzilla: Ghidorah's Revenge <MOVIE><Y
-Godzilla: King of the Monsters <MOVIE><Y2019>
-The Return of Godzilla <MOVIE><Y1984>
 Hannibal <MOVIE><Y2001>
 Indiana Jones and the Raiders of the Lost Ark <MOVIE><Y1981>
 Indiana Jones and the Temple of Doom <MOVIE><Y1984>
 Indiana Jones and the Last Crusade <MOVIE><Y1989>
 Indiana Jones and the Kingdom of the Crystal Skull <MOVIE><Y2008>
 Raiders! The Story of the Greatest Fan Film Ever Made <MOVIE><Y2016>
-Indiana Jones 5 <MOVIE><Y2023>
+Indiana Jones and the Dial of Destiny <MOVIE><Y2023>
 Crocodile Dundee <MOVIE><Y1986>
 Crocodile Dundee II <MOVIE><Y1988>
 Crocodile Dundee in Los Angeles <MOVIE><Y2001>
@@ -3769,7 +3786,7 @@ A Monster Calls <MOVIE><Y2017>
 A Monster with a Thousand Heads <MOVIE><Y2016>
 A Month by the Lake <MOVIE><Y1995>
 A Most Beautiful Thing <MOVIE><Y2020>
-A Most Violent Year<MOVIE><Y2014>
+A Most Violent Year <MOVIE><Y2014>
 A Most Wanted Man <MOVIE><Y2014>
 A Mother's Courage: Talking Back to Autism <MOVIE><Y2010>
 A Mouthful of Air <MOVIE><Y2021>
@@ -3957,7 +3974,6 @@ AMER <MOVIE><Y2010>
 AREA 407 <MOVIE><Y2012>
 ATL <MOVIE><Y2006>
 ATM <MOVIE><Y2012>
-AVP: Alien Vs. Predator <MOVIE><Y2004>
 Aa Gaye Munde U.K. De <MOVIE><Y2014>
 Aagey Se Right <MOVIE><Y2009>
 Aaha Kalyanam <MOVIE><Y2014>
@@ -3977,6 +3993,7 @@ Abduction: The Megumi Yokota Story <MOVIE><Y2006>
 Abel <MOVIE><Y2011>
 Aberdeen <MOVIE><Y2001>
 Aberdeen <MOVIE><Y2014>
+Abigail <MOVIE><Y2024>
 Abigail Harm <MOVIE><Y2013>
 Abominable <MOVIE><Y2006>
 Abominable <MOVIE><Y2019>
@@ -4417,7 +4434,7 @@ Amber Alert <MOVIE><Y2012>
 Ambition <MOVIE><Y1991>
 Ambition <MOVIE><Y2019>
 Ambrose Bierce: Civil War Stories <MOVIE><Y2006>
-Ambulance<MOVIE><Y2022>
+Ambulance <MOVIE><Y2022>
 Ambushed <MOVIE><Y1998>
 Amelia <MOVIE><Y2009>
 Amelie <MOVIE><Y2001>
@@ -5024,7 +5041,7 @@ Autumn, Autumn <MOVIE><Y2017>
 Ava <MOVIE><Y2020>
 Avalanche <MOVIE><Y1978>
 Avalon <MOVIE><Y1990>
-Avatar <MOVIE><Y2022>
+Avatar: The Way of Water <MOVIE><Y2022>
 Avatar Special Edition: An IMAX 3D Experience <MOVIE><Y2010>
 Ava’s Possessions <MOVIE><Y2016>
 Avengement <MOVIE><Y2019>
@@ -5395,7 +5412,6 @@ Beethoven <MOVIE><Y1992>
 Beethoven's 2nd <MOVIE><Y1993>
 Beetle Juice <MOVIE><Y1988>
 Beetle Queen Conquers Tokyo <MOVIE><Y2010>
-Beetlejuice <MOVIE><Y2020>
 Befikre <MOVIE><Y2016>
 Before I Disappear <MOVIE><Y2014>
 Before I Fall <MOVIE><Y2017>
@@ -6367,7 +6383,7 @@ Bull Durham <MOVIE><Y1988>
 Bullet Head <MOVIE><Y2017>
 Bullet Proof <MOVIE><Y2022>
 Bullet Train <MOVIE><Y2022>
-Bullet Train<MOVIE><Y2022>
+Bullet Train <MOVIE><Y2022>
 Bullet to the Head <MOVIE><Y2013>
 Bulletproof <MOVIE><Y1988>
 Bulletproof <MOVIE><Y1996>
@@ -7898,7 +7914,7 @@ Death of a President <MOVIE><Y2006>
 Death of a Superhero <MOVIE><Y2012>
 Death of a Telemarketer <MOVIE><Y2021>
 Death of the Virgin <MOVIE><Y2012>
-Death on the Nile<MOVIE><Y2022>
+Death on the Nile <MOVIE><Y2022>
 Death to Smoochy <MOVIE><Y2002>
 Deathstalker <MOVIE><Y1983>
 Deathtrap <MOVIE><Y1981>
@@ -8389,7 +8405,7 @@ Downloaded <MOVIE><Y2013>
 Downloading Nancy <MOVIE><Y2009>
 Downsizing <MOVIE><Y2017>
 Downton Abbey <MOVIE><Y2019>
-Downton Abbey: A New Era<MOVIE><Y2022>
+Downton Abbey: A New Era <MOVIE><Y2022>
 Downtown 81 <MOVIE><Y2001>
 Downtown 81 <MOVIE><Y2019>
 Downtown <MOVIE><Y1990>
@@ -8977,7 +8993,7 @@ Everyone Else <MOVIE><Y2010>
 Everyone Says I Love You <MOVIE><Y1996>
 Everyone's Hero <MOVIE><Y2006>
 Everything Else <MOVIE><Y2018>
-Everything Everywhere All At Once<MOVIE><Y2022>
+Everything Everywhere All At Once <MOVIE><Y2022>
 Everything Must Go <MOVIE><Y2011>
 Everything Put Together <MOVIE><Y2001>
 Everything is Illuminated <MOVIE><Y2005>
@@ -9204,7 +9220,7 @@ Fanny and Alexander <MOVIE><Y1983>
 Fantasia 2000 <MOVIE><Y2000>
 Fantasia 2000<MOVIE><Y1999>
 Fantastic Beasts: The Crimes of Grindelwald <MOVIE><Y2018>
-Fantastic Beasts: The Secrets of Dumbledore<MOVIE><Y2022>
+Fantastic Beasts: The Secrets of Dumbledore <MOVIE><Y2022>
 Fantastic Four <MOVIE><Y2015>
 Fantastic Fungi <MOVIE><Y2019>
 Fantastic Mr. Fox <MOVIE><Y2009>
@@ -10093,11 +10109,10 @@ Ghost in the Shell: The New Movie <MOVIE><Y2015>
 Ghostbox Cowboy <MOVIE><Y2018>
 Ghostbusters (30th Anniversary) <MOVIE><Y2014>
 Ghostbusters <MOVIE><Y1984>
-Ghostbusters <MOVIE><Y2016>
-Ghostbusters <MOVIE><Y2019>
-Ghostbusters <MOVIE><Y2021>
 Ghostbusters II <MOVIE><Y1989>
+Ghostbusters <MOVIE><Y2016>
 Ghostbusters: Afterlife <MOVIE><Y2021>
+Ghostbusters: Frozen Empire <MOVIE><Y2024>
 Ghosted <MOVIE><Y2009>
 Ghosts Can’t Do It <MOVIE><Y1990>
 Ghosts of Cité Soleil <MOVIE><Y2007>
@@ -10235,10 +10250,29 @@ Gods and Monsters <MOVIE><Y1998>
 Gods of Egypt <MOVIE><Y2016>
 Godsend <MOVIE><Y2004>
 Godspeed-The Race Across America <MOVIE><Y2018>
-Godzilla 1985 <MOVIE><Y1985>
-Godzilla 2000 <MOVIE><Y2000>
+Godzilla Vs. Biollante <MOVIE><Y1989>
+Godzilla 2000: Millennium <MOVIE><Y1999>
+Godzilla, Mothra and King Ghidorah <MOVIE><Y2001>
+Godzilla: Final Wars <MOVIE><Y2004>
+Shin Godzilla <MOVIE><Y2016>
+The Return of Godzilla <MOVIE><Y1984>
+Godzilla <MOVIE><Y1985>
 Godzilla vs. Destoroyah <MOVIE><Y1995>
+Godzilla <MOVIE><Y1998>
+Godzilla 2000 <MOVIE><Y2000>
 Godzilla: The Original Japanese Version <MOVIE><Y2004>
+Godzilla: Planet of the Monsters <MOVIE><Y2017>
+Godzilla: City on the Edge of Battle <MOVIE><Y2018>
+Godzilla: The Planet Eater <MOVIE><Y2018>
+Godzilla <MOVIE><Y2014>
+Godzilla: King of the Monsters <MOVIE><Y2019>
+Godzilla vs. Kong <MOVIE><Y2021>
+Godzilla Minus One <MOVIE><Y2023>
+Godzilla x Kong: The New Empire <MOVIE><Y2024>
+King Kong (1933) <MOVIE><Y2020>
+King Kong <MOVIE><Y2005>
+King Kong Lives <MOVIE><Y1986>
+Kong: Skull Island <MOVIE><Y2017>
 God’s Country <MOVIE><Y2022>
 God’s Not Dead 2 <MOVIE><Y2016>
 God’s Not Dead <MOVIE><Y2014>
@@ -10490,8 +10524,6 @@ Guadalupe <MOVIE><Y2006>
 Guai Tai <MOVIE><Y2020>
 Guantanamera <MOVIE><Y1997>
 Guardian Angel <MOVIE><Y2014>
-Guardians of the Galaxy Vol 2 <MOVIE><Y2017>
-Guardians of the Galaxy Vol 3 <MOVIE><Y2023>
 Guarding Tess <MOVIE><Y1994>
 Guerrilla: The Taking of Patty Hearst <MOVIE><Y2004>
 Guess Who <MOVIE><Y2005>
@@ -10909,6 +10941,7 @@ Hellbound? <MOVIE><Y2012>
 Hellboy 2: The Golden Army <MOVIE><Y2008>
 Hellboy <MOVIE><Y2004>
 Hellboy <MOVIE><Y2019>
+Hellboy: The Crooked Man <MOVIE><Y2024>
 Hellhole <MOVIE><Y1985>
 Hellion <MOVIE><Y2014>
 Hellions <MOVIE><Y2015>
@@ -11179,7 +11212,7 @@ Honey I Blew Up the Kid <MOVIE><Y1992>
 Honey, I Shrunk the Kids <MOVIE><Y1989>
 Honeydew <MOVIE><Y2021>
 Honeydripper <MOVIE><Y2008>
-Honeydripper<MOVIE><Y2007>
+Honeydripper <MOVIE><Y2007>
 Honeyglue <MOVIE><Y2016>
 Honeyland <MOVIE><Y2019>
 Honeymoon <MOVIE><Y1987>
@@ -11255,8 +11288,7 @@ Hotel Rwanda <MOVIE><Y2004>
 Hotel Transylvania 2 <MOVIE><Y2015>
 Hotel Transylvania 3: Summer Vacation <MOVIE><Y2018>
 Hotel Transylvania <MOVIE><Y2012>
-Hotel Transylvania: Transformania <MOVIE><Y2021>
-Hotel Transylvania: Transformania<MOVIE><Y2022>
+Hotel Transylvania: Transformania <MOVIE><Y2022>
 Hotel by the River <MOVIE><Y2019>
 Hotel de Love <MOVIE><Y1997>
 Hotel for Dogs <MOVIE><Y2009>
@@ -11773,7 +11805,7 @@ In the Mood for Love <MOVIE><Y2001>
 In the Mouth of Madness <MOVIE><Y1995>
 In the Name Of... <MOVIE><Y2013>
 In the Name of My Daughter <MOVIE><Y2015>
-In the Name of the Father<MOVIE><Y1993>
+In the Name of the Father <MOVIE><Y1993>
 In the Name of the King: A Dungeon Siege Tale <MOVIE><Y2008>
 In the Pit <MOVIE><Y2007>
 In the Realms of the Unreal <MOVIE><Y2004>
@@ -12107,7 +12139,7 @@ Jackass 3D <MOVIE><Y2010>
 Jackass Presents: Bad Grandpa <MOVIE><Y2013>
 Jackass: Number Two <MOVIE><Y2006>
 Jackass: The Movie <MOVIE><Y2002>
-Jackass forever<MOVIE><Y2022>
+Jackass Forever <MOVIE><Y2022>
 Jackie & Ryan <MOVIE><Y2015>
 Jackie <MOVIE><Y2016>
 Jackie Brown <MOVIE><Y1997>
@@ -12417,7 +12449,7 @@ Jurassic Park 3D <MOVIE><Y2013>
 Jurassic Park <MOVIE><Y1993>
 Jurassic Park <MOVIE><Y2013>
 Jurassic World <MOVIE><Y2015>
-Jurassic World: Dominion<MOVIE><Y2022>
+Jurassic World: Dominion <MOVIE><Y2022>
 Jurassic World: Fallen Kingdom <MOVIE><Y2018>
 Jury Duty <MOVIE><Y1995>
 Just Another Love Story <MOVIE><Y2009>
@@ -12687,9 +12719,6 @@ King David <MOVIE><Y1985>
 King Georges <MOVIE><Y2016>
 King Jack <MOVIE><Y2016>
 King Kelly <MOVIE><Y2012>
-King Kong (1933) <MOVIE><Y2020>
-King Kong <MOVIE><Y2005>
-King Kong Lives <MOVIE><Y1986>
 King Leopold's Ghost <MOVIE><Y2006>
 King Ralph <MOVIE><Y1991>
 King Richard <MOVIE><Y2021>
@@ -12796,7 +12825,6 @@ Kolya <MOVIE><Y1997>
 Komediant <MOVIE><Y2002>
 Kon-Tiki <MOVIE><Y2013>
 Konda Polam <MOVIE><Y2021>
-Kong: Skull Island <MOVIE><Y2017>
 KonoSuba - God's Blessing on This Wonderful World! The Movie: Legend of Crimson <MOVIE><Y2019>
 Kontroll <MOVIE><Y2005>
 Korengal <MOVIE><Y2014>
@@ -12807,7 +12835,6 @@ Koyaanisqatsi <MOVIE><Y1983>
 Krack <MOVIE><Y2020>
 Kramer vs. Kramer <MOVIE><Y1979>
 Krampus <MOVIE><Y2015>
-Kraven the Hunter <MOVIE><Y2023>
 Krazzy 4 <MOVIE><Y2008>
 Krippendorf's Tribe <MOVIE><Y1998>
 Krisha <MOVIE><Y2016>
@@ -12831,9 +12858,10 @@ Kung Fu Elliot <MOVIE><Y2015>
 Kung Fu Hustle <MOVIE><Y2005>
 Kung Fu Joe <MOVIE><Y2012>
 Kung Fu Killer <MOVIE><Y2015>
+Kung Fu Panda <MOVIE><Y2008>
 Kung Fu Panda 2 <MOVIE><Y2011>
 Kung Fu Panda 3 <MOVIE><Y2016>
-Kung Fu Panda <MOVIE><Y2008>
+Kung Fu Panda 4 <MOVIE><Y2024>
 Kung Fu Yoga <MOVIE><Y2017>
 Kung Pow: Enter the Fist <MOVIE><Y2002>
 Kurbaan <MOVIE><Y2009>
@@ -13307,7 +13335,7 @@ Lightning Jack <MOVIE><Y1994>
 Lightning in a Bottle <MOVIE><Y2004>
 Lights Out <MOVIE><Y2016>
 Lights in the Dusk <MOVIE><Y2007>
-Lightyear<MOVIE><Y2022>
+Lightyear <MOVIE><Y2022>
 Like Crazy <MOVIE><Y2011>
 Like Crazy <MOVIE><Y2017>
 Like Dandelion Dust <MOVIE><Y2010>
@@ -13479,7 +13507,7 @@ London Road <MOVIE><Y2016>
 London Town <MOVIE><Y2016>
 Lone Star <MOVIE><Y1996>
 Lone Survivor <MOVIE><Y2014>
-Lone Survivor<MOVIE><Y2013>
+Lone Survivor <MOVIE><Y2013>
 Lone Wolf <MOVIE><Y2021>
 Lone Wolf McQuade <MOVIE><Y1983>
 Lonely Hearts <MOVIE><Y1983>
@@ -13783,7 +13811,7 @@ Léon Morin, prêtre <MOVIE><Y2017>
 L’affaire Farewell <MOVIE><Y2010>
 L’une chante, l’autre pas <MOVIE><Y1977>
 M <MOVIE><Y2013>
-M&M: The Mall The Merrier<MOVIE><Y2019>
+M&M: The Mall The Merrier <MOVIE><Y2019>
 M. Butterfly <MOVIE><Y1993>
 M.C. Escher: Journey to Infinity <MOVIE><Y2021>
 M.F.A. <MOVIE><Y2017>
@@ -13834,6 +13862,7 @@ Mad Max <MOVIE><Y1980>
 Mad Max 2: The Road Warrior <MOVIE><Y1981>
 Mad Max Beyond Thunderdome <MOVIE><Y1985>
 Mad Max: Fury Road <MOVIE><Y2015>
+Furiosa: Mad Max Saga <MOVIE><Y2024>
 Mad Money <MOVIE><Y2008>
 Mad Tiger <MOVIE><Y2016>
 Mad Women <MOVIE><Y2015>
@@ -13848,7 +13877,6 @@ Madame Bovary <MOVIE><Y2015>
 Madame Rosa <MOVIE><Y1978>
 Madame Sata <MOVIE><Y2003>
 Madame Sousatzka <MOVIE><Y1988>
-Madame Web <MOVIE><Y2023>
 Made <MOVIE><Y2001>
 Made In America <MOVIE><Y1993>
 Made Me Do It <MOVIE><Y2019>
@@ -14103,7 +14131,7 @@ Married Life <MOVIE><Y2008>
 Married To It <MOVIE><Y1993>
 Married to the Mob <MOVIE><Y1988>
 Marrowbone <MOVIE><Y2018>
-Marry Me<MOVIE><Y2022>
+Marry Me <MOVIE><Y2022>
 Mars Attacks! <MOVIE><Y1996>
 Mars Needs Moms <MOVIE><Y2011>
 Marsha Hunt’s Sweet Adversity <MOVIE><Y2018>
@@ -15109,7 +15137,6 @@ Nadja <MOVIE><Y1995>
 Naked <MOVIE><Y1994>
 Naked Boys Singing <MOVIE><Y2007>
 Naked Fame <MOVIE><Y2005>
-
 Naked Lunch <MOVIE><Y1991>
 Naked Singularity <MOVIE><Y2021>
 Naked in New York <MOVIE><Y1994>
@@ -15120,7 +15147,7 @@ Naming Number Two <MOVIE><Y2008>
 Namiya <MOVIE><Y2018>
 Namour <MOVIE><Y2017>
 Nana <MOVIE><Y2018>
-Nana<MOVIE><Y2005>
+Nana <MOVIE><Y2005>
 Nanak Shah Fakir <MOVIE><Y2015>
 Nancy <MOVIE><Y2018>
 Nancy Drew <MOVIE><Y2007>
@@ -15469,7 +15496,7 @@ Non-Fiction <MOVIE><Y2019>
 Non-Stop <MOVIE><Y2000>
 Non-Stop <MOVIE><Y2014>
 Nona <MOVIE><Y2018>
-Nope<MOVIE><Y2022>
+Nope <MOVIE><Y2022>
 Nora <MOVIE><Y2001>
 Norbit <MOVIE><Y2007>
 Norm of the North <MOVIE><Y2016>
@@ -15621,7 +15648,7 @@ October Baby <MOVIE><Y2012>
 October Country <MOVIE><Y2010>
 October Gale <MOVIE><Y2015>
 October Sky <MOVIE><Y1999>
-Octonauts and the Caves of Sac Actun<MOVIE><Y2022>
+Octonauts and the Caves of Sac Actun <MOVIE><Y2022>
 Octubre <MOVIE><Y2011>
 Oculus <MOVIE><Y2014>
 Odd Thomas <MOVIE><Y2014>
@@ -16031,8 +16058,10 @@ Paani Ch Madhaani <MOVIE><Y2021>
 Pacific Heights <MOVIE><Y1990>
 Pacific Rim <MOVIE><Y2013>
 Pacific Rim: Uprising <MOVIE><Y2018>
-Paddington 2 <MOVIE><Y2018>
+Paddington <TOY>
 Paddington <MOVIE><Y2015>
+Paddington 2 <MOVIE><Y2018>
+Paddington In Peru <MOVIE><Y2024>
 Paddleton <MOVIE><Y2019>
 Padman <MOVIE><Y2018>
 Padmavati <MOVIE><Y2018>
@@ -16551,7 +16580,7 @@ Pop Aye <MOVIE><Y2017>
 Popcorn <MOVIE><Y1991>
 Pope Francis—A Man of His Word <MOVIE><Y2018>
 Popeye <MOVIE><Y1980>
-Poppies: Odyssey Of An Opium Eater<MOVIE><Y2010>
+Poppies: Odyssey Of An Opium Eater <MOVIE><Y2010>
 Popstar: Never Stop Never Stopping <MOVIE><Y2016>
 Populaire <MOVIE><Y2013>
 Porfirio <MOVIE><Y2013>
@@ -17279,7 +17308,7 @@ Revenge of the Nerds <MOVIE><Y1984>
 Revenge of the Nerds II: Nerds in Paradise <MOVIE><Y1987>
 Revenge of the Ninja <MOVIE><Y1983>
 Revenge of the Pink Panther <MOVIE><Y1978>
-Revenge<MOVIE><Y1986>
+Revenge <MOVIE><Y1986>
 Revengeance <MOVIE><Y2018>
 Reversal of Fortune <MOVIE><Y1990>
 Revive Us 2 <MOVIE><Y2017>
@@ -18437,7 +18466,7 @@ Skinwalkers <MOVIE><Y2007>
 Skiptrace <MOVIE><Y2016>
 Sky <MOVIE><Y2016>
 Sky Bandits <MOVIE><Y1986>
-Sky Blue<MOVIE><Y2004>
+Sky Blue <MOVIE><Y2004>
 Sky Captain and the World of Tomorrow <MOVIE><Y2004>
 Sky High <MOVIE><Y2005>
 Sky Sharks <MOVIE><Y2017>
@@ -18820,11 +18849,6 @@ Sphinx <MOVIE><Y1981>
 Spice World <MOVIE><Y1998>
 Spices of Liberty <MOVIE><Y2016>
 Spider <MOVIE><Y2003>
-Spider Man: Far From Home Extended Cut <MOVIE><Y2019>
-Spider in the Web <MOVIE><Y2019>
-Spider-Man: Far From Home Extended Cut <MOVIE><Y2019>
-Spider-Man: Into The Spider-Verse 3D <MOVIE><Y2018>
-Spider-Man: No Way Home — The More Fun Stuff Version <MOVIE><Y2022>
 Spiderhole <MOVIE><Y2011>
 Spiders 3D <MOVIE><Y2013>
 Spies Like Us <MOVIE><Y1985>
@@ -19984,7 +20008,8 @@ The Basement <MOVIE><Y2018>
 The Basket <MOVIE><Y2000>
 The Basketball Diaries <MOVIE><Y1995>
 The Bastard’s Fig Tree <MOVIE><Y2019>
-The Batman<MOVIE><Y2022>
+The Batman <MOVIE><Y2022>
+The Batman Part II <MOVIE><Y2025> 
 The Battle at Lake Changjin <MOVIE><Y2021>
 The Battle of Algiers <MOVIE><Y2016>
 The Battle of Jangsari <MOVIE><Y2019>
@@ -20091,7 +20116,7 @@ The Black Dove <MOVIE><Y2016>
 The Black Hole <MOVIE><Y1979>
 The Black Marble <MOVIE><Y1980>
 The Black Panthers: Vanguard of the Revolution <MOVIE><Y2015>
-The Black Phone<MOVIE><Y2022>
+The Black Phone <MOVIE><Y2022>
 The Black Power Mixtape: 1967-1975 <MOVIE><Y2011>
 The Black Prince <MOVIE><Y2017>
 The Black Room <MOVIE><Y2017>
@@ -20120,7 +20145,7 @@ The Blue Tooth Virgin <MOVIE><Y2009>
 The Blues Brothers <MOVIE><Y1980>
 The Blues Brothers (1980) <MOVIE><Y2020>
 The Boat is Full <MOVIE><Y1981>
-The Bob’s Burgers Movie<MOVIE><Y2022>
+The Bob’s Burgers Movie <MOVIE><Y2022>
 The Body <MOVIE><Y2001>
 The Body Remembers When the World Broke Open <MOVIE><Y2019>
 The Bodybuilder and I <MOVIE><Y2007>
@@ -20479,6 +20504,7 @@ The Cross: The Arthur Blessitt Story <MOVIE><Y2009>
 The Crossing Guard <MOVIE><Y1995>
 The Crow <MOVIE><Y1994>
 The Crow: City of Angels <MOVIE><Y1996>
+The Crow <MOVIE><Y2024>
 The Crucible <MOVIE><Y1996>
 The Cruise <MOVIE><Y1998>
 The Crush <MOVIE><Y1993>
@@ -20687,7 +20713,7 @@ The Duelist <MOVIE><Y2016>
 The Duellists <MOVIE><Y1977>
 The Duke <MOVIE><Y2021>
 The Duke of Burgundy <MOVIE><Y2015>
-The Duke<MOVIE><Y2022>
+The Duke <MOVIE><Y2022>
 The Dukes <MOVIE><Y2008>
 The Dukes of Hazzard <MOVIE><Y2005>
 The Dust Factory <MOVIE><Y2004>
@@ -20975,7 +21001,7 @@ The Gangster, The Cop, The Devil <MOVIE><Y2019>
 The Garden <MOVIE><Y2009>
 The Garden Left Behind <MOVIE><Y2020>
 The Garden of Allah <MOVIE><Y2017>
-The Garden<MOVIE><Y1990>
+The Garden <MOVIE><Y1990>
 The Gardener <MOVIE><Y2018>
 The Gate <MOVIE><Y1987>
 The Gatekeeper <MOVIE><Y2003>
@@ -21875,12 +21901,12 @@ The Machine <MOVIE><Y2014>
 The Machinist <MOVIE><Y2004>
 The Mad Hatter <MOVIE><Y2021>
 The Maddening <MOVIE><Y1995>
-The Madness of King George<MOVIE><Y1994>
+The Madness of King George <MOVIE><Y1994>
 The Maestro <MOVIE><Y2019>
 The Mafia Only Kills in Summer <MOVIE><Y2015>
 The Magdalene Sisters <MOVIE><Y2003>
 The Magic Flute - Met Opera 2006 <MOVIE><Y2020>
-The Magic Flute<MOVIE><Y2006>
+The Magic Flute <MOVIE><Y2006>
 The Magic of Belle Isle <MOVIE><Y2012>
 The Magical World of Chuck Jones <MOVIE><Y1992>
 The Magician <MOVIE><Y2010>
@@ -22166,7 +22192,7 @@ The Ninth Gate <MOVIE><Y2000>
 The Nomi Song <MOVIE><Y2005>
 The Norseman <MOVIE><Y1978>
 The Northlander <MOVIE><Y2016>
-The Northman<MOVIE><Y2022>
+The Northman <MOVIE><Y2022>
 The Notebook <MOVIE><Y2004>
 The Notebook <MOVIE><Y2014>
 The Notebook <MOVIE><Y2021>
@@ -22209,7 +22235,12 @@ The Old Man and the Gun <MOVIE><Y2018>
 The Old Way <MOVIE><Y2022>
 The Olivia Experiment <MOVIE><Y2014>
 The Omega Code <MOVIE><Y1999>
+The Omen <MOVIE><Y1976>
+Damien - Omen II <MOVIE><Y1978>
+The Final Conflict <MOVIE><Y1981>
+Omen IV: The Awakening <MOVIE><Y1991>
 The Omen <MOVIE><Y2006>
+The First Omen <MOVIE><Y2024>
 The One <MOVIE><Y2001>
 The One I Love <MOVIE><Y2014>
 The One I Wrote for You <MOVIE><Y2014>
@@ -23409,7 +23440,7 @@ The Whistlers <MOVIE><Y2020>
 The White Balloon <MOVIE><Y1996>
 The White Countess <MOVIE><Y2005>
 The White Crow <MOVIE><Y2019>
-The White Ribbon<MOVIE><Y2009>
+The White Ribbon <MOVIE><Y2009>
 The White Sheik <MOVIE><Y2019>
 The Who: Quadrophenia - The Complete Story <MOVIE><Y2012>
 The Whole Nine Yards <MOVIE><Y2000>
@@ -23670,7 +23701,7 @@ Thodari <MOVIE><Y2016>
 Thomas and the Magic Railroad <MOVIE><Y2000>
 Thomas and the Magic Railroad <MOVIE><Y2020>
 Thomas in Love <MOVIE><Y2001>
-Thor: Love and Thunder<MOVIE><Y2022>
+Thor: Love and Thunder <MOVIE><Y2022>
 Thor: The Dark World <MOVIE><Y2013>
 Thoroughbreds <MOVIE><Y2018>
 Those Glory, Glory Days <MOVIE><Y1986>
@@ -23906,7 +23937,7 @@ Top Five <MOVIE><Y2014>
 Top Gun <MOVIE><Y1986>
 Top Gun <MOVIE><Y2013>
 Top Gun <MOVIE><Y2021>
-Top Gun: Maverick<MOVIE><Y2022>
+Top Gun: Maverick <MOVIE><Y2022>
 Top Secret! <MOVIE><Y1984>
 Top Spin <MOVIE><Y2015>
 Topsy Turvy <MOVIE><Y1999>
@@ -25669,6 +25700,7 @@ The Lion King <MOVIE><Y1994>
 The Lion King II: Simba's Pride <MOVIE><Y1998>
 The Lion King 1 1/2 <MOVIE><Y2004>
 The Lion King <MOVIE><Y2019>
+Mufasa: The Lion King <MOVIE><Y2024>
 The Lion Guard [Season 1] <MOVIE><Y2017>
 The Lion Guard [Season 2] <MOVIE><Y2019>
 The Lion Guard [Season 3] <MOVIE><Y2019>
