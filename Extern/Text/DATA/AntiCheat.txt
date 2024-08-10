@@ -1,376 +1,301 @@
-﻿[ID]1
+﻿////							 ANTI-CHEAT SOFTWARE 								////
+// Parameters:                                                                        //
+//                                                                         			  //
+// [ID]int 					= The ID of the object.                                   //
+// [NAME (LANG)]string 		= The name of the anti-cheat in the respective language.  //
+// [DATE](MONTH) (YEAR) 	= The date when the anti-cheat software is available.     //
+// [PRICE]int				= How much the anti-cheat software costs.                 //
+// [DEV COSTS]int			= The development costs of the anti-cheat software.       //
+//                                                                                    //
+////////////////////////////////////////////////////////////////////////////////////////
+
+[ID]1
 [NAME EN]BattlEye v1.0
-[NAME GE]Game Eye v1.0
+[NAME GE]BattlEye v1.0
 [NAME CH]游戏侦察 v1.0
-[NAME TU]Game Eye v1.0
+[NAME TU]BattlEye v1.0
+[NAME FR]BattlEye v1.0
+[NAME CT]遊戲眼 v1.0
+[NAME RU]BattlEye v1.0
+[NAME IT]BattlEye v1.0
+[NAME JA]ゲームアイ v1.0
+[NAME UA]BattlEye v1.0
+[NAME TH]BattlEye v1.0
 [DATE]FEB 1990
 [PRICE]30000
 [DEV COSTS]5000
 
 [ID]2
 [NAME EN]BattlEye v2.0
-[NAME GE]Game Eye v2.0
+[NAME GE]BattlEye v2.0
 [NAME CH]游戏侦察 v2.0
-[NAME TU]Game Eye v2.0
+[NAME TU]BattlEye v2.0
+[NAME FR]BattlEye v2.0
+[NAME CT]遊戲眼 v2.0
+[NAME RU]BattlEye v2.0
+[NAME IT]BattlEye v2.0
+[NAME JA]ゲームアイ v2.0
+[NAME UA]BattlEye v2.0
+[NAME TH]BattlEye v2.0
 [DATE]FEB 1992
 [PRICE]35000
 [DEV COSTS]7000
 
 [ID]3
 [NAME EN]BattlEye v3.0
-[NAME GE]Game Eye v3.0
+[NAME GE]BattlEye v3.0
 [NAME CH]游戏侦察 v3.0
-[NAME TU]Game Eye v3.0
+[NAME TU]BattlEye v3.0
+[NAME FR]BattlEye v3.0
+[NAME CT]遊戲眼 v3.0
+[NAME RU]BattlEye v3.0
+[NAME IT]BattlEye v3.0
+[NAME JA]ゲームアイ v3.0
+[NAME UA]BattlEye v3.0
+[NAME TH]BattlEye v3.0
 [DATE]FEB 1994
 [PRICE]40000
 [DEV COSTS]9000
 
 [ID]4
-[NAME EN]Handwavium v1.0
-[NAME GE]Renovu Anti Cheat v1.0
+[NAME EN]Denuvo Anti Cheat v1.0
+[NAME GE]Denuvo Anti Cheat v1.0
 [NAME CH]雷诺沃反作弊      v1.0
-[NAME TU]Renovu Anti Cheat v1.0
+[NAME TU]Denuvo Anti Cheat v1.0
+[NAME FR]Denuvo Anti Cheat v1.0
+[NAME CT]雷努胡反作弊 v1.0
+[NAME RU]Denuvo Античит v1.0
+[NAME IT]Denuvo Anti Cheat v1.0
+[NAME JA]Denuvoアンチチート v1.0
+[NAME UA]Denuvo Anti Cheat v1.0
+[NAME TH]Denuvo Anti Cheat v1.0
 [DATE]FEB 1996
 [PRICE]45000
 [DEV COSTS]11000
 
 [ID]5
-[NAME EN]Handwavium v2.0
-[NAME GE]Renovu Anti Cheat v2.0
+[NAME EN]Denuvo Anti Cheat v2.0
+[NAME GE]Denuvo Anti Cheat v2.0
 [NAME CH]雷诺沃反作弊      v2.0
-[NAME TU]Renovu Anti Cheat v2.0
+[NAME TU]Denuvo Anti Cheat v2.0
+[NAME FR]Denuvo Anti Cheat v2.0
+[NAME CT]雷努胡反作弊 v2.0
+[NAME RU]Denuvo Античит v2.0
+[NAME IT]Denuvo Anti Cheat v2.0
+[NAME JA]Denuvoアンチチート v2.0
+[NAME UA]Denuvo Anti Cheat v2.0
+[NAME TH]Denuvo Anti Cheat v2.0
 [DATE]FEB 1998
 [PRICE]50000
 [DEV COSTS]13000
 
 [ID]6
-[NAME EN]Handwavium v3.0
-[NAME GE]Renovu Anti Cheat v3.0
+[NAME EN]Denuvo Anti Cheat v3.0
+[NAME GE]Denuvo Anti Cheat v3.0
 [NAME CH]雷诺沃反作弊      v3.0
-[NAME TU]Renovu Anti Cheat v3.0
+[NAME TU]Denuvo Anti Cheat v3.0
+[NAME FR]Denuvo Anti Cheat v3.0
+[NAME CT]雷努胡反作弊 v3.0
+[NAME RU]Denuvo Античит v3.0
+[NAME IT]Denuvo Anti Cheat v3.0
+[NAME JA]Denuvoアンチチート v3.0
+[NAME UA]Denuvo Anti Cheat v3.0
+[NAME TH]Denuvo Anti Cheat v3.0
 [DATE]FEB 2000
 [PRICE]55000
 [DEV COSTS]15000
 
 [ID]7
-[NAME EN]Valve Anti Cheat Silver
-[NAME GE]V-A-S Silver
+[NAME EN]Valve Silver
+[NAME GE]Valve Silver
 [NAME CH]银牌杀手反作弊
-[NAME TU]V-A-S Silver
+[NAME TU]Valve Silver
+[NAME FR]Valve Silver
+[NAME CT]Valve 銀版
+[NAME RU]Valve Silver
+[NAME IT]Valve Argento
+[NAME JA]Valveシルバー
+[NAME UA]Valve Silver
+[NAME TH]Valve Silver
 [DATE]FEB 2002
 [PRICE]60000
 [DEV COSTS]17000
 
 [ID]8
-[NAME EN]Valve Anti Cheat Gold
-[NAME GE]V-A-S Gold
+[NAME EN]Valve Gold
+[NAME GE]Valve Gold
 [NAME CH]黄金杀手反作弊
-[NAME TU]V-A-S Gold
+[NAME TU]Valve Gold
+[NAME FR]Valve Gold
+[NAME CT]Valve 金版
+[NAME RU]Valve Gold
+[NAME IT]Valve Oro
+[NAME JA]Valveゴールド
+[NAME UA]Valve Gold
+[NAME TH]Valve Gold
 [DATE]FEB 2004
 [PRICE]65000
 [DEV COSTS]19000
 
 [ID]9
-[NAME EN]Valve Anti Cheat Platinium
-[NAME GE]V-A-S Platinium
+[NAME EN]Valve Platinium
+[NAME GE]Valve Platinium
 [NAME CH]珀金杀手反作弊
-[NAME TU]V-A-S Platinium
+[NAME TU]Valve Platinium
+[NAME FR]Valve Platinium
+[NAME CT]Valve 白金版
+[NAME RU]Valve Platinium
+[NAME IT]Valve Platino
+[NAME JA]Valveプラチナ
+[NAME UA]Valve Platinium
+[NAME TH]Valve Platinium
 [DATE]FEB 2006
 [PRICE]70000
 [DEV COSTS]21000
 
 [ID]10
-[NAME EN]Mail.ru Anti Cheat 1.0
-[NAME GE]EACT Shield 1.0
+[NAME EN]PGF.one Anti Cheat 1.0
+[NAME GE]PGF.one Anti Cheat 1.0
 [NAME CH]超盾反作弊  1.0
-[NAME TU]EACT Shield 1.0
+[NAME TU]PGF.one Anti Cheat 1.0
+[NAME FR]PGF.one Anti Cheat 1.0
+[NAME CT]EACT盾 1.0
+[NAME RU]PGF.one Anti Cheat 1.0
+[NAME IT]PGF.one Anti Cheat 1.0
+[NAME JA]EACTシールド 1.0
+[NAME UA]PGF.one Anti Cheat 1.0
+[NAME TH]PGF.one Anti Cheat 1.0
 [DATE]FEB 2008
 [PRICE]75000
 [DEV COSTS]23000
 
 [ID]11
-[NAME EN]Mail.ru Anti Cheat 2.0
-[NAME GE]EACT Shield 2.0
+[NAME EN]PGF.one Anti Cheat 2.0
+[NAME GE]PGF.one Anti Cheat 2.0
 [NAME CH]超盾反作弊  2.0
-[NAME TU]EACT Shield 2.0
+[NAME TU]PGF.one Anti Cheat 2.0
+[NAME FR]PGF.one Anti Cheat 2.0
+[NAME CT]EACT盾 2.0
+[NAME RU]PGF.one Anti Cheat 2.0
+[NAME IT]PGF.one Anti Cheat 2.0
+[NAME JA]EACTシールド 2.0
+[NAME UA]PGF.one Anti Cheat 2.0
+[NAME TH]PGF.one Anti Cheat 2.0
 [DATE]FEB 2010
 [PRICE]80000
 [DEV COSTS]25000
 
 [ID]12
-[NAME EN]Mail.ru Anti Cheat 3.0
-[NAME GE]EACT Shield 3.0
+[NAME EN]PGF.one Anti Cheat 3.0
+[NAME GE]PGF.one Anti Cheat 3.0
 [NAME CH]超盾反作弊  3.0
-[NAME TU]EACT Shield 3.0
+[NAME TU]PGF.one Anti Cheat 3.0
+[NAME FR]PGF.one Anti Cheat 3.0
+[NAME CT]EACT盾 3.0
+[NAME RU]PGF.one Anti Cheat 3.0
+[NAME IT]PGF.one Anti Cheat 3.0
+[NAME JA]EACTシールド 3.0
+[NAME UA]PGF.one Anti Cheat 3.0
+[NAME TH]PGF.one Anti Cheat 3.0
 [DATE]FEB 2012
 [PRICE]95000
 [DEV COSTS]27000
 
 [ID]13
-[NAME EN]Easy Anti Cheat I
-[NAME GE]Kernel Anti Cheat I
+[NAME EN]Easy Anti Cheat 1
+[NAME GE]Easy Anti Cheat I
 [NAME CH]极核反作弊        I
-[NAME TU]Kernel Anti Cheat I
-[DATE]SEP 2015
+[NAME TU]Easy Anti Cheat I
+[NAME FR]Easy Anti Cheat I
+[NAME CT]核心反作弊 I
+[NAME RU]Kernel Античит I
+[NAME IT]Easy Anti Cheat 1
+[NAME JA]KernelアンチチートI
+[NAME UA]Easy Anti Cheat I
+[NAME TH]Easy Anti Cheat I
+[DATE]FEB 2014
 [PRICE]100000
 [DEV COSTS]29000
 
 [ID]14
-[NAME EN]Easy Anti Cheat II
-[NAME GE]Kernel Anti Cheat II
+[NAME EN]Easy Anti Cheat 2
+[NAME GE]Easy Anti Cheat II
 [NAME CH]极核反作弊        II
-[NAME TU]Kernel Anti Cheat II
+[NAME TU]Easy Anti Cheat II
+[NAME FR]Easy Anti Cheat II
+[NAME CT]核心反作弊 II
+[NAME RU]Kernel Античит II
+[NAME IT]Easy Anti Cheat 2
+[NAME JA]KernelアンチチートII
+[NAME UA]Easy Anti Cheat II
+[NAME TH]Easy Anti Cheat II
 [DATE]FEB 2016
 [PRICE]105000
 [DEV COSTS]31000
 
 [ID]15
-[NAME EN]Easy Anti Cheat III
-[NAME GE]Kernel Anti Cheat III
+[NAME EN]Easy Anti Cheat 3
+[NAME GE]Easy Anti Cheat III
 [NAME CH]极核反作弊        III
-[NAME TU]Kernel Anti Cheat III
+[NAME TU]Easy Anti Cheat III
+[NAME FR]Easy Anti Cheat III
+[NAME CT]核心反作弊 III
+[NAME RU]Kernel Античит III
+[NAME IT]Easy Anti Cheat 3
+[NAME JA]KernelアンチチートIII
+[NAME UA]Easy Anti Cheat III
+[NAME TH]Easy Anti Cheat III
 [DATE]FEB 2018
 [PRICE]110000
 [DEV COSTS]33000
 
 [ID]16
-[NAME EN]Denuvo Anti Cheat v1.0
-[NAME GE]PunkShield v1.0
+[NAME EN]WaveShield v1.0
+[NAME GE]WaveShield v1.0
 [NAME CH]赛博朋克盾 v1.0
-[NAME TU]PunkShield v1.0
-[DATE]JAN 2021
+[NAME TU]WaveShield v1.0
+[NAME FR]WaveShield v1.0
+[NAME CT]龐克盾 v1.0
+[NAME RU]WaveShield v1.0
+[NAME IT]WaveShield v1.0
+[NAME JA]パンクシールド v1.0
+[NAME UA]WaveShield v1.0
+[NAME TH]WaveShield v1.0
+[DATE]FEB 2020
 [PRICE]115000
 [DEV COSTS]35000
 
 [ID]17
-[NAME EN]Denuvo Anti Cheat v2.0
-[NAME GE]PunkShield v2.0
+[NAME EN]WaveShield v2.0
+[NAME GE]WaveShield v2.0
 [NAME CH]赛博朋克盾 v2.0
-[NAME TU]PunkShield v2.0
+[NAME TU]WaveShield v2.0
+[NAME FR]WaveShield v2.0
+[NAME CT]龐克盾 v2.0
+[NAME RU]WaveShield v2.0
+[NAME IT]WaveShield v2.0
+[NAME JA]パンクシールド v2.0
+[NAME UA]WaveShield v2.0
+[NAME TH]WaveShield v2.0
 [DATE]FEB 2022
 [PRICE]120000
 [DEV COSTS]37000
 
 [ID]18
-[NAME EN]Denuvo Anti Cheat v3.0
-[NAME GE]PunkShield v3.0
+[NAME EN]WaveShield v3.0
+[NAME GE]WaveShield v3.0
 [NAME CH]赛博朋克盾 v3.0
-[NAME TU]PunkShield v3.0
+[NAME TU]WaveShield v3.0
+[NAME FR]WaveShield v3.0
+[NAME CT]龐克盾 v3.0
+[NAME RU]WaveShield v3.0
+[NAME IT]WaveShield v3.0
+[NAME JA]パンクシールド v3.0
+[NAME UA]WaveShield v3.0
+[NAME TH]WaveShield v3.0
 [DATE]FEB 2024
 [PRICE]125000
 [DEV COSTS]40000
 [ENDLESS]
-
-[ID]19
-[NAME EN]Kernel-Level I
-[NAME GE]Kernel-Level I
-[NAME CH]Kernel-Level I
-[NAME TU]Kernel-Level I
-[NAME FR]Kernel-Level I
-[NAME CT]Kernel-Level I
-[NAME RU]Kernel-Level I
-[NAME IT]Kernel-Level I
-[NAME JA]カーネルレベル I
-[DATE]FEB 2014
-[PRICE]100000
-[DEV COSTS]29000
-
-[ID]20
-[NAME EN]Kernel-Level II
-[NAME GE]Kernel-Level II
-[NAME CH]Kernel-Level II
-[NAME TU]Kernel-Level II
-[NAME FR]Kernel-Level II
-[NAME CT]Kernel-Level II
-[NAME RU]Kernel-Level II
-[NAME IT]Kernel-Level II
-[NAME JA]カーネルレベル II
-[DATE]FEB 2016
-[PRICE]105000
-[DEV COSTS]31000
-
-[ID]21
-[NAME EN]Kernel-Level III
-[NAME GE]Kernel-Level III
-[NAME CH]Kernel-Level III
-[NAME TU]Kernel-Level III
-[NAME FR]Kernel-Level III
-[NAME CT]Kernel-Level III
-[NAME RU]Kernel-Level III
-[NAME IT]Kernel-Level III
-[NAME JA]カーネルレベル III
-[DATE]FEB 2018
-[PRICE]110000
-[DEV COSTS]33000
-
-[ID]22
-[NAME EN]PunkBuster v1.0
-[NAME GE]PunkBuster v1.0
-[NAME CH]PunkBuster v1.0
-[NAME TU]PunkBuster v1.0
-[NAME FR]PunkBuster v1.0
-[NAME CT]PunkBuster v1.0
-[NAME RU]PunkBuster v1.0
-[NAME IT]PunkBuster v1.0
-[NAME JA]PunkBuster v1.0
-[DATE]FEB 2020
-[PRICE]115000
-[DEV COSTS]35000
-
-[ID]23
-[NAME EN]PunkBuster v2.0
-[NAME GE]PunkBuster v2.0
-[NAME CH]PunkBuster v2.0
-[NAME TU]PunkBuster v2.0
-[NAME FR]PunkBuster v2.0
-[NAME CT]PunkBuster v2.0
-[NAME RU]PunkBuster v2.0
-[NAME IT]PunkBuster v2.0
-[NAME JA]PunkBuster v2.0
-[DATE]FEB 2022
-[PRICE]120000
-[DEV COSTS]37000
-
-[ID]24
-[NAME EN]PunkBuster v3.0
-[NAME GE]PunkBuster v3.0
-[NAME CH]PunkBuster v3.0
-[NAME TU]PunkBuster v3.0
-[NAME FR]PunkBuster v3.0
-[NAME CT]PunkBuster v3.0
-[NAME RU]PunkBuster v3.0
-[NAME IT]PunkBuster v3.0
-[NAME JA]PunkBuster v3.0
-[DATE]FEB 2024
-[PRICE]125000
-[DEV COSTS]40000
-
-[ID]25
-[NAME EN]GodsEye Protection 1.0
-[NAME GE]GodsEye Protection 1.0
-[NAME CH]保护上帝的眼睛1.0
-[NAME TU]Godseye Koruma 1.0
-[NAME FR]GodsEye Protection 1.0
-[NAME CT]保護上帝的眼睛1.0
-[NAME RU]GodsEye Protection 1.0
-[NAME IT]GodsEye Protection 1.0
-[NAME JA]神1.0の目の保護
-[DATE]FEB 2026
-[PRICE]135000
-[DEV COSTS]45000
-
-[ID]26
-[NAME EN]GodsEye Protection 2.0
-[NAME GE]GodsEye Protection 2.0
-[NAME CH]保护上帝的眼睛2.0
-[NAME TU]Godseye Koruma 2.0
-[NAME FR]GodsEye Protection 2.0
-[NAME CT]保護上帝的眼睛2.0
-[NAME RU]GodsEye Protection 2.0
-[NAME IT]GodsEye Protection 2.0
-[NAME JA]神2.0の目の保護
-[DATE]FEB 2028
-[PRICE]145000
-[DEV COSTS]50000
-
-[ID]27
-[NAME EN]GodsEye Protection Neo
-[NAME GE]GodsEye Protection Neo
-[NAME CH]保护上帝的眼睛3.0
-[NAME TU]Godseye Koruma Neo
-[NAME FR]GodsEye Protection Neo
-[NAME CT]保護上帝的眼睛3.0
-[NAME RU]GodsEye Protection Neo
-[NAME IT]GodsEye Protection Neo
-[NAME JA]神3.0の目の保護
-[DATE]FEB 2030
-[PRICE]155000
-[DEV COSTS]55000
-[ENDLESS]
-
-[ID]28
-[NAME EN]VAC v1.0
-[NAME GE]VAC v1.0
-[NAME CH]VAC v1.0
-[NAME TU]VAC v1.0
-[NAME FR]VAC v1.0
-[NAME CT]VAC v1.0
-[NAME RU]VAC v1.0
-[NAME IT]VAC v1.0
-[NAME JA]VAC v1.0
-[DATE]FEB 2002
-[PRICE]60000
-[DEV COSTS]17000
-
-[ID]29
-[NAME EN]VAC v2.0
-[NAME GE]VAC v2.0
-[NAME CH]VAC v2.0
-[NAME TU]VAC v2.0
-[NAME FR]VAC v2.0
-[NAME CT]VAC v2.0
-[NAME RU]VAC v2.0
-[NAME IT]VAC v2.0
-[NAME JA]VAC v2.0
-[DATE]FEB 2004
-[PRICE]65000
-[DEV COSTS]19000
-
-[ID]30
-[NAME EN]VAC Pro
-[NAME GE]VAC Pro
-[NAME CH]VAC Pro
-[NAME TU]VAC Pro
-[NAME FR]VAC Pro
-[NAME CT]VAC Pro
-[NAME RU]VAC Pro
-[NAME IT]VAC Pro
-[NAME JA]VAC Pro
-[NAME LT]0J/QtdGA0LXQstC10LTQtdC90L4gR1MtR2FtZXM.
-[DATE]FEB 2006
-[PRICE]70000
-[DEV COSTS]21000
-
-[ID]31
-[NAME EN]Easy Anti-Cheat 1.0
-[NAME GE]Easy Anti-Cheat 1.0
-[NAME CH]Easy Anti-Cheat 1.0
-[NAME TU]Easy Anti-Cheat 1.0
-[NAME FR]Easy Anti-Cheat 1.0
-[NAME CT]Easy Anti-Cheat 1.0
-[NAME RU]Easy Anti-Cheat 1.0
-[NAME IT]Easy Anti-Cheat 1.0
-[NAME JA]Easy Anti-Cheat 1.0
-[DATE]FEB 2008
-[PRICE]75000
-[DEV COSTS]23000
-
-[ID]32
-[NAME EN]Easy Anti-Cheat 2.0
-[NAME GE]Easy Anti-Cheat 2.0
-[NAME CH]Easy Anti-Cheat 2.0
-[NAME TU]Easy Anti-Cheat 2.0
-[NAME FR]Easy Anti-Cheat 2.0
-[NAME CT]Easy Anti-Cheat 2.0
-[NAME RU]Easy Anti-Cheat 2.0
-[NAME IT]Easy Anti-Cheat 2.0
-[NAME JA]Easy Anti-Cheat 2.0
-[DATE]FEB 2010
-[PRICE]80000
-[DEV COSTS]25000
-
-[ID]33
-[NAME EN]Easy Anti-Cheat 3.0
-[NAME GE]Easy Anti-Cheat 3.0
-[NAME CH]Easy Anti-Cheat 3.0
-[NAME TU]Easy Anti-Cheat 3.0
-[NAME FR]Easy Anti-Cheat 3.0
-[NAME CT]Easy Anti-Cheat 3.0
-[NAME RU]Easy Anti-Cheat 3.0
-[NAME IT]Easy Anti-Cheat 3.0
-[NAME JA]Easy Anti-Cheat 3.0
-[DATE]FEB 2012
-[PRICE]95000
-[DEV COSTS]27000
 
 [EOF]
