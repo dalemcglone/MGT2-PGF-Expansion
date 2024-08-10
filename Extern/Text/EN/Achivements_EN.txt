@@ -1,28 +1,28 @@
-﻿Hurrican;Create an action game with a rating of at least 70%.
-Marble Maze;Create an skill game with a rating of at least 70%.
+﻿Stallone;Create an action game with a rating of at least 70%.
+Crystal Maze;Create an skill game with a rating of at least 70%.
 Dr. Mario;Create an puzzle Game with a rating of at least 70%.
 Monkey Island;Create an adventure game with a rating of at least 70%.
-Dungeons and Masters;Create an RPG Game with a rating of at least 70%.
+Dungeons and Dragons;Create an RPG Game with a rating of at least 70%.
 Civilization;Create an strategy game with a rating of at least 70%.
 Super Mario World;Create an platformer with a rating of at least 70%.
-Spaceship: Elite;Create an simulation game with a rating of at least 70%.
-California Cup;Create an sports game with a rating of at least 70%.
-Mad Oil Tycoon;Create an economic simulation with a rating of at least 70%.
+No Mans Sky;Create an simulation game with a rating of at least 70%.
+World Cup;Create an sports game with a rating of at least 70%.
+Mad Games Tycoon;Create an economic simulation with a rating of at least 70%.
 Street Fighter;Create an fighting game with a rating of at least 70%.
-SimCity: 1602;Create an building game with a rating of at least 70%.
-Dragon's Cave;Create an interactive movie with a rating of at least 70%.
-Commander Yuri;Create an Real-Time strategy game with a rating of at least 70%.
+SimCity 4;Create an building game with a rating of at least 70%.
+Heavy Rain;Create an interactive movie with a rating of at least 70%.
+Red Alert;Create an Real-Time strategy game with a rating of at least 70%.
 DOOM;Create an First-Person Shooter.
 Better Than a Book;Create an visual novel with a rating of at least 70%.
-Max Brain;Create an Third-Person Shooter with a rating of at least 70%.
+Max Payne;Create an Third-Person Shooter with a rating of at least 70%.
 Test Drive;Create an racing game with a rating of at least 70%.
-Retromania;Create a retro game.
+Pixel Perfect;Create a retro game.
 World of WarCraft;Create an MMO game.
 Is the Game Really Free?;Create an F2P game.
 Insert Coin!;Create a arcade machine.
-Everyone Likes Snakes;Create a cell phone game.
+Snake;Create a cell phone game.
 Born to Be a Programmer;Create your own engine.
-Console War;Create your own stationary console.
+Console War Begins;Create your own stationary console.
 This Fits in My Pocket;Create your own mobile console.
 Bonus Payment;Create a contract game.
 Bundles;Create a game bundle.
@@ -38,16 +38,16 @@ Developer of the Year;Win the Developer of the Year award.
 Publisher of the Year;Win the Publisher of the Year award.
 Eye Candy;One of your games must get an award for the best graphics.
 A Great Soundtrack;One of your games must get an award for the best sound.
-This Can't Be Right!;One of your games must be voted the worst game of the year.
+Try Again!;One of your games must be voted the worst game of the year.
 Overhype!;Create an overhype for one of your games.
 Contractors;Sign an exclusive contract with a publisher.
 That Was a Lot of Jobs!;Achieve a reputation with clients of 100%.
 Now I Will Become Rich;Produce and distribute a game without a publisher.
-This Is the Future!;Reach the year 2050 in the game.
+What, No Hoverboards?;Reach the year 2050 in the game.
 Publisher!;Publish a game from an NPC company.
 My Best Friend!;Maximize the relationship with a publisher.
 Gold;Sell at least 1,000,000 units of a game.
-Platin;Sell at least 10,000,000 units of a game.
+Platinum;Sell at least 10,000,000 units of a game.
 Diamond;Sell at least 50,000,000 units of a game.
 80%;One of your games must receive an overall rating of at least 80%.
 90%;One of your games must receive an overall rating of at least 90%.
@@ -66,7 +66,8 @@ That Is Not Enough!;Have at least $500,000,000.
 Three Commas Club;Have at least a billion dollars.
 Console war II;Sell at least 10,000,000 units of your own console.
 Market Leader;Sell at least 50,000,000 units of your own console.
-My Name Is Sid Maier;Hire a developer legend.
+My Name Is Sid Meier;Hire a developer legend.
 Shopping Tour I;Buy an NPC developer or publisher.
 Shopping Tour II;Buy at least 10 NPC developers or publishers.
 Shopping Tour III;Buy at least 30 NPC developers or publishers.
+Day Zombie;Create an survival game with a rating of at least 70%.
