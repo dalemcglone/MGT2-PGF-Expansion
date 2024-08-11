@@ -8987,7 +8987,6 @@ Fast Forward <MOVIE><Y1985>
 Fast Pitch <MOVIE><Y2000>
 Fast Talking <MOVIE><Y1986>
 Fast Times at Ridgemont High <MOVIE><Y1981>
-Fast and Furious 6 <MOVIE><Y2013>
 Fast, Cheap & Out of Control <MOVIE><Y1997>
 Fastball <MOVIE><Y2016>
 Faster <MOVIE><Y2004>
@@ -20553,7 +20552,6 @@ The Farewell Party <MOVIE><Y2015>
 The Farm <MOVIE><Y2017>
 The Farthest <MOVIE><Y2017>
 The Fast Runner <MOVIE><Y2002>
-The Fast and the Furious: Tokyo Drift <MOVIE><Y2006>
 The Fatal Encounter <MOVIE><Y2014>
 The Fate of the Furious <MOVIE><Y2017>
 The Father <MOVIE><Y2021>
