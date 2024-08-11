@@ -4,7 +4,7 @@
 // --Categories--                                             //
 // <MOVIE> 		= Movie                           		  	  //
 // <BOOK> 		= Book   							  		  //
-// <SPORT> 		= Sport     					  		  	  //
+// <SPORT>		= Sport     					  		  	  //
 // <TOY>		= Toy                 		  		  		  //
 // <BOARD>		= Board Game       						  	  //
 // <COMIC>		= Comic									  	  //
@@ -79,104 +79,103 @@ A Feast for Crows <BOOK>
 Dance with Dragons <BOOK>
 Winds of Winter <BOOK>
 A Dream of Spring <BOOK>
-NBA Basketball <SPORT>
-UEFA Champions League <SPORT>
-UEFA Europa League <SPORT>
-UEFA Europa Conference League <SPORT>
-ANIF World Championship <SPORT>
-All-China Games <SPORT>
-The Ashes <SPORT>
-British Open <SPORT>
-Asia's Cup <SPORT>
-Aura Nippon Pro Wrestling <SPORT>
-Baseball World Series <SPORT>
-Baseball World Classic <SPORT>
-MLB Baseball <SPORT>
-Bundes League <SPORT>
-CCI World Cup <SPORT>
-CWE Endurance Championship <SPORT>
-Commonwealth Games <SPORT>
-Dave's Cup <SPORT>
-F1 Grand Prix <SPORT>
-FIFA World Cup <SPORT>
-Fan American Games <SPORT>
-Confederate's Cup <SPORT>
-France Games <SPORT>
-English Football League <SPORT>
-EFL Championship <SPORT>
-EFL League One <SPORT>
-EFL League Two <SPORT>
-National League North <SPORT>
-National League South <SPORT>
-Scottish Challenge Cup <SPORT>
-FA Cup <SPORT>
-FA Community Shield <SPORT>
-Berlin Games <SPORT>
-German Open <SPORT>
-World Volleyball Championship <SPORT>
-ECW Wrestling <SPORT>
-Global Classic <SPORT>
-Global Combat Games <SPORT>
-Global Cup <SPORT>
-Global Games <SPORT>
-Extreme Chess <SPORT>
-World Series <SPORT>
-Masters <SPORT>
-Hoffman Cup <SPORT>
-Larry O'Brien Trophy <SPORT>
-Walter Brown Trophy <SPORT>
-ICU World Championships <SPORT>
-Invictus Games <SPORT>
-Italy Open <SPORT>
-JIM Series A <SPORT>
-LHN Hockey <SPORT>
-League One De Soccer <SPORT>
-Liga AVBB <SPORT>
-MFL Soccer <SPORT>
-Mediterranean Olymp <SPORT>
-Military Global Games <SPORT>
-MilkyCar <SPORT>
-Motor GP <SPORT>
-NASCAR <SPORT>
-NLF Great Bowl <SPORT>
-Neo Nihon Pro Wrestling <SPORT>
-Nihon.League <SPORT>
-North German Games <SPORT>
-PROUD Fighting Championships <SPORT>
-Paralympics <SPORT>
-Premier League <SPORT>
-Pro Wrestling Super NOVA <SPORT>
-Rider Cup <SPORT>
-Rugby Six Nations <SPORT>
-S-1 Kickboxing <SPORT>
-SAWI World Games <SPORT>
-South German Games <SPORT>
-Steven Cup <SPORT>
-Summer Olympics <SPORT>
-Super Bowl <SPORT>
-Tennis Grand Slam <SPORT>
-The Southern Trust <SPORT>
-The X Games <SPORT>
-Tour de France <SPORT>
-UEFA EURO Cup <SPORT>
-US AGP <SPORT>
-US Open <SPORT>
-Ultra Championship Fighting <SPORT>
-University Games <SPORT>
-WCW Wrestling <SPORT>
-WRC Rally Championship <SPORT>
-WWF Wrestling <SPORT>
-WWE Wrestlemania <SPORT>
-UFC <SPORT>
-Wimbledon <SPORT>
-Winter Olympics <SPORT>
-World Art Games <SPORT>
-World Thirty30 <SPORT>
+NBA Basketball <SPORT><G+8>
+UEFA Champions League <SPORT><G+8>
+UEFA Europa League <SPORT><G+8>
+UEFA Europa Conference League <SPORT><G+8>
+ANIF World Championship <SPORT><G+8>
+All-China Games <SPORT><G+8>
+The Ashes <SPORT><G+8>
+British Open <SPORT><G+8>
+Asia's Cup <SPORT><G+8>
+Aura Nippon Pro Wrestling <SPORT><G+8>
+Baseball World Series <SPORT><G+8>
+Baseball World Classic <SPORT><G+8>
+MLB Baseball <SPORT><G+8>
+Bundes League <SPORT><G+8>
+CCI World Cup <SPORT><G+8>
+CWE Endurance Championship <SPORT><G+8>
+Commonwealth Games <SPORT><G+8>
+Dave's Cup <SPORT><G+8>
+F1 Grand Prix <SPORT><G+8>
+FIFA World Cup <SPORT><G+8><Q5>
+Fan American Games <SPORT><G+8>
+Confederate's Cup <SPORT><G+8>
+France Games <SPORT><G+8>
+English Football League <SPORT><G+8>
+EFL Championship <SPORT><G+8><G+8>
+EFL League One <SPORT><G+8>
+EFL League Two <SPORT><G+8>
+National League North <SPORT><G+8>
+National League South <SPORT><G+8>
+Scottish Challenge Cup <SPORT><G+8>
+FA Cup <SPORT><G+8>
+FA Community Shield <SPORT><G+8>
+Berlin Games <SPORT><G+8>
+German Open <SPORT><G+8>
+World Volleyball Championship <SPORT><G+8>
+ECW Wrestling <SPORT><G+8>
+Global Classic <SPORT><G+8>
+Global Combat Games <SPORT><G+8>
+Global Cup <SPORT><G+8>
+Global Games <SPORT><G+8>
+Extreme Chess <SPORT><G+8>
+World Series <SPORT><G+8>
+Masters <SPORT><G+8>
+Hoffman Cup <SPORT><G+8>
+Larry O'Brien Trophy <SPORT><G+8>
+Walter Brown Trophy <SPORT><G+8>
+ICU World Championships <SPORT><G+8>
+Invictus Games <SPORT><G+8>
+Italy Open <SPORT><G+8>
+JIM Series A <SPORT><G+8>
+LHN Hockey <SPORT><G+8>
+League One De Soccer <SPORT><G+8>
+Liga AVBB <SPORT><G+8>
+MFL Soccer <SPORT><G+8>
+Mediterranean Olymp <SPORT><G+8>
+Military Global Games <SPORT><G+8>
+MilkyCar <SPORT><G+8>
+Motor GP <SPORT><G+8>
+NASCAR <SPORT><G+8>
+NLF Great Bowl <SPORT><G+8>
+Neo Nihon Pro Wrestling <SPORT><G+8>
+Nihon.League <SPORT><G+8>
+North German Games <SPORT><G+8>
+PROUD Fighting Championships <SPORT><G+8>
+Paralympics <SPORT><G+8>
+Premier League <SPORT><G+8><Q5>
+Pro Wrestling Super NOVA <SPORT><G+8>
+Rider Cup <SPORT><G+8>
+Rugby Six Nations <SPORT><G+8>
+S-1 Kickboxing <SPORT><G+8>
+SAWI World Games <SPORT><G+8>
+South German Games <SPORT><G+8>
+Steven Cup <SPORT><G+8>
+Summer Olympics <SPORT><G+8>
+Super Bowl <SPORT><G+8>
+Tennis Grand Slam <SPORT><G+8>
+The Southern Trust <SPORT><G+8>
+The X Games <SPORT><G+8>
+Tour de France <SPORT><G+8><Q5>
+UEFA EURO Cup <SPORT><G+8><Q5>
+US AGP <SPORT><G+8>
+US Open <SPORT><G+8>
+Ultra Championship Fighting <SPORT><G+8>
+University Games <SPORT><G+8>
+WCW Wrestling <SPORT><G+8><Q3>
+WRC Rally Championship <SPORT><G+8>
+WWF Wrestling <SPORT><G+8><Q5>
+WWE Wrestlemania <SPORT><G+8><Q5>
+UFC <SPORT><G+8><Q5>
+Wimbledon <SPORT><G+8>
+Winter Olympics <SPORT><G+8>
+World Art Games <SPORT><G+8>
+World Thirty30 <SPORT><G+8>
 Barbie <TOY>
-DC Superheroes <TOY>
+DC Superheroes <TOY><Q5>
 Disney Animator <TOY>
 Disney Princess <TOY>
-Dragonball <TOY>
 Farm Vehicles <TOY>
 Funko Pop <TOY>
 Hot Wheels <TOY>
@@ -296,16 +295,19 @@ Star Wars: Vader's Quest <COMIC><Y1999>
 Star Wars: Chewbacca <COMIC><Y2000>
 Star Wars: Jango Fett <COMIC><Y2002>
 Star Wars: General Grevious <COMIC><Y2005>
-Star Wars Episode I: The Phantom Menace <MOVIE><Y1999>
-Star Wars Episode II: Attack of the Clones <MOVIE><Y2002>
-Star Wars Episode III: Revenge of the Sith <MOVIE><Y2005>
-Star Wars Episode IV: New Hope <MOVIE><Y1977>
-Star Wars Episode V: The Empire Strikes Back <MOVIE><Y1980>
-Star Wars Episode VI: Return of the Jedi <MOVIE><Y1983>
-Star Wars Episode VII: A Force Awakens <MOVIE><Y2015>
-Star Wars Episode VIII: The Last Jedi <MOVIE><Y2017>
-Star Wars Episode IX: Rise of Skywalker <MOVIE><Y2019>
-Star Wars Rogue Squadron <MOVIE><Y2026>
+Star Wars Episode I: The Phantom Menace <MOVIE><Y1999><Q5>
+Star Wars Episode II: Attack of the Clones <MOVIE><Y2002><Q5>
+Star Wars Episode III: Revenge of the Sith <MOVIE><Y2005><Q5>
+Star Wars Episode IV: New Hope <MOVIE><Y1977><Q5>
+Star Wars Episode V: The Empire Strikes Back <MOVIE><Y1980><Q5>
+Star Wars Episode VI: Return of the Jedi <MOVIE><Y1983><Q5>
+Star Wars Episode VI: Revenge of the Jedi [SCRIPT]<MOVIE><Y1983><Q5>
+Star Wars Episode VII: A Force Awakens <MOVIE><Y2015><Q5>
+Star Wars Episode VIII: The Last Jedi <MOVIE><Y2017><Q5>
+Star Wars: Episode IX - Space Fighting Jedi [SCRIPT]<MOVIE><Y2018><Q5>
+Star Wars: Episode IX: Duel of the Fates [SCRIPT]<MOVIE><Y2019><Q5>
+Star Wars Episode IX: Rise of Skywalker <MOVIE><Y2019><Q5>
+Star Wars Rogue Squadron [SCRIPT]<MOVIE><Y2026>
 Rogue One: A Star Wars Story <MOVIE><Y2016>
 Solo: A Star Wars Story <MOVIE><Y2018>
 Droids <MOVIE><Y1985>
@@ -398,12 +400,15 @@ Nothing Lasts Forever <BOOK><Y1979>
 58 Minutes <BOOK><Y1987>
 Die Hard: Year One <COMIC><Y2009>
 A Million Ways to Die Hard <COMIC><Y2018>
+Die Bestie <MOVIE><Y1987>
+Die Hard: With a Vengeance <MOVIE><Y1995>
 Die Hard <MOVIE><Y1988>
 Die Hard 2: Die Harder <MOVIE><Y1990>
 Die Hard with a Vengeance <MOVIE><Y1995>
+Die Hard 4: Tears of the Sun [SCRIPT]<MOVIE><Y1997>
 Live Free or Die Hard <MOVIE><Y2007>
 A Good Day to Die Hard <MOVIE><Y2013>
-McClane <MOVIE><Y2022>
+McClane [SCRIPT]<MOVIE><Y2022>
 A Nightmare on Elm Street <MOVIE><Y1984>
 Nightmare on Elm Street 2: Freddy's Revenge <MOVIE><Y1985>
 Nightmare on Elm Street 3: Dream Warriors <MOVIE><Y1987>
@@ -608,11 +613,12 @@ Alien vs. Predator: Thicker Than Blood <COMIC><Y2019>
 Aliens versus Predator versus The Terminator <COMIC><Y2000>
 Alien <MOVIE><Y1979>
 Aliens <MOVIE><Y1986>
-Alien 3 <MOVIE><Y1992>
+Alien³ <MOVIE><Y1992>
 Alien: Resurrection <MOVIE><Y1997>
-Alien: Earthbound <MOVIE><Y1999>
+Alien V [SCRIPT]<MOVIE><Y2020>
+Alien: Earthbound [SCRIPT]<MOVIE><Y1999>
 Alien vs Predator <MOVIE><Y2004>
-Aliens vs Predator: Requiem <MOVIE><Y2007>
+Aliens vs. Predator - Requiem <MOVIE><Y2007>
 Prometheus <MOVIE><Y2012>
 Alien Covenant <MOVIE><Y2017>
 Alien Awakening <MOVIE><Y2017>
@@ -655,6 +661,7 @@ Battle Angel Alita: Mars Chronicle - Vol. 6 <COMIC><Y2019>
 Battle Angel Alita: Mars Chronicle - Vol. 7 <COMIC><Y2021>
 Battle Angel Alita: Mars Chronicle - Vol. 8 <COMIC><Y2022>
 Alita: Battle Angel <MOVIE><Y2019>
+Alita: Battle Angel 2 [SCRIPT]<MOVIE><Y2020>
 All Dogs Go to Heaven <MOVIE><Y1989>
 All Dogs Go to Heaven 2 <MOVIE><Y1996>
 All Dogs Go to Heaven: The Series [Season 1] <MOVIE><Y1996>
@@ -702,7 +709,7 @@ Spidey Super Stories [Season 2] <MOVIE><Y1976>
 Spidey Super Stories [Season 3] <MOVIE><Y1977>
 Amazing Spider-Man <MOVIE><Y2012>
 Amazing Spider-Man 2 <MOVIE><Y2014>
-Amazing Spider-Man 3 <MOVIE><Y2016>
+Amazing Spider-Man 3 [SCRIPT]<MOVIE><Y2016>
 Amazing Spider-Man <COMIC>
 Spider-Man <MOVIE><Y1977>
 Spider-Man Strikes Back <MOVIE><Y1978>
@@ -718,29 +725,27 @@ Spider-Man: The Animated Series [Season 5] <MOVIE><Y1997>
 Spider-Man <MOVIE><Y2002>
 Spider-Man 2 <MOVIE><Y2004>
 Spider-Man 3 <MOVIE><Y2007>
-Spider-Man 4 <MOVIE><Y2009>
+Spider-Man 4 [SCRIPT]<MOVIE><Y2009>
 Spider-Man: Homecoming <MOVIE><Y2017>
 Spider-Man: Far From Home <MOVIE><Y2019>
 Spider Man: Far From Home Extended Cut <MOVIE><Y2019>
 Spider-Man: No Way Home <MOVIE><Y2021>
 Spider-Man: No Way Home — The More Fun Stuff Version <MOVIE><Y2022>
 Spider-Man: Into the Spider-Verse <MOVIE><Y2018>
-Spider-Man: Into the Spider-Verse <MOVIE><Y2023>
 Spider-Man: Across the Spider-Verse <MOVIE><Y2023>
 Spider-Man: Beyond on the Spider-Verse <MOVIE><Y2024>
-Spider-Ham: Caught in a Ham <MOVIE><Y2019>
+Spider-Ham: Caught in a Ham [SCRIPT]<MOVIE><Y2019>
 Your Friendly Neighborhood Spider-Man [Season 1] <MOVIE><Y2025>
 Spidey and His Amazing Friends [Season 1] <MOVIE><Y2021>
 Spidey and His Amazing Friends [Season 2] <MOVIE><Y2022>
 Spidey and His Amazing Friends [Season 3] <MOVIE><Y2023>
-Spider-Man <COMIC>
-Spider-Man <TOY><Y1977>
+Spider-Man <COMIC><Q5>
+Spider-Man <TOY><Y1977><Q5>
 Spectacular Spider-Man Vol. 1 <COMIC><Y1976>
 Spectacular Spider-Man Vol. 2 <COMIC><Y2003>
 Spectacular Spider-Man Vol. 3 <COMIC><Y2017>
 Peter Parker: Spider-Man Vol. 1 <COMIC><Y1990>
 Peter Parker: Spider-Man Vol. 2 <COMIC><Y1999>
-Spider-Man: Far From Home Extended Cut <MOVIE><Y2019>
 Spider-Man: Into The Spider-Verse 3D <MOVIE><Y2018>
 Madame Web <MOVIE><Y2024>
 Venom <MOVIE><Y2018>
@@ -773,12 +778,12 @@ Fantastic Four: World's Greatest Heroes <MOVIE><Y2006>
 Fantastic Four <MOVIE><Y1994>
 Fantastic Four <MOVIE><Y2005>
 Fantastic Four: Rise of the Silver Surfer <MOVIE><Y2007>
-Fantastic Four: The Negative Zone <MOVIE><Y2011>
+Fantastic Four: The Negative Zone [SCRIPT]<MOVIE><Y2011>
 The Fantastic Four <MOVIE><Y2015>
 Fantastic Four: First Steps <MOVIE><Y2025>
 Doctor Doom <COMIC>
 Silver Surfer <COMIC>
-Silver Surfer <MOVIE><Y2018>
+Silver Surfer [SCRIPT]<MOVIE><Y2018>
 American Dad [Season 1] <MOVIE><Y2005>
 American Dad [Season 2] <MOVIE><Y2005>
 American Dad [Season 3] <MOVIE><Y2006>
@@ -889,8 +894,8 @@ Sharaabi <MOVIE><Y1984>
 Nee Thanda Kanike <MOVIE><Y1985>
 Tumsa Nahin Dekha <MOVIE><Y2005>
 Assassin's Creed <MOVIE><Y2016>
-Assassin's Creed II <MOVIE><Y2018>
-Assassin's Creed III <MOVIE><Y2020>
+Assassin's Creed II [SCRIPT]<MOVIE><Y2018>
+Assassin's Creed III [SCRIPT]<MOVIE><Y2020>
 Assassin's Creed: Renaissance <BOOK><Y2009>
 Assassin's Creed: Brotherhood <BOOK><Y2010>
 Assassin's Creed: Secret Crusade <BOOK><Y2011>
@@ -963,11 +968,12 @@ Austin Powers in Goldmember <MOVIE><Y2002>
 Austin Powers: Shagfall <MOVIE><Y2023>
 Austin Powers [Season 1] <MOVIE><Y1999>
 Austin Powers [Season 2] <MOVIE><Y2000>
-Avatar <MOVIE><Y2009>
-Avatar: The Way of Water <MOVIE><Y2022>
-Avatar 3 <MOVIE><Y2026>
-Avatar 4 <MOVIE><Y2028>
-Avatar 5 <MOVIE><Y2030>
+Avatar <MOVIE><Y2009><Q5><G+2>
+Avatar: The Way of Water <MOVIE><Y2022><Q5><G+2>
+Avatar Special Edition: An IMAX 3D Experience <MOVIE><Y2010><Q5><G+2>
+Avatar 3 <MOVIE><Y2026><Q5><G+2>
+Avatar 4 <MOVIE><Y2028><Q5><G+2>
+Avatar 5 <MOVIE><Y2030><Q5><G+2>
 Aviator <MOVIE><Y1985>
 Aviator <MOVIE><Y2004>
 Baby Driver <MOVIE><Y2017>
@@ -978,15 +984,15 @@ Babylon 5: Thirdspace <MOVIE><Y1998>
 Babylon 5: The River of Souls <MOVIE><Y1998>
 Babylon 5: A Call to Arms <MOVIE><Y1999>
 Crusade <MOVIE><Y1999>
-Back to the Future <MOVIE><Y1985>
-Back to the Future Part II <MOVIE><Y1989>
-Back to the Future Part III <MOVIE><Y1990>
-Back to the Future [Season 1] <MOVIE><Y1991>
-Back to the Future [Season 2] <MOVIE><Y1992>
-Bad Boys <MOVIE><Y1995>
-Bad Boys II <MOVIE><Y2003>
-Bad Boys For Life <MOVIE><Y2020>
-Bad Boys: Ride of Die <MOVIE><Y2024>
+Back to the Future <MOVIE><Y1985><Q5><G+2>
+Back to the Future Part II <MOVIE><Y1989><Q5><G+2>
+Back to the Future Part III <MOVIE><Y1990><Q5><G+2>
+Back to the Future [Season 1] <MOVIE><Y1991><Q5><G+2>
+Back to the Future [Season 2] <MOVIE><Y1992><Q5><G+2>
+Bad Boys <MOVIE><Y1995><Q5><G+5>
+Bad Boys II <MOVIE><Y2003><Q5><G+5>
+Bad Boys For Life <MOVIE><Y2020><Q3><G+5>
+Bad Boys: Ride of Die <MOVIE><Y2024><Q2><G+5>
 LA's Finest [Season 1] <MOVIE><Y2019>
 LA's Finest [Season 2] <MOVIE><Y2020>
 Bad Neighbours <MOVIE><Y2014>
@@ -1002,46 +1008,8 @@ Barnyard <MOVIE><Y2006>
 Back at the Barnyard [Season 1] <MOVIE><Y2006>
 Back at the Barnyard [Season 2] <MOVIE><Y2009>
 Legends of the Superheroes <MOVIE><Y1979>
-Batman <MOVIE><Y1989>
-Batman Returns <MOVIE><Y1992>
-Batman Forever <MOVIE><Y1995>
-Batman & Robin <MOVIE><Y1997>
-Batman: Year One <MOVIE><Y1998>
-Batman Unchained <MOVIE><Y1999>
-Batman Triumphant <MOVIE><Y2000>
-Batman: DarKnight <MOVIE><Y2001>
-Batman vs. Superman <MOVIE><Y2002>
-Batman Beyond <MOVIE><Y2003>
-Batman Begins <MOVIE><Y2005>
-The Dark Knight <MOVIE><Y2008>
-The Dark Knight Rises <MOVIE><Y2012>
-Batman v Superman: Dawn of Justice <MOVIE><Y2016>
-The Batman <MOVIE><Y2022>
-Batman <COMIC>
-Batman <TOY>
-Batman: Subzero <MOVIE><Y1998>
-Batman: Return of the Joker <MOVIE><Y2000>
-Batman: Mystery of the Batwoman <MOVIE><Y2003>
-Batman: The Animated Series [Season 1] <MOVIE><Y1992>
-Batman: The Animated Series [Season 2] <MOVIE><Y1994>
-Batman: The Animated Series [Season 3] <MOVIE><Y1997>
-The New Batman Adventures [Season 1] <MOVIE><Y1999>
-Batman Beyond [Season 1] <MOVIE><Y1999>
-Batman Beyond [Season 2] <MOVIE><Y2000>
-Batman Beyond [Season 3] <MOVIE><Y2001>
 The Zeta Project [Season 1] <MOVIE><Y2001>
 The Zeta Project [Season 2] <MOVIE><Y2002>
-The Batman [Season 1] <MOVIE><Y2004>
-The Batman [Season 2] <MOVIE><Y2005>
-The Batman [Season 3] <MOVIE><Y2005>
-The Batman [Season 4] <MOVIE><Y2006>
-The Batman [Season 5] <MOVIE><Y2007>
-Batman: The Brave and the Bold [Season 1] <MOVIE><Y2008>
-Batman: The Brave and the Bold [Season 2] <MOVIE><Y2009>
-Batman: The Brave and the Bold [Season 3] <MOVIE><Y2011>
-Beware the Batman [Season 1] <MOVIE><Y2013>
-Bruce Wayne [Season 1] <MOVIE><Y2000>
-Bruce Wayne [Season 2] <MOVIE><Y2001>
 Static Shock [Season 1] <MOVIE><Y2000>
 Static Shock [Season 2] <MOVIE><Y2002>
 Static Shock [Season 3] <MOVIE><Y2003>
@@ -1157,42 +1125,9 @@ Legends of Tomorrow [Season 5] <MOVIE><Y2020>
 Legends of Tomorrow [Season 6] <MOVIE><Y2021>
 Legends of Tomorrow [Season 7] <MOVIE><Y2022>
 Legends of Tomorrow [Season 8] <MOVIE><Y2023>
-Supergirl <COMIC>
-Supergirl <MOVIE><Y1984>
-Supergirl [Season 1] <MOVIE><Y2015>
-Supergirl [Season 2] <MOVIE><Y2016>
-Supergirl [Season 3] <MOVIE><Y2017>
-Supergirl [Season 4] <MOVIE><Y2018>
-Supergirl [Season 5] <MOVIE><Y2019>
-Supergirl [Season 6] <MOVIE><Y2020>
-Superman <TOY>
-Superman <COMIC>
-Superman: Doomsday <MOVIE><Y2007>
-Superman <MOVIE><Y1978>
-Superman II <MOVIE><Y1980>
-Superman III <MOVIE><Y1983>
-Superman IV: The Quest for Peace <MOVIE><Y1987>
-Superman Reborn <MOVIE><Y1993>
-Superman Lives <MOVIE><Y1998>
-Superman Returns <MOVIE><Y2006>
-Superman: The Man of Steel <MOVIE><Y2009>
-Man of Steel <MOVIE><Y2013>
-Superman: The Animated Series [Season 1] <MOVIE><Y1996>
-Superman: The Animated Series [Season 2] <MOVIE><Y1997>
-Superman: The Animated Series [Season 3] <MOVIE><Y1998>
-Superman: The Animated Series [Season 4] <MOVIE><Y1999>
 Peacemaker [Season 1] <MOVIE><Y2022>
 Peacemaker [Season 2] <MOVIE><Y2023>
 Peacemaker [Season 3] <MOVIE><Y2024>
-Suicide Squad - Vol. 1 <COMIC><Y1987>
-Suicide Squad - Vol. 2 <COMIC><Y2001>
-Suicide Squad - Vol. 3 <COMIC><Y2007>
-Suicide Squad - Vol. 4 <COMIC><Y2011>
-Suicide Squad - Vol. 5 <COMIC><Y2016>
-Suicide Squad - Vol. 6 <COMIC><Y2019>
-Suicide Squad - Vol. 7 <COMIC><Y2021>
-Suicide Squad <MOVIE><Y2016>
-The Suicide Squad <MOVIE><Y2021>
 Birds of Prey <MOVIE><Y2020>
 Harley Quinn vs The Joker <MOVIE><Y2025>
 Black Canary <MOVIE><Y2024>
@@ -1203,39 +1138,6 @@ Deadpool & Wolverine <MOVIE><Y2024>
 Deadpool <TOY>
 Once Upon a Deadpool <MOVIE><Y2018>
 Deadpool <COMIC>
-Aquaman <COMIC>
-Aquaman <TOY>
-Aquaman <MOVIE><Y2018>
-Aquaman and The Lost Kingdom <MOVIE><Y2023>
-Black Adam <MOVIE><Y2022>
-Black Adamn <COMIC>
-Blue Beetle <MOVIE><Y2023>
-Captain Marvel <TOY>
-Shazam! <MOVIE><Y2019>
-Shazam! [Season 3] <MOVIE><Y1977>
-Shazam! Fury of the Gods <MOVIE><Y2022>
-Wonder Woman <COMIC>
-Wonder Woman <MOVIE><Y2017>
-Wonder Woman 1984 <MOVIE><Y2020>
-The Amazons <MOVIE><Y2024>
-Booster Gold <MOVIE><Y2025>
-Deadshot <COMIC>
-Deadshot <MOVIE><Y2024>
-Green Lantern <MOVIE><Y2011>
-Green Lantern II <MOVIE><Y2013>
-Green Lantern III <MOVIE><Y2015>
-Green Lantern Corps <MOVIE><Y2023>
-Green Lantern <COMIC>
-Lobo <MOVIE><Y2024>
-Metal Man <MOVIE><Y2025>
-Nightwing <MOVIE><Y2025>
-Plastic Man <MOVIE><Y2026>
-Static Shock <MOVIE><Y2027>
-Zatanna <MOVIE><Y2027>
-Madame X <MOVIE><Y2028>
-Val-Zod <MOVIE><Y2028>
-Batgirl <MOVIE><Y2022>
-Cyborg <MOVIE><Y2029>
 Deathstroke <MOVIE><Y2029>
 Krypton <MOVIE><Y2030>
 New Gods <MOVIE><Y2030>
@@ -1264,9 +1166,9 @@ Beavis and Butthead [Season 9] <MOVIE><Y2022>
 Beavis and Butt-Head Do America <MOVIE><Y1996>
 Beavis and Butt-Head Do the Universe <MOVIE><Y2022>
 Bambi II <MOVIE><Y2006>
-Bambi III <MOVIE><Y2018>
+Bambi III [SCRIPT]<MOVIE><Y2018>
 Beetlejuice <MOVIE><Y1988>
-Beetlejuice Goes Hawaiian <MOVIE><Y1990>
+Beetlejuice Goes Hawaiian [SCRIPT]<MOVIE><Y1990>
 Beetlejuice Beetlejuice <MOVIE><Y2024>
 Beverly Hills Cop <MOVIE><Y1984>
 Beverly Hills Cop II <MOVIE><Y1987>
@@ -1493,182 +1395,6 @@ Casper <MOVIE><Y1995>
 Casper 2 <MOVIE><Y1996>
 Casper and Wendy <MOVIE><Y1998>
 Casper's Scare School <MOVIE><Y2006>
-Agent Carter [Season 1] <MOVIE><Y2015>
-Agent Carter [Season 2] <MOVIE><Y2016>
-Agent Carter [Season 3] <MOVIE><Y2017>
-Agents of S.H.I.E.L.D [Season 1] <MOVIE><Y2013>
-Agents of S.H.I.E.L.D [Season 2] <MOVIE><Y2014>
-Agents of S.H.I.E.L.D [Season 3] <MOVIE><Y2015>
-Agents of S.H.I.E.L.D [Season 4] <MOVIE><Y2016>
-Agents of S.H.I.E.L.D [Season 5] <MOVIE><Y2018>
-Agents of S.H.I.E.L.D [Season 6] <MOVIE><Y2019>
-Agents of S.H.I.E.L.D [Season 7] <MOVIE><Y2020>
-Ant-Man <COMIC>
-Ant-Man <MOVIE><Y2015>
-Ant-Man and the Wasp <MOVIE><Y2018>
-Ant-Man and the Wasp: Quantumania <MOVIE><Y2023>
-Armor Wars <COMIC>
-Armor Wars <MOVIE><Y2026>
-Avengers <MOVIE><Y2012>
-Avengers: Age of Ultron <MOVIE><Y2015>
-Avengers: Infinity War <MOVIE><Y2018>
-Avengers: Endgame <MOVIE><Y2019>
-Avengers: Doomsday <MOVIE><Y2026>
-Avengers: Secret Wars <MOVIE><Y2027>
-Black Panther <TOY>
-Black Panther <COMIC>
-Black Panther <MOVIE><Y2018>
-Black Panther: Wakanda Forever <MOVIE><Y2022>
-Captain America <COMIC>
-Captain America <TOY>
-Captain America: The First Avenger <MOVIE><Y2011>
-Captain America: The Winter Soldier <MOVIE><Y2014>
-Captain America: Civil War <MOVIE><Y2016>
-Captain America: Brave New World <MOVIE><Y2024>
-Cloak & Daggar <COMIC>
-Cloak & Daggar [Season 1] <MOVIE><Y2018>
-Cloak & Daggar [Season 2] <MOVIE><Y2019>
-DareDevil <COMIC>
-Daredevil <MOVIE><Y2005>
-Daredevil [Season 1] <MOVIE><Y2015>
-Daredevil [Season 2] <MOVIE><Y2016>
-Daredevil [Season 3] <MOVIE><Y2018>
-Daredevil: Born Again <COMIC>
-Daredevil: Born Again [Season 1] <MOVIE><Y2025>
-Daredevil: Born Again [Season 2] <MOVIE><Y2026>
-Daredevil: Born Again [Season 3] <MOVIE><Y2027>
-Echo [Season 1] <MOVIE><Y2024>
-Echo [Season 2] <MOVIE><Y2025>
-Echo [Season 3] <MOVIE><Y2026>
-Guardians of the Galaxy <COMIC>
-Guardians of the Galaxy <MOVIE><Y2014>
-Guardians of the Galaxy Vol. 2 <MOVIE><Y2017>
-Guardians of the Galaxy Vol. 3 <MOVIE><Y2023>
-Guardians of the Galaxy: Holiday Special <MOVIE><Y2022>
-Iron Fist <COMIC>
-Iron Fist [Season 1] <MOVIE><Y2017>
-Iron Fist [Season 2] <MOVIE><Y2018>
-Iron Man <COMIC>
-Iron Man <MOVIE><Y2008>
-Iron Man 2 <MOVIE><Y2010>
-Iron Man 3 <MOVIE><Y2013>
-Thor <COMIC>
-Thor <MOVIE><Y2011>
-Thor The Dark World <MOVIE><Y2013>
-Thor: Ragnarok <MOVIE><Y2017>
-Thor: Love and Thunder <MOVIE><Y2022>
-Thunderbolts <COMIC>
-Thunderbolts* <MOVIE><Y2025>
-Incredible Hulk <MOVIE><Y2008>
-Hulk <COMIC>
-Incredible Hulk <COMIC>
-Ironheart <COMIC>
-Ironheart [Season 1] <MOVIE><Y2026>
-Ironheart [Season 2] <MOVIE><Y2027>
-Ironheart [Season 3] <MOVIE><Y2028>
-Eternals <MOVIE><Y2021>
-What If..? [Season 1] <MOVIE><Y2021>
-What If..? [Season 2] <MOVIE><Y2023>
-Jessica Jones <COMIC>
-Jessica Jones [Season 1] <MOVIE><Y2015>
-Jessica Jones [Season 2] <MOVIE><Y2018>
-Jessica Jones [Season 3] <MOVIE><Y2019>
-Loki <TOY>
-Loki <COMIC>
-Loki [Season 1] <MOVIE><Y2021>
-Loki [Season 2] <MOVIE><Y2023>
-Luke Cage <TOY>
-Luke Cage <COMIC>
-Luke Cage [Season 1] <MOVIE><Y2016>
-Luke Cage [Season 2] <MOVIE><Y2016>
-Marvel Zombies [Season 1] <MOVIE><Y2025>
-Marvel Zombies [Season 2] <MOVIE><Y2026>
-Marvel Zombies [Season 3] <MOVIE><Y2027>
-Hawkeye <TOY>
-Hawkeye <COMIC>
-Hawkeye [Season 1] <MOVIE><Y2021>
-Falcon <TOY>
-Falcon <COMIC>
-Winter Soldier <TOY>
-Winter Soldier <COMIC>
-Falcon and The Winter Soldier [Season 1] <MOVIE><Y2021>
-Moon Knight <TOY>
-Moon Knight <COMIC>
-Moon Knight [Season 1] <MOVIE><Y2022>
-Moon Knight [Season 2] <MOVIE><Y2025>
-Moon Knight [Season 3] <MOVIE><Y2027>
-Shang-Chi and the Legend of the Ten Rings <MOVIE><Y2021>
-Nova <MOVIE><Y2025>
-WandaVision [Season 1] <MOVIE><Y2021>
-Runaways [Season 1] <MOVIE><Y2017>
-Runaways [Season 2] <MOVIE><Y2018>
-Runaways [Season 3] <MOVIE><Y2019>
-Secret Invasion [Season 1] <MOVIE><Y2023>
-Secret Invasion [Season 2] <MOVIE><Y2024>
-She-Hulk <TOY>
-She-Hulk <COMIC>
-She Hulk: Attorney at Law [Season 1] <MOVIE><Y2022>
-She Hulk [Season 2] <MOVIE><Y2023>
-Doctor Strange <COMIC>
-Doctor Strange <MOVIE><Y2016>
-Doctor Strange in the Multiverse of Madness <MOVIE><Y2022>
-Cloak and Dagger [Season 1] <MOVIE><Y2018>
-Cloak and Dagger [Season 2] <MOVIE><Y2019>
-Ms. Marvel [Season 1] <MOVIE><Y2022>
-Ms. Marvel [Season 2] <MOVIE><Y2023>
-Captain Marvel <MOVIE><Y2019>
-The Marvels <MOVIE><Y2023>
-Blade <MOVIE><Y2023>
-Blade <MOVIE><Y1998>
-Blade II <MOVIE><Y2002>
-Blade Trinity <MOVIE><Y2004>
-Blade: The Series <MOVIE><Y2006>
-Blade <MOVIE><Y2026>
-Black Widow <MOVIE><Y2021>
-Ghost Rider <COMIC>
-Ghost Rider <MOVIE><Y2007>
-Ghost Rider: Spirit of Vengeance <MOVIE><Y2011>
-Logan <MOVIE><Y2017>
-Wolverine <COMIC>
-The Wolverine <MOVIE><Y2013>
-X-Men Origins: Wolverine <MOVIE><Y2009>
-X-Men Origins: Magneto <MOVIE><Y2010>
-X-Men Origins: Quicksilver <MOVIE><Y2011>
-X-Men Origins: Rogue <MOVIE><Y2012>
-X-Men <TOY>
-The X-Men <COMIC>
-X-Men <MOVIE><Y2000>
-X2: X-Men United <MOVIE><Y2003>
-X-Men: The Last Stand <MOVIE><Y2006>
-X-Men: Apocalypse <MOVIE><Y2016>
-X-Men: Days of Future Past <MOVIE><Y2014>
-X-Men: First Class <MOVIE><Y2011>
-Dark Pheonix <MOVIE><Y2019>
-The New Mutants <MOVIE><Y2020>
-The New Mutants 2 <MOVIE><Y2022>
-The New Mutants 3 <MOVIE><Y2024>
-Alpha Flight <MOVIE><Y2017>
-Exiles <MOVIE><Y2018>
-Gambit <COMIC>
-Gambit <MOVIE><Y2015>
-Legion <COMIC>
-Legion [Season 1] <MOVIE><Y2017>
-Legion [Season 2] <MOVIE><Y2018>
-Legion [Season 3] <MOVIE><Y2019>
-The Gifted [Season 1] <MOVIE><Y2017>
-The Gifted [Season 2] <MOVIE><Y2018>
-Inhumans <MOVIE><Y2014>
-Inhumans [Season 1] <MOVIE><Y2017>
-Inhumans <COMIC>
-Inhumans <TOY>
-The Defenders [Season 1] <MOVIE><Y2017>
-Punisher <COMIC>
-The Punisher <MOVIE>
-The Punisher: War Zone <MOVIE>
-Punisher [Season 1] <MOVIE><Y2017>
-Punisher [Season 2] <MOVIE><Y2019>
-Agatha: Coven of Chaos [Season 1] <MOVIE><Y2023>
-Agatha: Coven of Chaos [Season 2] <MOVIE><Y2025>
 Hitman's Bodyguard <MOVIE><Y2017>
 Hitman's Wife's Bodyguard <MOVIE><Y2021>
 The Conjuring <MOVIE><Y2013>
@@ -1741,6 +1467,8 @@ Charlie's Angels [Season 5] <MOVIE><Y1980>
 Toni's Boys [Season 1] <MOVIE><Y1980>
 Charlie's Angels <MOVIE><Y2000>
 Charlie's Angels: Full Throttle <MOVIE><Y2003>
+Charlie's Ang3ls [SCRIPT]<MOVIE><Y2004>
+Charlie's Angels 4 [SCRIPT]<MOVIE><Y2005>
 Charlie's Angels <MOVIE><Y2019>
 Charlie's Angels [Season 1] <MOVIE><Y2011>
 Charlotte's Web <MOVIE><Y2006>
@@ -1750,7 +1478,7 @@ Cheaper by the Dozen <MOVIE><Y2003>
 Cheaper by the Dozen <MOVIE><Y2022>
 Cheetah Girls 2 <MOVIE><Y2006>
 Cheetah Girls <MOVIE><Y2003>
-Chicken Run <MOVIE><Y2000>
+Chicken Run <MOVIE><Y2000><Q5>
 Chicken Run: Dawn of the Nugget <MOVIE><Y2023>
 Flushed Away <MOVIE><Y2006>
 The Spy Who Loved Me <MOVIE><Y1977>
@@ -1982,7 +1710,7 @@ Hanger <MOVIE><Y2009>
 Cloudy with a chance of Meatballs <BOOK>
 Cloudy with a Chance of Meatballs <MOVIE><Y2009>
 Cloudy with a Chance of Meatballs 2 <MOVIE><Y2013>
-Cloudy with a Chance of Meatballs 3 <MOVIE><Y2023>
+Cloudy with a Chance of Meatballs 3 [SCRIPT]<MOVIE><Y2023>
 Cloudy with a Chance of Meatballs [Season 1] <MOVIE><Y2017>
 Cloudy with a Chance of Meatballs [Season 2] <MOVIE><Y2018>
 Super Manny <MOVIE><Y2013>
@@ -2040,7 +1768,7 @@ Terminator Salvation <MOVIE><Y2009>
 Terminator 3000 <MOVIE><Y2011>
 Terminator: Dark Fate <MOVIE><Y2015>
 Terminator: Genisys <MOVIE><Y2019>
-Terminator: Genisys: Future War <MOVIE><Y2022>
+Terminator: Genisys: Future War [SCRIPT]<MOVIE><Y2022>
 Sarah Connor Chronicles [Season 1] <MOVIE><Y2008>
 Sarah Connor Chronicles [Season 2] <MOVIE><Y2009>
 Red Heat <MOVIE><Y1988>
@@ -2071,7 +1799,7 @@ Expendables <MOVIE><Y2010>
 Expendables 2 <MOVIE><Y2012>
 Expendables 3 <MOVIE><Y2014>
 Expend4bles <MOVIE><Y2023>
-Expendabelles <MOVIE><Y2025>
+Expendabelles [SCRIPT]<MOVIE><Y2025>
 Escape Plan <MOVIE><Y2013>
 Escape Plan 2: Hades <MOVIE><Y2018>
 Escape Plan 3: The Extractors <MOVIE><Y2019>
@@ -2147,7 +1875,7 @@ Spy Kids: Mission Critical [Season 1] <MOVIE><Y2018>
 Spy Kids: Mission Critical [Season 2] <MOVIE><Y2018>
 Machete <MOVIE><Y2010>
 Machete Kills <MOVIE><Y2013>
-Machete Kills Again... In Space <MOVIE><Y2024>
+Machete Kills Again... In Space [SCRIPT]<MOVIE><Y2024>
 Zookeeper <MOVIE><Y2011>
 Bullet to the Head <MOVIE><Y2012>
 Homefront <MOVIE><Y2013>
@@ -2157,18 +1885,19 @@ Ratchet & Clank <MOVIE><Y2016>
 Animal Crackers <MOVIE><Y2017>
 Samartian <MOVIE><Y2022>
 Monsters Inc <MOVIE><Y2001>
-Monsters Inc 2: Lost in Scaradise <MOVIE><Y2005>
+Monsters Inc 2: Lost in Scaradise [SCRIPT]<MOVIE><Y2005>
 Monsters University <MOVIE><Y2013>
 Monsters At Work [Season 1] <MOVIE><Y2021>
 Finding Nemo <MOVIE><Y2000>
-Finding Marlin <MOVIE><Y2007>
+Finding Nemo 2: Escape from Oilglobs [SCRIPT]<MOVIE><Y2005>
+Finding Marlin [SCRIPT]<MOVIE><Y2007>
 Finding Dory <MOVIE><Y2016>
 10 Things I Hate About You <MOVIE><Y1999>
 10 Things I Hate About You [Season 1] <MOVIE><Y2009>
-10 Things I Hate About Life <MOVIE><Y2003>
+10 Things I Hate About Life [SCRIPT]<MOVIE><Y2003>
 Who Framed Roger Rabbit <MOVIE><Y1988>
-Who Discovered Roger Rabbit <MOVIE><Y1998>
-Roger Rabbit II: The Toon Platoon <MOVIE><Y1992>
+Who Discovered Roger Rabbit [SCRIPT]<MOVIE><Y1998>
+Roger Rabbit II: The Toon Platoon [SCRIPT]<MOVIE><Y1992>
 Congo <MOVIE><Y1995>
 Congo <BOOK><Y1980>
 Cool World <MOVIE><Y1992>
@@ -2504,27 +2233,28 @@ Django/Zorro <MOVIE><Y2025>
 Hateful Eight <MOVIE><Y2015>
 Dr. Jekyll and Mr. Hyde <MOVIE><Y2002>
 Dr. Mabuse: The Gambler <MOVIE><Y1977>
-Dragonball <BOOK>
-Dragon Ball Evolution <MOVIE><Y2009>
-Dragon Ball Z [Season 1] <MOVIE><Y1989>
-Dragon Ball Z [Season 2] <MOVIE><Y1990>
-Dragon Ball Z [Season 3] <MOVIE><Y1991>
-Dragon Ball Z [Season 4] <MOVIE><Y1991>
-Dragon Ball Z [Season 5] <MOVIE><Y1992>
-Dragon Ball Z [Season 6] <MOVIE><Y1993>
-Dragon Ball Z [Season 7] <MOVIE><Y1993>
-Dragon Ball Z [Season 8] <MOVIE><Y1994>
-Dragon Ball Z [Season 9] <MOVIE><Y1995>
-Dragon Ball GT [Season 1] <MOVIE><Y1996>
-Dragon Ball GT [Season 2] <MOVIE><Y1996>
-Dragon Ball GT [Season 3] <MOVIE><Y1997>
-Dragon Ball GT [Season 4] <MOVIE><Y1997>
-Dragon Ball Super [Season 1] <MOVIE><Y2015>
-Dragon Ball Super [Season 2] <MOVIE><Y2015>
-Dragon Ball Super [Season 3] <MOVIE><Y2016>
-Dragon Ball Super [Season 4] <MOVIE><Y2016>
-Dragon Ball Super [Season 5] <MOVIE><Y2017>
-Dragon: The Bruce Lee Story <MOVIE>
+Dragonball <TOY><G+5><G+10>
+Dragonball <BOOK><G+5><G+10>
+Dragon Ball Evolution <MOVIE><Y2009><G+5><G+10>
+Dragon Ball Z [Season 1] <MOVIE><Y1989><Q5><G+5><G+10>
+Dragon Ball Z [Season 2] <MOVIE><Y1990><Q5><G+5><G+10>
+Dragon Ball Z [Season 3] <MOVIE><Y1991><Q5><G+5><G+10>
+Dragon Ball Z [Season 4] <MOVIE><Y1991><Q5><G+5><G+10>
+Dragon Ball Z [Season 5] <MOVIE><Y1992><Q5><G+5><G+10>
+Dragon Ball Z [Season 6] <MOVIE><Y1993><Q5><G+5><G+10>
+Dragon Ball Z [Season 7] <MOVIE><Y1993><Q5><G+5><G+10>
+Dragon Ball Z [Season 8] <MOVIE><Y1994><Q5><G+5><G+10>
+Dragon Ball Z [Season 9] <MOVIE><Y1995><Q5><G+5><G+10>
+Dragon Ball GT [Season 1] <MOVIE><Y1996><Q5><G+5><G+10>
+Dragon Ball GT [Season 2] <MOVIE><Y1996><Q2><G+5><G+10>
+Dragon Ball GT [Season 3] <MOVIE><Y1997><Q2><G+5><G+10>
+Dragon Ball GT [Season 4] <MOVIE><Y1997><Q2><G+5><G+10>
+Dragon Ball Super [Season 1] <MOVIE><Y2015><G+5><G+10>
+Dragon Ball Super [Season 2] <MOVIE><Y2015><G+5><G+10>
+Dragon Ball Super [Season 3] <MOVIE><Y2016><G+5><G+10>
+Dragon Ball Super [Season 4] <MOVIE><Y2016><G+5><G+10>
+Dragon Ball Super [Season 5] <MOVIE><Y2017><G+5><G+10>
+Dragon: The Bruce Lee Story <MOVIE><G+5><G+10>
 Dragonheart <MOVIE><Y1996>
 Dragonheart: A New Beginning <MOVIE><Y2000>
 Dragonheart 3: The Sorcerer's Curse <MOVIE><Y2015>
@@ -2539,7 +2269,7 @@ DuckTales [Season 3] <MOVIE><Y2020>
 Dumb and Dumber <MOVIE><Y1994>
 Dumb and Dumber Too <MOVIE><Y2014>
 Dumb and Dumberer: When Harry Met Lloyd <MOVIE><Y2003>
-E.T II Nocturnal Fears <MOVIE><Y1988>
+E.T II Nocturnal Fears [SCRIPT]<MOVIE><Y1988>
 E.T. the Extra-Terrestrial <MOVIE><Y1982>
 EX <MOVIE><Y1997>
 Twilight <BOOK><Y2005>
@@ -2547,17 +2277,17 @@ Breaking Dawn <BOOK><Y2006>
 New Moon <BOOK><Y2007>
 Eclipse <BOOK><Y2008>
 Midnight Sun <BOOK><Y2020>
-Twilight <MOVIE><Y2008>
-The Twilight Saga: New Moon <MOVIE><Y2009>
-The Twilight Saga: Eclipse <MOVIE><Y2010>
-The Twilight Saga: Breaking Dawn - Part 1 <MOVIE><Y2011>
-The Twilight Saga: Breaking Dawn - Part 2 <MOVIE><Y2012>
+Twilight <MOVIE><Y2008><Q5>
+The Twilight Saga: New Moon <MOVIE><Y2009><Q5>
+The Twilight Saga: Eclipse <MOVIE><Y2010><Q4>
+The Twilight Saga: Breaking Dawn - Part 1 <MOVIE><Y2011><Q2>
+The Twilight Saga: Breaking Dawn - Part 2 <MOVIE><Y2012><Q2>
 Dune <MOVIE><Y1984>
-Dune <MOVIE><Y2021>
-Dune: Part Two <MOVIE><Y2024>
+Dune <MOVIE><Y2021><Q5>
+Dune: Part Two <MOVIE><Y2024><Q5>
 Frank Herbert's Dune [Mini-Series] <MOVIE><Y2000>
 Frank Herbert's Children of Dune [Mini-Series] <MOVIE><Y2003>
-Dune <BOOK>
+Dune <BOOK><Q5>
 Dune Messiah <BOOK>
 Dune: Children of Dune <BOOK><Y1976>
 Dune: God Emperor of Dune <BOOK><Y1981>
@@ -2581,7 +2311,7 @@ Dune: The Lady of Caladan <BOOK><Y2021>
 Dune: The Heir of Caladan <BOOK><Y2022>
 The BFG <BOOK><Y1976>
 The BFG <MOVIE><Y1989>
-The BFG <MOVIE><Y2016>
+The BFG <MOVIE><Y2016><Q3>
 Roald Dahl's The Gremlins <BOOK>
 Sometime Never: Fable for Supermen <BOOK>
 Fantastic Mr Fox <BOOK>
@@ -2597,7 +2327,7 @@ The Twits <BOOK><Y1980>
 George's Marvellous Medicine <BOOK><Y1981>
 The Witches <BOOK><Y1983>
 The Witches <MOVIE><Y1990>
-The Witches <MOVIE><Y2020>
+The Witches <MOVIE><Y2020><Q3>
 The Giraffe and the Pelly and Me <BOOK><Y1985>
 Matilda <BOOK><Y1988>
 Matilda <MOVIE><Y1996>
@@ -2776,13 +2506,13 @@ Lovely Bones <BOOK>
 Lovely Bones <MOVIE><Y2009>
 Lord of the Flies <BOOK>
 Lord of the Flies <MOVIE><Y1990>
-Percy Jackson and the Olympians [Season 1] <MOVIE><Y2022>
+Percy Jackson and the Olympians [Season 1] <MOVIE><Y2023>
 Percy Jackson: Lightning Thief <BOOK>
 Percy Jackson & the Olympians: The Lightning Thief <MOVIE><Y2010>
 Percy Jackson: Sea of Monsters <BOOK>
 Percy Jackson & the Olympians: The Sea of Monsters <MOVIE><Y2013>
 Percy Jackson: Titan's Curse <BOOK>
-Percy Jackson & the Olympians: Titan's Curse <MOVIE><Y2016>
+Percy Jackson & the Olympians: Titan's Curse [SCRIPT]<MOVIE><Y2016>
 Percy Jackson: Battle of the Labyrinth <BOOK>
 Percy Jackson: Last Olympian <BOOK>
 Percy Jackson: Demigod Files <BOOK>
@@ -2862,7 +2592,7 @@ The Lord of the Rings: Power of the Rings [Season 2] <MOVIE><Y2024>
 The Lord of the Rings: Power of the Rings [Season 3] <MOVIE><Y2026>
 Cat in the Hat <BOOK>
 Cat in the Hat <MOVIE><Y2003>
-The Cat in the Hat Comes Back <MOVIE><Y2006>
+The Cat in the Hat Comes Back [SCRIPT]<MOVIE><Y2006>
 The Cat in the Hat Knows a Lot About That! [Season 1] <MOVIE><Y2010>
 The Cat in the Hat Knows a Lot About That! [Season 2] <MOVIE><Y2012>
 The Cat in the Hat Knows a Lot About That! [Season 3] <MOVIE><Y2018>
@@ -2891,9 +2621,10 @@ Dumbo <MOVIE>
 Dumbo II <MOVIE><Y2007>
 Dumbo <MOVIE><Y2019>
 Meet the Robinsons <MOVIE><Y2007>
-Meet the Robinsons 2: First Date <MOVIE><Y2009>
+Meet the Robinsons 2: First Date [SCRIPT]<MOVIE><Y2009>
+Meet the Robinsons 3: Pet Ptroject [SCRIPT]<MOVIE><Y2010>
 Mrs. Doubtfire <MOVIE><Y1993>
-Mrs. Doubtfire 2 <MOVIE><Y2003>
+Mrs. Doubtfire 2 [SCRIPT]<MOVIE><Y2003>
 Enemy <MOVIE><Y2013>
 Gigantic <MOVIE><Y2017>
 Camp WWE [Season 1] <MOVIE><Y2016>
@@ -3199,12 +2930,14 @@ Miss Congeniality <MOVIE><Y2000>
 Miss Congeniality 2: Armed and Fabulous <MOVIE><Y2005>
 Highlander: Endgame <MOVIE><Y2000>
 Gladiator <MOVIE><Y2000>
+Gladiator II <MOVIE><Y2025>
 Tomb Raider <MOVIE><Y2018>
-Tomb Raider: Obsidian <MOVIE><Y2024>
+Tomb Raider: Obsidian [SCRIPT]<MOVIE><Y2024>
 Tomb Raider: The Cradle of Life <MOVIE><Y2003>
 Lara Croft: Tomb Raider <MOVIE><Y2001>
 Lara Croft: Tomb Raider: The Cradle of Life <MOVIE><Y2003>
 Atlantis: The Lost Empire <MOVIE><Y2001>
+Atlantis II: Shards of Chaos [SCRIPT]<MOVIE><Y2002>
 Atlantis: Milo's Return <MOVIE><Y2003>
 Absence of Malice <MOVIE><Y1981>
 !Women, Art, Revolution <MOVIE><Y2011>
@@ -3355,6 +3088,7 @@ $upercapitalist <MOVIE><Y2012>
 2010 Oscar Shorts <MOVIE><Y2010>
 2011 Oscar Shorts <MOVIE><Y2011>
 2012 <MOVIE><Y2009>
+2013 [SCRIPT]<MOVIE><Y2012>
 2012 Oscar Shorts <MOVIE><Y2012>
 2013 Oscar Shorts <MOVIE><Y2013>
 2014 Oscar Shorts <MOVIE><Y2014>
@@ -4204,6 +3938,7 @@ Airborne <MOVIE><Y2012>
 Aircraft Carrier Guardian of the Seas <MOVIE><Y2016>
 Airheads <MOVIE><Y1994>
 Airplane II: The Sequel <MOVIE><Y1981>
+Airplane III [SCRIPT]<MOVIE><Y1983>
 Airplane! <MOVIE><Y1980>
 Airpocalypse <MOVIE><Y2018>
 Airport '77 <MOVIE><Y1977>
@@ -4269,8 +4004,6 @@ Alien: Covenant <MOVIE><Y2017>
 Alienoid <MOVIE><Y2022>
 Aliens in the Attic <MOVIE><Y2009>
 Aliens of the Deep <MOVIE><Y2005>
-Aliens vs. Predator - Requiem <MOVIE><Y2007>
-Alien³ <MOVIE><Y1992>
 Aligarh <MOVIE><Y2016>
 Alila <MOVIE><Y2004>
 Alina <MOVIE><Y2017>
@@ -5041,8 +4774,6 @@ Autumn, Autumn <MOVIE><Y2017>
 Ava <MOVIE><Y2020>
 Avalanche <MOVIE><Y1978>
 Avalon <MOVIE><Y1990>
-Avatar: The Way of Water <MOVIE><Y2022>
-Avatar Special Edition: An IMAX 3D Experience <MOVIE><Y2010>
 Ava’s Possessions <MOVIE><Y2016>
 Avengement <MOVIE><Y2019>
 Avengers of Justice: Farce Wars <MOVIE><Y2019>
@@ -5294,10 +5025,6 @@ Bastard Son of a Thousand Fathers <MOVIE><Y2016>
 Bat*21 <MOVIE><Y1988>
 Bathtubs Over Broadway <MOVIE><Y2018>
 Batkid Begins: The Wish Heard Around the World <MOVIE><Y2015>
-Batman & Robin <MOVIE><Y2019>
-Batman Forever <MOVIE><Y2019>
-Batman: Mask of the Phantasm <MOVIE><Y1993>
-Batman: The Killing Joke <MOVIE><Y2016>
 Bats <MOVIE><Y1999>
 Batti Gul Meter Chalu <MOVIE><Y2018>
 Battle Beyond the Stars <MOVIE><Y1980>
@@ -5400,6 +5127,7 @@ Bedeviled <MOVIE><Y2017>
 Bedrooms and Hallways <MOVIE><Y1999>
 Bedtime Stories <MOVIE><Y2008>
 Bee Movie <MOVIE><Y2007>
+Be Movie 2 [SCRIPT]<MOVIE><Y2008>
 Bee Season <MOVIE><Y2005>
 Beeba Boys <MOVIE><Y2015>
 Beefcake <MOVIE><Y1999>
@@ -5410,7 +5138,6 @@ Beers of Joy <MOVIE><Y2019>
 Beeswax <MOVIE><Y2009>
 Beethoven <MOVIE><Y1992>
 Beethoven's 2nd <MOVIE><Y1993>
-Beetle Juice <MOVIE><Y1988>
 Beetle Queen Conquers Tokyo <MOVIE><Y2010>
 Befikre <MOVIE><Y2016>
 Before I Disappear <MOVIE><Y2014>
@@ -5819,7 +5546,6 @@ Black Wall Street Burning <MOVIE><Y2020>
 Black Water <MOVIE><Y2018>
 Black Water: Abyss <MOVIE><Y2020>
 Black Widow <MOVIE><Y1987>
-Black Widow <MOVIE><Y2021>
 Black and Blue <MOVIE><Y2019>
 Black and White <MOVIE><Y2000>
 Black or White <MOVIE><Y2014>
@@ -6383,7 +6109,6 @@ Bull Durham <MOVIE><Y1988>
 Bullet Head <MOVIE><Y2017>
 Bullet Proof <MOVIE><Y2022>
 Bullet Train <MOVIE><Y2022>
-Bullet Train <MOVIE><Y2022>
 Bullet to the Head <MOVIE><Y2013>
 Bulletproof <MOVIE><Y1988>
 Bulletproof <MOVIE><Y1996>
@@ -6587,7 +6312,6 @@ Capital in the Twenty-First Century <MOVIE><Y2020>
 Capitalism: A Love Story <MOVIE><Y2009>
 Capote <MOVIE><Y2005>
 Capricorn One <MOVIE><Y1977>
-Captain America <MOVIE><Y1992>
 Captain Corelli's Mandolin <MOVIE><Y2001>
 Captain Fantastic <MOVIE><Y2016>
 Captain Phillips <MOVIE><Y2013>
@@ -6873,6 +6597,8 @@ Chichinette: The Accidental Spy <MOVIE><Y2020>
 Chick Fight <MOVIE><Y2020>
 Chicken Girls: The Movie <MOVIE><Y2018>
 Chicken Little <MOVIE><Y2005>
+Chicken Little 2: Mission to Mars [SCRIPT]<MOVIE><Y2006>
+Chicken Little 3: The Ugly Duckling [SCRIPT]<MOVIE><Y2007>
 Chicken People <MOVIE><Y2016>
 Chicken with Plums <MOVIE><Y2012>
 Chico and Rita <MOVIE><Y2012>
@@ -7914,7 +7640,6 @@ Death of a President <MOVIE><Y2006>
 Death of a Superhero <MOVIE><Y2012>
 Death of a Telemarketer <MOVIE><Y2021>
 Death of the Virgin <MOVIE><Y2012>
-Death on the Nile <MOVIE><Y2022>
 Death to Smoochy <MOVIE><Y2002>
 Deathstalker <MOVIE><Y1983>
 Deathtrap <MOVIE><Y1981>
@@ -8117,10 +7842,6 @@ Did You Hear About the Morgans? <MOVIE><Y2009>
 Did You Wonder Who Fired The Gun? <MOVIE><Y2018>
 Didn't Do It For Love <MOVIE><Y1998>
 Die Angst des Tormanns beim Elfmeter <MOVIE><Y1977>
-Die Bestie <MOVIE><Y1987>
-Die Hard 2 <MOVIE><Y1990>
-Die Hard <MOVIE><Y2020>
-Die Hard: With a Vengeance <MOVIE><Y1995>
 Die Laughing <MOVIE><Y1980>
 Die Like Lovers <MOVIE><Y2022>
 Die Mommie Die <MOVIE><Y2003>
@@ -8743,6 +8464,7 @@ Elevate <MOVIE><Y2011>
 Eleven Men Out <MOVIE><Y2007>
 Eleven Minutes <MOVIE><Y2009>
 Elf <MOVIE><Y2003>
+Elf 2: Buddy Saves Christmas [SCRIPT]<MOVIE><Y2004>
 Elf <MOVIE><Y2019>
 Elf <MOVIE><Y2020>
 Elf <MOVIE><Y2021>
@@ -9220,7 +8942,6 @@ Fanny and Alexander <MOVIE><Y1983>
 Fantasia 2000 <MOVIE><Y2000>
 Fantasia 2000<MOVIE><Y1999>
 Fantastic Beasts: The Crimes of Grindelwald <MOVIE><Y2018>
-Fantastic Beasts: The Secrets of Dumbledore <MOVIE><Y2022>
 Fantastic Four <MOVIE><Y2015>
 Fantastic Fungi <MOVIE><Y2019>
 Fantastic Mr. Fox <MOVIE><Y2009>
@@ -10090,7 +9811,6 @@ Ghost Dog: The Way of the Samurai <MOVIE><Y2000>
 Ghost Fleet <MOVIE><Y2019>
 Ghost Light <MOVIE><Y2019>
 Ghost Master <MOVIE><Y2021>
-Ghost Rider <MOVIE><Y2007>
 Ghost Rider: Spirit of Vengeance <MOVIE><Y2012>
 Ghost Ship <MOVIE><Y2002>
 Ghost Source Zero <MOVIE><Y2017>
@@ -12443,11 +12163,10 @@ Jungle Holocaust <MOVIE><Y1978>
 Jungleland <MOVIE><Y2020>
 Juno <MOVIE><Y2007>
 Jupiter Ascending <MOVIE><Y2015>
-Jurassic Park <MOVIE><Y2018>
+Jurassic Park <MOVIE><Y1993>
 Jurassic Park 3 <MOVIE><Y2001>
 Jurassic Park 3D <MOVIE><Y2013>
-Jurassic Park <MOVIE><Y1993>
-Jurassic Park <MOVIE><Y2013>
+Jurassic Park IV [Script]<MOVIE><Y2002>
 Jurassic World <MOVIE><Y2015>
 Jurassic World: Dominion <MOVIE><Y2022>
 Jurassic World: Fallen Kingdom <MOVIE><Y2018>
@@ -12627,6 +12346,7 @@ Khushi <MOVIE><Y2003>
 Ki & Ka <MOVIE><Y2016>
 Kick <MOVIE><Y2014>
 Kick-Ass 2 <MOVIE><Y2013>
+Kick-Ass 3 [SCRIPT]<MOVIE><Y2013>
 Kick-Ass <MOVIE><Y2010>
 Kickboxer 2: The Road Back <MOVIE><Y1991>
 Kickboxer <MOVIE><Y1989>
@@ -13357,6 +13077,7 @@ Lila, Lila <MOVIE><Y2014>
 Lilian's Story <MOVIE><Y1999>
 Lilies <MOVIE><Y1996>
 Lilo & Stitch <MOVIE><Y2002>
+Lilo & Stitch <MOVIE><Y2025>
 Lilting <MOVIE><Y2014>
 Lily in Love <MOVIE><Y1985>
 Lilya 4-Ever <MOVIE><Y2003>
@@ -15933,7 +15654,6 @@ Orphans <MOVIE><Y2000>
 Orwell Rolls in His Grave <MOVIE><Y2004>
 Os Doces Bárbaros <MOVIE><Y1977>
 Osama <MOVIE><Y2004>
-Oscar <MOVIE><Y1991>
 Oscar and Lucinda <MOVIE><Y1998>
 Oscar and the Lady in Pink <MOVIE><Y2010>
 Oslo, August 31st <MOVIE><Y2012>
@@ -16312,7 +16032,6 @@ Peppermint <MOVIE><Y2018>
 Peppermint Soda <MOVIE><Y1979>
 Perceval <MOVIE><Y1978>
 Percy <MOVIE><Y2020>
-Percy Jackson: Sea of Monsters <MOVIE><Y2013>
 Percy Vs. Goliath <MOVIE><Y2021>
 Pere et Fils <MOVIE><Y2003>
 Perestroika <MOVIE><Y2009>
@@ -19352,8 +19071,6 @@ Supercop <MOVIE><Y1996>
 Supercross <MOVIE><Y2005>
 Superfly <MOVIE><Y2018>
 Superhero Movie <MOVIE><Y2008>
-Superman II <MOVIE><Y1981>
-Superman Returns <MOVIE><Y2008>
 Supermensch: The Legend of Shep Gordon <MOVIE><Y2014>
 Supernova <MOVIE><Y2021>
 Superpower Dogs <MOVIE><Y2019>
@@ -19868,8 +19585,6 @@ The Amati Girls <MOVIE><Y2001>
 The Amazing Catfish <MOVIE><Y2014>
 The Amazing Johnathan Documentary <MOVIE><Y2019>
 The Amazing Panda Adventure <MOVIE><Y1995>
-The Amazing Spider-Man 2 <MOVIE><Y2014>
-The Amazing Spider-Man <MOVIE><Y2012>
 The Amazing Truth About Queen Raquela <MOVIE><Y2008>
 The Ambassador <MOVIE><Y2012>
 The Ambulance <MOVIE><Y1990>
@@ -20008,8 +19723,6 @@ The Basement <MOVIE><Y2018>
 The Basket <MOVIE><Y2000>
 The Basketball Diaries <MOVIE><Y1995>
 The Bastard’s Fig Tree <MOVIE><Y2019>
-The Batman <MOVIE><Y2022>
-The Batman Part II <MOVIE><Y2025> 
 The Battle at Lake Changjin <MOVIE><Y2021>
 The Battle of Algiers <MOVIE><Y2016>
 The Battle of Jangsari <MOVIE><Y2019>
@@ -20549,8 +20262,6 @@ The Dark Divide <MOVIE><Y2020>
 The Dark Half <MOVIE><Y1993>
 The Dark Horse <MOVIE><Y2016>
 The Dark Hours <MOVIE><Y2005>
-The Dark Knight <MOVIE><Y2018>
-The Dark Knight <MOVIE><Y2009>
 The Dark Place <MOVIE><Y2019>
 The Dark Tapes <MOVIE><Y2017>
 The Dark Tower <MOVIE><Y2017>
@@ -21490,7 +21201,6 @@ The Iron Giant <MOVIE><Y1999>
 The Iron Ladies <MOVIE><Y2001>
 The Iron Lady <MOVIE><Y2012>
 The Iron Lady<MOVIE><Y2011>
-The Iron Man <MOVIE><Y2007>
 The Iron Ministry <MOVIE><Y2015>
 The Iron Orchard <MOVIE><Y2019>
 The Island <MOVIE><Y1980>
@@ -22101,7 +21811,6 @@ The Mouse <MOVIE><Y1997>
 The Mudge Boy <MOVIE><Y2004>
 The Mule <MOVIE><Y2018>
 The Mule <MOVIE><Y2014>
-The Mummy <MOVIE><Y2017>
 The Muppet Christmas Carol <MOVIE><Y1992>
 The Muppet Christmas Carol <MOVIE><Y2020>
 The Muppet Movie <MOVIE><Y1979>
@@ -22237,7 +21946,6 @@ The Olivia Experiment <MOVIE><Y2014>
 The Omega Code <MOVIE><Y1999>
 The Omen <MOVIE><Y1976>
 Damien - Omen II <MOVIE><Y1978>
-The Final Conflict <MOVIE><Y1981>
 Omen IV: The Awakening <MOVIE><Y1991>
 The Omen <MOVIE><Y2006>
 The First Omen <MOVIE><Y2024>
@@ -23701,7 +23409,6 @@ Thodari <MOVIE><Y2016>
 Thomas and the Magic Railroad <MOVIE><Y2000>
 Thomas and the Magic Railroad <MOVIE><Y2020>
 Thomas in Love <MOVIE><Y2001>
-Thor: Love and Thunder <MOVIE><Y2022>
 Thor: The Dark World <MOVIE><Y2013>
 Thoroughbreds <MOVIE><Y2018>
 Those Glory, Glory Days <MOVIE><Y1986>
@@ -24029,7 +23736,9 @@ Transformer <MOVIE><Y2018>
 Transit <MOVIE><Y2014>
 Transit <MOVIE><Y2019>
 Transpecos <MOVIE><Y2016>
-Transporter 3 <MOVIE><Y2008>
+The Transporter <MOVIE><Y2002>
+The Transporter 2 <MOVIE><Y2005>
+The Transporter Refueled <MOVIE><Y2015>
 Transsiberian <MOVIE><Y2008>
 Transylmania <MOVIE><Y2009>
 Transylvania 6-5000 <MOVIE><Y1985>
@@ -25669,6 +25378,7 @@ The Hunger Games: The Ballad of Songbirds and Snakes <MOVIE><Y2023>
 Men in Black <MOVIE><Y1997>
 Men in Black 2 <MOVIE><Y2002>
 Men in Black 3 <MOVIE><Y2012>
+Men in Black 4 [SCRIPT]<MOVIE><Y2013>
 Men in Black: International <MOVIE><Y2019>
 Trolls <MOVIE><Y2016>
 Trolls World Tour <MOVIE><Y2020>
@@ -25686,16 +25396,13 @@ The Meg 2: The Trench <MOVIE><Y2023>
 The Equalizer <MOVIE><Y2014>
 The Equalizer 2  <MOVIE><Y2018>
 The Equalizer 3 <MOVIE><Y2023>
-The Expendables <MOVIE><Y2010>
-The Expendables 2 <MOVIE><Y2012>
-The Expendables 3 <MOVIE><Y2014>
 The Little Mermaid <MOVIE><Y1989>
 The Little Mermaid <MOVIE><Y2023>
 The Haunted Mansion <MOVIE><Y2003>
 The Haunted Mansion <MOVIE><Y2023>
 The Jungle Book <MOVIE><Y1994>
 The Jungle Book 2 <MOVIE><Y2003>
-The Jungle Book <MOVIE><Y2016>
+The Jungle Book <MOVIE><Y2016><Q1>
 The Lion King <MOVIE><Y1994>
 The Lion King II: Simba's Pride <MOVIE><Y1998>
 The Lion King 1 1/2 <MOVIE><Y2004>
@@ -25708,10 +25415,10 @@ Timon & Pumbaa [Season 1] <MOVIE><Y1995>
 Timon & Pumbaa [Season 2] <MOVIE><Y1996>
 Timon & Pumbaa [Season 3] <MOVIE><Y1999>
 The Lego Batman Movie <MOVIE><Y2017>
-The LEGO Movie 2: The Second Part <MOVIE><Y2019>
 The Lego Ninjago Movie <MOVIE><Y2017>
 Lego <TOY>
-The Lego Movie <MOVIE><Y2014>
+The Lego Movie <MOVIE><Y2014><Q5>
+The LEGO Movie 2: The Second Part <MOVIE><Y2019>
 Beyond the Brick: A LEGO Brickumentary <MOVIE><Y2015>
 The Lego Movie <MOVIE><Y2021>
 Pitch Perfect <MOVIE><Y2012>
@@ -25762,10 +25469,11 @@ V/H/S: Viral <MOVIE><Y2014>
 V/H/S/94 <MOVIE><Y2021>
 Uncle Kent <MOVIE><Y2011>
 Uncle Kent 2 <MOVIE><Y2016>
-Toy Story <MOVIE><Y1995>
-Toy Story 2 <MOVIE><Y1999>
-Toy Story 3 <MOVIE><Y2010>
-Toy Story 4 <MOVIE><Y2019>
+Toy Story <MOVIE><Y1995><Q5>
+Toy Story 2 <MOVIE><Y1999><Q5>
+Toy Story 3 <MOVIE><Y2010><Q5>
+Toy Story 4 <MOVIE><Y2019><Q5>
+Toy Story 5 <MOVIE><Y2026><Q5>
 Baaghi <MOVIE><Y2016>
 Baaghi 2 <MOVIE><Y2018>
 Baaghi 3 <MOVIE><Y2020>
@@ -25775,9 +25483,6 @@ Birds of a Feather <MOVIE><Y1979>
 Birds of a Feather 2 <MOVIE><Y2018>
 The Woman in Black <MOVIE><Y2012>
 The Woman in Black 2: Angel of Death <MOVIE><Y2015>
-The Transporter <MOVIE><Y2002>
-The Transporter 2 <MOVIE><Y2005>
-The Transporter Refueled <MOVIE><Y2015>
 The Texas Chain Saw Massacre <MOVIE><Y1976>
 The Texas Chainsaw Massacre 2 <MOVIE><Y1986>
 Leatherface: Texas Chainsaw Massacre III <MOVIE><Y1990>
@@ -25795,8 +25500,294 @@ Lethal Weapon <MOVIE><Y1987>
 Lethal Weapon 2 <MOVIE><Y1989>
 Lethal Weapon 3 <MOVIE><Y1992>
 Lethal Weapon 4 <MOVIE><Y1998>
-Lewis & Clark & George <MOVIE><Y1997>
-Lewis & Clark: Great Journey West <MOVIE><Y2002>
 Naked Gun 33 1/3: The Final Insult <MOVIE><Y1994>
 The Naked Gun 2½: The Smell of Fear <MOVIE><Y1991>
 The Naked Gun: From the Files of Police Squad! <MOVIE><Y1988>
+Batman & Robin <MOVIE><Y1997><Q5><G+5>
+Batman <COMIC><Q5>
+Batman <MOVIE><Y1989><Q5><G+5>
+Batman <TOY><Q5>
+Batman Begins <MOVIE><Y2005><Q5>
+Batman Beyond <MOVIE><Y2003><Q5>
+Batman Beyond [Season 1] <MOVIE><Y1999>
+Batman Beyond [Season 2] <MOVIE><Y2000>
+Batman Beyond [Season 3] <MOVIE><Y2001>
+Batman Forever <MOVIE><Y1995><Q1><G+5>
+Batman Returns <MOVIE><Y1992><Q1><G+5>
+Batman Triumphant [SCRIPT]<MOVIE><Y2000>
+Batman Unchained [SCRIPT]<MOVIE><Y1999>
+Batman v Superman: Dawn of Justice <MOVIE><Y2016><Q4><G+5>
+Batman vs. Superman [SCRIPT]<MOVIE><Y2002>
+Batman: DarKnight [SCRIPT]<MOVIE><Y2001>
+Batman: Mask of the Phantasm <MOVIE><Y1993>
+Batman: Mystery of the Batwoman <MOVIE><Y2003>
+Batman: Return of the Joker <MOVIE><Y2000>
+Batman: Subzero <MOVIE><Y1998>
+Batman: The Animated Series [Season 1] <MOVIE><Y1992><Q5>
+Batman: The Animated Series [Season 2] <MOVIE><Y1994><Q5>
+Batman: The Animated Series [Season 3] <MOVIE><Y1997><Q5>
+Batman: The Brave and the Bold [Season 1] <MOVIE><Y2008><Q5>
+Batman: The Brave and the Bold [Season 2] <MOVIE><Y2009><Q5>
+Batman: The Brave and the Bold [Season 3] <MOVIE><Y2011><Q5>
+Batman: The Killing Joke <MOVIE><Y2016>
+Batman: Year One <MOVIE><Y1998>
+Beware the Batman [Season 1] <MOVIE><Y2013>
+Bruce Wayne [Season 1] <MOVIE><Y2000>
+Bruce Wayne [Season 2] <MOVIE><Y2001>
+The Batman <MOVIE><Y2022><Q5><G+5>
+The Batman Part II <MOVIE><Y2025>
+The Batman [Season 1] <MOVIE><Y2004>
+The Batman [Season 2] <MOVIE><Y2005>
+The Batman [Season 3] <MOVIE><Y2005>
+The Batman [Season 4] <MOVIE><Y2006>
+The Batman [Season 5] <MOVIE><Y2007>
+The Dark Knight <MOVIE><Y2008><Q5><G+5>
+The Dark Knight Rises <MOVIE><Y2012><Q5><G+5>
+The New Batman Adventures [Season 1] <MOVIE><Y1999>
+Man of Steel <MOVIE><Y2013><Q5>
+Man of Steel 2 [SCRIPT]<MOVIE><Y2015><Q5>
+Supergirl <COMIC>
+Supergirl <MOVIE><Y1984>
+Supergirl [Season 1] <MOVIE><Y2015>
+Supergirl [Season 2] <MOVIE><Y2016>
+Supergirl [Season 3] <MOVIE><Y2017>
+Supergirl [Season 4] <MOVIE><Y2018>
+Supergirl [Season 5] <MOVIE><Y2019>
+Supergirl [Season 6] <MOVIE><Y2020>
+Superman <COMIC>
+Superman <MOVIE><Y1978><Q5>
+Superman <TOY><Q5>
+Superman II <MOVIE><Y1980><Q5>
+Superman III <MOVIE><Y1983><Q5>
+Superman IV: The Quest for Peace <MOVIE><Y1987>
+Superman Lives <MOVIE><Y1998>
+Superman Reborn <MOVIE><Y1993>
+Superman Returns <MOVIE><Y2006>
+Superman: Doomsday <MOVIE><Y2007>
+Superman: The Animated Series [Season 1] <MOVIE><Y1996>
+Superman: The Animated Series [Season 2] <MOVIE><Y1997>
+Superman: The Animated Series [Season 3] <MOVIE><Y1998>
+Superman: The Animated Series [Season 4] <MOVIE><Y1999>
+Lewis & Clark & George <MOVIE><Y1997>
+Lewis & Clark: Great Journey West <MOVIE><Y2002>
+Suicide Squad - Vol. 1 <COMIC><Y1987>
+Suicide Squad - Vol. 2 <COMIC><Y2001>
+Suicide Squad - Vol. 3 <COMIC><Y2007>
+Suicide Squad - Vol. 4 <COMIC><Y2011>
+Suicide Squad - Vol. 5 <COMIC><Y2016>
+Suicide Squad - Vol. 6 <COMIC><Y2019>
+Suicide Squad - Vol. 7 <COMIC><Y2021>
+Suicide Squad <MOVIE><Y2016><Q2>
+The Suicide Squad <MOVIE><Y2021><Q3>
+Aquaman <COMIC><Q5>
+Aquaman <MOVIE><Y2018>
+Aquaman <TOY><Q5>
+Aquaman and The Lost Kingdom <MOVIE><Y2023>
+Batgirl <MOVIE><Y2022>
+Black Adam <MOVIE><Y2022><Q1>
+Black Adamn <COMIC><Q5>
+Blue Beetle <MOVIE><Y2023>
+Booster Gold <MOVIE><Y2025>
+Captain Marvel <TOY><Q5>
+Cyborg [SCRIPT]<MOVIE><Y2029>
+Deadshot <COMIC><Q5>
+Deadshot <MOVIE><Y2024>
+Green Lantern <COMIC><Q5>
+Green Lantern <MOVIE><Y2011>
+Green Lantern Corps [SCRIPT]<MOVIE><Y2023>
+Green Lantern II [SCRIPT]<MOVIE><Y2013>
+Green Lantern III [SCRIPT]<MOVIE><Y2015>
+Lobo <MOVIE><Y2024>
+Madame X <MOVIE><Y2028>
+Metal Man <MOVIE><Y2025>
+Nightwing <MOVIE><Y2025>
+Plastic Man <MOVIE><Y2026>
+Shazam! <MOVIE><Y2019><Q3>
+Shazam! Fury of the Gods <MOVIE><Y2022><Q2>
+Static Shock <MOVIE><Y2027>
+The Amazons <MOVIE><Y2024>
+Val-Zod <MOVIE><Y2028>
+Wonder Woman 1984 <MOVIE><Y2020><Q2>
+Wonder Woman <COMIC><Q5>
+Wonder Woman <MOVIE><Y2017><Q5>
+Zatanna <MOVIE><Y2027>
+Agatha All Along [Season 1] <MOVIE><Y2025><Q5>
+Agatha All Along [Season 2] <MOVIE><Y2028><Q5>
+Agent Carter [Season 1] <MOVIE><Y2015><Q5>
+Agent Carter [Season 2] <MOVIE><Y2016><Q5>
+Agent Carter [Season 3] <MOVIE><Y2017><Q5>
+Agents of S.H.I.E.L.D [Season 1] <MOVIE><Y2013><Q5>
+Agents of S.H.I.E.L.D [Season 2] <MOVIE><Y2014><Q5>
+Agents of S.H.I.E.L.D [Season 3] <MOVIE><Y2015><Q4>
+Agents of S.H.I.E.L.D [Season 4] <MOVIE><Y2016><Q4>
+Agents of S.H.I.E.L.D [Season 5] <MOVIE><Y2018><Q3>
+Agents of S.H.I.E.L.D [Season 6] <MOVIE><Y2019><Q4>
+Agents of S.H.I.E.L.D [Season 7] <MOVIE><Y2020><Q4>
+Alpha Flight <MOVIE><Y2017>
+Ant-Man <COMIC><Q5>
+Ant-Man <MOVIE><Y2015><Q5>
+Ant-Man and the Wasp <MOVIE><Y2018><Q2>
+Ant-Man and the Wasp: Quantumania <MOVIE><Y2023><Q3>
+Armor Wars <COMIC><Q5>
+Armor Wars <MOVIE><Y2026><Q5>
+Avengers <MOVIE><Y2012><Q5>
+Avengers: Age of Ultron <MOVIE><Y2015><Q3>
+Avengers: Infinity War <MOVIE><Y2018><Q5>
+Avengers: Endgame <MOVIE><Y2019><Q5>
+Avengers: Doomsday <MOVIE><Y2026><Q5>
+Avengers: Secret Wars <MOVIE><Y2027>
+Avengers: Kang Dynasty [SCRIPT]<MOVIE><Y2025>
+Black Panther <COMIC><Q5>
+Black Panther <MOVIE><Y2018><Q5>
+Black Panther: Wakanda Forever <MOVIE><Y2022>
+Black Panther <TOY>
+Black Widow <MOVIE><Y2021><Q3>
+Blade <MOVIE><Y1998>
+Blade <MOVIE><Y2026>
+Blade II <MOVIE><Y2002>
+Blade Trinity <MOVIE><Y2004><Q3>
+Blade: The Series <MOVIE><Y2006><Q3>
+Captain America <COMIC>
+Captain America <TOY>
+Captain America <MOVIE><Y1992>
+Captain America: The First Avenger <MOVIE><Y2011><Q5>
+Captain America: The Winter Soldier <MOVIE><Y2014><Q3>
+Captain America: Civil War <MOVIE><Y2016><Q5>
+Captian America 4 [SCRIPT]<MOVIE><Y2020>
+Captain America: Brave New World <MOVIE><Y2024><Q5>
+Captain Marvel <MOVIE><Y2019>
+Cloak & Daggar <COMIC><Q5>
+Cloak & Daggar [Season 1] <MOVIE><Y2018><Q3>
+Cloak & Daggar [Season 2] <MOVIE><Y2019><Q3>
+Cloak and Dagger [Season 1] <MOVIE><Y2018><Q3>
+Cloak and Dagger [Season 2] <MOVIE><Y2019><Q3>
+DareDevil <COMIC><Q5>
+Daredevil <MOVIE><Y2005><Q3>
+Daredevil [Season 1] <MOVIE><Y2015><Q5>
+Daredevil [Season 2] <MOVIE><Y2016><Q5>
+Daredevil [Season 3] <MOVIE><Y2018><Q5>
+Daredevil: Born Again <COMIC><Q5>
+Daredevil: Born Again [Season 1] <MOVIE><Y2025><Q5>
+Daredevil: Born Again [Season 2] <MOVIE><Y2026><Q5>
+Daredevil: Born Again [Season 3] <MOVIE><Y2027><Q5>
+Dark Pheonix <MOVIE><Y2019>
+Doctor Strange <COMIC><Q5>
+Doctor Strange <MOVIE><Y2016><Q5>
+Doctor Strange in the Multiverse of Madness <MOVIE><Y2022><Q3>
+Echo [Season 1] <MOVIE><Y2024><Q3>
+Echo [Season 2] <MOVIE><Y2025><Q3>
+Echo [Season 3] <MOVIE><Y2026><Q3>
+Eternals <MOVIE><Y2021><Q3>
+Exiles <MOVIE><Y2018><Q3>
+Falcon <COMIC><Q5>
+Falcon <TOY><Q5>
+Falcon and The Winter Soldier [Season 1] <MOVIE><Y2021><Q3>
+Gambit <COMIC><Q3>
+Gambit <MOVIE><Y2025><Q5>
+Gambit [SCRIPT]<MOVIE><Y2015><Q5>
+Ghost Rider <COMIC><Q5>
+Ghost Rider <MOVIE><Y2007><Q4>
+Ghost Rider: Spirit of Vengeance <MOVIE><Y2011><Q3>
+Guardians of the Galaxy <COMIC><Q5>
+Guardians of the Galaxy <MOVIE><Y2014><Q5>
+Guardians of the Galaxy Vol. 2 <MOVIE><Y2017><Q5>
+Guardians of the Galaxy Vol. 3 <MOVIE><Y2023><Q5>
+Guardians of the Galaxy: Holiday Special <MOVIE><Y2022><Q3>
+Hawkeye <COMIC><Q5>
+Hawkeye <TOY><Q5>
+Hawkeye [Season 1] <MOVIE><Y2021>
+Hulk <COMIC><Q5>
+Incredible Hulk <COMIC>
+Incredible Hulk <MOVIE><Y2008>
+Inhumans <COMIC>
+Inhumans <MOVIE><Y2014>
+Inhumans <TOY>
+Inhumans [Season 1] <MOVIE><Y2017>
+Iron Fist <COMIC>
+Iron Fist [Season 1] <MOVIE><Y2017>
+Iron Fist [Season 2] <MOVIE><Y2018>
+Iron Man 2 <MOVIE><Y2010>
+Iron Man 3 <MOVIE><Y2013>
+Iron Man 4 [SCRIPT]<MOVIE><Y2014>
+Iron Man <COMIC><Q5>
+Iron Man <MOVIE><Y2008><Q5>
+Ironheart <COMIC><Q5>
+Ironheart [Season 1] <MOVIE><Y2026>
+Ironheart [Season 2] <MOVIE><Y2027>
+Ironheart [Season 3] <MOVIE><Y2028>
+Jessica Jones <COMIC><Q5>
+Jessica Jones [Season 1] <MOVIE><Y2015><Q5>
+Jessica Jones [Season 2] <MOVIE><Y2018><Q5>
+Jessica Jones [Season 3] <MOVIE><Y2019><Q5>
+Legion <COMIC>
+Legion [Season 1] <MOVIE><Y2017>
+Legion [Season 2] <MOVIE><Y2018>
+Legion [Season 3] <MOVIE><Y2019>
+Logan <MOVIE><Y2017>
+Loki <COMIC><Q5>
+Loki <TOY><Q5>
+Loki [Season 1] <MOVIE><Y2021><Q5>
+Loki [Season 2] <MOVIE><Y2023><Q5>
+Luke Cage <COMIC><Q5>
+Luke Cage <TOY><Q5>
+Luke Cage [Season 1] <MOVIE><Y2016>
+Luke Cage [Season 2] <MOVIE><Y2016>
+Marvel Zombies [Season 1] <MOVIE><Y2025>
+Marvel Zombies [Season 2] <MOVIE><Y2026>
+Marvel Zombies [Season 3] <MOVIE><Y2027>
+Moon Knight <COMIC>
+Moon Knight <TOY><Q5>
+Moon Knight [Season 1] <MOVIE><Y2022>
+Moon Knight [Season 2] <MOVIE><Y2025>
+Moon Knight [Season 3] <MOVIE><Y2027>
+Ms. Marvel [Season 1] <MOVIE><Y2022><Q5>
+Ms. Marvel [Season 2] <MOVIE><Y2025><Q5>
+Nova <MOVIE><Y2025>
+Punisher <COMIC>
+Punisher [Season 1] <MOVIE><Y2017>
+Punisher [Season 2] <MOVIE><Y2019>
+Runaways [Season 1] <MOVIE><Y2017>
+Runaways [Season 2] <MOVIE><Y2018>
+Runaways [Season 3] <MOVIE><Y2019>
+Secret Invasion [Season 1] <MOVIE><Y2023>
+Secret Invasion [Season 2] <MOVIE><Y2024>
+Shang-Chi and the Legend of the Ten Rings <MOVIE><Y2021>
+She Hulk [Season 2] <MOVIE><Y2023>
+She Hulk: Attorney at Law [Season 1] <MOVIE><Y2022>
+She-Hulk <COMIC>
+She-Hulk <TOY>
+The Defenders [Season 1] <MOVIE><Y2017>
+The Gifted [Season 1] <MOVIE><Y2017>
+The Gifted [Season 2] <MOVIE><Y2018>
+The Marvels <MOVIE><Y2023>
+The New Mutants 2 [SCRIPT]<MOVIE><Y2022>
+The New Mutants 3 [SCRIPT]<MOVIE><Y2024>
+The New Mutants <MOVIE><Y2020>
+The Punisher <MOVIE>
+The Punisher: War Zone <MOVIE>
+The Wolverine <MOVIE><Y2013>
+The X-Men <COMIC>
+Thor <COMIC><Q5>
+Thor <MOVIE><Y2011><Q3>
+Thor The Dark World <MOVIE><Y2013>
+Thor: Love and Thunder <MOVIE><Y2022>
+Thor: Ragnarok <MOVIE><Y2017>
+Thunderbolts <COMIC><Q5>
+Thunderbolts* <MOVIE><Y2025>
+WandaVision [Season 1] <MOVIE><Y2021><Q5>
+What If..? [Season 1] <MOVIE><Y2021>
+What If..? [Season 2] <MOVIE><Y2023>
+Winter Soldier <COMIC>
+Winter Soldier <TOY>
+Wolverine <COMIC>
+X-Men <MOVIE><Y2000>
+X2: X-Men United <MOVIE><Y2003>
+X-Men: The Last Stand <MOVIE><Y2006>
+X-Men <TOY><Q5>
+X-Men Origins: Magneto [SCRIPT]<MOVIE><Y2010><Q5>
+X-Men Origins: Quicksilver [SCRIPT]<MOVIE><Y2011><Q5>
+X-Men Origins: Rogue [SCRIPT]<MOVIE><Y2012><Q5>
+X-Men Origins: Wolverine [SCRIPT]<MOVIE><Y2009><Q5>
+X-Men: Apocalypse <MOVIE><Y2016><Q3>
+X-Men: Days of Future Past <MOVIE><Y2014><Q3>
+X-Men: First Class <MOVIE><Y2011><Q3>
