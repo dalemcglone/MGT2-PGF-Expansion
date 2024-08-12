@@ -671,21 +671,21 @@
 
 [ID]28
 [TYP]1
-[NAME EN]Nvaria RSX
-[NAME GE]Nvaria RSX
-[NAME TU]Nvaria RSX
-[NAME ES]Nvaria RSX
-[NAME PB]Nvaria RSX
-[NAME JA]Nvaria RSX
-[NAME CH]Nvaria RSX
-[NAME CT]Nvaria RSX
-[NAME IT]Nvaria RSX
-[NAME FR]Nvaria RSX
-[NAME PL]Nvaria RSX
-[NAME UA]Nvaria RSX
-[NAME CZ]Nvaria RSX
-[NAME TH]Nvaria RSX
-[NAME RU]Nvaria RSX
+[NAME EN]Nvidia RSX
+[NAME GE]Nvidia RSX
+[NAME TU]Nvidia RSX
+[NAME ES]Nvidia RSX
+[NAME PB]Nvidia RSX
+[NAME JA]Nvidia RSX
+[NAME CH]Nvidia RSX
+[NAME CT]Nvidia RSX
+[NAME IT]Nvidia RSX
+[NAME FR]Nvidia RSX
+[NAME PL]Nvidia RSX
+[NAME UA]Nvidia RSX
+[NAME CZ]Nvidia RSX
+[NAME TH]Nvidia RSX
+[NAME RU]Nvidia RSX
 [DATE]APR 2004
 [RES POINTS]2800
 [PRICE]10000000
@@ -694,21 +694,21 @@
 
 [ID]29
 [TYP]1
-[NAME EN]Nvaria RSX Pro
-[NAME GE]Nvaria RSX Pro
-[NAME TU]Nvaria RSX Pro
-[NAME ES]Nvaria RSX Pro
-[NAME PB]Nvaria RSX Pro
-[NAME JA]Nvaria RSX Pro
-[NAME CH]Nvaria RSX Pro
-[NAME CT]Nvaria RSX Pro
-[NAME IT]Nvaria RSX Pro
-[NAME FR]Nvaria RSX Pro
-[NAME PL]Nvaria RSX Pro
-[NAME UA]Nvaria RSX Pro
-[NAME CZ]Nvaria RSX Pro
-[NAME TH]Nvaria RSX Pro
-[NAME RU]Nvaria RSX Pro
+[NAME EN]Nvidia RSX Pro
+[NAME GE]Nvidia RSX Pro
+[NAME TU]Nvidia RSX Pro
+[NAME ES]Nvidia RSX Pro
+[NAME PB]Nvidia RSX Pro
+[NAME JA]Nvidia RSX Pro
+[NAME CH]Nvidia RSX Pro
+[NAME CT]Nvidia RSX Pro
+[NAME IT]Nvidia RSX Pro
+[NAME FR]Nvidia RSX Pro
+[NAME PL]Nvidia RSX Pro
+[NAME UA]Nvidia RSX Pro
+[NAME CZ]Nvidia RSX Pro
+[NAME TH]Nvidia RSX Pro
+[NAME RU]Nvidia RSX Pro
 [DATE]NOV 2008
 [RES POINTS]3000
 [PRICE]14000000
@@ -717,21 +717,21 @@
 
 [ID]30
 [TYP]1
-[NAME EN]AMP Radian
-[NAME GE]AMP Radian
-[NAME TU]AMP Radian
-[NAME ES]AMP Radian
-[NAME PB]AMP Radian
-[NAME JA]AMP Radian
-[NAME CH]AMP Radian
-[NAME CT]AMP Radian
-[NAME IT]AMP Radian
-[NAME FR]AMP Radian
-[NAME PL]AMP Radian
-[NAME UA]AMP Radian
-[NAME CZ]AMP Radian
-[NAME TH]AMP Radian
-[NAME RU]AMP Radian
+[NAME EN]AMD Radian
+[NAME GE]AMD Radian
+[NAME TU]AMD Radian
+[NAME ES]AMD Radian
+[NAME PB]AMD Radian
+[NAME JA]AMD Radian
+[NAME CH]AMD Radian
+[NAME CT]AMD Radian
+[NAME IT]AMD Radian
+[NAME FR]AMD Radian
+[NAME PL]AMD Radian
+[NAME UA]AMD Radian
+[NAME CZ]AMD Radian
+[NAME TH]AMD Radian
+[NAME RU]AMD Radian
 [DATE]DEC 2012
 [RES POINTS]3200
 [PRICE]20000000
@@ -740,21 +740,21 @@
 
 [ID]31
 [TYP]1
-[NAME EN]AMP Radian-NX
-[NAME GE]AMP Radian-NX
-[NAME TU]AMP Radian-NX
-[NAME ES]AMP Radian-NX
-[NAME PB]AMP Radian-NX
-[NAME JA]AMP Radian-NX
-[NAME CH]AMP Radian-NX
-[NAME CT]AMP Radian-NX
-[NAME IT]AMP Radian-NX
-[NAME FR]AMP Radian-NX
-[NAME PL]AMP Radian-NX
-[NAME UA]AMP Radian-NX
-[NAME CZ]AMP Radian-NX
-[NAME TH]AMP Radian-NX
-[NAME RU]AMP Radian-NX
+[NAME EN]AMD Radian-NX
+[NAME GE]AMD Radian-NX
+[NAME TU]AMD Radian-NX
+[NAME ES]AMD Radian-NX
+[NAME PB]AMD Radian-NX
+[NAME JA]AMD Radian-NX
+[NAME CH]AMD Radian-NX
+[NAME CT]AMD Radian-NX
+[NAME IT]AMD Radian-NX
+[NAME FR]AMD Radian-NX
+[NAME PL]AMD Radian-NX
+[NAME UA]AMD Radian-NX
+[NAME CZ]AMD Radian-NX
+[NAME TH]AMD Radian-NX
+[NAME RU]AMD Radian-NX
 [DATE]JAN 2015
 [RES POINTS]3400
 [PRICE]24000000
@@ -763,21 +763,21 @@
 
 [ID]32
 [TYP]1
-[NAME EN]AMP RDNI 1000
-[NAME GE]AMP RDNI 1000
-[NAME TU]AMP RDNI 1000
-[NAME ES]AMP RDNI 1000
-[NAME PB]AMP RDNI 1000
-[NAME JA]AMP RDNI 1000
-[NAME CH]AMP RDNI 1000
-[NAME CT]AMP RDNI 1000
-[NAME IT]AMP RDNI 1000
-[NAME FR]AMP RDNI 1000
-[NAME PL]AMP RDNI 1000
-[NAME UA]AMP RDNI 1000
-[NAME CZ]AMP RDNI 1000
-[NAME TH]AMP RDNI 1000
-[NAME RU]AMP RDNI 1000
+[NAME EN]AMD RDNI 1000
+[NAME GE]AMD RDNI 1000
+[NAME TU]AMD RDNI 1000
+[NAME ES]AMD RDNI 1000
+[NAME PB]AMD RDNI 1000
+[NAME JA]AMD RDNI 1000
+[NAME CH]AMD RDNI 1000
+[NAME CT]AMD RDNI 1000
+[NAME IT]AMD RDNI 1000
+[NAME FR]AMD RDNI 1000
+[NAME PL]AMD RDNI 1000
+[NAME UA]AMD RDNI 1000
+[NAME CZ]AMD RDNI 1000
+[NAME TH]AMD RDNI 1000
+[NAME RU]AMD RDNI 1000
 [DATE]APR 2019
 [RES POINTS]3600
 [PRICE]30000000
@@ -786,21 +786,21 @@
 
 [ID]33
 [TYP]1
-[NAME EN]AMP RDNI 1800
-[NAME GE]AMP RDNI 1800
-[NAME TU]AMP RDNI 1800
-[NAME ES]AMP RDNI 1800
-[NAME PB]AMP RDNI 1800
-[NAME JA]AMP RDNI 1800
-[NAME CH]AMP RDNI 1800
-[NAME CT]AMP RDNI 1800
-[NAME IT]AMP RDNI 1800
-[NAME FR]AMP RDNI 1800
-[NAME PL]AMP RDNI 1800
-[NAME UA]AMP RDNI 1800
-[NAME CZ]AMP RDNI 1800
-[NAME TH]AMP RDNI 1800
-[NAME RU]AMP RDNI 1800
+[NAME EN]AMD RDNI 1800
+[NAME GE]AMD RDNI 1800
+[NAME TU]AMD RDNI 1800
+[NAME ES]AMD RDNI 1800
+[NAME PB]AMD RDNI 1800
+[NAME JA]AMD RDNI 1800
+[NAME CH]AMD RDNI 1800
+[NAME CT]AMD RDNI 1800
+[NAME IT]AMD RDNI 1800
+[NAME FR]AMD RDNI 1800
+[NAME PL]AMD RDNI 1800
+[NAME UA]AMD RDNI 1800
+[NAME CZ]AMD RDNI 1800
+[NAME TH]AMD RDNI 1800
+[NAME RU]AMD RDNI 1800
 [DATE]JUN 2023
 [RES POINTS]3800
 [PRICE]35000000
@@ -809,21 +809,21 @@
 
 [ID]34
 [TYP]1
-[NAME EN]Nvaria Ray-X
-[NAME GE]Nvaria Ray-X
-[NAME TU]Nvaria Ray-X
-[NAME ES]Nvaria Ray-X
-[NAME PB]Nvaria Ray-X
-[NAME JA]Nvaria Ray-X
-[NAME CH]Nvaria Ray-X 
-[NAME CT]Nvaria Ray-X 
-[NAME IT]Nvaria Ray-X
-[NAME FR]Nvaria Ray-X
-[NAME PL]Nvaria Ray-X
-[NAME UA]Nvaria Ray-X
-[NAME CZ]Nvaria Ray-X
-[NAME TH]Nvaria Ray-X
-[NAME RU]Nvaria Ray-X
+[NAME EN]Nvidia Ray-X
+[NAME GE]Nvidia Ray-X
+[NAME TU]Nvidia Ray-X
+[NAME ES]Nvidia Ray-X
+[NAME PB]Nvidia Ray-X
+[NAME JA]Nvidia Ray-X
+[NAME CH]Nvidia Ray-X 
+[NAME CT]Nvidia Ray-X 
+[NAME IT]Nvidia Ray-X
+[NAME FR]Nvidia Ray-X
+[NAME PL]Nvidia Ray-X
+[NAME UA]Nvidia Ray-X
+[NAME CZ]Nvidia Ray-X
+[NAME TH]Nvidia Ray-X
+[NAME RU]Nvidia Ray-X
 [DATE]MAY 2027
 [RES POINTS]4000
 [PRICE]40000000
@@ -832,21 +832,21 @@
 
 [ID]35
 [TYP]1
-[NAME EN]Nvaria Ray-X II
-[NAME GE]Nvaria Ray-X II
-[NAME TU]Nvaria Ray-X II
-[NAME ES]Nvaria Ray-X II
-[NAME PB]Nvaria Ray-X II
-[NAME JA]Nvaria Ray-X II
-[NAME CH]Nvaria Ray-X II
-[NAME CT]Nvaria Ray-X II
-[NAME IT]Nvaria Ray-X II
-[NAME FR]Nvaria Ray-X II
-[NAME PL]Nvaria Ray-X II
-[NAME UA]Nvaria Ray-X II
-[NAME CZ]Nvaria Ray-X II
-[NAME TH]Nvaria Ray-X II
-[NAME RU]Nvaria Ray-X II
+[NAME EN]Nvidia Ray-X II
+[NAME GE]Nvidia Ray-X II
+[NAME TU]Nvidia Ray-X II
+[NAME ES]Nvidia Ray-X II
+[NAME PB]Nvidia Ray-X II
+[NAME JA]Nvidia Ray-X II
+[NAME CH]Nvidia Ray-X II
+[NAME CT]Nvidia Ray-X II
+[NAME IT]Nvidia Ray-X II
+[NAME FR]Nvidia Ray-X II
+[NAME PL]Nvidia Ray-X II
+[NAME UA]Nvidia Ray-X II
+[NAME CZ]Nvidia Ray-X II
+[NAME TH]Nvidia Ray-X II
+[NAME RU]Nvidia Ray-X II
 [DATE]OCT 2031
 [RES POINTS]4200
 [PRICE]45000000
@@ -857,21 +857,21 @@
 
 [ID]36
 [TYP]2
-[NAME EN]128 Bytes
-[NAME GE]128 Bytes
-[NAME TU]128 Bayt
-[NAME ES]128 Bytes
-[NAME PB]128 Bytes
-[NAME JA]128バイト
-[NAME CH]128 Bytes内存条
-[NAME CT]128位元組
-[NAME IT]128 Bytes
-[NAME FR]128 octets
-[NAME PL]128 Bajty
-[NAME UA]128 Байтів
-[NAME CZ]128 B RAM
-[NAME TH]128 ไบต์
-[NAME RU]128 Bytes
+[NAME EN]128 Bytes DRAM 
+[NAME GE]128 Bytes DRAM 
+[NAME TU]128 Bytes DRAM 
+[NAME ES]128 Bytes DRAM 
+[NAME PB]128 Bytes DRAM 
+[NAME JA]128 Bytes DRAM 
+[NAME CH]128 Bytes DRAM 
+[NAME CT]128 Bytes DRAM 
+[NAME IT]128 Bytes DRAM 
+[NAME FR]128 Bytes DRAM 
+[NAME PL]128 Bytes DRAM 
+[NAME UA]128 Bytes DRAM 
+[NAME CZ]128 Bytes DRAM 
+[NAME TH]128 Bytes DRAM 
+[NAME RU]128 Bytes DRAM 
 [DATE]JAN 1976
 [RES POINTS]0
 [PRICE]0
@@ -880,21 +880,21 @@
 
 [ID]37
 [TYP]2
-[NAME EN]1024 Bytes
-[NAME GE]1024 Bytes
-[NAME TU]1024 Bayt
-[NAME ES]1024 Bytes
-[NAME PB]1024 Bytes
-[NAME JA]1024バイト
-[NAME CH]1024 Bytes内存条
-[NAME CT]1024位元組
-[NAME IT]1024 Bytes
-[NAME FR]1024 octets
-[NAME PL]1024 Bajty
-[NAME UA]1024 Байти
-[NAME CZ]1024 B RAM
-[NAME TH]1024 ไบต์
-[NAME RU]1024 Bytes
+[NAME EN]1024 Bytes DRAM 
+[NAME GE]1024 Bytes DRAM 
+[NAME TU]1024 Bytes DRAM 
+[NAME ES]1024 Bytes DRAM 
+[NAME PB]1024 Bytes DRAM 
+[NAME JA]1024 Bytes DRAM 
+[NAME CH]1024 Bytes DRAM 
+[NAME CT]1024 Bytes DRAM 
+[NAME IT]1024 Bytes DRAM 
+[NAME FR]1024 Bytes DRAM 
+[NAME PL]1024 Bytes DRAM 
+[NAME UA]1024 Bytes DRAM 
+[NAME CZ]1024 Bytes DRAM 
+[NAME TH]1024 Bytes DRAM 
+[NAME RU]1024 Bytes DRAM 
 [DATE]JUN 1979
 [RES POINTS]600
 [PRICE]180000
@@ -903,21 +903,21 @@
 
 [ID]38
 [TYP]2
-[NAME EN]8 Kilobyte
-[NAME GE]8 Kilobyte
-[NAME TU]8KB
-[NAME ES]8KB
-[NAME PB]8 Kilobytes
-[NAME JA]8KB
-[NAME CH]8KB内存条
-[NAME CT]8KB
-[NAME IT]8KB
-[NAME FR]8 kilo-octets
-[NAME PL]8 KB
-[NAME UA]8 Кілобайтів
-[NAME CZ]8 KB RAM
-[NAME TH]8 กิโลไบต์
-[NAME RU]8 Kilobyte
+[NAME EN]8KB DRAM 
+[NAME GE]8KB DRAM 
+[NAME TU]8KB DRAM 
+[NAME ES]8KB DRAM 
+[NAME PB]8KB DRAM 
+[NAME JA]8KB DRAM 
+[NAME CH]8KB DRAM 
+[NAME CT]8KB DRAM 
+[NAME IT]8KB DRAM 
+[NAME FR]8KB DRAM 
+[NAME PL]8KB DRAM 
+[NAME UA]8KB DRAM 
+[NAME CZ]8KB DRAM 
+[NAME TH]8KB DRAM 
+[NAME RU]8KB DRAM 
 [DATE]JUL 1982
 [RES POINTS]800
 [PRICE]250000
@@ -926,21 +926,21 @@
 
 [ID]39
 [TYP]2
-[NAME EN]64 Kilobyte
-[NAME GE]64 Kilobyte
-[NAME TU]64KB
-[NAME ES]64KB
-[NAME PB]64 Kilobytes
-[NAME JA]64KB
-[NAME CH]64KB 内存条
-[NAME CT]64KB
-[NAME IT]64KB
-[NAME FR]64 kilo-octets
-[NAME PL]64 KB
-[NAME UA]64 Кілобайти
-[NAME CZ]64 KB RAM
-[NAME TH]64 กิโลไบต์
-[NAME RU]64 Kilobyte
+[NAME EN]64KB DRAM 
+[NAME GE]64KB DRAM 
+[NAME TU]64KB DRAM 
+[NAME ES]64KB DRAM 
+[NAME PB]64KB DRAM 
+[NAME JA]64KB DRAM 
+[NAME CH]64KB DRAM 
+[NAME CT]64KB DRAM 
+[NAME IT]64KB DRAM 
+[NAME FR]64KB DRAM 
+[NAME PL]64KB DRAM 
+[NAME UA]64KB DRAM 
+[NAME CZ]64KB DRAM 
+[NAME TH]64KB DRAM 
+[NAME RU]64KB DRAM 
 [DATE]DEC 1984
 [RES POINTS]1000
 [PRICE]350000
@@ -949,21 +949,21 @@
 
 [ID]40
 [TYP]2
-[NAME EN]128 Kilobyte
-[NAME GE]128 Kilobyte
-[NAME TU]128KB
-[NAME ES]128KB
-[NAME PB]128 Kilobytes
-[NAME JA]128KB
-[NAME CH]128KB 内存条
-[NAME CT]128KB
-[NAME IT]128KB
-[NAME FR]128 kilo-octets
-[NAME PL]128 KB
-[NAME UA]128 Кілобайтів
-[NAME CZ]128 KB RAM
-[NAME TH]128 กิโลไบต์
-[NAME RU]128 Kilobyte
+[NAME EN]128KB NvSRAM
+[NAME GE]128KB NvSRAM
+[NAME TU]128KB NvSRAM
+[NAME ES]128KB NvSRAM
+[NAME PB]128KB NvSRAM
+[NAME JA]128KB NvSRAM
+[NAME CH]128KB NvSRAM
+[NAME CT]128KB NvSRAM
+[NAME IT]128KB NvSRAM
+[NAME FR]128KB NvSRAM
+[NAME PL]128KB NvSRAM
+[NAME UA]128KB NvSRAM
+[NAME CZ]128KB NvSRAM
+[NAME TH]128KB NvSRAM
+[NAME RU]128KB NvSRAM
 [DATE]FEB 1986
 [RES POINTS]1200
 [PRICE]500000
@@ -972,21 +972,21 @@
 
 [ID]41
 [TYP]2
-[NAME EN]512 Kilobyte
-[NAME GE]512 Kilobyte
-[NAME TU]512KB
-[NAME ES]512KB
-[NAME PB]512 Kilobytes
-[NAME JA]512KB
-[NAME CH]512KB 内存条
-[NAME CT]512KB
-[NAME IT]512KB
-[NAME FR]512 kilo-octets
-[NAME PL]512 KB
-[NAME UA]512 Кілобайтів
-[NAME CZ]512 KB RAM
-[NAME TH]512 กิโลไบต์
-[NAME RU]512 Kilobyte
+[NAME EN]512KB SDRAM
+[NAME GE]512KB SDRAM
+[NAME TU]512KB SDRAM
+[NAME ES]512KB SDRAM
+[NAME PB]512KB SDRAM
+[NAME JA]512KB SDRAM
+[NAME CH]512KB SDRAM
+[NAME CT]512KB SDRAM
+[NAME IT]512KB SDRAM
+[NAME FR]512KB SDRAM
+[NAME PL]512KB SDRAM
+[NAME UA]512KB SDRAM
+[NAME CZ]512KB SDRAM
+[NAME TH]512KB SDRAM
+[NAME RU]512KB SDRAM
 [DATE]MAR 1989
 [RES POINTS]1400
 [PRICE]600000
@@ -995,21 +995,21 @@
 
 [ID]42
 [TYP]2
-[NAME EN]2 Megabyte
-[NAME GE]2 Megabyte
-[NAME TU]2MB
-[NAME ES]2MB
-[NAME PB]2 Megabytes
-[NAME JA]2MB
-[NAME CH]2MB 内存条
-[NAME CT]2MB
-[NAME IT]2MB
-[NAME FR]2 Mégaoctets
-[NAME PL]2 MB
-[NAME UA]2 Мегабайти
-[NAME CZ]2 MB RAM
-[NAME TH]2 เมกะไบต์
-[NAME RU]2 Megabyte
+[NAME EN]2MB SDRAM
+[NAME GE]2MB SDRAM
+[NAME TU]2MB SDRAM
+[NAME ES]2MB SDRAM
+[NAME PB]2MB SDRAM
+[NAME JA]2MB SDRAM
+[NAME CH]2MB SDRAM
+[NAME CT]2MB SDRAM
+[NAME IT]2MB SDRAM
+[NAME FR]2MB SDRAM
+[NAME PL]2MB SDRAM
+[NAME UA]2MB SDRAM
+[NAME CZ]2MB SDRAM
+[NAME TH]2MB SDRAM
+[NAME RU]2MB SDRAM
 [DATE]OCT 1992
 [RES POINTS]1600
 [PRICE]1000000
@@ -1018,21 +1018,21 @@
 
 [ID]43
 [TYP]2
-[NAME EN]8 Megabyte
-[NAME GE]8 Megabyte
-[NAME TU]8MB
-[NAME ES]8MB
-[NAME PB]8 Megabytes
-[NAME JA]8MB
-[NAME CH]8MB 内存条
-[NAME CT]8MB
-[NAME IT]8MB
-[NAME FR]8 Mégaoctets
-[NAME PL]8 MB
-[NAME UA]8 Мегабайтів
-[NAME CZ]8 MB RAM
-[NAME TH]8 เมกะไบต์
-[NAME RU]8 Megabyte
+[NAME EN]8MB C
+[NAME GE]8MB SDRAM
+[NAME TU]8MB SDRAM
+[NAME ES]8MB SDRAM
+[NAME PB]8MB SDRAM
+[NAME JA]8MB SDRAM
+[NAME CH]8MB SDRAM
+[NAME CT]8MB SDRAM
+[NAME IT]8MB SDRAM
+[NAME FR]8MB SDRAM
+[NAME PL]8MB SDRAM
+[NAME UA]8MB SDRAM
+[NAME CZ]8MB SDRAM
+[NAME TH]8MB SDRAM
+[NAME RU]8MB SDRAM
 [DATE]NOV 1995
 [RES POINTS]1800
 [PRICE]1500000
@@ -1041,21 +1041,21 @@
 
 [ID]44
 [TYP]2
-[NAME EN]32 Megabyte
-[NAME GE]32 Megabyte
-[NAME ES]32MB
-[NAME TU]32MB
-[NAME PB]32 Megabytes
-[NAME JA]32MB
-[NAME CH]32MB 内存条
-[NAME CT]32MB
-[NAME IT]32MB
-[NAME FR]32 Mégaoctets
-[NAME PL]32 MB
-[NAME UA]32 Мегабайти
-[NAME CZ]32 MB RAM
-[NAME TH]32 เมกะไบต์
-[NAME RU]32 Megabyte
+[NAME EN]32MB SDRAM
+[NAME GE]32MB SDRAM
+[NAME ES]32MB SDRAM
+[NAME TU]32MB SDRAM
+[NAME PB]32MB SDRAM
+[NAME JA]32MB SDRAM
+[NAME CH]32MB SDRAM
+[NAME CT]32MB SDRAM
+[NAME IT]32MB SDRAM
+[NAME FR]32MB SDRAM
+[NAME PL]32MB SDRAM
+[NAME UA]32MB SDRAM
+[NAME CZ]32MB SDRAM
+[NAME TH]32MB SDRAM
+[NAME RU]32MB SDRAM
 [DATE]DEC 1997
 [RES POINTS]2000
 [PRICE]3000000
@@ -1064,21 +1064,21 @@
 
 [ID]45
 [TYP]2
-[NAME EN]128 Megabyte
-[NAME GE]128 Megabyte
-[NAME TU]128MB
-[NAME ES]128MB
-[NAME PB]128 Megabytes
-[NAME JA]128MB
-[NAME CH]128MB 内存条
-[NAME CT]128MB
-[NAME IT]128MB
-[NAME FR]128 Mégaoctets
-[NAME PL]128 MB
-[NAME UA]128 Мегабайтів
-[NAME CZ]128 MB RAM
-[NAME TH]128 เมกะไบต์
-[NAME RU]128 Megabyte
+[NAME EN]Samsung 128MB DDR
+[NAME GE]128MB DDR
+[NAME TU]128MB DDR
+[NAME ES]128MB DDR
+[NAME PB]128MB DDR
+[NAME JA]128MB DDR
+[NAME CH]128MB DDR
+[NAME CT]128MB DDR
+[NAME IT]128MB DDR
+[NAME FR]128MB DDR
+[NAME PL]128MB DDR
+[NAME UA]128MB DDR
+[NAME CZ]128MB DDR
+[NAME TH]128MB DDR
+[NAME RU]128MB DDR
 [DATE]SEP 2002
 [RES POINTS]2200
 [PRICE]4000000
@@ -1087,21 +1087,21 @@
 
 [ID]46
 [TYP]2
-[NAME EN]512 Megabyte
-[NAME GE]512 Megabyte
-[NAME TU]512MB
-[NAME ES]512MB
-[NAME PB]512 Megabytes
-[NAME JA]512MB
-[NAME CH]512MB 内存条
-[NAME CT]512MB
-[NAME IT]512MB
-[NAME FR]512 Mégaoctets
-[NAME PL]512 MB
-[NAME UA]512 Мегабайтів
-[NAME CZ]512 MB RAM
-[NAME TH]512 เมกะไบต์
-[NAME RU]512 Megabyte
+[NAME EN]HyperX 512MB DDR2
+[NAME GE]HyperX 512MB DDR2
+[NAME TU]HyperX 512MB DDR2
+[NAME ES]HyperX 512MB DDR2
+[NAME PB]HyperX 512MB DDR2
+[NAME JA]HyperX 512MB DDR2
+[NAME CH]HyperX 512MB DDR2
+[NAME CT]HyperX 512MB DDR2
+[NAME IT]HyperX 512MB DDR2
+[NAME FR]HyperX 512MB DDR2
+[NAME PL]HyperX 512MB DDR2
+[NAME UA]HyperX 512MB DDR2
+[NAME CZ]HyperX 512MB DDR2
+[NAME TH]HyperX 512MB DDR2
+[NAME RU]HyperX 512MB DDR2
 [DATE]FEB 2004
 [RES POINTS]2400
 [PRICE]6000000
@@ -1110,22 +1110,22 @@
 
 [ID]47
 [TYP]2
-[NAME EN]2 Gigabyte
-[NAME GE]2 Gigabyte
-[NAME TU]2GB
-[NAME ES]2GB
-[NAME PB]2 Gigabytes
-[NAME JA]2GB
-[NAME CH]2GB 内存条
-[NAME CT]2GB
-[NAME IT]2GB
-[NAME FR]2 Gigaoctets
-[NAME PL]2 GB
-[NAME UA]2 Гігабайти
-[NAME CZ]2 GB RAM
-[NAME TH]2 กิกะไบต์
-[NAME RU]2 Gigabyte
-[DATE]MAY 2008
+[NAME EN]HyperX 2GB DDR3
+[NAME GE]HyperX 2GB DDR3
+[NAME TU]HyperX 2GB DDR3
+[NAME ES]HyperX 2GB DDR3
+[NAME PB]HyperX 2GB DDR3
+[NAME JA]HyperX 2GB DDR3
+[NAME CH]HyperX 2GB DDR3
+[NAME CT]HyperX 2GB DDR3
+[NAME IT]HyperX 2GB DDR3
+[NAME FR]HyperX 2GB DDR3
+[NAME PL]HyperX 2GB DDR3
+[NAME UA]HyperX 2GB DDR3
+[NAME CZ]HyperX 2GB DDR3
+[NAME TH]HyperX 2GB DDR3
+[NAME RU]HyperX 2GB DDR3
+[DATE]MAY 2007
 [RES POINTS]2600
 [PRICE]7000000
 [DEV COSTS]14000000
@@ -1133,22 +1133,22 @@
 
 [ID]48
 [TYP]2
-[NAME EN]8 Gigabyte
-[NAME GE]8 Gigabyte
-[NAME TU]8GB
-[NAME ES]8GB
-[NAME PB]8 Gigabytes
-[NAME JA]8GB
-[NAME CH]8GB 内存条
-[NAME CT]8GB
-[NAME IT]8GB
-[NAME FR]8 Gigaoctets
-[NAME PL]8 GB
-[NAME UA]8 Гігабайтів
-[NAME CZ]8 GB RAM
-[NAME TH]8 กิกะไบต์
-[NAME RU]8 Gigabyte
-[DATE]JAN 2012
+[NAME EN]HyperX 8GB DDR3
+[NAME GE]HyperX 8GB DDR3
+[NAME TU]HyperX 8GB DDR3
+[NAME ES]HyperX 8GB DDR3
+[NAME PB]HyperX 8GB DDR3
+[NAME JA]HyperX 8GB DDR3
+[NAME CH]HyperX 8GB DDR3
+[NAME CT]HyperX 8GB DDR3
+[NAME IT]HyperX 8GB DDR3
+[NAME FR]HyperX 8GB DDR3
+[NAME PL]HyperX 8GB DDR3
+[NAME UA]HyperX 8GB DDR3
+[NAME CZ]HyperX 8GB DDR3
+[NAME TH]HyperX 8GB DDR3
+[NAME RU]HyperX 8GB DDR3
+[DATE]JAN 2011
 [RES POINTS]2800
 [PRICE]8000000
 [DEV COSTS]17000000
@@ -1156,22 +1156,22 @@
 
 [ID]49
 [TYP]2
-[NAME EN]12 Gigabyte
-[NAME GE]12 Gigabyte
-[NAME TU]12GB
-[NAME ES]12GB
-[NAME PB]12 Gigabytes
-[NAME JA]12GB
-[NAME CH]12GB 内存条
-[NAME CT]12GB
-[NAME IT]12GB
-[NAME FR]12 Gigaoctets
-[NAME PL]12 GB
-[NAME UA]12 Гігабайтів
-[NAME CZ]12 GB RAM
-[NAME TH]12 กิกะไบต์
-[NAME RU]12 Gigabyte
-[DATE]OCT 2015
+[NAME EN]HyperX 12GB DDR3
+[NAME GE]HyperX 12GB DDR3
+[NAME TU]HyperX 12GB DDR3
+[NAME ES]HyperX 12GB DDR3
+[NAME PB]HyperX 12GB DDR3
+[NAME JA]HyperX 12GB DDR3
+[NAME CH]HyperX 12GB DDR3
+[NAME CT]HyperX 12GB DDR3
+[NAME IT]HyperX 12GB DDR3
+[NAME FR]HyperX 12GB DDR3
+[NAME PL]HyperX 12GB DDR3
+[NAME UA]HyperX 12GB DDR3
+[NAME CZ]HyperX 12GB DDR3
+[NAME TH]HyperX 12GB DDR3
+[NAME RU]HyperX 12GB DDR3
+[DATE]OCT 2014
 [RES POINTS]3000
 [PRICE]10000000
 [DEV COSTS]20000000
@@ -1179,21 +1179,21 @@
 
 [ID]50
 [TYP]2
-[NAME EN]16 Gigabyte
-[NAME GE]16 Gigabyte
-[NAME TU]16GB
-[NAME ES]16GB
-[NAME PB]16 Gigabytes
-[NAME JA]16GB
-[NAME CH]16GB 内存条
-[NAME CT]16GB
-[NAME IT]16GB
-[NAME FR]16 Gigaoctets
-[NAME PL]16 GB
-[NAME UA]16 Гігабайтів
-[NAME CZ]16 GB RAM
-[NAME TH]16 กิกะไบต์
-[NAME RU]16 Gigabyte
+[NAME EN]HyperX 16GB DDR3
+[NAME GE]HyperX 16GB DDR3
+[NAME TU]HyperX 16GB DDR3
+[NAME ES]HyperX 16GB DDR3
+[NAME PB]HyperX 16GB DDR3
+[NAME JA]HyperX 16GB DDR3
+[NAME CH]HyperX 16GB DDR3
+[NAME CT]HyperX 16GB DDR3
+[NAME IT]HyperX 16GB DDR3
+[NAME FR]HyperX 16GB DDR3
+[NAME PL]HyperX 16GB DDR3
+[NAME UA]HyperX 16GB DDR3
+[NAME CZ]HyperX 16GB DDR3
+[NAME TH]HyperX 16GB DDR3
+[NAME RU]HyperX 16GB DDR3
 [DATE]JUN 2019
 [RES POINTS]3200
 [PRICE]13000000
@@ -1202,21 +1202,21 @@
 
 [ID]51
 [TYP]2
-[NAME EN]32 Gigabyte
-[NAME GE]32 Gigabyte
-[NAME TU]32GB
-[NAME ES]32GB
-[NAME PB]32 Gigabytes
-[NAME JA]32GB
-[NAME CH]32GB 内存条
-[NAME CT]32GB
-[NAME IT]32GB
-[NAME FR]32 Gigaoctets
-[NAME PL]32 GB
-[NAME UA]32 Гігабайти
-[NAME CZ]32 GB RAM
-[NAME TH]32 กิกะไบต์
-[NAME RU]32 Gigabyte 
+[NAME EN]HyperX 32GB DDR4
+[NAME GE]HyperX 32GB DDR4
+[NAME TU]HyperX 32GB DDR4
+[NAME ES]HyperX 32GB DDR4
+[NAME PB]HyperX 32GB DDR4
+[NAME JA]HyperX 32GB DDR4
+[NAME CH]HyperX 32GB DDR4
+[NAME CT]HyperX 32GB DDR4
+[NAME IT]HyperX 32GB DDR4
+[NAME FR]HyperX 32GB DDR4
+[NAME PL]HyperX 32GB DDR4
+[NAME UA]HyperX 32GB DDR4
+[NAME CZ]HyperX 32GB DDR4
+[NAME TH]HyperX 32GB DDR4
+[NAME RU]HyperX 32GB DDR4
 [DATE]APR 2024
 [RES POINTS]3400
 [PRICE]15000000
@@ -1225,21 +1225,21 @@
 
 [ID]52
 [TYP]2
-[NAME EN]64 Gigabyte
-[NAME GE]64 Gigabyte
+[NAME EN]64GB
+[NAME GE]64GB
 [NAME TU]64GB
 [NAME ES]64GB
-[NAME PB]64 Gigabytes
+[NAME PB]64GB
 [NAME JA]64GB
-[NAME CH]64GB 内存条
+[NAME CH]64GB
 [NAME CT]64GB
 [NAME IT]64GB
-[NAME FR]64 Gigaoctets
-[NAME PL]64 GB
-[NAME UA]64 Гігабайти
-[NAME CZ]64 GB RAM
-[NAME TH]64 กิกะไบต์
-[NAME RU]64 Gigabyte
+[NAME FR]64GB
+[NAME PL]64GB
+[NAME UA]64GB
+[NAME CZ]64GB
+[NAME TH]64GB
+[NAME RU]64GB
 [DATE]NOV 2027
 [RES POINTS]3600
 [PRICE]20000000
@@ -1248,21 +1248,21 @@
 
 [ID]53
 [TYP]2
-[NAME EN]128 Gigabyte
-[NAME GE]128 Gigabyte
+[NAME EN]128GB
+[NAME GE]128GB
 [NAME TU]128GB
 [NAME ES]128GB
-[NAME PB]128 Gigabytes
+[NAME PB]128GB
 [NAME JA]128GB
-[NAME CH]128GB 内存条
+[NAME CH]128GB
 [NAME CT]128GB
 [NAME IT]128GB
-[NAME FR]128 Gigaoctets
-[NAME PL]128 GB
-[NAME UA]128 Гігабайтів
-[NAME CZ]128 GB RAM
-[NAME TH]128 กิกะไบต์
-[NAME RU]128 Gigabyte
+[NAME FR]128GB
+[NAME PL]128GB
+[NAME UA]128GB
+[NAME CZ]128GB
+[NAME TH]128GB
+[NAME RU]128GB
 [DATE]JUL 2032
 [RES POINTS]3800
 [PRICE]25000000
@@ -1273,7 +1273,7 @@
 
 [ID]54
 [TYP]3
-[NAME EN]No storage option
+[NAME EN]No Storage Option
 [NAME GE]Keine Speichermöglichkeit
 [NAME TU]Depolama seçeneği yok
 [NAME ES]Sin opción de almacenamiento
@@ -1296,21 +1296,21 @@
 
 [ID]55
 [TYP]3
-[NAME EN]128 bytes on cartridge
-[NAME GE]128 Bytes auf Modul
-[NAME TU]128 Bayt Kartuş
-[NAME ES]128 bytes en cartucho
-[NAME PB]Cartucho de 128 bytes
-[NAME JA]128バイト バッテリーバックアップ
-[NAME CH]128 bytes卡带
-[NAME CT]128位元組卡帶
-[NAME IT]Cartuccia da 128 bytes
-[NAME FR]128 octets sur cartouche
-[NAME PL]Kartridż 128 bajty
-[NAME UA]Картридж на 128 байтів
-[NAME CZ]128 B disketa
-[NAME TH]ตลับขนาด 128 ไบต์
-[NAME RU]Картридж 128 bytes
+[NAME EN]128 bytes Cartridge
+[NAME GE]128 bytes Cartridge
+[NAME TU]128 bytes Cartridge
+[NAME ES]128 bytes Cartridge
+[NAME PB]128 bytes Cartridge
+[NAME JA]128 bytes Cartridge
+[NAME CH]128 bytes Cartridge
+[NAME CT]128 bytes Cartridge
+[NAME IT]128 bytes Cartridge
+[NAME FR]128 bytes Cartridge
+[NAME PL]128 bytes Cartridge
+[NAME UA]128 bytes Cartridge
+[NAME CZ]128 bytes Cartridge
+[NAME TH]128 bytes Cartridge
+[NAME RU]128 bytes Cartridge
 [DATE]MAR 1978
 [RES POINTS]600
 [PRICE]160000
@@ -1319,21 +1319,21 @@
 
 [ID]56
 [TYP]3
-[NAME EN]1 kilobyte on cartridge
-[NAME GE]1 Kilobyte auf Modul
-[NAME TU]1KB Kartuş
-[NAME ES]1KB en cartucho
-[NAME PB]Cartucho de 1 kilobyte
-[NAME JA]1KB バッテリーバックアップ
-[NAME CH]1KB 卡带
-[NAME CT]1KB卡帶
-[NAME IT]Cartuccia da 1KB
-[NAME FR]1 kilo-octet sur cartouche
-[NAME PL]Kartridż 1 KB
-[NAME UA]Картридж на 1 кілобайт
-[NAME CZ]1 KB disketa
-[NAME TH]ตลับขนาด 1 กิโลไบต์
-[NAME RU]Картридж 1 kilobyte
+[NAME EN]1KB Cartridge
+[NAME GE]1KB Cartridge
+[NAME TU]1KB Cartridge
+[NAME ES]1KB Cartridge
+[NAME PB]1KB Cartridge
+[NAME JA]1KB Cartridge
+[NAME CH]1KB Cartridge
+[NAME CT]1KB Cartridge
+[NAME IT]1KB Cartridge
+[NAME FR]1KB Cartridge
+[NAME PL]1KB Cartridge
+[NAME UA]1KB Cartridge
+[NAME CZ]1KB Cartridge
+[NAME TH]1KB Cartridge
+[NAME RU]1KB Cartridge
 [DATE]APR 1982
 [RES POINTS]800
 [PRICE]250000
@@ -1342,21 +1342,21 @@
 
 [ID]57
 [TYP]3
-[NAME EN]4 kilobyte on cartridge
-[NAME GE]4 Kilobyte auf Modul
-[NAME TU]4KB Kartuş
-[NAME ES]4KB en cartucho
-[NAME PB]Cartucho de 4 kilobytes
-[NAME JA]4KB バッテリーバックアップ
-[NAME CH]4KB 卡带
-[NAME CT]4KB卡帶
-[NAME IT]Cartuccia da 4KB
-[NAME FR]4 kilo-octet sur cartouche
-[NAME PL]Kartridż 4 KB
-[NAME UA]Картридж на 4 кілобайти
-[NAME CZ]4 KB disketa
-[NAME TH]ตลับขนาด 4 กิโลไบต์
-[NAME RU]Картридж 4 kilobyte
+[NAME EN]4KB Cartridge
+[NAME GE]4KB Cartridge
+[NAME TU]4KB Cartridge
+[NAME ES]4KB Cartridge
+[NAME PB]4KB Cartridge
+[NAME JA]4KB Cartridge
+[NAME CH]4KB Cartridge
+[NAME CT]4KB Cartridge
+[NAME IT]4KB Cartridge
+[NAME FR]4KB Cartridge
+[NAME PL]4KB Cartridge
+[NAME UA]4KB Cartridge
+[NAME CZ]4KB Cartridge
+[NAME TH]4KB Cartridge
+[NAME RU]4KB Cartridge
 [DATE]SEP 1984
 [RES POINTS]1000
 [PRICE]400000
@@ -1365,7 +1365,7 @@
 
 [ID]58
 [TYP]3
-[NAME EN]8 kilobyte on cartridge
+[NAME EN]8KB Cartridge
 [NAME GE]8 Kilobyte auf Modul
 [NAME TU]8KB Kartuş
 [NAME ES]8KB en cartucho
@@ -1388,7 +1388,7 @@
 
 [ID]59
 [TYP]3
-[NAME EN]32 kilobyte on cartridge
+[NAME EN]32KB Cartridge
 [NAME GE]32 Kilobyte auf Modul
 [NAME TU]32KB Kartuş
 [NAME ES]32KB en cartucho
@@ -1411,7 +1411,7 @@
 
 [ID]60
 [TYP]3
-[NAME EN]512 kilobyte memory card
+[NAME EN]512KB Memory Card
 [NAME GE]512 Kilobyte Speicherkarte
 [NAME TU]512KB Hafıza Kartı
 [NAME ES]Tarjeta de memoria de 512KB
@@ -1434,7 +1434,7 @@
 
 [ID]61
 [TYP]3
-[NAME EN]4 megabyte memory card
+[NAME EN]4MB Memory Card
 [NAME GE]4 Megabyte Speicherkarte
 [NAME TU]4MB Hafıza Kartı
 [NAME ES]Tarjeta de memoria de 4MB
@@ -1457,7 +1457,7 @@
 
 [ID]62
 [TYP]3
-[NAME EN]32 megabyte memory card
+[NAME EN]32MB Memory Card
 [NAME GE]32 Megabyte Speicherkarte
 [NAME TU]32MB Hafıza Kartı
 [NAME ES]Tarjeta de memoria de 32MB
@@ -1480,7 +1480,7 @@
 
 [ID]63
 [TYP]3
-[NAME EN]64 megabyte memory card
+[NAME EN]64MB Memory Card
 [NAME GE]64 Megabyte Speicherkarte
 [NAME TU]64MB Hafıza Kartı
 [NAME ES]Tarjeta de memoria de 64MB
@@ -1503,21 +1503,21 @@
 
 [ID]64
 [TYP]3
-[NAME EN]20 gigabyte hard disk
-[NAME GE]20 Gigabyte Festplatte
-[NAME TU]20GB Hafıza Kartı
-[NAME ES]Disco duro de 20GB
-[NAME PB]Disco rígido de 20 gigabytes
-[NAME JA]20GB ハードディスク
-[NAME CH]20GB硬盘
-[NAME CT]20GB硬碟
-[NAME IT]Disco rigido 20GB
-[NAME FR]Disque dur de 20 gigaoctets
-[NAME PL]Dysk 20 GB
-[NAME UA]Жорсткий диск на 20 ГБ
-[NAME CZ]20 GB pevný disk
-[NAME TH]ฮาร์ดดิสก์ขนาด 20 กิกะไบต์
-[NAME RU]Жёсткий диск 20 gigabyte
+[NAME EN]20GB HDD
+[NAME GE]20GB HDD
+[NAME TU]20GB HDD
+[NAME ES]20GB HDD
+[NAME PB]20GB HDD
+[NAME JA]20GB HDD
+[NAME CH]20GB HDD
+[NAME CT]20GB HDD
+[NAME IT]20GB HDD
+[NAME FR]20GB HDD
+[NAME PL]20GB HDD
+[NAME UA]20GB HDD
+[NAME CZ]20GB HDD
+[NAME TH]20GB HDD
+[NAME RU]20GB HDD
 [DATE]JUL 2004
 [RES POINTS]2400
 [PRICE]6000000
@@ -1527,7 +1527,7 @@
 
 [ID]65
 [TYP]3
-[NAME EN]2 gigabyte memory card
+[NAME EN]2GB Memory Card
 [NAME GE]2 Gigabyte Speicherkarte
 [NAME TU]2GB Hafıza Kartı
 [NAME ES]Tarjeta de memoria de 2GB
@@ -1551,7 +1551,7 @@
 
 [ID]66
 [TYP]3
-[NAME EN]80 gigabyte hard disk
+[NAME EN]80GB HDD
 [NAME GE]80 Gigabyte Festplatte
 [NAME TU]80GB Hard Disk
 [NAME ES]Disco duro de 80GB
@@ -1575,7 +1575,7 @@
 
 [ID]67
 [TYP]3
-[NAME EN]500 gigabyte hard disk
+[NAME EN]500GB HDD
 [NAME GE]500 Gigabyte Festplatte
 [NAME TU]500GB Hard Disk
 [NAME ES]Disco duro de 500GB
@@ -1599,7 +1599,7 @@
 
 [ID]68
 [TYP]3
-[NAME EN]8 gigabyte memory card
+[NAME EN]8GB Memory Card
 [NAME GE]8 Gigabyte Speicherkarte
 [NAME TU]8GB Hafıza Kartı
 [NAME ES]Tarjeta de memoria de 8GB
@@ -1623,7 +1623,7 @@
 
 [ID]69
 [TYP]3
-[NAME EN]800 gigabyte hard disk
+[NAME EN]800GB HDD
 [NAME GE]800 Gigabyte Festplatte
 [NAME TU]800GB Hard Disk
 [NAME ES]Disco duro de 800GB
@@ -1647,7 +1647,7 @@
 
 [ID]70
 [TYP]3
-[NAME EN]1 terabyte hard disk
+[NAME EN]1TB HDD
 [NAME GE]1 Terabyte Festplatte
 [NAME TU]1TB Hard Disk
 [NAME ES]Disco duro de 1TB
@@ -1671,7 +1671,7 @@
 
 [ID]71
 [TYP]3
-[NAME EN]32 gigabyte memory card
+[NAME EN]32GB Memory Card
 [NAME GE]32 Gigabyte Speicherkarte
 [NAME TU]32GB Hafıza Kartı
 [NAME ES]Tarjeta de memoria de 32GB
@@ -1695,7 +1695,7 @@
 
 [ID]72
 [TYP]3
-[NAME EN]4 terabyte hard disk
+[NAME EN]4TB SDD
 [NAME GE]4 Terabyte Festplatte
 [NAME TU]4TB Hard Disk
 [NAME ES]Disco duro de 4TB
@@ -1719,7 +1719,7 @@
 
 [ID]73
 [TYP]3
-[NAME EN]512 gigabyte memory card
+[NAME EN]512GB Memory Cards
 [NAME GE]512 Gigabyte Speicherkarte
 [NAME TU]512GB Hafıza Kartı
 [NAME ES]Tarjeta de memoria de 512GB
@@ -1743,7 +1743,7 @@
 
 [ID]74
 [TYP]3
-[NAME EN]16 terabyte hard disk
+[NAME EN]16TB SSD
 [NAME GE]16 Terabyte Festplatte
 [NAME TU]16TB Hard Disk
 [NAME ES]Disco duro de 16TB
@@ -1767,7 +1767,7 @@
 
 [ID]151
 [TYP]3
-[NAME EN]32 terabyte hard disk
+[NAME EN]32TB SDD
 [NAME GE]32 Terabyte Festplatte
 [NAME TU]32TB Hard Disk
 [NAME ES]Disco duro de 32TB
@@ -1791,7 +1791,7 @@
 
 [ID]152
 [TYP]3
-[NAME EN]750 gigabyte memory card
+[NAME EN]750GB Memory Card
 [NAME GE]750 Gigabyte Speicherkarte
 [NAME TU]750GB Hafıza Kartı
 [NAME ES]Tarjeta de memoria de 750GB
@@ -1815,7 +1815,7 @@
 
 [ID]153
 [TYP]3
-[NAME EN]1 terabyte memory card
+[NAME EN]1TB Memory Card
 [NAME GE]1 Terabyte Speicherkarte
 [NAME TU]1TB Hafıza Kartı
 [NAME ES]Tarjeta de memoria de 1TB
@@ -1839,7 +1839,7 @@
 
 [ID]154
 [TYP]3
-[NAME EN]4 terabyte memory card
+[NAME EN]4TB Memory Card
 [NAME GE]4 Terabyte Speicherkarte
 [NAME TU]4TB Hafıza Kartı
 [NAME ES]Tarjeta de memoria de 4TB
@@ -1865,7 +1865,7 @@
 
 [ID]75
 [TYP]7
-[NAME EN]Controller I
+[NAME EN]Controller [TYPE 1]
 [NAME GE]Controller I
 [NAME TU]Kontrolcü I
 [NAME ES]Controlador I
@@ -1890,7 +1890,7 @@
 
 [ID]76
 [TYP]7
-[NAME EN]Controller II
+[NAME EN]Controller [TYPE 2]
 [NAME GE]Controller II
 [NAME TU]Kontrolcü II
 [NAME ES]Controlador II
@@ -1915,7 +1915,7 @@
 
 [ID]77
 [TYP]7
-[NAME EN]Controller III
+[NAME EN]Controller [TYPE 3]
 [NAME GE]Controller III
 [NAME TU]Kontrolcü III
 [NAME ES]Controlador III
@@ -1940,7 +1940,7 @@
 
 [ID]78
 [TYP]7
-[NAME EN]Modern controller I
+[NAME EN]Modern controller [TYPE 1]
 [NAME GE]Moderner Controller I
 [NAME TU]Modern Kontrolcü I
 [NAME ES]Controlador moderno I
@@ -1965,7 +1965,7 @@
 
 [ID]79
 [TYP]7
-[NAME EN]Modern controller II
+[NAME EN]Modern controller [TYPE 2]
 [NAME GE]Moderner Controller II
 [NAME TU]Modern Kontrolcü II
 [NAME ES]Controlador moderno II
@@ -1990,7 +1990,7 @@
 
 [ID]80
 [TYP]7
-[NAME EN]Modern controller III
+[NAME EN]Modern controller [TYPE 3]
 [NAME GE]Moderner Controller III
 [NAME TU]Modern Kontrolcü III
 [NAME ES]Controlador moderno III
@@ -2015,7 +2015,7 @@
 
 [ID]81
 [TYP]7
-[NAME EN]Modern controller IV
+[NAME EN]Modern controller [TYPE 4]
 [NAME GE]Moderner Controller IV
 [NAME TU]Modern Kontrolcü IV
 [NAME ES]Controlador moderno IV
@@ -2040,7 +2040,7 @@
 
 [ID]82
 [TYP]7
-[NAME EN]Modern controller V
+[NAME EN]Modern controller [TYPE 5]
 [NAME GE]Moderner Controller V
 [NAME TU]Modern Kontrolcü V
 [NAME ES]Controlador moderno V
@@ -2065,7 +2065,7 @@
 
 [ID]148
 [TYP]7
-[NAME EN]Modern controller VI
+[NAME EN]Modern controller [TYPE 6]
 [NAME GE]Moderner Controller VI
 [NAME TU]Modern Kontrolcü VI
 [NAME ES]Controlador moderno VI
@@ -2741,7 +2741,7 @@
 
 [ID]109
 [TYP]5
-[NAME EN]Air vents
+[NAME EN]Air Vents
 [NAME GE]Lüftungsschlitze
 [NAME TU]Havalandırma
 [NAME ES]Respiraderos de ventilación
@@ -2789,7 +2789,7 @@
 
 [ID]111
 [TYP]5
-[NAME EN]Small case fan
+[NAME EN]Small Case Fan
 [NAME GE]Kleiner Gehäuselüfter
 [NAME TU]Küçük Kasa Fanı
 [NAME ES]Ventilador de caja pequeña
@@ -2813,7 +2813,7 @@
 
 [ID]112
 [TYP]5
-[NAME EN]Small fans for CPU and GPU
+[NAME EN]Small Fans for CPU and GPU
 [NAME GE]Kleine Lüfter für CPU und GPU
 [NAME TU]CPU ve GPU için Küçük Fanı
 [NAME ES]Pequeños ventiladores para CPU y GPU
@@ -2837,7 +2837,7 @@
 
 [ID]113
 [TYP]5
-[NAME EN]High performance fan for CPU and GPU
+[NAME EN]High Performance fan for CPU and GPU
 [NAME GE]Hochleistungs Lüfter für CPU und GPU
 [NAME TU]CPU ve GPU için Yüksek Performanslı Fan
 [NAME ES]Ventilador de alto rendimiento para CPU y GPU
@@ -2861,7 +2861,7 @@
 
 [ID]114
 [TYP]5
-[NAME EN]Tuned 3-fan system
+[NAME EN]Tuned 3-Fan
 [NAME GE]Abgestimmtes 3-Lüfter-System
 [NAME TU]3 Fanlı Ayarlı Sistem
 [NAME ES]Sistema de 3 ventiladores sintonizado
@@ -2885,7 +2885,7 @@
 
 [ID]115
 [TYP]5
-[NAME EN]Modern 4-fan system
+[NAME EN]Modern 4-Fan
 [NAME GE]Modernes 4-Lüfter-System
 [NAME TU]4 Fanlı Modern Sistem
 [NAME ES]Sistema moderno de 4 ventiladores
@@ -2909,7 +2909,7 @@
 
 [ID]116
 [TYP]5
-[NAME EN]Water-cooling system
+[NAME EN]Water Cooling
 [NAME GE]Wasserkühlung
 [NAME TU]Sıvı-Soğutma Sistemi
 [NAME ES]Sistema de refrigeración por agua
@@ -2933,7 +2933,7 @@
 
 [ID]150
 [TYP]5
-[NAME EN]Liquid-metal cooling system
+[NAME EN]SkyNet Cooling
 [NAME GE]Flüssigmetall-Kühlsystem
 [NAME TU]Liquid-metal cooling system
 [NAME ES]Liquid-metal cooling system
@@ -2959,7 +2959,7 @@
 
 [ID]117
 [TYP]6
-[NAME EN]4 kilobyte cartridge
+[NAME EN]4KB Cartridge
 [NAME GE]4 Kilobyte Modul
 [NAME TU]4KB Disket
 [NAME ES]Cartucho de 4KB
@@ -2982,7 +2982,7 @@
 
 [ID]118
 [TYP]6
-[NAME EN]128 kilobyte cartridge
+[NAME EN]128KB Cartridge
 [NAME GE]128 Kilobyte Modul
 [NAME TU]128KB Disket
 [NAME ES]Cartucho de 128KB
@@ -3005,7 +3005,7 @@
 
 [ID]119
 [TYP]6
-[NAME EN]1 megabyte cartridge
+[NAME EN]1MB Cartridge
 [NAME GE]1 Megabyte Modul
 [NAME TU]1MB Disket
 [NAME ES]Cartucho de 1MB
@@ -3028,7 +3028,7 @@
 
 [ID]120
 [TYP]6
-[NAME EN]700 megabyte CD
+[NAME EN]700MB CD
 [NAME GE]700 Megabyte CD
 [NAME TU]700MB CD
 [NAME ES]CD de 700MB
@@ -3052,7 +3052,7 @@
 
 [ID]121
 [TYP]6
-[NAME EN]16 megabyte cartridge
+[NAME EN]16MB Cartridge
 [NAME GE]16 Megabyte Modul
 [NAME TU]16 megabyte cartridge
 [NAME ES]cartucho de 16MB
@@ -3076,7 +3076,7 @@
 
 [ID]122
 [TYP]6
-[NAME EN]4 gigabyte DVD
+[NAME EN]4GB DVD
 [NAME GE]4 Gigabyte DVD
 [NAME TU]4GB DVD
 [NAME ES]DVD de 4GB
@@ -3100,7 +3100,7 @@
 
 [ID]123
 [TYP]6
-[NAME EN]128 megabyte cartridge
+[NAME EN]128MB Cartridge
 [NAME GE]128 Megabyte Modul
 [NAME TU]128 megabyte cartridge
 [NAME ES]cartucho de 128MB
@@ -3124,7 +3124,7 @@
 
 [ID]124
 [TYP]6
-[NAME EN]512 megabyte cartridge
+[NAME EN]512MB Cartridge
 [NAME GE]512 Megabyte Modul
 [NAME TU]512MB Disket
 [NAME ES]Cartucho de 512MB
@@ -3148,7 +3148,7 @@
 
 [ID]125
 [TYP]6
-[NAME EN]25 gigabyte Blu-Ray
+[NAME EN]25GB Blu-Ray
 [NAME GE]25 Gigabyte Blu-Ray
 [NAME TU]25GB Blu-DVD
 [NAME ES]DVD azul de 25GB
@@ -3172,7 +3172,7 @@
 
 [ID]126
 [TYP]6
-[NAME EN]2 gigabyte cartridge
+[NAME EN]2GB Cartridge
 [NAME GE]2 Gigabyte Modul
 [NAME TU]2GB Disket
 [NAME ES]Cartucho de 2GB
@@ -3196,7 +3196,7 @@
 
 [ID]127
 [TYP]6
-[NAME EN]50 gigabyte Dual-DVD
+[NAME EN]50GB Blu-Ray
 [NAME GE]50 Gigabyte Dual-DVD
 [NAME TU]50gb Çift Katlı DV
 [NAME ES]DVD dual de 50GB
@@ -3220,7 +3220,7 @@
 
 [ID]128
 [TYP]6
-[NAME EN]120 gigabyte HD-DVD
+[NAME EN]120GB Blu-Ray
 [NAME GE]120 Gigabyte HD-DVD
 [NAME TU]120GB HD-DVD
 [NAME ES]HD-DVD de 120GB
@@ -3244,7 +3244,7 @@
 
 [ID]129
 [TYP]6
-[NAME EN]16 gigabyte cartridge
+[NAME EN]16GB Cartridge
 [NAME GE]16 Gigabyte Modul
 [NAME TU]16GB Disket
 [NAME ES]Cartucho de 16GB
@@ -3268,7 +3268,7 @@
 
 [ID]130
 [TYP]6
-[NAME EN]64 gigabyte cartridge
+[NAME EN]64GB Cartridge
 [NAME GE]64 Gigabyte Modul
 [NAME TU]64GB Disket
 [NAME ES]Cartucho de 64GB
@@ -3292,7 +3292,7 @@
 
 [ID]131
 [TYP]6
-[NAME EN]250 gigabyte Ultra-DVD
+[NAME EN]250GB Blu-Ray
 [NAME GE]250 Gigabyte Ultra-DVD
 [NAME TU]250GB Ultra-DVD
 [NAME ES]Ultra DVD de 250GB
@@ -3316,7 +3316,7 @@
 
 [ID]149
 [TYP]6
-[NAME EN]128 gigabyte cartridge
+[NAME EN]128GB Catridge
 [NAME GE]128 Gigabyte Modul
 [NAME TU]128GB Disket
 [NAME ES]Cartucho de 128GB
@@ -4146,5 +4146,1550 @@
 [TECHLEVEL]8
 [PIC]pCon7B.png
 [ONLY_STATIONARY]
+
+/////////////////////////////////////////////////////////GPU2
+
+[ID]172
+[TYP]1
+[NAME EN]Nvidia NV1
+[NAME GE]Nvidia NV1
+[NAME TU]Nvidia NV1
+[NAME ES]Nvidia NV1
+[NAME PB]Nvidia NV1
+[NAME JA]Nvidia NV1
+[NAME CH]Nvidia NV1
+[NAME CT]Nvidia NV1
+[NAME IT]Nvidia NV1
+[NAME FR]Nvidia NV1
+[NAME PL]Nvidia NV1
+[NAME UA]Nvidia NV1
+[NAME CZ]Nvidia NV1
+[NAME TH]Nvidia NV1
+[NAME RU]Nvidia NV1
+[DATE]NOV 1995
+[RES POINTS]1900
+[PRICE]45000000
+[DEV COSTS]1000000
+[TECHLEVEL]4
+
+[ID]173
+[TYP]1
+[NAME EN]Nvidia RIVA 128
+[NAME GE]Nvidia RIVA 128
+[NAME TU]Nvidia RIVA 128
+[NAME ES]Nvidia RIVA 128
+[NAME PB]Nvidia RIVA 128
+[NAME JA]Nvidia RIVA 128
+[NAME CH]Nvidia RIVA 128
+[NAME CT]Nvidia RIVA 128
+[NAME IT]Nvidia RIVA 128
+[NAME FR]Nvidia RIVA 128
+[NAME PL]Nvidia RIVA 128
+[NAME UA]Nvidia RIVA 128
+[NAME CZ]Nvidia RIVA 128
+[NAME TH]Nvidia RIVA 128
+[NAME RU]Nvidia RIVA 128
+[DATE]AUG 1997
+[RES POINTS]1800
+[PRICE]45000000
+[DEV COSTS]1000000
+[TECHLEVEL]4
+
+[ID]174
+[TYP]1
+[NAME EN]Nvidia RIVA TNT
+[NAME GE]Nvidia RIVA TNT
+[NAME TU]Nvidia RIVA TNT
+[NAME ES]Nvidia RIVA TNT
+[NAME PB]Nvidia RIVA TNT
+[NAME JA]Nvidia RIVA TNT
+[NAME CH]Nvidia RIVA TNT
+[NAME CT]Nvidia RIVA TNT
+[NAME IT]Nvidia RIVA TNT
+[NAME FR]Nvidia RIVA TNT
+[NAME PL]Nvidia RIVA TNT
+[NAME UA]Nvidia RIVA TNT
+[NAME CZ]Nvidia RIVA TNT
+[NAME TH]Nvidia RIVA TNT
+[NAME RU]Nvidia RIVA TNT
+[DATE]JUN 1998
+[RES POINTS]1800
+[PRICE]45000000
+[DEV COSTS]1000000
+[TECHLEVEL]4
+
+[ID]175
+[TYP]1
+[NAME EN]Nvidia RIVA TNT2
+[NAME GE]Nvidia RIVA TNT2
+[NAME TU]Nvidia RIVA TNT2
+[NAME ES]Nvidia RIVA TNT2
+[NAME PB]Nvidia RIVA TNT2
+[NAME JA]Nvidia RIVA TNT2
+[NAME CH]Nvidia RIVA TNT2
+[NAME CT]Nvidia RIVA TNT2
+[NAME IT]Nvidia RIVA TNT2
+[NAME FR]Nvidia RIVA TNT2
+[NAME PL]Nvidia RIVA TNT2
+[NAME UA]Nvidia RIVA TNT2
+[NAME CZ]Nvidia RIVA TNT2
+[NAME TH]Nvidia RIVA TNT2
+[NAME RU]Nvidia RIVA TNT2
+[DATE]MAR 1999
+[RES POINTS]1800
+[PRICE]45000000
+[DEV COSTS]1000000
+[TECHLEVEL]4
+
+[ID]176
+[TYP]1
+[NAME EN]Nvidia GeForce 256
+[NAME GE]Nvidia GeForce 256
+[NAME TU]Nvidia GeForce 256
+[NAME ES]Nvidia GeForce 256
+[NAME PB]Nvidia GeForce 256
+[NAME JA]Nvidia GeForce 256
+[NAME CH]Nvidia GeForce 256
+[NAME CT]Nvidia GeForce 256
+[NAME IT]Nvidia GeForce 256
+[NAME FR]Nvidia GeForce 256
+[NAME PL]Nvidia GeForce 256
+[NAME UA]Nvidia GeForce 256
+[NAME CZ]Nvidia GeForce 256
+[NAME TH]Nvidia GeForce 256
+[NAME RU]Nvidia GeForce 256
+[DATE]OCT 1999
+[RES POINTS]1800
+[PRICE]45000000
+[DEV COSTS]1000000
+[TECHLEVEL]4
+
+[ID]177
+[TYP]1
+[NAME EN]Nvidia GeForce2 Ultra
+[NAME GE]Nvidia GeForce2 Ultra
+[NAME TU]Nvidia GeForce2 Ultra
+[NAME ES]Nvidia GeForce2 Ultra
+[NAME PB]Nvidia GeForce2 Ultra
+[NAME JA]Nvidia GeForce2 Ultra
+[NAME CH]Nvidia GeForce2 Ultra
+[NAME CT]Nvidia GeForce2 Ultra
+[NAME IT]Nvidia GeForce2 Ultra
+[NAME FR]Nvidia GeForce2 Ultra
+[NAME PL]Nvidia GeForce2 Ultra
+[NAME UA]Nvidia GeForce2 Ultra
+[NAME CZ]Nvidia GeForce2 Ultra
+[NAME TH]Nvidia GeForce2 Ultra
+[NAME RU]Nvidia GeForce2 Ultra
+[DATE]AUG 2000
+[RES POINTS]1800
+[PRICE]45000000
+[DEV COSTS]2000000
+[TECHLEVEL]5
+
+[ID]178
+[TYP]1
+[NAME EN]Nvidia GeForce2 Pro
+[NAME GE]Nvidia GeForce2 Pro
+[NAME TU]Nvidia GeForce2 Pro
+[NAME ES]Nvidia GeForce2 Pro
+[NAME PB]Nvidia GeForce2 Pro
+[NAME JA]Nvidia GeForce2 Pro
+[NAME CH]Nvidia GeForce2 Pro
+[NAME CT]Nvidia GeForce2 Pro
+[NAME IT]Nvidia GeForce2 Pro
+[NAME FR]Nvidia GeForce2 Pro
+[NAME PL]Nvidia GeForce2 Pro
+[NAME UA]Nvidia GeForce2 Pro
+[NAME CZ]Nvidia GeForce2 Pro
+[NAME TH]Nvidia GeForce2 Pro
+[NAME RU]Nvidia GeForce2 Pro
+[DATE]DEC 2000
+[RES POINTS]1820
+[PRICE]45000000
+[DEV COSTS]2000000
+[TECHLEVEL]5
+
+[ID]179
+[TYP]1
+[NAME EN]Nvidia GeForce3
+[NAME GE]Nvidia GeForce3
+[NAME TU]Nvidia GeForce3
+[NAME ES]Nvidia GeForce3
+[NAME PB]Nvidia GeForce3
+[NAME JA]Nvidia GeForce3
+[NAME CH]Nvidia GeForce3
+[NAME CT]Nvidia GeForce3
+[NAME IT]Nvidia GeForce3
+[NAME FR]Nvidia GeForce3
+[NAME PL]Nvidia GeForce3
+[NAME UA]Nvidia GeForce3
+[NAME CZ]Nvidia GeForce3
+[NAME TH]Nvidia GeForce3
+[NAME RU]Nvidia GeForce3
+[DATE]FEB 2001
+[RES POINTS]1840
+[PRICE]45000000
+[DEV COSTS]2000000
+[TECHLEVEL]5
+
+[ID]180
+[TYP]1
+[NAME EN]Nvidia GeForce2 MX400
+[NAME GE]Nvidia GeForce2 MX400
+[NAME TU]Nvidia GeForce2 MX400
+[NAME ES]Nvidia GeForce2 MX400
+[NAME PB]Nvidia GeForce2 MX400
+[NAME JA]Nvidia GeForce2 MX400
+[NAME CH]Nvidia GeForce2 MX400
+[NAME CT]Nvidia GeForce2 MX400
+[NAME IT]Nvidia GeForce2 MX400
+[NAME FR]Nvidia GeForce2 MX400
+[NAME PL]Nvidia GeForce2 MX400
+[NAME UA]Nvidia GeForce2 MX400
+[NAME CZ]Nvidia GeForce2 MX400
+[NAME TH]Nvidia GeForce2 MX400
+[NAME RU]Nvidia GeForce2 MX400
+[DATE]MAR 2001
+[RES POINTS]1860
+[PRICE]45000000
+[DEV COSTS]2000000
+[TECHLEVEL]5
+
+[ID]181
+[TYP]1
+[NAME EN]Nvidia GeForce2 MX IGP
+[NAME GE]Nvidia GeForce2 MX IGP
+[NAME TU]Nvidia GeForce2 MX IGP
+[NAME ES]Nvidia GeForce2 MX IGP
+[NAME PB]Nvidia GeForce2 MX IGP
+[NAME JA]Nvidia GeForce2 MX IGP
+[NAME CH]Nvidia GeForce2 MX IGP
+[NAME CT]Nvidia GeForce2 MX IGP
+[NAME IT]Nvidia GeForce2 MX IGP
+[NAME FR]Nvidia GeForce2 MX IGP
+[NAME PL]Nvidia GeForce2 MX IGP
+[NAME UA]Nvidia GeForce2 MX IGP
+[NAME CZ]Nvidia GeForce2 MX IGP
+[NAME TH]Nvidia GeForce2 MX IGP
+[NAME RU]Nvidia GeForce2 MX IGP
+[DATE]JUN 2001
+[RES POINTS]1880
+[PRICE]45000000
+[DEV COSTS]2000000
+[TECHLEVEL]5
+
+[ID]182
+[TYP]1
+[NAME EN]Nvidia GeForce2 Ti
+[NAME GE]Nvidia GeForce2 Ti
+[NAME TU]Nvidia GeForce2 Ti
+[NAME ES]Nvidia GeForce2 Ti
+[NAME PB]Nvidia GeForce2 Ti
+[NAME JA]Nvidia GeForce2 Ti
+[NAME CH]Nvidia GeForce2 Ti
+[NAME CT]Nvidia GeForce2 Ti
+[NAME IT]Nvidia GeForce2 Ti
+[NAME FR]Nvidia GeForce2 Ti
+[NAME PL]Nvidia GeForce2 Ti
+[NAME UA]Nvidia GeForce2 Ti
+[NAME CZ]Nvidia GeForce2 Ti
+[NAME TH]Nvidia GeForce2 Ti
+[NAME RU]Nvidia GeForce2 Ti
+[DATE]OCT 2001
+[RES POINTS]1900
+[PRICE]45000000
+[DEV COSTS]2000000
+[TECHLEVEL]5
+
+[ID]183
+[TYP]1
+[NAME EN]Nvidia GeForce3 Ti500
+[NAME GE]Nvidia GeForce3 Ti500
+[NAME TU]Nvidia GeForce3 Ti500
+[NAME ES]Nvidia GeForce3 Ti500
+[NAME PB]Nvidia GeForce3 Ti500
+[NAME JA]Nvidia GeForce3 Ti500
+[NAME CH]Nvidia GeForce3 Ti500
+[NAME CT]Nvidia GeForce3 Ti500
+[NAME IT]Nvidia GeForce3 Ti500
+[NAME FR]Nvidia GeForce3 Ti500
+[NAME PL]Nvidia GeForce3 Ti500
+[NAME UA]Nvidia GeForce3 Ti500
+[NAME CZ]Nvidia GeForce3 Ti500
+[NAME TH]Nvidia GeForce3 Ti500
+[NAME RU]Nvidia GeForce3 Ti500
+[DATE]OCT 2001
+[RES POINTS]2000
+[PRICE]45000000
+[DEV COSTS]3000000
+[TECHLEVEL]6
+
+[ID]184
+[TYP]1
+[NAME EN]Nvidia GeForce4 Ti4400
+[NAME GE]Nvidia GeForce4 Ti4400
+[NAME TU]Nvidia GeForce4 Ti4400
+[NAME ES]Nvidia GeForce4 Ti4400
+[NAME PB]Nvidia GeForce4 Ti4400
+[NAME JA]Nvidia GeForce4 Ti4400
+[NAME CH]Nvidia GeForce4 Ti4400
+[NAME CT]Nvidia GeForce4 Ti4400
+[NAME IT]Nvidia GeForce4 Ti4400
+[NAME FR]Nvidia GeForce4 Ti4400
+[NAME PL]Nvidia GeForce4 Ti4400
+[NAME UA]Nvidia GeForce4 Ti4400
+[NAME CZ]Nvidia GeForce4 Ti4400
+[NAME TH]Nvidia GeForce4 Ti4400
+[NAME RU]Nvidia GeForce4 Ti4400
+[DATE]FEB 2002
+[RES POINTS]2010
+[PRICE]45000000
+[DEV COSTS]3000000
+[TECHLEVEL]6
+
+[ID]185
+[TYP]1
+[NAME EN]Nvidia GeForce4 MX440 SE
+[NAME GE]Nvidia GeForce4 MX440 SE
+[NAME TU]Nvidia GeForce4 MX440 SE
+[NAME ES]Nvidia GeForce4 MX440 SE
+[NAME PB]Nvidia GeForce4 MX440 SE
+[NAME JA]Nvidia GeForce4 MX440 SE
+[NAME CH]Nvidia GeForce4 MX440 SE
+[NAME CT]Nvidia GeForce4 MX440 SE
+[NAME IT]Nvidia GeForce4 MX440 SE
+[NAME FR]Nvidia GeForce4 MX440 SE
+[NAME PL]Nvidia GeForce4 MX440 SE
+[NAME UA]Nvidia GeForce4 MX440 SE
+[NAME CZ]Nvidia GeForce4 MX440 SE
+[NAME TH]Nvidia GeForce4 MX440 SE
+[NAME RU]Nvidia GeForce4 MX440 SE
+[DATE]JUN 2002
+[RES POINTS]2020
+[PRICE]45000000
+[DEV COSTS]3000000
+[TECHLEVEL]6
+
+[ID]186
+[TYP]1
+[NAME EN]Nvidia GeForce4 MX IGP
+[NAME GE]Nvidia GeForce4 MX IGP
+[NAME TU]Nvidia GeForce4 MX IGP
+[NAME ES]Nvidia GeForce4 MX IGP
+[NAME PB]Nvidia GeForce4 MX IGP
+[NAME JA]Nvidia GeForce4 MX IGP
+[NAME CH]Nvidia GeForce4 MX IGP
+[NAME CT]Nvidia GeForce4 MX IGP
+[NAME IT]Nvidia GeForce4 MX IGP
+[NAME FR]Nvidia GeForce4 MX IGP
+[NAME PL]Nvidia GeForce4 MX IGP
+[NAME UA]Nvidia GeForce4 MX IGP
+[NAME CZ]Nvidia GeForce4 MX IGP
+[NAME TH]Nvidia GeForce4 MX IGP
+[NAME RU]Nvidia GeForce4 MX IGP
+[DATE]OCT 2002
+[RES POINTS]2030
+[PRICE]45000000
+[DEV COSTS]3000000
+[TECHLEVEL]6
+
+[ID]187
+[TYP]1
+[NAME EN]Nvidia GeForce4 MX4000
+[NAME GE]Nvidia GeForce4 MX4000
+[NAME TU]Nvidia GeForce4 MX4000
+[NAME ES]Nvidia GeForce4 MX4000
+[NAME PB]Nvidia GeForce4 MX4000
+[NAME JA]Nvidia GeForce4 MX4000
+[NAME CH]Nvidia GeForce4 MX4000
+[NAME CT]Nvidia GeForce4 MX4000
+[NAME IT]Nvidia GeForce4 MX4000
+[NAME FR]Nvidia GeForce4 MX4000
+[NAME PL]Nvidia GeForce4 MX4000
+[NAME UA]Nvidia GeForce4 MX4000
+[NAME CZ]Nvidia GeForce4 MX4000
+[NAME TH]Nvidia GeForce4 MX4000
+[NAME RU]Nvidia GeForce4 MX4000
+[DATE]DEC 2003
+[RES POINTS]2040
+[PRICE]45000000
+[DEV COSTS]3000000
+[TECHLEVEL]6
+
+[ID]188
+[TYP]1
+[NAME EN]Nvidia GeForce4 PCX4300
+[NAME GE]Nvidia GeForce4 PCX4300
+[NAME TU]Nvidia GeForce4 PCX4300
+[NAME ES]Nvidia GeForce4 PCX4300
+[NAME PB]Nvidia GeForce4 PCX4300
+[NAME JA]Nvidia GeForce4 PCX4300
+[NAME CH]Nvidia GeForce4 PCX4300
+[NAME CT]Nvidia GeForce4 PCX4300
+[NAME IT]Nvidia GeForce4 PCX4300
+[NAME FR]Nvidia GeForce4 PCX4300
+[NAME PL]Nvidia GeForce4 PCX4300
+[NAME UA]Nvidia GeForce4 PCX4300
+[NAME CZ]Nvidia GeForce4 PCX4300
+[NAME TH]Nvidia GeForce4 PCX4300
+[NAME RU]Nvidia GeForce4 PCX4300
+[DATE]FEB 2004
+[RES POINTS]2050
+[PRICE]45000000
+[DEV COSTS]3000000
+[TECHLEVEL]6
+
+[ID]189
+[TYP]1
+[NAME EN]Nvidia GeForce FX 5400
+[NAME GE]Nvidia GeForce FX 5500
+[NAME TU]Nvidia GeForce FX 5500
+[NAME ES]Nvidia GeForce FX 5500
+[NAME PB]Nvidia GeForce FX 5500
+[NAME JA]Nvidia GeForce FX 5500
+[NAME CH]Nvidia GeForce FX 5500
+[NAME CT]Nvidia GeForce FX 5500
+[NAME IT]Nvidia GeForce FX 5500
+[NAME FR]Nvidia GeForce FX 5500
+[NAME PL]Nvidia GeForce FX 5500
+[NAME UA]Nvidia GeForce FX 5500
+[NAME CZ]Nvidia GeForce FX 5500
+[NAME TH]Nvidia GeForce FX 5500
+[NAME RU]Nvidia GeForce FX 5500
+[DATE]MAR 2004
+[RES POINTS]2100
+[PRICE]45000000
+[DEV COSTS]3000000
+[TECHLEVEL]6
+
+[ID]190
+[TYP]1
+[NAME EN]Nvidia GeForce 6200
+[NAME GE]Nvidia GeForce 6200
+[NAME TU]Nvidia GeForce 6200
+[NAME ES]Nvidia GeForce 6200
+[NAME PB]Nvidia GeForce 6200
+[NAME JA]Nvidia GeForce 6200
+[NAME CH]Nvidia GeForce 6200
+[NAME CT]Nvidia GeForce 6200
+[NAME IT]Nvidia GeForce 6200
+[NAME FR]Nvidia GeForce 6200
+[NAME PL]Nvidia GeForce 6200
+[NAME UA]Nvidia GeForce 6200
+[NAME CZ]Nvidia GeForce 6200
+[NAME TH]Nvidia GeForce 6200
+[NAME RU]Nvidia GeForce 6200
+[DATE]OCT 2004
+[RES POINTS]2150
+[PRICE]45000000
+[DEV COSTS]3000000
+[TECHLEVEL]6
+
+[ID]191
+[TYP]1
+[NAME EN]Nvidia GeForce 6200 LE
+[NAME GE]Nvidia GeForce 6200 LE
+[NAME TU]Nvidia GeForce 6200 LE
+[NAME ES]Nvidia GeForce 6200 LE
+[NAME PB]Nvidia GeForce 6200 LE
+[NAME JA]Nvidia GeForce 6200 LE
+[NAME CH]Nvidia GeForce 6200 LE
+[NAME CT]Nvidia GeForce 6200 LE
+[NAME IT]Nvidia GeForce 6200 LE
+[NAME FR]Nvidia GeForce 6200 LE
+[NAME PL]Nvidia GeForce 6200 LE
+[NAME UA]Nvidia GeForce 6200 LE
+[NAME CZ]Nvidia GeForce 6200 LE
+[NAME TH]Nvidia GeForce 6200 LE
+[NAME RU]Nvidia GeForce 6200 LE
+[DATE]APR 2005
+[RES POINTS]2200
+[PRICE]45000000
+[DEV COSTS]3000000
+[TECHLEVEL]6
+
+[ID]192
+[TYP]1
+[NAME EN]Nvidia GeForce 6500
+[NAME GE]Nvidia GeForce 6500
+[NAME TU]Nvidia GeForce 6500
+[NAME ES]Nvidia GeForce 6500
+[NAME PB]Nvidia GeForce 6500
+[NAME JA]Nvidia GeForce 6500
+[NAME CH]Nvidia GeForce 6500
+[NAME CT]Nvidia GeForce 6500
+[NAME IT]Nvidia GeForce 6500 
+[NAME FR]Nvidia GeForce 6500
+[NAME PL]Nvidia GeForce 6500
+[NAME UA]Nvidia GeForce 6500
+[NAME CZ]Nvidia GeForce 6500
+[NAME TH]Nvidia GeForce 6500
+[NAME RU]Nvidia GeForce 6500
+[DATE]OCT 2005
+[RES POINTS]2250
+[PRICE]45000000
+[DEV COSTS]3000000
+[TECHLEVEL]6
+
+[ID]193
+[TYP]1
+[NAME EN]Nvidia GeForce 7600 GT
+[NAME GE]Nvidia GeForce 7600 GT
+[NAME TU]Nvidia GeForce 7600 GT
+[NAME ES]Nvidia GeForce 7600 GT
+[NAME PB]Nvidia GeForce 7600 GT
+[NAME JA]Nvidia GeForce 7600 GT
+[NAME CH]Nvidia GeForce 7600 GT
+[NAME CT]Nvidia GeForce 7600 GT
+[NAME IT]Nvidia GeForce 7600 GT
+[NAME FR]Nvidia GeForce 7600 GT
+[NAME PL]Nvidia GeForce 7600 GT
+[NAME UA]Nvidia GeForce 7600 GT
+[NAME CZ]Nvidia GeForce 7600 GT
+[NAME TH]Nvidia GeForce 7600 GT
+[NAME RU]Nvidia GeForce 7600 GT
+[DATE]MAR 2006
+[RES POINTS]2300
+[PRICE]45000000
+[DEV COSTS]3000000
+[TECHLEVEL]6
+
+[ID]194
+[TYP]1
+[NAME EN]Nvidia GeForce 7900 GTO
+[NAME GE]Nvidia GeForce 7900 GTO
+[NAME TU]Nvidia GeForce 7900 GTO
+[NAME ES]Nvidia GeForce 7900 GTO
+[NAME PB]Nvidia GeForce 7900 GTO
+[NAME JA]Nvidia GeForce 7900 GTO
+[NAME CH]Nvidia GeForce 7900 GTO
+[NAME CT]Nvidia GeForce 7900 GTO
+[NAME IT]Nvidia GeForce 7900 GTO
+[NAME FR]Nvidia GeForce 7900 GTO
+[NAME PL]Nvidia GeForce 7900 GTO
+[NAME UA]Nvidia GeForce 7900 GTO
+[NAME CZ]Nvidia GeForce 7900 GTO
+[NAME TH]Nvidia GeForce 7900 GTO
+[NAME RU]Nvidia GeForce 7900 GTO
+[DATE]OCT 2006
+[RES POINTS]2350
+[PRICE]45000000
+[DEV COSTS]3000000
+[TECHLEVEL]6
+
+[ID]195
+[TYP]1
+[NAME EN]Nvidia GeForce 8600 GT
+[NAME GE]Nvidia GeForce 8600 GT
+[NAME TU]Nvidia GeForce 8600 GT
+[NAME ES]Nvidia GeForce 8600 GT
+[NAME PB]Nvidia GeForce 8600 GT
+[NAME JA]Nvidia GeForce 8600 GT
+[NAME CH]Nvidia GeForce 8600 GT
+[NAME CT]Nvidia GeForce 8600 GT
+[NAME IT]Nvidia GeForce 8600 GT
+[NAME FR]Nvidia GeForce 8600 GT
+[NAME PL]Nvidia GeForce 8600 GT
+[NAME UA]Nvidia GeForce 8600 GT
+[NAME CZ]Nvidia GeForce 8600 GT
+[NAME TH]Nvidia GeForce 8600 GT
+[NAME RU]Nvidia GeForce 8600 GT
+[DATE]APR 2007
+[RES POINTS]2400
+[PRICE]45000000
+[DEV COSTS]3000000
+[TECHLEVEL]6
+
+[ID]196
+[TYP]1
+[NAME EN]Nvidia GeForce 8800 GT
+[NAME GE]Nvidia GeForce 8800 GT
+[NAME TU]Nvidia GeForce 8800 GT
+[NAME ES]Nvidia GeForce 8800 GT
+[NAME PB]Nvidia GeForce 8800 GT
+[NAME JA]Nvidia GeForce 8800 GT
+[NAME CH]Nvidia GeForce 8800 GT
+[NAME CT]Nvidia GeForce 8800 GT
+[NAME IT]Nvidia GeForce 8800 GT
+[NAME FR]Nvidia GeForce 8800 GT
+[NAME PL]Nvidia GeForce 8800 GT
+[NAME UA]Nvidia GeForce 8800 GT
+[NAME CZ]Nvidia GeForce 8800 GT
+[NAME TH]Nvidia GeForce 8800 GT
+[NAME RU]Nvidia GeForce 8800 GT
+[DATE]OCT 2007
+[RES POINTS]2450
+[PRICE]45000000
+[DEV COSTS]3000000
+[TECHLEVEL]6
+
+[ID]197
+[TYP]1
+[NAME EN]Nvidia GeForce 9600 GT
+[NAME GE]Nvidia GeForce 9600 GT
+[NAME TU]Nvidia GeForce 9600 GT
+[NAME ES]Nvidia GeForce 9600 GT
+[NAME PB]Nvidia GeForce 9600 GT
+[NAME JA]Nvidia GeForce 9600 GT
+[NAME CH]Nvidia GeForce 9600 GT
+[NAME CT]Nvidia GeForce 9600 GT
+[NAME IT]Nvidia GeForce 9600 GT
+[NAME FR]Nvidia GeForce 9600 GT
+[NAME PL]Nvidia GeForce 9600 GT
+[NAME UA]Nvidia GeForce 9600 GT
+[NAME CZ]Nvidia GeForce 9600 GT
+[NAME TH]Nvidia GeForce 9600 GT
+[NAME RU]Nvidia GeForce 9600 GT
+[DATE]FEB 2008
+[RES POINTS]2500
+[PRICE]45000000
+[DEV COSTS]3000000
+[TECHLEVEL]6
+
+[ID]198
+[TYP]1
+[NAME EN]Nvidia GeForce 9800 GTX
+[NAME GE]Nvidia GeForce 9800 GTX
+[NAME TU]Nvidia GeForce 9800 GTX
+[NAME ES]Nvidia GeForce 9800 GTX
+[NAME PB]Nvidia GeForce 9800 GTX
+[NAME JA]Nvidia GeForce 9800 GTX
+[NAME CH]Nvidia GeForce 9800 GTX
+[NAME CT]Nvidia GeForce 9800 GTX
+[NAME IT]Nvidia GeForce 9800 GTX
+[NAME FR]Nvidia GeForce 9800 GTX
+[NAME PL]Nvidia GeForce 9800 GTX
+[NAME UA]Nvidia GeForce 9800 GTX
+[NAME CZ]Nvidia GeForce 9800 GTX
+[NAME TH]Nvidia GeForce 9800 GTX
+[NAME RU]Nvidia GeForce 9800 GTX
+[DATE]OCT 2008
+[RES POINTS]2600
+[PRICE]45000000
+[DEV COSTS]3000000
+[TECHLEVEL]6
+
+[ID]199
+[TYP]1
+[NAME EN]Nvidia GeForce GT 150
+[NAME GE]Nvidia GeForce GT 150
+[NAME TU]Nvidia GeForce GT 150
+[NAME ES]Nvidia GeForce GT 150
+[NAME PB]Nvidia GeForce GT 150
+[NAME JA]Nvidia GeForce GT 150
+[NAME CH]Nvidia GeForce GT 150
+[NAME CT]Nvidia GeForce GT 150
+[NAME IT]Nvidia GeForce GT 150
+[NAME FR]Nvidia GeForce GT 150
+[NAME PL]Nvidia GeForce GT 150
+[NAME UA]Nvidia GeForce GT 150
+[NAME CZ]Nvidia GeForce GT 150
+[NAME TH]Nvidia GeForce GT 150
+[NAME RU]Nvidia GeForce GT 150
+[DATE]MAR 2009
+[RES POINTS]2700
+[PRICE]45000000
+[DEV COSTS]3000000
+[TECHLEVEL]6
+
+[ID]200
+[TYP]1
+[NAME EN]Nvidia GeForce GT 230
+[NAME GE]Nvidia GeForce GT 230
+[NAME TU]Nvidia GeForce GT 230
+[NAME ES]Nvidia GeForce GT 230
+[NAME PB]Nvidia GeForce GT 230
+[NAME JA]Nvidia GeForce GT 230
+[NAME CH]Nvidia GeForce GT 230
+[NAME CT]Nvidia GeForce GT 230
+[NAME IT]Nvidia GeForce GT 230
+[NAME FR]Nvidia GeForce GT 230
+[NAME PL]Nvidia GeForce GT 230
+[NAME UA]Nvidia GeForce GT 230
+[NAME CZ]Nvidia GeForce GT 230
+[NAME TH]Nvidia GeForce GT 230
+[NAME RU]Nvidia GeForce GT 230
+[DATE]OCT 2009
+[RES POINTS]2800
+[PRICE]45000000
+[DEV COSTS]3000000
+[TECHLEVEL]6
+
+[ID]201
+[TYP]1
+[NAME EN]Nvidia GeForce GT 340
+[NAME GE]Nvidia GeForce GT 340
+[NAME TU]Nvidia GeForce GT 340
+[NAME ES]Nvidia GeForce GT 340
+[NAME PB]Nvidia GeForce GT 340
+[NAME JA]Nvidia GeForce GT 340
+[NAME CH]Nvidia GeForce GT 340
+[NAME CT]Nvidia GeForce GT 340
+[NAME IT]Nvidia GeForce GT 340
+[NAME FR]Nvidia GeForce GT 340
+[NAME PL]Nvidia GeForce GT 340
+[NAME UA]Nvidia GeForce GT 340
+[NAME CZ]Nvidia GeForce GT 340
+[NAME TH]Nvidia GeForce GT 340
+[NAME RU]Nvidia GeForce GT 340
+[DATE]FEB 2010
+[RES POINTS]2900
+[PRICE]45000000
+[DEV COSTS]3000000
+[TECHLEVEL]6
+
+[ID]202
+[TYP]1
+[NAME EN]Nvidia GeForce GT 430
+[NAME GE]Nvidia GeForce GT 430
+[NAME TU]Nvidia GeForce GT 430
+[NAME ES]Nvidia GeForce GT 430
+[NAME PB]Nvidia GeForce GT 430
+[NAME JA]Nvidia GeForce GT 430
+[NAME CH]Nvidia GeForce GT 430
+[NAME CT]Nvidia GeForce GT 430
+[NAME IT]Nvidia GeForce GT 430
+[NAME FR]Nvidia GeForce GT 430
+[NAME PL]Nvidia GeForce GT 430
+[NAME UA]Nvidia GeForce GT 430
+[NAME CZ]Nvidia GeForce GT 430
+[NAME TH]Nvidia GeForce GT 430
+[NAME RU]Nvidia GeForce GT 430
+[DATE]SEP 2010
+[RES POINTS]3200
+[PRICE]45000000
+[DEV COSTS]5000000
+[TECHLEVEL]7
+
+[ID]203
+[TYP]1
+[NAME EN]Nvidia GeForce GT 460
+[NAME GE]Nvidia GeForce GT 460
+[NAME TU]Nvidia GeForce GT 460
+[NAME ES]Nvidia GeForce GT 460
+[NAME PB]Nvidia GeForce GT 460
+[NAME JA]Nvidia GeForce GT 460
+[NAME CH]Nvidia GeForce GT 460
+[NAME CT]Nvidia GeForce GT 460
+[NAME IT]Nvidia GeForce GT 460
+[NAME FR]Nvidia GeForce GT 460
+[NAME PL]Nvidia GeForce GT 460
+[NAME UA]Nvidia GeForce GT 460 
+[NAME CZ]Nvidia GeForce GT 460
+[NAME TH]Nvidia GeForce GT 460
+[NAME RU]Nvidia GeForce GT 460
+[DATE]JUL 2011
+[RES POINTS]3300
+[PRICE]45000000
+[DEV COSTS]5000000
+[TECHLEVEL]7
+
+[ID]204
+[TYP]1
+[NAME EN]Nvidia GeForce GT 510
+[NAME GE]Nvidia GeForce GT 510
+[NAME TU]Nvidia GeForce GT 510
+[NAME ES]Nvidia GeForce GT 510
+[NAME PB]Nvidia GeForce GT 510
+[NAME JA]Nvidia GeForce GT 510
+[NAME CH]Nvidia GeForce GT 510
+[NAME CT]Nvidia GeForce GT 510
+[NAME IT]Nvidia GeForce GT 510
+[NAME FR]Nvidia GeForce GT 510
+[NAME PL]Nvidia GeForce GT 510
+[NAME UA]Nvidia GeForce GT 510
+[NAME CZ]Nvidia GeForce GT 510
+[NAME TH]Nvidia GeForce GT 510
+[NAME RU]Nvidia GeForce GT 510
+[DATE]SEP 2011
+[RES POINTS]3400
+[PRICE]45000000
+[DEV COSTS]5000000
+[TECHLEVEL]7
+
+[ID]205
+[TYP]1
+[NAME EN]Nvidia GeForce GT 610
+[NAME GE]Nvidia GeForce GT 610
+[NAME TU]Nvidia GeForce GT 610
+[NAME ES]Nvidia GeForce GT 610
+[NAME PB]Nvidia GeForce GT 610
+[NAME JA]Nvidia GeForce GT 610
+[NAME CH]Nvidia GeForce GT 610
+[NAME CT]Nvidia GeForce GT 610
+[NAME IT]Nvidia GeForce GT 610
+[NAME FR]Nvidia GeForce GT 610
+[NAME PL]Nvidia GeForce GT 610
+[NAME UA]Nvidia GeForce GT 610
+[NAME CZ]Nvidia GeForce GT 610
+[NAME TH]Nvidia GeForce GT 610
+[NAME RU]Nvidia GeForce GT 610
+[DATE]MAY 2012
+[RES POINTS]3500
+[PRICE]45000000
+[DEV COSTS]5000000
+[TECHLEVEL]7
+
+[ID]206
+[TYP]1
+[NAME EN]Nvidia GeForce GT 650
+[NAME GE]Nvidia GeForce GT 650
+[NAME TU]Nvidia GeForce GT 650
+[NAME ES]Nvidia GeForce GT 650
+[NAME PB]Nvidia GeForce GT 650
+[NAME JA]Nvidia GeForce GT 650
+[NAME CH]Nvidia GeForce GT 650
+[NAME CT]Nvidia GeForce GT 650
+[NAME IT]Nvidia GeForce GT 650
+[NAME FR]Nvidia GeForce GT 650
+[NAME PL]Nvidia GeForce GT 650
+[NAME UA]Nvidia GeForce GT 650
+[NAME CZ]Nvidia GeForce GT 650
+[NAME TH]Nvidia GeForce GT 650
+[NAME RU]Nvidia GeForce GT 650
+[DATE]SEP 2012
+[RES POINTS]3600
+[PRICE]45000000
+[DEV COSTS]5000000
+[TECHLEVEL]7
+
+[ID]207
+[TYP]1
+[NAME EN]Nvidia GeForce GT 630
+[NAME GE]Nvidia GeForce GT 630
+[NAME TU]Nvidia GeForce GT 630
+[NAME ES]Nvidia GeForce GT 630
+[NAME PB]Nvidia GeForce GT 630
+[NAME JA]Nvidia GeForce GT 630
+[NAME CH]Nvidia GeForce GT 630
+[NAME CT]Nvidia GeForce GT 630
+[NAME IT]Nvidia GeForce GT 630
+[NAME FR]Nvidia GeForce GT 630
+[NAME PL]Nvidia GeForce GT 630
+[NAME UA]Nvidia GeForce GT 630
+[NAME CZ]Nvidia GeForce GT 630
+[NAME TH]Nvidia GeForce GT 630
+[NAME RU]Nvidia GeForce GT 630
+[DATE]MAY 2013
+[RES POINTS]3700
+[PRICE]45000000
+[DEV COSTS]5000000
+[TECHLEVEL]7
+
+[ID]208
+[TYP]1
+[NAME EN]Nvidia GeForce GT 760 Ti
+[NAME GE]Nvidia GeForce GT 760 Ti
+[NAME TU]Nvidia GeForce GT 760 Ti
+[NAME ES]Nvidia GeForce GT 760 Ti
+[NAME PB]Nvidia GeForce GT 760 Ti
+[NAME JA]Nvidia GeForce GT 760 Ti
+[NAME CH]Nvidia GeForce GT 760 Ti
+[NAME CT]Nvidia GeForce GT 760 Ti
+[NAME IT]Nvidia GeForce GT 760 Ti
+[NAME FR]Nvidia GeForce GT 760 Ti
+[NAME PL]Nvidia GeForce GT 760 Ti
+[NAME UA]Nvidia GeForce GT 760 Ti
+[NAME CZ]Nvidia GeForce GT 760 Ti
+[NAME TH]Nvidia GeForce GT 760 Ti
+[NAME RU]Nvidia GeForce GT 760 Ti
+[DATE]SEP 2013
+[RES POINTS]3800
+[PRICE]45000000
+[DEV COSTS]5000000
+[TECHLEVEL]7
+
+[ID]209
+[TYP]1
+[NAME EN]Nvidia GTX TITAN BLACK
+[NAME GE]Nvidia GTX TITAN BLACK
+[NAME TU]Nvidia GTX TITAN BLACK
+[NAME ES]Nvidia GTX TITAN BLACK
+[NAME PB]Nvidia GTX TITAN BLACK
+[NAME JA]Nvidia GTX TITAN BLACK
+[NAME CH]Nvidia GTX TITAN BLACK
+[NAME CT]Nvidia GTX TITAN BLACK
+[NAME IT]Nvidia GTX TITAN BLACK
+[NAME FR]Nvidia GTX TITAN BLACK
+[NAME PL]Nvidia GTX TITAN BLACK
+[NAME UA]Nvidia GTX TITAN BLACK
+[NAME CZ]Nvidia GTX TITAN BLACK
+[NAME TH]Nvidia GTX TITAN BLACK
+[NAME RU]Nvidia GTX TITAN BLACK
+[DATE]FEB 2014
+[RES POINTS]4500
+[PRICE]45000000
+[DEV COSTS]10000000
+[TECHLEVEL]8
+
+[ID]210
+[TYP]1
+[NAME EN]Nvidia GTX 980
+[NAME GE]Nvidia GTX 980
+[NAME TU]Nvidia GTX 980
+[NAME ES]Nvidia GTX 980
+[NAME PB]Nvidia GTX 980
+[NAME JA]Nvidia GTX 980
+[NAME CH]Nvidia GTX 980
+[NAME CT]Nvidia GTX 980
+[NAME IT]Nvidia GTX 980
+[NAME FR]Nvidia GTX 980
+[NAME PL]Nvidia GTX 980
+[NAME UA]Nvidia GTX 980
+[NAME CZ]Nvidia GTX 980
+[NAME TH]Nvidia GTX 980
+[NAME RU]Nvidia GTX 980
+[DATE]SEP 2014
+[RES POINTS]3900
+[PRICE]45000000
+[DEV COSTS]10000000
+[TECHLEVEL]7
+
+[ID]211
+[TYP]1
+[NAME EN]Nvidia GTX TITAN X
+[NAME GE]Nvidia GTX TITAN X
+[NAME TU]Nvidia GTX TITAN X
+[NAME ES]Nvidia GTX TITAN X
+[NAME PB]Nvidia GTX TITAN X
+[NAME JA]Nvidia GTX TITAN X
+[NAME CH]Nvidia GTX TITAN X
+[NAME CT]Nvidia GTX TITAN X
+[NAME IT]Nvidia GTX TITAN X
+[NAME FR]Nvidia GTX TITAN X
+[NAME PL]Nvidia GTX TITAN X
+[NAME UA]Nvidia GTX TITAN X
+[NAME CZ]Nvidia GTX TITAN X
+[NAME TH]Nvidia GTX TITAN X
+[NAME RU]Nvidia GTX TITAN X
+[DATE]MAR 2015
+[RES POINTS]4800
+[PRICE]45000000
+[DEV COSTS]10000000
+[TECHLEVEL]8
+
+[ID]212
+[TYP]1
+[NAME EN]Nvidia GTX 950
+[NAME GE]Nvidia GTX 950
+[NAME TU]Nvidia GTX 950
+[NAME ES]Nvidia GTX 950
+[NAME PB]Nvidia GTX 950
+[NAME JA]Nvidia GTX 950
+[NAME CH]Nvidia GTX 950
+[NAME CT]Nvidia GTX 950
+[NAME IT]Nvidia GTX 950
+[NAME FR]Nvidia GTX 950
+[NAME PL]Nvidia GTX 950
+[NAME UA]Nvidia GTX 950
+[NAME CZ]Nvidia GTX 950
+[NAME TH]Nvidia GTX 950
+[NAME RU]Nvidia GTX 950
+[DATE]FEB 2016
+[RES POINTS]4900
+[PRICE]45000000
+[DEV COSTS]5000000
+[TECHLEVEL]7
+
+[ID]213
+[TYP]1
+[NAME EN]Nvidia GTX 1050 Ti
+[NAME GE]Nvidia GTX 1050 Ti
+[NAME TU]Nvidia GTX 1050 Ti
+[NAME ES]Nvidia GTX 1050 Ti
+[NAME PB]Nvidia GTX 1050 Ti
+[NAME JA]Nvidia GTX 1050 Ti
+[NAME CH]Nvidia GTX 1050 Ti
+[NAME CT]Nvidia GTX 1050 Ti
+[NAME IT]Nvidia GTX 1050 Ti
+[NAME FR]Nvidia GTX 1050 Ti
+[NAME PL]Nvidia GTX 1050 Ti
+[NAME UA]Nvidia GTX 1050 Ti
+[NAME CZ]Nvidia GTX 1050 Ti
+[NAME TH]Nvidia GTX 1050 Ti
+[NAME RU]Nvidia GTX 1050 Ti
+[DATE]OCT 2016
+[RES POINTS]5000
+[PRICE]45000000
+[DEV COSTS]10000000
+[TECHLEVEL]8
+
+[ID]214
+[TYP]1
+[NAME EN]Nvidia GTX 1080 Ti
+[NAME GE]Nvidia GTX 1080 Ti
+[NAME TU]Nvidia GTX 1080 Ti
+[NAME ES]Nvidia GTX 1080 Ti
+[NAME PB]Nvidia GTX 1080 Ti
+[NAME JA]Nvidia GTX 1080 Ti
+[NAME CH]Nvidia GTX 1080 Ti
+[NAME CT]Nvidia GTX 1080 Ti
+[NAME IT]Nvidia GTX 1080 Ti
+[NAME FR]Nvidia GTX 1080 Ti
+[NAME PL]Nvidia GTX 1080 Ti
+[NAME UA]Nvidia GTX 1080 Ti
+[NAME CZ]Nvidia GTX 1080 Ti
+[NAME TH]Nvidia GTX 1080 Ti
+[NAME RU]Nvidia GTX 1080 Ti
+[DATE]MAR 2017
+[RES POINTS]5100
+[PRICE]45000000
+[DEV COSTS]10000000
+[TECHLEVEL]8
+
+[ID]215
+[TYP]1
+[NAME EN]Nvidia TITAN V
+[NAME GE]Nvidia TITAN V
+[NAME TU]Nvidia TITAN V
+[NAME ES]Nvidia TITAN V
+[NAME PB]Nvidia TITAN V
+[NAME JA]Nvidia TITAN V
+[NAME CH]Nvidia TITAN V
+[NAME CT]Nvidia TITAN V
+[NAME IT]Nvidia TITAN V
+[NAME FR]Nvidia TITAN V
+[NAME PL]Nvidia TITAN V
+[NAME UA]Nvidia TITAN V
+[NAME CZ]Nvidia TITAN V
+[NAME TH]Nvidia TITAN V
+[NAME RU]Nvidia TITAN V
+[DATE]DEC 2017
+[RES POINTS]5200
+[PRICE]45000000
+[DEV COSTS]10000000
+[TECHLEVEL]8
+
+[ID]216
+[TYP]1
+[NAME EN]Nvidia TITAN V CEO
+[NAME GE]Nvidia TITAN V CEO
+[NAME TU]Nvidia TITAN V CEO
+[NAME ES]Nvidia TITAN V CEO
+[NAME PB]Nvidia TITAN V CEO
+[NAME JA]Nvidia TITAN V CEO
+[NAME CH]Nvidia TITAN V CEO
+[NAME CT]Nvidia TITAN V CEO
+[NAME IT]Nvidia TITAN V CEO
+[NAME FR]Nvidia TITAN V CEO
+[NAME PL]Nvidia TITAN V CEO
+[NAME UA]Nvidia TITAN V CEO
+[NAME CZ]Nvidia TITAN V CEO
+[NAME TH]Nvidia TITAN V CEO
+[NAME RU]Nvidia TITAN V CEO
+[DATE]JUN 2018
+[RES POINTS]5300
+[PRICE]45000000
+[DEV COSTS]10000000
+[TECHLEVEL]8
+
+[ID]217
+[TYP]1
+[NAME EN]Nvidia GTX 1660
+[NAME GE]Nvidia GTX 1660
+[NAME TU]Nvidia GTX 1660
+[NAME ES]Nvidia GTX 1660
+[NAME PB]Nvidia GTX 1660
+[NAME JA]Nvidia GTX 1660
+[NAME CH]Nvidia GTX 1660
+[NAME CT]Nvidia GTX 1660
+[NAME IT]Nvidia GTX 1660
+[NAME FR]Nvidia GTX 1660
+[NAME PL]Nvidia GTX 1660
+[NAME UA]Nvidia GTX 1660
+[NAME CZ]Nvidia GTX 1660
+[NAME TH]Nvidia GTX 1660
+[NAME RU]Nvidia GTX 1660
+[DATE]MAR 2019
+[RES POINTS]5400
+[PRICE]45000000
+[DEV COSTS]10000000
+[TECHLEVEL]8
+
+[ID]218
+[TYP]1
+[NAME EN]Nvidia GTX 1660 Super
+[NAME GE]Nvidia GTX 1660 Super
+[NAME TU]Nvidia GTX 1660 Super
+[NAME ES]Nvidia GTX 1660 Super
+[NAME PB]Nvidia GTX 1660 Super
+[NAME JA]Nvidia GTX 1660 Super
+[NAME CH]Nvidia GTX 1660 Super
+[NAME CT]Nvidia GTX 1660 Super
+[NAME IT]Nvidia GTX 1660 Super
+[NAME FR]Nvidia GTX 1660 Super
+[NAME PL]Nvidia GTX 1660 Super
+[NAME UA]Nvidia GTX 1660 Super
+[NAME CZ]Nvidia GTX 1660 Super
+[NAME TH]Nvidia GTX 1660 Super
+[NAME RU]Nvidia GTX 1660 Super
+[DATE]OCT 2019
+[RES POINTS]5500
+[PRICE]45000000
+[DEV COSTS]10000000
+[TECHLEVEL]8
+
+[ID]219
+[TYP]1
+[NAME EN]Nvidia RTX 2060
+[NAME GE]Nvidia RTX 2060
+[NAME TU]Nvidia RTX 2060
+[NAME ES]Nvidia RTX 2060
+[NAME PB]Nvidia RTX 2060
+[NAME JA]Nvidia RTX 2060
+[NAME CH]Nvidia RTX 2060
+[NAME CT]Nvidia RTX 2060
+[NAME IT]Nvidia RTX 2060
+[NAME FR]Nvidia RTX 2060
+[NAME PL]Nvidia RTX 2060
+[NAME UA]Nvidia RTX 2060
+[NAME CZ]Nvidia RTX 2060
+[NAME TH]Nvidia RTX 2060
+[NAME RU]Nvidia RTX 2060
+[DATE]JAN 2020
+[RES POINTS]5600
+[PRICE]45000000
+[DEV COSTS]10000000
+[TECHLEVEL]8
+
+[ID]220
+[TYP]1
+[NAME EN]Nvidia RTX 3060 TI
+[NAME GE]Nvidia RTX 3060 TI
+[NAME TU]Nvidia RTX 3060 TI
+[NAME ES]Nvidia RTX 3060 TI
+[NAME PB]Nvidia RTX 3060 TI
+[NAME JA]Nvidia RTX 3060 TI
+[NAME CH]Nvidia RTX 3060 TI
+[NAME CT]Nvidia RTX 3060 TI
+[NAME IT]Nvidia RTX 3060 TI
+[NAME FR]Nvidia RTX 3060 TI
+[NAME PL]Nvidia RTX 3060 TI
+[NAME UA]Nvidia RTX 3060 TI
+[NAME CZ]Nvidia RTX 3060 TI
+[NAME TH]Nvidia RTX 3060 TI
+[NAME RU]Nvidia RTX 3060 TI
+[DATE]DEC 2020
+[RES POINTS]5700
+[PRICE]45000000
+[DEV COSTS]15000000
+[TECHLEVEL]8
+
+[ID]221
+[TYP]1
+[NAME EN]Nvidia RTX 3070 TI
+[NAME GE]Nvidia RTX 3070 TI
+[NAME TU]Nvidia RTX 3070 TI
+[NAME ES]Nvidia RTX 3070 TI
+[NAME PB]Nvidia RTX 3070 TI
+[NAME JA]Nvidia RTX 3070 TI
+[NAME CH]Nvidia RTX 3070 TI
+[NAME CT]Nvidia RTX 3070 TI
+[NAME IT]Nvidia RTX 3070 TI
+[NAME FR]Nvidia RTX 3070 TI
+[NAME PL]Nvidia RTX 3070 TI
+[NAME UA]Nvidia RTX 3070 TI
+[NAME CZ]Nvidia RTX 3070 TI
+[NAME TH]Nvidia RTX 3070 TI
+[NAME RU]Nvidia RTX 3070 TI
+[DATE]JUN 2021
+[RES POINTS]5800
+[PRICE]45000000
+[DEV COSTS]15000000
+[TECHLEVEL]8
+
+[ID]222
+[TYP]1
+[NAME EN]Nvidia RTX 3090 TI
+[NAME GE]Nvidia RTX 3090 TI
+[NAME TU]Nvidia RTX 3090 TI
+[NAME ES]Nvidia RTX 3090 TI
+[NAME PB]Nvidia RTX 3090 TI
+[NAME JA]Nvidia RTX 3090 TI
+[NAME CH]Nvidia RTX 3090 TI
+[NAME CT]Nvidia RTX 3090 TI
+[NAME IT]Nvidia RTX 3090 TI
+[NAME FR]Nvidia RTX 3090 TI
+[NAME PL]Nvidia RTX 3090 TI
+[NAME UA]Nvidia RTX 3090 TI
+[NAME CZ]Nvidia RTX 3090 TI
+[NAME TH]Nvidia RTX 3090 TI
+[NAME RU]Nvidia RTX 3090 TI
+[DATE]MAR 2022
+[RES POINTS]5900
+[PRICE]45000000
+[DEV COSTS]15000000
+[TECHLEVEL]8
+
+[ID]223
+[TYP]1
+[NAME EN]Nvidia RTX 4080
+[NAME GE]Nvidia RTX 4080
+[NAME TU]Nvidia RTX 4080
+[NAME ES]Nvidia RTX 4080
+[NAME PB]Nvidia RTX 4080
+[NAME JA]Nvidia RTX 4080
+[NAME CH]Nvidia RTX 4080
+[NAME CT]Nvidia RTX 4080
+[NAME IT]Nvidia RTX 4080
+[NAME FR]Nvidia RTX 4080
+[NAME PL]Nvidia RTX 4080
+[NAME UA]Nvidia RTX 4080
+[NAME CZ]Nvidia RTX 4080
+[NAME TH]Nvidia RTX 4080
+[NAME RU]Nvidia RTX 4080
+[DATE]NOV 2022
+[RES POINTS]6000
+[PRICE]45000000
+[DEV COSTS]25000000
+[TECHLEVEL]9
+
+[ID]224
+[TYP]1
+[NAME EN]Nvidia RTX 4070
+[NAME GE]Nvidia RTX 4070
+[NAME TU]Nvidia RTX 4070
+[NAME ES]Nvidia RTX 4070
+[NAME PB]Nvidia RTX 4070
+[NAME JA]Nvidia RTX 4070
+[NAME CH]Nvidia RTX 4070
+[NAME CT]Nvidia RTX 4070
+[NAME IT]Nvidia RTX 4070
+[NAME FR]Nvidia RTX 4070
+[NAME PL]Nvidia RTX 4070
+[NAME UA]Nvidia RTX 4070
+[NAME CZ]Nvidia RTX 4070
+[NAME TH]Nvidia RTX 4070
+[NAME RU]Nvidia RTX 4070
+[DATE]APR 2023
+[RES POINTS]6500
+[PRICE]45000000
+[DEV COSTS]25000000
+[TECHLEVEL]9
+
+////////////////////////////////////////////////////////////////RAM2
+
+[ID]225
+[TYP]2
+[NAME EN]Samsung 2GB DDR3
+[NAME GE]Samsung 2GB DDR3
+[NAME TU]Samsung 2GB DDR3
+[NAME ES]Samsung 2GB DDR3
+[NAME PB]Samsung 2GB DDR3
+[NAME JA]Samsung 2GB DDR3
+[NAME CH]Samsung 2GB DDR3
+[NAME CT]Samsung 2GB DDR3
+[NAME IT]Samsung 2GB DDR3
+[NAME FR]Samsung 2GB DDR3
+[NAME PL]Samsung 2GB DDR3
+[NAME UA]Samsung 2GB DDR3
+[NAME CZ]Samsung 2GB DDR3
+[NAME TH]Samsung 2GB DDR3
+[NAME RU]Samsung 2GB DDR3
+[DATE]MAY 2007
+[RES POINTS]2500
+[PRICE]7000000
+[DEV COSTS]14000000
+[TECHLEVEL]6
+
+[ID]226
+[TYP]2
+[NAME EN]Corsair 2GB DDR3
+[NAME GE]Corsair 2GB DDR3
+[NAME TU]Corsair 2GB DDR3
+[NAME ES]Corsair 2GB DDR3
+[NAME PB]Corsair 2GB DDR3
+[NAME JA]Corsair 2GB DDR3
+[NAME CH]Corsair 2GB DDR3
+[NAME CT]Corsair 2GB DDR3
+[NAME IT]Corsair 2GB DDR3
+[NAME FR]Corsair 2GB DDR3
+[NAME PL]Corsair 2GB DDR3
+[NAME UA]Corsair 2GB DDR3
+[NAME CZ]Corsair 2GB DDR3
+[NAME TH]Corsair 2GB DDR3
+[NAME RU]Corsair 2GB DDR3
+[DATE]MAY 2007
+[RES POINTS]2580
+[PRICE]7000000
+[DEV COSTS]14000000
+[TECHLEVEL]6
+
+[ID]227
+[TYP]2
+[NAME EN]Samsung 8GB DDR3
+[NAME GE]Samsung 8GB DDR3
+[NAME TU]Samsung 8GB DDR3
+[NAME ES]Samsung 8GB DDR3
+[NAME PB]Samsung 8GB DDR3
+[NAME JA]Samsung 8GB DDR3
+[NAME CH]Samsung 8GB DDR3
+[NAME CT]Samsung 8GB DDR3
+[NAME IT]Samsung 8GB DDR3
+[NAME FR]Samsung 8GB DDR3
+[NAME PL]Samsung 8GB DDR3
+[NAME UA]Samsung 8GB DDR3
+[NAME CZ]Samsung 8GB DDR3
+[NAME TH]Samsung 8GB DDR3
+[NAME RU]Samsung 8GB DDR3
+[DATE]JAN 2011
+[RES POINTS]2780
+[PRICE]8000000
+[DEV COSTS]17000000
+[TECHLEVEL]7
+
+[ID]228
+[TYP]2
+[NAME EN]Corsair 8GB DDR3
+[NAME GE]Corsair 8GB DDR3
+[NAME TU]Corsair 8GB DDR3
+[NAME ES]Corsair 8GB DDR3
+[NAME PB]Corsair 8GB DDR3
+[NAME JA]Corsair 8GB DDR3
+[NAME CH]Corsair 8GB DDR3
+[NAME CT]Corsair 8GB DDR3
+[NAME IT]Corsair 8GB DDR3
+[NAME FR]Corsair 8GB DDR3
+[NAME PL]Corsair 8GB DDR3
+[NAME UA]Corsair 8GB DDR3
+[NAME CZ]Corsair 8GB DDR3
+[NAME TH]Corsair 8GB DDR3
+[NAME RU]Corsair 8GB DDR3
+[DATE]JAN 2011
+[RES POINTS]2700
+[PRICE]8000000
+[DEV COSTS]17000000
+[TECHLEVEL]7
+
+[ID]229
+[TYP]2
+[NAME EN]Corsair 12GB DDR3
+[NAME GE]Corsair 12GB DDR3
+[NAME TU]Corsair 12GB DDR3
+[NAME ES]Corsair 12GB DDR3
+[NAME PB]Corsair 12GB DDR3
+[NAME JA]Corsair 12GB DDR3
+[NAME CH]Corsair 12GB DDR3
+[NAME CT]Corsair 12GB DDR3
+[NAME IT]Corsair 12GB DDR3
+[NAME FR]Corsair 12GB DDR3
+[NAME PL]Corsair 12GB DDR3
+[NAME UA]Corsair 12GB DDR3
+[NAME CZ]Corsair 12GB DDR3
+[NAME TH]Corsair 12GB DDR3
+[NAME RU]Corsair 12GB DDR3
+[DATE]OCT 2014
+[RES POINTS]3010
+[PRICE]10000000
+[DEV COSTS]20000000
+[TECHLEVEL]7
+
+[ID]230
+[TYP]2
+[NAME EN]Samsung 12GB DDR3
+[NAME GE]Samsung 12GB DDR3
+[NAME TU]Samsung 12GB DDR3
+[NAME ES]Samsung 12GB DDR3
+[NAME PB]Samsung 12GB DDR3
+[NAME JA]Samsung 12GB DDR3
+[NAME CH]Samsung 12GB DDR3
+[NAME CT]Samsung 12GB DDR3
+[NAME IT]Samsung 12GB DDR3
+[NAME FR]Samsung 12GB DDR3
+[NAME PL]Samsung 12GB DDR3
+[NAME UA]Samsung 12GB DDR3
+[NAME CZ]Samsung 12GB DDR3
+[NAME TH]Samsung 12GB DDR3
+[NAME RU]Samsung 12GB DDR3
+[DATE]OCT 2014
+[RES POINTS]3050
+[PRICE]10000000
+[DEV COSTS]20000000
+[TECHLEVEL]7
+
+[ID]231
+[TYP]2
+[NAME EN]Corsair 16GB DDR3
+[NAME GE]Corsair 16GB DDR3
+[NAME TU]Corsair 16GB DDR3
+[NAME ES]Corsair 16GB DDR3
+[NAME PB]Corsair 16GB DDR3
+[NAME JA]Corsair 16GB DDR3
+[NAME CH]Corsair 16GB DDR3
+[NAME CT]Corsair 16GB DDR3
+[NAME IT]Corsair 16GB DDR3
+[NAME FR]Corsair 16GB DDR3
+[NAME PL]Corsair 16GB DDR3
+[NAME UA]Corsair 16GB DDR3
+[NAME CZ]Corsair 16GB DDR3
+[NAME TH]Corsair 16GB DDR3
+[NAME RU]Corsair 16GB DDR3
+[DATE]JUN 2019
+[RES POINTS]3150
+[PRICE]13000000
+[DEV COSTS]26000000
+[TECHLEVEL]8
+
+[ID]232
+[TYP]2
+[NAME EN]Samsung 16GB DDR3
+[NAME GE]Samsung 16GB DDR3
+[NAME TU]Samsung 16GB DDR3
+[NAME ES]Samsung 16GB DDR3
+[NAME PB]Samsung 16GB DDR3
+[NAME JA]Samsung 16GB DDR3
+[NAME CH]Samsung 16GB DDR3
+[NAME CT]Samsung 16GB DDR3
+[NAME IT]Samsung 16GB DDR3
+[NAME FR]Samsung 16GB DDR3
+[NAME PL]Samsung 16GB DDR3
+[NAME UA]Samsung 16GB DDR3
+[NAME CZ]Samsung 16GB DDR3
+[NAME TH]Samsung 16GB DDR3
+[NAME RU]Samsung 16GB DDR3
+[DATE]JUN 2019
+[RES POINTS]3250
+[PRICE]13000000
+[DEV COSTS]26000000
+[TECHLEVEL]8
+
+[ID]233
+[TYP]2
+[NAME EN]Corsair 32GB DDR4
+[NAME GE]Corsair 32GB DDR4
+[NAME TU]Corsair 32GB DDR4
+[NAME ES]Corsair 32GB DDR4
+[NAME PB]Corsair 32GB DDR4
+[NAME JA]Corsair 32GB DDR4
+[NAME CH]Corsair 32GB DDR4
+[NAME CT]Corsair 32GB DDR4
+[NAME IT]Corsair 32GB DDR4
+[NAME FR]Corsair 32GB DDR4
+[NAME PL]Corsair 32GB DDR4
+[NAME UA]Corsair 32GB DDR4
+[NAME CZ]Corsair 32GB DDR4
+[NAME TH]Corsair 32GB DDR4
+[NAME RU]Corsair 32GB DDR4
+[DATE]APR 2024
+[RES POINTS]3300
+[PRICE]15000000
+[DEV COSTS]30000000
+[TECHLEVEL]8
+
+[ID]234
+[TYP]2
+[NAME EN]Samsung 32GB DDR4
+[NAME GE]Samsung 32GB DDR4
+[NAME TU]Samsung 32GB DDR4
+[NAME ES]Samsung 32GB DDR4
+[NAME PB]Samsung 32GB DDR4
+[NAME JA]Samsung 32GB DDR4
+[NAME CH]Samsung 32GB DDR4
+[NAME CT]Samsung 32GB DDR4
+[NAME IT]Samsung 32GB DDR4
+[NAME FR]Samsung 32GB DDR4
+[NAME PL]Samsung 32GB DDR4
+[NAME UA]Samsung 32GB DDR4
+[NAME CZ]Samsung 32GB DDR4
+[NAME TH]Samsung 32GB DDR4
+[NAME RU]Samsung 32GB DDR4
+[DATE]APR 2024
+[RES POINTS]3430
+[PRICE]15000000
+[DEV COSTS]30000000
+[TECHLEVEL]8
+
+[ID]235
+[TYP]2
+[NAME EN]Samsung 64GB DDR5
+[NAME GE]Samsung 64GB DDR5
+[NAME TU]Samsung 64GB DDR5
+[NAME ES]Samsung 64GB DDR5
+[NAME PB]Samsung 64GB DDR5
+[NAME JA]Samsung 64GB DDR5
+[NAME CH]Samsung 64GB DDR5
+[NAME CT]Samsung 64GB DDR5
+[NAME IT]Samsung 64GB DDR5
+[NAME FR]Samsung 64GB DDR5
+[NAME PL]Samsung 64GB DDR5
+[NAME UA]Samsung 64GB DDR5
+[NAME CZ]Samsung 64GB DDR5
+[NAME TH]Samsung 64GB DDR5
+[NAME RU]Samsung 64GB DDR5
+[DATE]NOV 2027
+[RES POINTS]3599
+[PRICE]20000000
+[DEV COSTS]37000000
+[TECHLEVEL]9
+
+[ID]236
+[TYP]2
+[NAME EN]Corsair 64GB DDR5
+[NAME GE]Corsair 64GB DDR5
+[NAME TU]Corsair 64GB DDR5
+[NAME ES]Corsair 64GB DDR5
+[NAME PB]Corsair 64GB DDR5
+[NAME JA]Corsair 64GB DDR5
+[NAME CH]Corsair 64GB DDR5
+[NAME CT]Corsair 64GB DDR5
+[NAME IT]Corsair 64GB DDR5
+[NAME FR]Corsair 64GB DDR5
+[NAME PL]Corsair 64GB DDR5
+[NAME UA]Corsair 64GB DDR5
+[NAME CZ]Corsair 64GB DDR5
+[NAME TH]Corsair 64GB DDR5
+[NAME RU]Corsair 64GB DDR5
+[DATE]NOV 2027
+[RES POINTS]3650
+[PRICE]20000000
+[DEV COSTS]37000000
+[TECHLEVEL]9
+
+[ID]237
+[TYP]2
+[NAME EN]Samsung 128GB DDR6
+[NAME GE]Samsung 128GB DDR6
+[NAME TU]Samsung 128GB DDR6
+[NAME ES]Samsung 128GB DDR6
+[NAME PB]Samsung 128GB DDR6
+[NAME JA]Samsung 128GB DDR6
+[NAME CH]Samsung 128GB DDR6
+[NAME CT]Samsung 128GB DDR6
+[NAME IT]Samsung 128GB DDR6
+[NAME FR]Samsung 128GB DDR6
+[NAME PL]Samsung 128GB DDR6
+[NAME UA]Samsung 128GB DDR6
+[NAME CZ]Samsung 128GB DDR6
+[NAME TH]Samsung 128GB DDR6
+[NAME RU]Samsung 128GB DDR6
+[DATE]JUL 2032
+[RES POINTS]3850
+[PRICE]25000000
+[DEV COSTS]45000000
+[TECHLEVEL]9
+
+[ID]238
+[TYP]2
+[NAME EN]Corsair 128GB DDR6
+[NAME GE]Corsair 128GB DDR6
+[NAME TU]Corsair 128GB DDR6
+[NAME ES]Corsair 128GB DDR6
+[NAME PB]Corsair 128GB DDR6
+[NAME JA]Corsair 128GB DDR6
+[NAME CH]Corsair 128GB DDR6
+[NAME CT]Corsair 128GB DDR6
+[NAME IT]Corsair 128GB DDR6
+[NAME FR]Corsair 128GB DDR6
+[NAME PL]Corsair 128GB DDR6
+[NAME UA]Corsair 128GB DDR6
+[NAME CZ]Corsair 128GB DDR6
+[NAME TH]Corsair 128GB DDR6
+[NAME RU]Corsair 128GB DDR6
+[DATE]JUL 2032
+[RES POINTS]3750
+[PRICE]25000000
+[DEV COSTS]45000000
+[TECHLEVEL]9
 
 [EOF]
