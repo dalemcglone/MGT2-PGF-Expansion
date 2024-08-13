@@ -3913,7 +3913,7 @@
 [END]
 
 [ID]105
-[NAME EN]iOS 4
+[NAME EN]iOS
 [NAME GE]iApple 4
 [NAME TU]iApple 4
 [NAME FR]iApple 4
@@ -3949,7 +3949,7 @@
 [END]
 
 [ID]106
-[NAME EN]iOS 5
+[NAME EN]iOS
 [NAME GE]iApple 5
 [NAME TU]iApple 5
 [NAME FR]iApple 5
