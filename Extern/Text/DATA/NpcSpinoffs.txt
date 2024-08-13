@@ -94,6 +94,9 @@ Return to <NAME>
 Land of <NAME>
 <NAME>: Revenge
 <NAME>: Zero
+<NAME>: Most Wanted
+<NAME>: Underground
+<NAME>: Hot Pursuit
 [END]
 
 [1]
@@ -192,7 +195,13 @@ Universal <NAME>
 [2]
 <NAME>: Modern Warfare
 <NAME>: Black Ops
+<NAME> Stories
 Episodes from <NAME>
+<NAME>: Most Wanted
+<NAME>: Underground
+<NAME>: Hot Pursuit
+<NAME>: The Run
+<NAME>: Carbon
 <NAME>: Abyss
 Absolute <NAME>
 <NAME>: Adventure!
