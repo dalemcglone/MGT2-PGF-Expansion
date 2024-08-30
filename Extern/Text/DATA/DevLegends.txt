@@ -1,0 +1,680 @@
+﻿////					DEVELOPER LEGENDS 					////
+// Tags:                                              		  //
+//                                                    		  //
+// <D> 		= Game Designer                           		  //
+// <P> 		= Programmer   							  		  //
+// <S> 		= Sound Designer     					  		  //
+// <G>		= Graphic Designer                 		  		  //
+// <T>		= Technician       						  		  //
+// <R>		= Researcher									  //
+// <Q>		= Game Tester       					  		  //
+// <O>		= Office Worker       					  		  //
+// <f>		= Female       						  	  		  //
+// <(PERKID)> = Add perk							  		  //
+//				1 = Star Designer							  //
+//				2 = Inexhaustible							  //
+//				3 = Error-Free								  //
+//				4 = Loyal									  //
+//				5 = Talented								  //
+//				6 = Luck									  //
+//				7 = Sporty									  //
+//				8 = Orderly									  //
+//				9 = Nature lover							  //
+//				10 = Medical Miracle						  //
+//				11 = Inuit									  //
+//				12 = Modest									  //
+//				13 = Iron Bladder							  //
+//				14 = Leadership								  //
+//				15 = All-Rounder							  //
+//				16 = Messy									  //
+//				17 = Philanthropist							  //
+//				18 = Greedy									  //
+//				19 = Immunocompromised						  //
+//				20 = Stress-Averse							  //
+//				21 = Unfocused								  //
+//				22 = Untalented								  //
+//				23 = Pixel Artist							  //
+//				24 = Porting Specialist						  //
+//				25 = Imaginative							  //
+//				26 = Engine Expert							  //
+//				27 = Unlucky								  //
+//				28 = Workaholic								  //
+//				29 = Efficient								  //
+// <BODY(ID)> = Body										  //
+// <HAIR(ID)> = Hair (-1 = No hair)							  //
+// <EYES(ID)> = Eyes, Glasses								  //
+// <BEARD(ID)> = Beard (-1 = No beard)						  //
+// <SKINCOL(ID)> = Skin Color								  //
+// <HAIRCOL(ID)> = Hair Color								  //
+// <UPPERCOL(ID)> = Upper Color								  //
+// <BOTTOMCOL(ID)> = Bottom Color							  //	
+// <EXTRACOL(ID)> = Extra Color								  //
+//															  //
+// NOTE: Only one profession can be added per name.			  //
+//                                                    		  //
+////////////////////////////////////////////////////////////////
+//
+//Line 58 = ID 0
+Aaron Garbut <G><1><2><3><4><25>
+Aaron Halon <P><1><2><3>
+Abhishek Arora <P><1><2><3>
+Adam Alcini <G><1><2><3>
+Agnetha Fältskog <P><f><1><2><3>
+Aki Hata <S><1><2><3>
+Akihiko Yoshida <G><1><2><3>
+Akira Toriyama <D>
+Akira Toriyama <P>
+Akira Yamaoka <S><1><2><3>
+Akira Yasuda <D>
+Akira Yasuda <P>
+Al Lowe <D><1><2><3>
+Al Lowe <P><1><2><3>
+Al Lowe <S><1><2><3>
+Alan Love <D><1><2><3>
+Alan Miller <P><1><2><3>
+Alan Silson <D><1><2><3>
+Alessio Mellina <S><1><2><3>
+Alex Ward <D>
+Alex Ward <P>
+Alexander Brandon <S><1><2><3>
+Alfonso John Romero <P><1><2><3>
+Alice Walton <O>
+Allan Alcorn <P><1><2><3>
+Allan Alcorn <T><1><2><3>
+Allister Brimble <S><1><2><3>
+Amancio Ortega <O>
+Amanda Gates <P><1><2><3>
+American McGee <D><1><2><3>
+Amiyah Jade <T><f><1><2><3>
+Amos Hodge <D><1><2><3>
+Amy Hennig <T><f><1><2><3>
+Andreas Rönnberg <S><1><2><3>
+Andres Hdz <D><1><2><3>
+Andy Gavin <P><1><2><3>
+Andy Wilson <P><1><2><3>
+Angelo Badalamenti <P><1><2><3>
+Anna Monik <G><f><1><2><3>
+Anne Nordhaus <D><f><1><2><3>
+Anton Vanko <T><1><2><3>
+Arnab Basu <P><1><2><3>
+Ashton Williams <T><f><1><2><3>
+Aslan Zor <G><1><2><3>
+Atsushi Inaba <D>
+Atsushi Inaba <P>
+Augusto Zabulon <G><1><2><3>
+Austin Wintory <S><1><2><3>
+Beatrix Christian <G><1><2><3>
+Benjamin Bastian <T><1><2><3>
+Benjamin Bloc <T><1><2><3>
+Bernard Arnault <D>
+Bernard Arnault <O>
+Bill Brown <P><1><2><3>
+Bill Budge <P><1><2><3>
+Bill Gates <D>
+Bill Gates <D><1><2><3>
+Bill Gates <O>
+Bill Gates <P>
+Bill Gates <P><1><2><3>
+Bill Gates <S><1><2><3>
+Bill Gates <T>
+Bill Roper <P>
+Bill Roper <D>
+Bill Roper <O>
+Bill Stealey <P><1><2><3>
+Billy Butcher <D><1><2><3>
+Bll Budge <P><1><2><3>
+Bob Rafei <G><1><2><3>
+Bob Whitehead <P><1><2><3>
+Bobby Raffi <G><1><2><3>
+Brad McQuaid <D>
+Brad McQuaid <P>
+Brenda Braithwate <P><f><1><2><3>
+Brenda Romero <D><f><1><2><3>
+Brent McLeod <P><1><2><3>
+Brian Chan <D><1><2><3>
+Brian Fargo <P><1><2><3>
+Brian Green <P><1><2><3>
+Brian Merrill <D><1><2><3>
+Brian Raffel <P><1><2><3>
+Brian Reynolds <D><1><2><3>
+Brian Tuey <P><1><2><3>
+Bruce Artwick <P><1><2><3>
+Bruce Shelley <D><1><2><3>
+Cale Dunlap <P><1><2><3>
+Cameron Dayton <D><1><2><3>
+Carla Lother <T><f><1><2><3>
+Carlito Pradeep <G><1><2><3>
+Carlos Slim Helu <O>
+Casey Hudson <P><1><2><3>
+Chad Grenier <P><1><2><3>
+Changpeng Zhao <O>
+Charles Deenen <P><1><2><3>
+Charles Koch <O>
+Charlie Wen <P><1><2><3>
+Chris Avellone <D>
+Chris Avellone <P>
+Chris Beatrice <G><1><2><3>
+Chris Beatrice <P><1><2><3>
+Chris Crawford <P><1><2><3>
+Chris Huelsbeck <S><1><2><3>
+Chris Lambert <P><1><2><3>
+Chris Roberts <P><1><2><3>
+Chris Sawyer <D><1><2><3>
+Chris Sawyer <P><1><2><3>
+Chris Taylor <D>
+Chris Taylor <P>
+Chris Valentino <S><1><2><3>
+Christian Arndt <G><1><2><3>
+Christophe Héral <P><1><2><3>
+Christopher Sainsbury <T><1><2><3>
+Christopher Stone <G><1><2><3>
+Chuck Peddle <T><1><2><3>
+Cliff Bleszinski <D><1><2><3>
+Cliff Bleszinski <P><1><2><3>
+Clint Bajakian <P><1><2><3>
+Clive Barker <D><1><2><3>
+Clive Barker <P><1><2><3>
+Colin McComb <P><1><2><3>
+Corrinne Yu <D><f><1><2><3>
+Cory Gagel <G><1><2><3>
+Craig Houston <P><1><2><3>
+Cy Coleman <G><1><2><3>
+Dale McGlone <D><1><2><3><4><25>
+Dale McGlone <O><1><2><3>
+Dale McGlone <P><1><2><3><4><25>
+Dan Hess <P><1><2><3>
+Dan Houser <T><1><2><3>
+Daniel Adamitskiy <T><1><2><3>
+Daniel Bernstein <P><1><2><3>
+Daniel Chace <D><1><2><3>
+Daniel Nelson <P><1><2><3>
+Daniele Galante <S><1><2><3>
+Danielle Bunten Berry <D><f><1><2><3>
+Danny Baranowsky <P><1><2><3>
+Darren Korb <S><1><2><3>
+Dave Erickson <D><1><2><3>
+Dave Matthews <P><1><2><3>
+David Bergeaud <P><1><2><3>
+David Braben <P><1><2><3>
+David Crane <P><1><2><3>
+David Fox <P><1><2><3>
+David Grossman <D>
+David Grossman <P>
+David Jaffe <P><1><2><3>
+David Jones <P><1><2><3>
+David Nelson <P><1><2><3>
+David Perry <P><1><2><3>
+David Swenson <S><1><2><3>
+David Taylor <D><1><2><3>
+David Thompson <O>
+David Vonderhaar <P><1><2><3>
+David Wise <S><1><2><3>
+Dayane Chikere <G><f><1><2><3>
+Dean Hall <P><1><2><3>
+Denys Henry <S><1><2><3>
+Dino Dini <P><1><2><3>
+Don Daglow <D><1><2><3>
+Don Daglow <P><1><2><3>
+Dona Bailey <P><1><2><3>
+Doug Church <P><1><2><3>
+Douglas Engelbart <T><1><2><3>
+Ed Boon <D><1><2><3>
+Ed Boon <P><1><2><3>
+Ed Lobb <P><1><2><3>
+Ed Logg <D>
+Ed Logg <P>
+Edmund McMillen <P><1><2><3>
+Edward Pereira <P><1><2><3>
+Eiji Aonuma <D><1><2><3>
+Elon Musk <D><1><2><3><17>
+Elon Musk <O><17>
+Elon Musk <T><1><2><3>
+Ergun Ismayilov <G><1><2><3>
+Eric Barone <P><1><2><3>
+Eric Carter <D><1><2><3>
+Eric Chahl <P><1><2><3>
+Eric Pierce <G><1><2><3>
+Erik Irland <P><1><2><3>
+Erik San Juan <P><1><2><3>
+Erin Robertson <P><1><2><3>
+Eugene Jarvis <P><1><2><3>
+Evonne Hsu <P><f><1><2><3>
+Fabian Del Priore <P><1><2><3>
+Feargus Urquhart <D>
+Feargus Urquhart <P>
+Francoise Bettencourt <O>
+Fred Dibnah  <T><1><2><3>
+Freddie Thorp <D><1><2><3>
+Frédérick Raynal <D><1><2><3>
+Fumito Ueda <D>
+Fumito Ueda <P>
+Gabe Newell <D><1><2><3>
+Garry Schyman <S><1><2><3>
+Gary Monohan <P><1><2><3>
+Gary Newman <P><1><2><3>
+Gary Spinrad <S><1><2><3>
+Gary Winnick <P><1><2><3>
+Gauntam Adani <O>
+Gene Simmons <G><1><2><3>
+Geoff Mackley <G><1><2><3>
+Geoffrey Smith <P><1><2><3>
+Gillman Louie <P><1><2><3>
+Glen Schofield <P><1><2><3>
+Glyn Anderson <P><1><2><3>
+Gokhan Ogut <P><1><2><3>
+Goldie Rush <G><f><1><2><3>
+Graeme Devine <D>
+Graeme Devine <P>
+Grant Kirkhope <S><1><2><3>
+Grayson Cotrell <T><1><2><3>
+Greg Reisdorf <P><1><2><3>
+Gregg Mayles <P><1><2><3>
+Gunpei Yokoi <T><1><2><3>
+Hailey Rio <G><1><2><3><f>
+Hamish Lambert <G><1><2><3>
+Harish Johari <G><1><2><3>
+Harry Gregson-Williams <S><1><2><3>
+Haruki Nakamura <S><f><1><2><3>
+Hasan Aytar <P><1><2><3>
+Henry Gates <D><1><2><3>
+Hideo Kojima <D><1><2><3>
+Hideo Kojima <P><1><2><3>
+Hideo Kojima <T><1><2><3>
+Hidetaka Miyazaki <P><1><2><3>
+Hironobu Sakaguchi <D><1><2><3>
+Hirotaka Komiyama <P><1><2><3>
+Howard Drossin <P><1><2><3>
+Hupogrammos Alex <D><1><2><3>
+Ikka Keranen <P><1><2><3>
+Ilya Kurygin <D><1><2><3>
+Inon Zur <S><1><2><3>
+Isabelle Carlson <T><<1><2><3>f>
+Isamu Ohira <P><1><2><3>
+Ivan Velez <T><1><2><3>
+Jack Grillo <S><1><2><3>
+Jack Kilby <T><1><2><3>
+Jack Lam <P><1><2><3>
+Jacob "Jake" Kaufman <1><2><3><S>
+Jade Raymond <D><f><1><2><3>
+Jake Keating <D><1><2><3>
+Jakub Dvorsky <P><1><2><3>
+James Chung <G><1><2><3>
+James Dooley <P><1><2><3>
+James Livingston <P><1><2><3>
+James Maida <P><1><2><3>
+Jane Jensen <P><f><1><2><3>
+Jane Powell <T><f><1><2><3>
+Jarek Kolar <P><1><2><3>
+Jason Gregory <P><1><2><3>
+Jason Kapalka <D>
+Jason Kapalka <P>
+Jason McCord <D><1><2><3>
+Jason Miller <T><1><2><3>
+Jason Pag <P><1><2><3>
+Jason Rubin <D><1><2><3>
+Jason Schoonover <D><1><2><3>
+Jason West <T><1><2><3>
+Jean Baudlot <P><1><2><3>
+Jeff Bezos <D><18>
+Jeff Bezos <O>
+Jeff Braun <P><1><2><3>
+Jeff Briggs <D><1><2><3>
+Jeff Brown <G><1><2><3>
+Jeff McKee <G><1><2><3>
+Jeff Minter <D><1><2><3>
+Jeff Minter <P><1><2><3>
+Jeff Zaring <D><1><2><3>
+Jens Bergensten <D><1><2><3>
+Jensen Huang <G><1><2><3>
+Jensen Huang <O>
+Jeremy Soule <S><1><2><3>
+Jeronimo Barrera <D>
+Jeronimo Barrera <P>
+Jesper Kyd <S><1><2><3>
+Jess Cliffe <G><f><1><2><3>
+Jessica Arkoff <S><f><1><2><3>
+Jim Hedges<P><1><2><3>
+Jim Levy <P><1><2><3>
+Jim Walton <O>
+Jimmy Zielinski <D><1><2><3>
+Joe Basquez <P><1><2><3>
+Joe Cecot <D><1><2><3>
+Joe Salud <G><1><2><3>
+Joel Emslie <G><1><2><3>
+Joel Soisson <G><1><2><3>
+Johan Andersson <P><1><2><3>
+Johann Christoph Kienlen <S><1><2><3>
+John Adam Presper <T><1><2><3>
+John Bellomy <P><1><2><3>
+John Carmack <P><1><2><3>
+John Mauchly <T><1><2><3>
+John Romero <D><1><2><3>
+John Rymill <T><1><2><3>
+John Smedley <D>
+John Smedley <P>
+John Wilhelm <P><1><2><3>
+Jolyon Myers <D><1><2><3>
+Jon Hare <P><1><2><3>
+Jonathan Blow <P><1><2><3>
+Jonathan David Blow <D><1><2><3>
+Jonathan Simas <D><1><2><3>
+Jonty Barnes <D>
+Jonty Barnes <P>
+Jordan Mechner <D><1><2><3>
+Josef Fares <P><1><2><3>
+Josef Kates <P><1><2><3>
+Joseph Warren Robinett <D><1><2><3>
+Judy Patterson <P><f><1><2><3>
+Julia Koch <O><f>
+Julian Gallop <D>
+Julian Gallop <P>
+Julian Gollop <D><1><2><3>
+Julian Gollop <P><1><2><3>
+Junichi Masuda <P><1><2><3>
+Kai Rosenkranz <S><1><2><3>
+Kazuko Shibuya <G><f><1><2><3>
+Kazumi Totaka <S><1><2><3>
+Kazunori Yamauchi <P><1><2><3>
+Keanu Reeves <D>
+Keanu Reeves <O>
+Keiji Inafune <D><1><2><3>
+Keiki Kobayashi <S><1><2><3>
+Kelton Flinn <P><1><2><3>
+Ken Kutaragi <T><1><2><3>
+Ken Levine <D><1><2><3>
+Ken Levine <P><1><2><3>
+Ken Lobb <P><1><2><3>
+Ken Olsen <T><1><2><3>
+Ken Sugimori <P><1><2><3>
+Kenyo Takida <T><1><2><3>
+Kerri Kenney-Silver <D><1><2><3>
+Kevin Chen <G><1><2><3>
+Kevin Levine <D><1><2><3>
+Kevin Sherwood <S><1><2><3>
+Khan Sweetman <P><1><2><3>
+Kim Swift <P><1><2><3>
+Koichi Ishii <D>
+Koichi Ishii <P>
+Koichi Sugiyama <S><1><2><3>
+Koji Kondo <S><1><2><3>
+Kojima Ayami <G><f><1><2><3>
+Kunihiko Tanaka <G><1><2><3>
+Kurt Harland <P><1><2><3>
+Kyle Williams <G><1><2><3>
+Kärtsy Hatakka <P><1><2><3>
+LMH01 <P>
+Lacey Bronson <T><f><1><2><3>
+Larry Ellison <D>
+Larry Ellison <O>
+Lary Page <O>
+Lauren Stapleford <T><f><1><2><3>
+LeBron James <O>
+Leslie Benzies <T><1><2><3>
+Linda Rosemeier <S><f><1><2><3>
+Lorenzo Vecchio <T><1><2><3>
+Lorne Balfe <P><1><2><3>
+Louis Castle <D>
+Louis Castle <P>
+Louis Lu <P><1><2><3>
+Mac Seelig <P><1><2><3>
+Manfred Trenz <P><1><2><3>
+Manuel Torres Pineda <G><1><2><3>
+Marc Baril <P><1><2><3>
+Marc Blank <P><1><2><3>
+Marc Laidlaw <D><1><2><3>
+Marc Laidlaw <P><1><2><3>
+Marie Auguste <P><f><1><2><3>
+Marinho Victor <P><1><2><3>
+Mark Cerny <D><1><2><3>
+Mark Cerny <P><1><2><3>
+Mark Grigsby <G><1><2><3>
+Mark Lamia <P><1><2><3>
+Mark Zuckerberg <D>
+Mark Zuckerberg <O>
+Markus Persson <D><1><2><3>
+Markus Persson <P><1><2><3>
+Marlon Roudette <P><1><2><3>
+Marshall Robin <P><1><2><3>
+Martin O'Donnell <S><1><2><3>
+Martina Marini <G><f><1><2><3>
+Marty O'Donnell <D>
+Marty O'Donnell <P>
+Masahiro Andoh <P><1><2><3>
+Masahiro Ito <G><1><2><3>
+Masahiro Ito <G><1><2><3>
+Masahiro Sakurai <D><1><2><3>
+Masamichi Amano <P><f><1><2><3>
+Masashi Hamauzu <S><1><2><3>
+Masaya Matsuura <D>
+Masaya Matsuura <P>
+Masayuki Uemura <T><1><2><3>
+Mathew Gregory <P><1><2><3>
+Mathieu Ferland <D>
+Mathieu Ferland <P>
+Matt Nolin <D><1><2><3>
+Matt Pickering <D><1><2><3>
+Matt Uelmen <S><1><2><3>
+Megan Steinberg <G><f><1><2><3>
+Melania Mylioti <G><f><1><2><3>
+Michael Abrash <P><1><2><3>
+Michael Anderson <P><1><2><3>
+Michael Bacon <P><f><1><2><3>
+Michael Bloomberg <O>
+Michael Boon <P><1><2><3>
+Michael Dell <O>
+Michael Gevorkyan <S><1><2><3>
+Michael Kamen <S><1><2><3>
+Michael Longley <S><1><2><3>
+Michael Miller <S><1><2><3>
+Michel Ancel <D><1><2><3>
+Michel Ancel <P><1><2><3>
+Michel Legrand <S><1><2><3>
+Mick Gordon <S><1><2><3>
+Mick Guzauski <S><1><2><3>
+Mike Dailly <D>
+Mike Denny <D>
+Miki Higashino <P>
+Minagawa Hiroshi <G>
+Minako Hamano <S><f>
+Ming-Lun Chou <P>
+Miquel Alomar <S>
+Miroshi Hinagawa <G>
+Mitch Garber <P>
+Mitchell Maglio <D>
+Mohammad Alavi  <D>
+Motoi Sakuraba <S>
+Mukesh Ambani <O>
+Nadia Zighem <P><f>
+Nasir Jebelli <D>
+Nathan McCree <S>
+Neil Druckmann <P>
+Nick Gallop <D>
+Nick Gallop <P>
+Nobuo Uematsu <S>
+Noizie Uto <G><f>
+Nolan Bushnell <T>
+Norihiko Hibino <P>
+Norihiko Hibino <S>
+Noriyuki Asakura <P>
+Nyuk Sia <G>
+Oliver Shannon-Lepper <P>
+Parikshit Saraswat <G>
+Patrice Désilets <P>
+Patrick Lachman <P>
+Paul Sandler <D>
+Paul Stefan <P>
+Pauline Lucca <P>
+Payl Haynes <D>
+Pete McDonnell <S>
+Peter Chan <G>
+Peter Connelly <S>
+Peter Molyneux <D>
+Peter Molyneux <P>
+Phil Fish <P>
+Pia Sundhage <T><f>
+Prajogo Pangestu <O>
+RIchard Garriott <P>
+Rachana Maurya <G><f>
+Radmilo Lukic <G>
+Rafael Kuhnen <D>
+Ralph Baer <P>
+Raymond Lussier <T>
+Rebecca Heineman <D><f>
+Rebecca Heineman <P><f>
+Rebecca Staab <T><f>
+Reiko Ike <G><f>
+Rich Carlson <P>
+Richard Allen Garriott <D>
+Richard Bartle <P>
+Richard Cheek <T>
+Rick James <S>
+Rick Nagamitsu <S>
+Rick Raymer <P>
+Riko Kodima <G><f>
+Rob Fulop <P>
+Rob Hubbard <S>
+Rob Pardo <P>
+Rob Walton <O>
+Robert Faiss <P>
+Robert Noyce <T>
+Roberta Williams <D><f>
+Robin Beanland <S>
+Robin Walker <P>
+Robyn Miller <P><f>
+Rod Abernethy <P>
+Rod Fergusson <D>
+Roger Abrahamsson <D>
+Rom Di Prisco <P>
+Ron Gilbert <D>
+Ron Gilbert <P>
+Ron Goudsmit <P>
+Ronald Wayne <T>
+Rupert Murdoch <O><18>
+Russell Brower <P>
+Russell Kay <D>
+Ryan Meier <D>
+Sam Houser <T>
+Sam Johnston <P>
+Samuel Haus <D>
+Sandeep Shekar <P>
+Sandy Peterson <P>
+Santa Claus <D>
+Sarah Michael <T><f>
+Satoru Iwata <D>
+Satoshi Nakamoto <D>
+Satoshi Tajiri <P>
+Scott Adams <P>
+Scott Cawthon <D>
+Scott Collier <D>
+Scott Eckert <S>
+Scott Orr <P>
+Scott Rogers <P>
+Scott Whitney <T>
+Seamus Blackley <P>
+Seamus Blackley <T>
+Sergey Brin <O>
+Seth Kendall <G>
+Seymour Cray <T>
+Shannon Slaton <S><f>
+Shigenori Soejima <G>
+Shigeru Miyamoto <D>
+Shigeru Miyamoto <P>
+Shinji Mikami <D>
+Shinji Mikami <P>
+Shiraz Shivji <T>
+Shoji Meguro <S>
+Shora Farahani <G><f>
+Sid Meier <D>
+Sid Meier <G>
+Sid Meier <P>
+Simon Cournoyer <T>
+Simona Halep <T><f>
+Soejima Shigenori <G>
+Sonic Mayhem <S>
+Soren Johnson <P>
+Steel Rat <P>
+Stefano Gualeni <P>
+Stephanie Moss <G><f>
+Stephen Barton <P>
+Steve "Scat" Caterson <P>
+Steve Ballmer <O>
+Steve Barcia <P>
+Steve Ditko <G>
+Steve Fawkner <P>
+Steve Feak <P>
+Steve Jobs <D>
+Steve Jobs <P>
+Steve Jobs <T>
+Steve Meretzky <P>
+Steve Raffel <P>
+Steve Rittvo <P>
+Steve Wozniak <T>
+Stieg Hedlund <P>
+Svetlana Tally <G><f>
+Sydney Deane <T><f>
+Takehito Harada <G>
+Takeshi Kitano <P>
+Takeshi Yokouchi <P>
+Takihitu Marada <G>
+Tarn Adams <P>
+Ted Timmins <D>
+Teddy Blass <P><f>
+Terry Smith <P>
+Tetsuya Mizuguchi <P>
+Tetsuya Nomura <D>
+Tetsuya Nomura <P>
+Tim Anderson <P>
+Tim Caine <P>
+Tim Cook <P>
+Tim Schafer <D>
+Tim Sweeney <D>
+Toby Fox <P>
+Toby Fox <S>
+Toby Gard <P>
+Todd Howard <D>
+Todd Howard <P>
+Tokuro Fujiwara <P>
+Tom Barbalet <P>
+Tom Kuhn <P>
+Tommy Tallarico <S>
+Tomonobu Itagaki <D>
+Tomonobu Itagaki <P>
+Torben Ellert <D>
+Toru Iwatani <D>
+Toru Iwatani <P>
+Toshihiro Nishikado <P>
+Tracy Milenko <P><f>
+Trevor Chan <P>
+Trip Hawkins <P>
+Ursula Escher <G><f>
+Ursula Escher <P><f>
+Victoria Prentice <T>
+Victoria Stagni <G><f>
+Viktor Antonov <G>
+Vince Zampella <P>
+Vince Zampella <T>
+Vincent McMahon <O><7><18>
+Vladimir Putin <G>
+Warren Buffet <O><18>
+Warren Evan Spector <D>
+Warren Spector <P>
+Will Ralph Wright <D>
+Will Wright <D>
+William Cho <G>
+William Fine <T>
+William Higinbotham <P>
+William Pugh <P>
+Yasunori Mitsuda <S>
+Yigit Tok <S>
+Yogesh Patel <G>
+Yoji Shinkawa <G>
+Yoko Shimomura <S><f>
+Yoshida Akihiko <G>
+Yoshino Aoki <P>
+Yoshitaka Amano <D>
+Yoshitaka Amano <P>
+Yu Suzuki <D>
+Yuji Horii <D>
+Yuji Naka <D>
+Yuji Naka <P>
+Zahid Jeelani <D>
