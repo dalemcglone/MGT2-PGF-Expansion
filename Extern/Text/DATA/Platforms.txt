@@ -2028,16 +2028,16 @@
 [END]
 
 [ID]54
-[NAME EN]AAcorn Archimedes
-[NAME GE]AAcorn Archimedes
-[NAME TU]AAcorn Archimedes
-[NAME FR]AAcorn Archimedes
-[NAME HU]AAcorn Archimedes
-[NAME JA]AAcorn Archimedes
-[NAME PL]AAcorn Archimedes
-[NAME CH]AAcorn Archimedes
-[NAME UA]AAcorn Archimedes
-[NAME TH]AAcorn Archimedes
+[NAME EN]Acorn Archimedes
+[NAME GE]Acorn Archimedes
+[NAME TU]Acorn Archimedes
+[NAME FR]Acorn Archimedes
+[NAME HU]Acorn Archimedes
+[NAME JA]Acorn Archimedes
+[NAME PL]Acorn Archimedes
+[NAME CH]Acorn Archimedes
+[NAME UA]Acorn Archimedes
+[NAME TH]Acorn Archimedes
 [MANUFACTURER EN]Acorn
 [MANUFACTURER GE]Acorn
 [MANUFACTURER TU]Acorn

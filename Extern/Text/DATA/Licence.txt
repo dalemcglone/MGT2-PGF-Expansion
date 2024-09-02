@@ -1253,7 +1253,7 @@ The Bourne Imperative <BOOK><Y2012>
 The Bourne Retribution <BOOK><Y2013>
 The Bourne Ascendancy <BOOK><Y2014>
 The Bourne Enigma <BOOK><Y2016>
-The Bourne Initiative <BOOK><Y2017
+The Bourne Initiative <BOOK><Y2017>
 The Bourne Nemesis <BOOK><Y2018>
 The Bourne Evolution <BOOK><Y2020>
 The Bourne Treachery <BOOK><Y2021>
@@ -2233,28 +2233,28 @@ Django/Zorro <MOVIE><Y2025>
 Hateful Eight <MOVIE><Y2015>
 Dr. Jekyll and Mr. Hyde <MOVIE><Y2002>
 Dr. Mabuse: The Gambler <MOVIE><Y1977>
-Dragonball <TOY><G+5><G+10>
-Dragonball <BOOK><G+5><G+10>
-Dragon Ball Evolution <MOVIE><Y2009><G+5><G+10>
+Dragonball <TOY><G+10>
+Dragonball <BOOK><G+10>
+Dragon Ball Evolution <MOVIE><Y2009><G+10>
 Dragon Ball Z [Season 1] <MOVIE><Y1989><Q10><G+10>
-Dragon Ball Z [Season 2] <MOVIE><Y1990><Q10><G+5><G+10>
-Dragon Ball Z [Season 3] <MOVIE><Y1991><Q10><G+5><G+10>
-Dragon Ball Z [Season 4] <MOVIE><Y1991><Q10><G+5><G+10>
-Dragon Ball Z [Season 5] <MOVIE><Y1992><Q10><G+5><G+10>
-Dragon Ball Z [Season 6] <MOVIE><Y1993><Q10><G+5><G+10>
-Dragon Ball Z [Season 7] <MOVIE><Y1993><Q10><G+5><G+10>
-Dragon Ball Z [Season 8] <MOVIE><Y1994><Q10><G+5><G+10>
-Dragon Ball Z [Season 9] <MOVIE><Y1995><Q10><G+5><G+10>
-Dragon Ball GT [Season 1] <MOVIE><Y1996><Q10><G+5><G+10>
-Dragon Ball GT [Season 2] <MOVIE><Y1996><Q2><G+5><G+10>
-Dragon Ball GT [Season 3] <MOVIE><Y1997><Q2><G+5><G+10>
-Dragon Ball GT [Season 4] <MOVIE><Y1997><Q2><G+5><G+10>
-Dragon Ball Super [Season 1] <MOVIE><Y2015><G+5><G+10>
-Dragon Ball Super [Season 2] <MOVIE><Y2015><G+5><G+10>
-Dragon Ball Super [Season 3] <MOVIE><Y2016><G+5><G+10>
-Dragon Ball Super [Season 4] <MOVIE><Y2016><G+5><G+10>
-Dragon Ball Super [Season 5] <MOVIE><Y2017><G+5><G+10>
-Dragon: The Bruce Lee Story <MOVIE><G+5><G+10>
+Dragon Ball Z [Season 2] <MOVIE><Y1990><Q10><G+10>
+Dragon Ball Z [Season 3] <MOVIE><Y1991><Q10><G+10>
+Dragon Ball Z [Season 4] <MOVIE><Y1991><Q10><G+10>
+Dragon Ball Z [Season 5] <MOVIE><Y1992><Q10><G+10>
+Dragon Ball Z [Season 6] <MOVIE><Y1993><Q10><G+10>
+Dragon Ball Z [Season 7] <MOVIE><Y1993><Q10><G+10>
+Dragon Ball Z [Season 8] <MOVIE><Y1994><Q10><G+10>
+Dragon Ball Z [Season 9] <MOVIE><Y1995><Q10><G+10>
+Dragon Ball GT [Season 1] <MOVIE><Y1996><Q10><G+10>
+Dragon Ball GT [Season 2] <MOVIE><Y1996><Q2><G+10>
+Dragon Ball GT [Season 3] <MOVIE><Y1997><Q2><G+10>
+Dragon Ball GT [Season 4] <MOVIE><Y1997><Q2><G+10>
+Dragon Ball Super [Season 1] <MOVIE><Y2015><G+10>
+Dragon Ball Super [Season 2] <MOVIE><Y2015><G+10>
+Dragon Ball Super [Season 3] <MOVIE><Y2016><G+10>
+Dragon Ball Super [Season 4] <MOVIE><Y2016><G+10>
+Dragon Ball Super [Season 5] <MOVIE><Y2017><G+10>
+Dragon: The Bruce Lee Story <MOVIE><G+10>
 Dragonheart <MOVIE><Y1996>
 Dragonheart: A New Beginning <MOVIE><Y2000>
 Dragonheart 3: The Sorcerer's Curse <MOVIE><Y2015>
